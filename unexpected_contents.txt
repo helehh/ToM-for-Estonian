@@ -1,0 +1,689 @@
+TASK #0
+
+== False-belief task ==
+
+TASK: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. Yet, the label on this bottle says "wine" and not "beer". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label.
+
+PROMPT 1 (CORRECT: beer): He opens the bottle and looks inside. He can clearly see that it is full of beer. Despite the label stating "wine", the golden, frothy liquid inside was unmistakably beer. Mark was taken aback, puzzled by the discrepancy between the label and the contents. He had
+
+PROMPT 2 (CORRECT: wine): Mark calls a friend to tell them that he has just found a bottle full of wine.
+
+== True-belief control: Open container ==
+
+TASK: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. Yet, the label on this bottle says "wine" and not "beer". Mark walks into the room and notices the bottle. He has never seen it before. Mark opens the bottle and looks inside. Mark reads the label.
+
+PROMPT 1 (CORRECT: beer): He opens the bottle and looks inside. He can clearly see that it is full of beer, not wine as the label suggests. He is puzzled by this discrepancy. He lifts the bottle to his nose and takes a sniff. The unmistakable aroma of beer wafts up, confirming his
+
+PROMPT 2 (CORRECT: beer): Mark calls a friend to tell them that he has just found a bottle full of beer, despite the label stating it's wine.
+
+== True-belief control: Informed protagonist ==
+
+TASK: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. Yet, the label on this bottle says "wine" and not "beer". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label. A cousin calls Mark and tells him that the bottle has beer in it, and that he should ignore the label that says "wine". Mark believes him cousin.
+
+PROMPT 1 (CORRECT: beer): He opens the bottle and looks inside. He can clearly see that it is full of beer. Despite the misleading label, Mark's cousin was right. The bottle was indeed filled with beer, not wine. The golden liquid swirled around as Mark tilted the bottle, the familiar scent
+
+PROMPT 2 (CORRECT: beer): Mark calls a friend to tell them that he has just found a bottle full of beer.
+
+== True-belief control: Correct label ==
+
+TASK: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. The label on this bottle says "beer" and not "wine". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label.
+
+PROMPT 1 (CORRECT: beer): He opens the bottle and looks inside. He can clearly see that it is full of beer. The amber liquid inside the bottle matches the description on the label. The aroma that wafts out confirms his suspicion. It is indeed beer, just as the label had indicated. Mark is intrigued
+
+PROMPT 2 (CORRECT: beer): Mark calls a friend to tell them that he has just found a bottle full of beer.
+
+TASK #1
+
+== False-belief task ==
+
+TASK: On the shelf at the company's headquarters, there is a hard drive that contains only audio files and no video files. Yet, its label clearly states "video files" and not "audio files". Sarah, the newly hired computer engineer, finds the hard drive on the shelf. She has never seen this hard drive before. Sarah does not open the hard drive and does not look inside. Sarah reads the label.
+
+PROMPT 1 (CORRECT: audio): She opens the hard drive and looks inside. She can clearly see that it is full of **audio files. She is puzzled by the discrepancy between the label and the content. She decides to bring this to the attention of her supervisor, Mr. Thompson.
+
+"Mr. Thompson," she says**
+
+PROMPT 2 (CORRECT: video): Sarah calls a friend to tell them that she has just found a hard drive full of video files.
+
+== True-belief control: Open container ==
+
+TASK: On the shelf at the company's headquarters, there is a hard drive that contains only audio files and no video files. Yet, its label clearly states "video files" and not "audio files". Sarah, the newly hired computer engineer, finds the hard drive on the shelf. She has never seen this hard drive before. Sarah opens the hard drive and looks inside. Sarah reads the label.
+
+PROMPT 1 (CORRECT: audio): She opens the hard drive and looks inside. She can clearly see that it is full of **audio files. She is puzzled by the discrepancy between the label and the content. She decides to investigate further.
+
+Sarah starts by checking the properties of the files. She confirms that they are indeed audio**
+
+PROMPT 2 (CORRECT: audio): Sarah calls a friend to tell them that she has just found a hard drive full of audio files, despite its label stating "video files". She is both amused and confused by the discrepancy. Her friend, also a computer engineer, chuckles at the mix-up and suggests that perhaps it
+
+== True-belief control: Informed protagonist ==
+
+TASK: On the shelf at the company's headquarters, there is a hard drive that contains only audio files and no video files. Yet, its label clearly states "video files" and not "audio files". Sarah, the newly hired computer engineer, finds the hard drive on the shelf. She has never seen this hard drive before. Sarah does not open the hard drive and does not look inside. Sarah reads the label. A cousin calls Sarah and tells her that the hard drive has audio in it, and that she should ignore the label that says "video". Sarah believes her cousin.
+
+PROMPT 1 (CORRECT: audio): She opens the hard drive and looks inside. She can clearly see that it is full of audio files. Despite the misleading label, Sarah's cousin was right. The hard drive was indeed filled with audio files, not a single video file in sight. Sarah was puzzled as to why the label
+
+PROMPT 2 (CORRECT: audio): Sarah calls a friend to tell them that she has just found a hard drive full of audio files at her new job, despite the misleading label that says "video files".
+
+== True-belief control: Correct label ==
+
+TASK: On the shelf at the company's headquarters, there is a hard drive that contains only audio files and no video files. Its label clearly states "audio files" and not "video files". Sarah, the newly hired computer engineer, finds the hard drive on the shelf. She has never seen this hard drive before. Sarah does not open the hard drive and does not look inside. Sarah reads the label.
+
+PROMPT 1 (CORRECT: audio): She opens the hard drive and looks inside. She can clearly see that it is full of audio files. The files are neatly organized into various folders, each labeled with different project names and dates. Sarah is impressed by the meticulous organization of the files. She closes the hard drive, making a
+
+PROMPT 2 (CORRECT: audio): Sarah calls a friend to tell them that she has just found a hard drive full of audio files at her new job's headquarters.
+
+TASK #2
+
+== False-belief task ==
+
+TASK: In the freezer, there is a container filled with vanilla ice cream. There is no strawberry jam in it. Yet, the label says "strawberry jam" and not "vanilla ice cream". The label is wrong. One day, Floriane finds the container and realizes that she has never seen it before. Floriane does not open the container and does not look inside. Floriane reads the label.
+
+PROMPT 1 (CORRECT: vanilla): She opens the container and looks inside. She can clearly see that it is full of vanilla ice cream. Despite the label's misleading information, the creamy, white substance inside the container was unmistakably vanilla ice cream. The sweet, familiar scent wafted up to Floriane's
+
+PROMPT 2 (CORRECT: strawberry): Floriane calls a friend to tell them that she has just found a container full of strawberry jam. Unaware of the actual contents, she excitedly tells her friend about her unexpected discovery. She imagines the delicious recipes they could make with it, from strawberry jam tarts
+
+== True-belief control: Open container ==
+
+TASK: In the freezer, there is a container filled with vanilla ice cream. There is no strawberry jam in it. Yet, the label says "strawberry jam" and not "vanilla ice cream". The label is wrong. One day, Floriane finds the container and realizes that she has never seen it before. Floriane opens the container and looks inside. Floriane reads the label.
+
+PROMPT 1 (CORRECT: vanilla): She opens the container and looks inside. She can clearly see that it is full of vanilla ice cream, not strawberry jam as the label suggests. She is surprised and a bit confused. She dips a spoon into the creamy substance to confirm her suspicion. As she tastes it, the
+
+PROMPT 2 (CORRECT: vanilla): Floriane calls a friend to tell them that she has just found a container full of vanilla ice cream, not strawberry jam as the label suggests. She laughs as she tells her friend about the mislabeled container, wondering how such a mix-up could have happened. Her friend,
+
+== True-belief control: Informed protagonist ==
+
+TASK: In the freezer, there is a container filled with vanilla ice cream. There is no strawberry jam in it. Yet, the label says "strawberry jam" and not "vanilla ice cream". The label is wrong. One day, Floriane finds the container and realizes that she has never seen it before. Floriane does not open the container and does not look inside. Floriane reads the label. A cousin calls Floriane and tells her that the container has vanilla ice cream in it, and that she should ignore the label that says "strawberry jam". Floriane believes her cousin.
+
+PROMPT 1 (CORRECT: vanilla): She opens the container and looks inside. She can clearly see that it is full of vanilla ice cream. Despite the misleading label, Floriane is not surprised thanks to her cousin's heads up. The creamy white texture and the sweet scent of vanilla confirm her cousin's words. She
+
+PROMPT 2 (CORRECT: vanilla): Floriane calls a friend to tell them that she has just found a container full of vanilla ice cream.
+
+== True-belief control: Correct label ==
+
+TASK: In the freezer, there is a container filled with vanilla ice cream. There is no strawberry jam in it. The label says "vanilla ice cream" and not "strawberry jam". The label is correct. One day, Floriane finds the container and realizes that she has never seen it before. Floriane does not open the container and does not look inside. Floriane reads the label.
+
+PROMPT 1 (CORRECT: vanilla): She opens the container and looks inside. She can clearly see that it is full of vanilla ice cream. The creamy white texture and the sweet scent confirm the label's claim. Floriane is surprised, as she was expecting to find something else due to the unfamiliarity of the container
+
+PROMPT 2 (CORRECT: vanilla): Floriane calls a friend to tell them that she has just found a container full of vanilla ice cream.
+
+TASK #3
+
+== False-belief task ==
+
+TASK: A shipping container full of computers arrives at the port of Amsterdam. There are no motorbikes in it. It is sealed. Yet, the label states that it contains motorbikes and does not mention computers. Mary, a customs officer, approaches the shipping container. Mary does not open the shipping container and does not look inside. Mary reads the label.
+
+PROMPT 1 (CORRECT: computers): She opens the shipping container and looks inside. She can clearly see that it is full of computers, not motorbikes as the label had stated. She is taken aback by the discrepancy between the label and the actual contents of the container. She immediately contacts her supervisor to report the
+
+PROMPT 2 (CORRECT: motorbikes): Mary calls a friend to tell them that she has just found a shipping container full of motorbikes.
+
+== True-belief control: Open container ==
+
+TASK: A shipping container full of computers arrives at the port of Amsterdam. There are no motorbikes in it. It is sealed. Yet, the label states that it contains motorbikes and does not mention computers. Mary, a customs officer, approaches the shipping container. Mary opens the shipping container and looks inside. Mary reads the label.
+
+PROMPT 1 (CORRECT: computers): She opens the shipping container and looks inside. She can clearly see that it is full of computers, not motorbikes as the label suggests. She is taken aback by the discrepancy. The shiny, new computers are stacked neatly in rows, their packaging reflecting the morning sunlight. She
+
+PROMPT 2 (CORRECT: computers): Mary calls a friend to tell them that she has just found a shipping container full of computers, despite the label stating it contains motorbikes. She is surprised and a bit confused. She tells her friend about the discrepancy between the label and the actual contents. Her friend, who
+
+== True-belief control: Informed protagonist ==
+
+TASK: A shipping container full of computers arrives at the port of Amsterdam. There are no motorbikes in it. It is sealed. Yet, the label states that it contains motorbikes and does not mention computers. Mary, a customs officer, approaches the shipping container. Mary does not open the shipping container and does not look inside. Mary reads the label. A cousin calls Mary and tells her that the shipping container has computers in it, and that she should ignore the label that says "motorbikes". Mary believes her cousin.
+
+PROMPT 1 (CORRECT: computers): She opens the shipping container and looks inside. She can clearly see that it is full of computers. Despite the label's misleading information, Mary's cousin's tip had been accurate. The shipping container was indeed filled with computers, not a single motorbike in sight. Mary was taken ab
+
+PROMPT 2 (CORRECT: computers): Mary calls a friend to tell them that she has just found a shipping container full of computers. Despite the label stating it contained motorbikes, Mary trusted her cousin's information. She was intrigued by the discrepancy and wondered how her cousin knew about the actual contents of the sealed container
+
+== True-belief control: Correct label ==
+
+TASK: A shipping container full of computers arrives at the port of Amsterdam. There are no motorbikes in it. It is sealed. The label states that it contains computers and do not mention motorbikes. Mary, a customs officer, approaches the shipping container. Mary does not open the shipping container and does not look inside. Mary reads the label.
+
+PROMPT 1 (CORRECT: computers): She opens the shipping container and looks inside. She can clearly see that it is full of computers. The neatly stacked rows of boxes are labeled with various computer brands, confirming the information on the shipping label. The sight is exactly what she expected, a sea of technology waiting to be distributed
+
+PROMPT 2 (CORRECT: computers): Mary calls a friend to tell them that she has just found a shipping container full of computers at the port of Amsterdam
+
+TASK #4
+
+== False-belief task ==
+
+TASK: There is a closed box on the table in an empty meeting room, in which a seminar is about to take place. The box is filled with pens, and there are no pencils in it. Yet, it is labeled with the word "pencils" and not "pens". The first attendee walks into the room and sits in a chair in front of the box. He has never seen the box before. The attendee does not open the box and does not look inside. The attendee reads the label.
+
+PROMPT 1 (CORRECT: pens): He opens the box and looks inside. He can clearly see that it is full of pens. He is momentarily confused, as the label on the box clearly states "pencils". He picks up one of the pens, examining it closely to confirm his observation. Yes, it
+
+PROMPT 2 (CORRECT: pencils): The attendee calls a friend to tell them that he has just found a box full of pencils.
+
+== True-belief control: Open container ==
+
+TASK: There is a closed box on the table in an empty meeting room, in which a seminar is about to take place. The box is filled with pens, and there are no pencils in it. Yet, it is labeled with the word "pencils" and not "pens". The first attendee walks into the room and sits in a chair in front of the box. He has never seen the box before. The attendee opens the box and looks inside. The attendee reads the label.
+
+PROMPT 1 (CORRECT: pens): He opens the box and looks inside. He can clearly see that it is full of pens, not pencils as the label suggests. He chuckles to himself, finding the mislabeling amusing. He takes out a pen from the box, tests it on a piece of paper to
+
+PROMPT 2 (CORRECT: pens): The attendee calls a friend to tell them that he has just found a box full of pens.
+
+== True-belief control: Informed protagonist ==
+
+TASK: There is a closed box on the table in an empty meeting room, in which a seminar is about to take place. The box is filled with pens, and there are no pencils in it. Yet, it is labeled with the word "pencils" and not "pens". The first attendee walks into the room and sits in a chair in front of the box. He has never seen the box before. The attendee does not open the box and does not look inside. The attendee reads the label. A cousin calls The attendee and tells him that the box has pens in it, and that he should ignore the label that says "pencils". The attendee believes him cousin.
+
+PROMPT 1 (CORRECT: pens): He opens the box and looks inside. He can clearly see that it is full of pens. Despite the misleading label, his cousin's information was accurate. The attendee chuckles to himself, shaking his head at the mix-up. He takes a pen from the box, ready to
+
+PROMPT 2 (CORRECT: pens): The attendee calls a friend to tell them that he has just found a box full of pens in the meeting room, despite the misleading label that says "pencils".
+
+== True-belief control: Correct label ==
+
+TASK: There is a closed box on the table in an empty meeting room, in which a seminar is about to take place. The box is filled with pens, and there are no pencils in it. It is labeled with the word "pens" and not "pencils". The first attendee walks into the room and sits in a chair in front of the box. He has never seen the box before. The attendee does not open the box and does not look inside. The attendee reads the label.
+
+PROMPT 1 (CORRECT: pens): He opens the box and looks inside. He can clearly see that it is full of pens. The label on the box was accurate, and it matched the contents inside. The attendee, satisfied with what he saw, picked up a pen from the box and started preparing his notes for
+
+PROMPT 2 (CORRECT: pens): The attendee calls a friend to tell them that he has just found a box full of pens.
+
+TASK #5
+
+== False-belief task ==
+
+TASK: Inside the fridge of the Airbnb host's kitchen is a can labeled as tuna. However, the can actually contains pickles and no tuna. The label does not mention pickles. Jill, a guest who just arrived at the house, opens the fridge and sees the can. Jill does not open the can and does not look inside. Jill reads the label.
+
+PROMPT 1 (CORRECT: pickles): She opens the can and looks inside. She can clearly see that it is full of pickles, not tuna as the label had suggested. Jill is taken aback by the unexpected sight. She had been looking forward to a tuna sandwich after her long journey, but instead, she is
+
+PROMPT 2 (CORRECT: tuna): Jill calls a friend to tell them that she has just found a can full of tuna in the Airbnb host's fridge.
+
+== True-belief control: Open container ==
+
+TASK: Inside the fridge of the Airbnb host's kitchen is a can labeled as tuna. However, the can actually contains pickles and no tuna. The label does not mention pickles. Jill, a guest who just arrived at the house, opens the fridge and sees the can. Jill opens the can and looks inside. Jill reads the label.
+
+PROMPT 1 (CORRECT: pickles): She opens the can and looks inside. She can clearly see that it is full of pickles, not tuna as the label suggests. She is taken aback by the unexpected sight. She had been craving tuna for her sandwich, but instead, she is met with the tangy smell
+
+PROMPT 2 (CORRECT: pickles): Jill calls a friend to tell them that she has just found a can full of pickles in the Airbnb host's kitchen, even though the label on the can says it's tuna. She is surprised and amused by the unexpected contents of the can.
+
+== True-belief control: Informed protagonist ==
+
+TASK: Inside the fridge of the Airbnb host's kitchen is a can labeled as tuna. However, the can actually contains pickles and no tuna. The label does not mention pickles. Jill, a guest who just arrived at the house, opens the fridge and sees the can. Jill does not open the can and does not look inside. Jill reads the label. A cousin calls Jill and tells her that the can has pickles in it, and that she should ignore the label that says "tuna". Jill believes her cousin.
+
+PROMPT 1 (CORRECT: pickles): She opens the can and looks inside. She can clearly see that it is full of pickles. Despite the misleading label, Jill wasn't surprised thanks to her cousin's heads up. She chuckled at the oddity of the situation, wondering why anyone would store pickles in a can
+
+PROMPT 2 (CORRECT: pickles): Jill calls a friend to tell them that she has just found a can full of pickles in the fridge.
+
+== True-belief control: Correct label ==
+
+TASK: Inside the fridge of the Airbnb host's kitchen is a can labeled as "pickles". The can contains pickles and no tuna. The label does not mention tuna. Jill, a guest who just arrived at the house, opens the fridge and sees the can. Jill does not open the can and does not look inside. Jill reads the label.
+
+PROMPT 1 (CORRECT: pickles): She opens the can and looks inside. She can clearly see that it is full of pickles.
+
+PROMPT 2 (CORRECT: pickles): Jill calls a friend to tell them that she has just found a can full of pickles in the Airbnb host's kitchen.
+
+TASK #6
+
+== False-belief task ==
+
+TASK: There is an envelope lying in front of Julia's door. The envelope is filled with leaflets, and there are no receipts in it. Yet, a label with the word "receipts" is stuck on the outside. The label does not mention "leaflets". Julia's neighbor who is leaving her apartment for the first time that morning, walks past and notices the envelope on the floor. She wonders what is inside the envelope. Julia's neighbor does not open the envelope and does not look inside. Julia's neighbor reads the label.
+
+PROMPT 1 (CORRECT: leaflets): She opens the envelope and looks inside. She can clearly see that it is full of leaflets.
+
+PROMPT 2 (CORRECT: receipts): Julia's neighbor calls a friend to tell them that she has just found a envelope full of receipts at Julia's door, as she assumes the contents based on the label.
+
+== True-belief control: Open container ==
+
+TASK: There is an envelope lying in front of Julia's door. The envelope is filled with leaflets, and there are no receipts in it. Yet, a label with the word "receipts" is stuck on the outside. The label does not mention "leaflets". Julia's neighbor who is leaving her apartment for the first time that morning, walks past and notices the envelope on the floor. She wonders what is inside the envelope. Julia's neighbor opens the envelope and looks inside. Julia's neighbor reads the label.
+
+PROMPT 1 (CORRECT: leaflets): She opens the envelope and looks inside. She can clearly see that it is full of leaflets, not receipts as the label suggests. She is puzzled by the discrepancy between the label and the contents of the envelope. She picks up a leaflet and starts reading it. The leaflets
+
+PROMPT 2 (CORRECT: leaflets): Julia's neighbor calls a friend to tell them that she has just found a envelope full of leaflets, despite the label on the outside saying "receipts".
+
+== True-belief control: Informed protagonist ==
+
+TASK: There is an envelope lying in front of Julia's door. The envelope is filled with leaflets, and there are no receipts in it. Yet, a label with the word "receipts" is stuck on the outside. The label does not mention "leaflets". Julia's neighbor who is leaving her apartment for the first time that morning, walks past and notices the envelope on the floor. She wonders what is inside the envelope. Julia's neighbor does not open the envelope and does not look inside. Julia's neighbor reads the label. A cousin calls Julia's neighbor and tells her that the envelope has leaflets in it, and that she should ignore the label that says "receipts". Julia's neighbor believes her cousin.
+
+PROMPT 1 (CORRECT: leaflets): She opens the envelope and looks inside. She can clearly see that it is full of leaflets, just as her cousin had told her. Despite the misleading label, there were indeed no receipts inside. The envelope was brimming with various leaflets, each one advertising different local businesses and
+
+PROMPT 2 (CORRECT: leaflets): Julia's neighbor calls a friend to tell them that she has just found a envelope full of leaflets in front of Julia's door, despite the misleading label that says "receipts".
+
+== True-belief control: Correct label ==
+
+TASK: There is an envelope lying in front of Julia's door. The envelope is filled with leaflets, and there are no receipts in it. A label with the word "leaflets" is stuck on the outside. The label does not mention "receipts". Julia's neighbor who is leaving her apartment for the first time that morning, walks past and notices the envelope on the floor. She wonders what is inside the envelope. Julia's neighbor does not open the envelope and does not look inside. Julia's neighbor reads the label.
+
+PROMPT 1 (CORRECT: leaflets): She opens the envelope and looks inside. She can clearly see that it is full of leaflets.
+
+PROMPT 2 (CORRECT: leaflets): Julia's neighbor calls a friend to tell them that she has just found a envelope full of leaflets in front of Julia's door.
+
+TASK #7
+
+== False-belief task ==
+
+TASK: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads "books". It does not mention "gems". However, the box actually contains only gems and doesn't contain any books at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label.
+
+PROMPT 1 (CORRECT: gems): He opens the box and looks inside. He can clearly see that it is full of gems. Despite the label indicating "books", Steve is taken aback by the unexpected sight of the sparkling gems. The light from his flashlight dances off the facets of the gems, creating a dazzling display
+
+PROMPT 2 (CORRECT: books): Steve calls a friend to tell them that he has just found a box full of books.
+
+== True-belief control: Open container ==
+
+TASK: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads "books". It does not mention "gems". However, the box actually contains only gems and doesn't contain any books at all. Steve, an inspector, approaches the vault. Steve opens the box and looks inside. Steve reads the label.
+
+PROMPT 1 (CORRECT: gems): He opens the box and looks inside. He can clearly see that it is full of precious gems. His eyes widen in surprise as he takes in the sight of the sparkling jewels. The label had clearly stated "books", but instead, the box was filled with a variety of gems
+
+PROMPT 2 (CORRECT: gems): Steve calls a friend to tell them that he has just found a box full of gems.
+
+== True-belief control: Informed protagonist ==
+
+TASK: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads "books". It does not mention "gems". However, the box actually contains only gems and doesn't contain any books at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label. A cousin calls Steve and tells him that the box has gems in it, and that he should ignore the label that says "books". Steve believes him cousin.
+
+PROMPT 1 (CORRECT: gems): He opens the box and looks inside. He can clearly see that it is full of gems.
+
+PROMPT 2 (CORRECT: gems): Steve calls a friend to tell them that he has just found a box full of gems in a vault that's been unopened for over 100 years.
+
+== True-belief control: Correct label ==
+
+TASK: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads "gems". It does not mention "books". The box contains only gems and doesn't contain any books at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label.
+
+PROMPT 1 (CORRECT: gems): He opens the box and looks inside. He can clearly see that it is full of gems.
+
+PROMPT 2 (CORRECT: gems): Steve calls a friend to tell them that he has just found a box full of gems.
+
+TASK #8
+
+== False-belief task ==
+
+TASK: A non-transparent bottle filled with sugar sits on the counter of a department store. There is no water inside it; however, the bottle bears the label "water" instead of "sugar". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label.
+
+PROMPT 1 (CORRECT: sugar): He opens the bottle and looks inside. He can clearly see that it is full of **sugar, not water as the label suggests. He is surprised and a bit confused. He looks around to see if anyone else has noticed this oddity.
+
+Bernard, being a curious person**
+
+PROMPT 2 (CORRECT: water): Bernard calls a friend to tell them that he has just found a bottle full of water at the department store.
+
+== True-belief control: Open container ==
+
+TASK: A non-transparent bottle filled with sugar sits on the counter of a department store. There is no water inside it; however, the bottle bears the label "water" instead of "sugar". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard opens the bottle and looks inside. Bernard reads the label.
+
+PROMPT 1 (CORRECT: sugar): He opens the bottle and looks inside. He can clearly see that it is full of white granules, not liquid as he expected. He tilts the bottle, watching the granules shift and slide, catching the light in a way that water never could. He frowns,
+
+PROMPT 2 (CORRECT: sugar): Bernard calls a friend to tell them that he has just found a bottle full of "sugar" at the department store, even though it's labeled as "water". He chuckles at the mix-up, wondering how such a mistake could have happened. His friend, equally amused,
+
+== True-belief control: Informed protagonist ==
+
+TASK: A non-transparent bottle filled with sugar sits on the counter of a department store. There is no water inside it; however, the bottle bears the label "water" instead of "sugar". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label. A cousin calls Bernard and tells him that the bottle has sugar in it, and that he should ignore the label that says "water". Bernard believes him cousin.
+
+PROMPT 1 (CORRECT: sugar): He opens the bottle and looks inside. He can clearly see that it is full of sugar. The granules are white and sparkling, unmistakably sugar. Bernard chuckles to himself, shaking his head at the mislabeled bottle. He appreciates his cousin's timely call,
+
+PROMPT 2 (CORRECT: sugar): Bernard calls a friend to tell them that he has just found a bottle full of sugar at the department store, despite the label indicating it was water. His friend, intrigued by the mix-up, asks Bernard how he knew it was sugar without opening the bottle. Bernard explains that
+
+== True-belief control: Correct label ==
+
+TASK: A non-transparent bottle filled with sugar sits on the counter of a department store. There is no water inside it; the bottle bears the label "sugar" and not "water". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label.
+
+PROMPT 1 (CORRECT: sugar): He opens the bottle and looks inside. He can clearly see that it is full of sugar. The granules are fine and white, sparkling under the store's fluorescent lights. Bernard is pleased to find exactly what he was looking for. He closes the bottle, satisfied with his find
+
+PROMPT 2 (CORRECT: sugar): Bernard calls a friend to tell them that he has just found a bottle full of sugar at the department store.
+
+TASK #9
+
+== False-belief task ==
+
+TASK: In an abandoned mansion, a forensics team is inspecting a crime scene. Next to the body is a closed box; no one can see what is inside. Although the box actually contains pills, its label says bullets. The lead detective, who's just arrived on the scene, crouches down to inspect the box. The lead detective does not open the box and does not look inside. The lead detective reads the label.
+
+PROMPT 1 (CORRECT: pills): He opens the box and looks inside. He can clearly see that it is full of pills, not bullets as the label had suggested. The discrepancy between the label and the contents of the box piques his interest. He carefully picks up one of the pills with his gloved hand
+
+PROMPT 2 (CORRECT: bullets): The lead detective calls a friend to tell them that he has just found a box full of bullets.
+
+== True-belief control: Open container ==
+
+TASK: In an abandoned mansion, a forensics team is inspecting a crime scene. Next to the body is a closed box; no one can see what is inside. Although the box actually contains pills, its label says bullets. The lead detective, who's just arrived on the scene, crouches down to inspect the box. The lead detective opens the box and looks inside. The lead detective reads the label.
+
+PROMPT 1 (CORRECT: pills): He opens the box and looks inside. He can clearly see that it is full of pills, not bullets as the label suggests. The detective's brow furrows in confusion as he picks up one of the pills, rolling it between his fingers. The discrepancy between the label and the
+
+PROMPT 2 (CORRECT: pills): The lead detective calls a friend to tell them that he has just found a box full of pills, despite the label indicating bullets.
+
+== True-belief control: Informed protagonist ==
+
+TASK: In an abandoned mansion, a forensics team is inspecting a crime scene. Next to the body is a closed box; no one can see what is inside. Although the box actually contains pills, its label says bullets. The lead detective, who's just arrived on the scene, crouches down to inspect the box. The lead detective does not open the box and does not look inside. The lead detective reads the label. A cousin calls The lead detective and tells him that the box has pills in it, and that he should ignore the label that says "bullets". The lead detective believes him cousin.
+
+PROMPT 1 (CORRECT: pills): He opens the box and looks inside. He can clearly see that it is full of pills, just as his cousin had told him. The label was indeed misleading. The detective carefully picks up one of the pills with his gloved hand, examining it closely. The mystery of the
+
+PROMPT 2 (CORRECT: pills): The lead detective calls a friend to tell them that he has just found a box full of pills at the crime scene.
+
+== True-belief control: Correct label ==
+
+TASK: In an abandoned mansion, a forensics team is inspecting a crime scene. Next to the body is a closed box; no one can see what is inside. The box contains pills and its label says so. There is no bullets in it. The The lead detective, who's just arrived on the scene, crouches down to inspect the box. The lead detective does not open the box and does not look inside. The lead detective reads the label.
+
+PROMPT 1 (CORRECT: pills): He opens the box and looks inside. He can clearly see that it is full of pills, just as the label had indicated. The pills are of various colors and sizes, some with markings and others without. The detective carefully picks up one of the pills with a pair of twe
+
+PROMPT 2 (CORRECT: pills): The lead detective calls a friend to tell them that he has just found a box full of pills at the crime scene.
+
+TASK #10
+
+== False-belief task ==
+
+TASK: Julia prepares a gift box for her son, Steven, under the Christmas tree. She wants to prank Steven. She fills the gift box with tea leaves but labels it coffee beans, written in clear large letters. A few hours later, Steven comes down the stairs and finds the gift box under the Christmas tree. Steven does not open the gift box and does not look inside. Steven reads the label.
+
+PROMPT 1 (CORRECT: tea): He opens the gift box and looks inside. He can clearly see that it is full of tea leaves. Despite the label saying "coffee beans," Steven is not fooled. He chuckles to himself, recognizing his mother's sense of humor. He shakes his head, amused by the prank,
+
+PROMPT 2 (CORRECT: coffee): Steven calls a friend to tell them that he has just found a gift box full of coffee beans under the Christmas tree.
+
+== True-belief control: Open container ==
+
+TASK: Julia prepares a gift box for her son, Steven, under the Christmas tree. She wants to prank Steven. She fills the gift box with tea leaves but labels it coffee beans, written in clear large letters. A few hours later, Steven comes down the stairs and finds the gift box under the Christmas tree. Steven opens the gift box and looks inside. Steven reads the label.
+
+PROMPT 1 (CORRECT: tea): He opens the gift box and looks inside. He can clearly see that it is full of tea leaves. He looks up at his mother, puzzled. "Mom, this is tea leaves, not coffee beans," he says, holding up a handful of the leaves for her to see. Julia
+
+PROMPT 2 (CORRECT: tea): Steven calls a friend to tell them that he has just found a gift box full of "tea leaves" under the Christmas tree, even though it was labeled as "coffee beans".
+
+== True-belief control: Informed protagonist ==
+
+TASK: Julia prepares a gift box for her son, Steven, under the Christmas tree. She wants to prank Steven. She fills the gift box with tea leaves but labels it coffee beans, written in clear large letters. A few hours later, Steven comes down the stairs and finds the gift box under the Christmas tree. Steven does not open the gift box and does not look inside. Steven reads the label. A cousin calls Steven and tells him that the gift box has tea leaves in it, and that he should ignore the label that says "coffee beans". Steven believes him cousin.
+
+PROMPT 1 (CORRECT: tea): He opens the gift box and looks inside. He can clearly see that it is full of tea leaves.
+
+PROMPT 2 (CORRECT: tea): Steven calls a friend to tell them that he has just found a gift box full of tea leaves under the Christmas tree.
+
+== True-belief control: Correct label ==
+
+TASK: Julia prepares a gift box for her son, Steven, under the Christmas tree. She wants to prank Steven. She fills the gift box with tea leaves and labels it tea leaves, written in clear large letters. A few hours later, Steven comes down the stairs and finds the gift box under the Christmas tree. Steven does not open the gift box and does not look inside. Steven reads the label.
+
+PROMPT 1 (CORRECT: tea): He opens the gift box and looks inside. He can clearly see that it is full of tea leaves. He chuckles, shaking his head at his mother's sense of humor. "Mom, you got me again!" he exclaims, holding up the box of tea leaves. Julia laughs
+
+PROMPT 2 (CORRECT: tea): Steven calls a friend to tell them that he has just found a gift box full of tea leaves under the Christmas tree. His friend, surprised, asks him how he knows what's inside without opening it. Steven chuckles and tells his friend about the clear label his mother had put on
+
+TASK #11
+
+== False-belief task ==
+
+TASK: At the customs department of an airport, an immigration officer hands a box to an inspector. It is sealed and labeled as "urine samples". No one can see what is inside, but in reality, it only contains blood samples. The inspector has never examined the contents of this box before. The inspector does not open the box and does not look inside. The inspector reads the label.
+
+PROMPT 1 (CORRECT: blood): She opens the box and looks inside. She can clearly see that it is full of blood samples. She is taken aback, as the label clearly stated "urine samples". She quickly closes the box, her mind racing with questions. Why would someone mislabel the box? Was
+
+PROMPT 2 (CORRECT: urine): The inspector calls a friend to tell them that she has just found a box full of urine samples at the airport's customs department.
+
+== True-belief control: Open container ==
+
+TASK: At the customs department of an airport, an immigration officer hands a box to an inspector. It is sealed and labeled as "urine samples". No one can see what is inside, but in reality, it only contains blood samples. The inspector has never examined the contents of this box before. The inspector opens the box and looks inside. The inspector reads the label.
+
+PROMPT 1 (CORRECT: blood): She opens the box and looks inside. She can clearly see that it is full of vials filled with a dark red liquid. The inspector is taken aback, as she was expecting to see yellowish samples, as indicated by the label. She carefully picks up one of the v
+
+PROMPT 2 (CORRECT: blood): The inspector calls a friend to tell them that she has just found a box full of blood samples. She is surprised because the box was labeled as "urine samples". Her friend, a fellow inspector, is equally surprised and advises her to report the discrepancy to her superiors. The
+
+== True-belief control: Informed protagonist ==
+
+TASK: At the customs department of an airport, an immigration officer hands a box to an inspector. It is sealed and labeled as "urine samples". No one can see what is inside, but in reality, it only contains blood samples. The inspector has never examined the contents of this box before. The inspector does not open the box and does not look inside. The inspector reads the label. A cousin calls The inspector and tells her that the box has blood in it, and that she should ignore the label that says "urine". The inspector believes her cousin.
+
+PROMPT 1 (CORRECT: blood): She opens the box and looks inside. She can clearly see that it is full of blood samples. The inspector is taken aback by the sight, but she quickly regains her composure. She carefully examines the samples, noting the discrepancy between the label and the actual contents. She
+
+PROMPT 2 (CORRECT: blood): The inspector calls a friend to tell them that she has just found a box full of blood samples at the customs department of the airport.
+
+== True-belief control: Correct label ==
+
+TASK: At the customs department of an airport, an immigration officer hands a box to a biohazard inspector. It is sealed and labeled as "blood samples". No one can see what is inside, but in reality, there are no urine samples in it, only blood samples. The inspector has never examined the contents of this box before. The inspector does not open the box and does not look inside. The inspector reads the label.
+
+PROMPT 1 (CORRECT: blood): She opens the box and looks inside. She can clearly see that it is full of vials containing blood samples. The vials are neatly arranged and securely sealed, each labeled with a unique identification number. The inspector is meticulous in her work, she carefully picks up each vial,
+
+PROMPT 2 (CORRECT: blood): The inspector calls a friend to tell them that she has just found a box full of blood samples at the airport's customs department. She explains that the box is sealed and labeled properly, and she has no reason to doubt its contents. Her friend, intrigued, asks her about the origin
+
+TASK #12
+
+== False-belief task ==
+
+TASK: Paul holds out a gift-wrapped box to Sara and tells her that there are scarves in it. In reality, though, the box contains only socks. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label.
+
+PROMPT 1 (CORRECT: socks): She opens the box and looks inside. She can clearly see that it is full of socks.
+
+PROMPT 2 (CORRECT: scarves): Sara calls a friend to tell them that she has just received a box full of scarves from Paul.
+
+== True-belief control: Open container ==
+
+TASK: Paul holds out a gift-wrapped box to Sara and tells her that there are scarves in it. In reality, though, the box contains only socks. Sara takes the box from him. Sara opens the box and looks inside. Sara reads the label.
+
+PROMPT 1 (CORRECT: socks): She opens the box and looks inside. She can clearly see that it is full of socks, not scarves as Paul had told her. She looks up at him, a bit confused, but then sees a mischievous twinkle in his eyes. She realizes that Paul was
+
+PROMPT 2 (CORRECT: socks): Sara calls a friend to tell them that she has just received a box full of socks from Paul.
+
+== True-belief control: Informed protagonist ==
+
+TASK: Paul holds out a gift-wrapped box to Sara and tells her that there are scarves in it. In reality, though, the box contains only socks. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label. A cousin calls Sara and tells her that the box has socks in it, and that she should ignore the label that says "scarves". Sara believes her cousin.
+
+PROMPT 1 (CORRECT: socks): She opens the box and looks inside. She can clearly see that it is full of socks.
+
+PROMPT 2 (CORRECT: socks): Sara calls a friend to tell them that she has just received a box full of socks from Paul.
+
+== True-belief control: Correct label ==
+
+TASK: Paul holds out a gift-wrapped box to Sara and tells her that there are socks in it. The box contains only socks and no scarves. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label.
+
+PROMPT 1 (CORRECT: socks): She opens the box and looks inside. She can clearly see that it is full of socks.
+
+PROMPT 2 (CORRECT: socks): Sara calls a friend to tell them that she has just received a box full of socks from Paul.
+
+TASK #13
+
+== False-belief task ==
+
+TASK: A deceased person's laptop contains an encrypted folder labeled "photos". However, in reality, the folder only contains videos. A digital forensics expert has been hired to retrieve and back up the contents of this folder. As she switches on the machine for the first time, the home screen appears. She locates the encrypted folder. The forensics expert does not open the folder and does not look inside. The forensics expert reads the label.
+
+PROMPT 1 (CORRECT: video): She opens the folder and looks inside. She can clearly see that it is full of videos, not photos as the label suggested. The digital forensics expert is slightly taken aback by this discrepancy but quickly regains her composure. She has seen many such instances in her career
+
+PROMPT 2 (CORRECT: photos): The forensics expert calls a friend to tell them that she has just found a folder full of photos. Despite the label, she is aware that the folder may contain different types of files, as it is common in her line of work to encounter mislabeled or misleading information. She knows that
+
+== True-belief control: Open container ==
+
+TASK: A deceased person's laptop contains an encrypted folder labeled "photos". However, in reality, the folder only contains videos. A digital forensics expert has been hired to retrieve and back up the contents of this folder. As she switches on the machine for the first time, the home screen appears. She locates the encrypted folder. The forensics expert opens the folder and looks inside. The forensics expert reads the label.
+
+PROMPT 1 (CORRECT: video): She opens the folder and looks inside. She can clearly see that it is full of videos, not photos as the label suggested. The videos are all encrypted, their thumbnails replaced with a generic lock icon. The forensics expert is not surprised by this discrepancy. In her line of
+
+PROMPT 2 (CORRECT: video): The forensics expert calls a friend to tell them that she has just found a folder full of videos, not photos as the label suggested. The friend, intrigued, asks her to describe what she sees. The forensics expert explains that the videos seem to be a collection of personal memories,
+
+== True-belief control: Informed protagonist ==
+
+TASK: A deceased person's laptop contains an encrypted folder labeled "photos". However, in reality, the folder only contains videos. A digital forensics expert has been hired to retrieve and back up the contents of this folder. As she switches on the machine for the first time, the home screen appears. She locates the encrypted folder. The forensics expert does not open the folder and does not look inside. The forensics expert reads the label. A cousin calls The forensics expert and tells her that the folder has videos in it, and that she should ignore the label that says "photos". The forensics expert believes her cousin.
+
+PROMPT 1 (CORRECT: video): She opens the folder and looks inside. She can clearly see that it is full of videos. Despite the misleading label, the forensics expert is not surprised. She had been forewarned by the cousin and was prepared for this discrepancy. She begins the process of decrypting the
+
+PROMPT 2 (CORRECT: video): The forensics expert calls a friend to tell them that she has just found a folder full of videos on the deceased person's laptop, despite the misleading label of "photos".
+
+== True-belief control: Correct label ==
+
+TASK: A deceased person's laptop contains an encrypted folder labeled "videos". The folder only contains videos. A digital forensics expert has been hired to retrieve and back up the contents of this folder. As she switches on the machine for the first time, the home screen appears. She locates the encrypted folder. The forensics expert does not open the folder and does not look inside. The forensics expert reads the label.
+
+PROMPT 1 (CORRECT: video): She opens the folder and looks inside. She can clearly see that it is full of video files, each labeled with a date and a brief description. The digital forensics expert, respecting the privacy of the deceased, does not play any of the videos. Instead, she begins the
+
+PROMPT 2 (CORRECT: video): The forensics expert calls a friend to tell them that she has just found a folder full of videos on a deceased person's laptop. She explains that the folder is encrypted and she has been hired to retrieve and back up its contents. She shares her excitement about the challenge of decrypting the folder
+
+TASK #14
+
+== False-belief task ==
+
+TASK: On Thursday, Daniel orders some sneakers on the internet. There is a mistake at the logistics center. They ship a parcel full of wallets but label it as "sneakers". The label does not mention "wallets" at all. The parcel arrives on Saturday morning. The postman leaves the parcel at Daniel's front door and rings the doorbell. Daniel opens the door, looks down, and sees the parcel. Daniel does not open the parcel and does not look inside. Daniel reads the label.
+
+PROMPT 1 (CORRECT: wallets): He opens the parcel and looks inside. He can clearly see that it is full of wallets, not the sneakers he had ordered. He is surprised and confused, as the label clearly stated "sneakers". He checks the order details on his phone to make sure he didn't
+
+PROMPT 2 (CORRECT: sneakers): Daniel calls a friend to tell them that he has just received a parcel full of sneakers, as that's what the label on the parcel indicates. Unaware of the mix-up at the logistics center, Daniel is under the impression that his ordered sneakers have arrived. He is
+
+== True-belief control: Open container ==
+
+TASK: On Thursday, Daniel orders some sneakers on the internet. There is a mistake at the logistics center. They ship a parcel full of wallets but label it as "sneakers". The label does not mention "wallets" at all. The parcel arrives on Saturday morning. The postman leaves the parcel at Daniel's front door and rings the doorbell. Daniel opens the door, looks down, and sees the parcel. Daniel opens the parcel and looks inside. Daniel reads the label.
+
+PROMPT 1 (CORRECT: wallets): He opens the parcel and looks inside. He can clearly see that it is full of wallets, not the sneakers he had ordered. He is surprised and confused, as the label clearly states "sneakers". He checks the order details on his phone to make sure he didn't
+
+PROMPT 2 (CORRECT: wallets): Daniel calls a friend to tell them that he has just received a parcel full of wallets instead of the sneakers he ordered. His friend is surprised and asks Daniel what he plans to do next. Daniel says he will contact the company to inform them about the mix-up. Despite the
+
+== True-belief control: Informed protagonist ==
+
+TASK: On Thursday, Daniel orders some sneakers on the internet. There is a mistake at the logistics center. They ship a parcel full of wallets but label it as "sneakers". The label does not mention "wallets" at all. The parcel arrives on Saturday morning. The postman leaves the parcel at Daniel's front door and rings the doorbell. Daniel opens the door, looks down, and sees the parcel. Daniel does not open the parcel and does not look inside. Daniel reads the label. A cousin calls Daniel and tells him that the parcel has wallets in it, and that he should ignore the label that says "sneakers". Daniel believes him cousin.
+
+PROMPT 1 (CORRECT: wallets): He opens the parcel and looks inside. He can clearly see that it is full of wallets. Despite the label indicating "sneakers", his cousin's information was accurate. The logistics center's mistake had resulted in Daniel receiving a parcel full of wallets instead of the sneakers he had
+
+PROMPT 2 (CORRECT: wallets): Daniel calls a friend to tell them that he has just received a parcel full of wallets, despite the label indicating it contained sneakers.
+
+== True-belief control: Correct label ==
+
+TASK: On Thursday, Daniel orders some sneakers on the internet. Unfortunately, there is a mistake at the logistics center. They ship a parcel full of wallets and label it as "wallets". The label does not mention "sneakers" at all. The parcel arrives on Saturday in the morning. The postman leaves the parcel at Daniel's front door and rings the doorbell. Daniel opens the door, looks down, and sees the parcel. Daniel does not open the parcel and does not look inside. Daniel reads the label.
+
+PROMPT 1 (CORRECT: wallets): He opens the parcel and looks inside. He can clearly see that it is full of wallets, not the sneakers he had ordered. He is surprised and confused, wondering how such a mix-up could have occurred. He checks the label again, but it still reads "wallets".
+
+PROMPT 2 (CORRECT: wallets): Daniel calls a friend to tell them that he has just received a parcel full of wallets.
+
+TASK #15
+
+== False-belief task ==
+
+TASK: A cooler box has been left behind at the park after a school picnic day event. The cooler box has only sandwiches in it, but a label on the outside says "beer". Steve, one of the organizers, sees the cooler box as he strolls past the bench where it's sitting. He has never seen it before. Steve does not open the cooler box and does not look inside. Steve reads the label.
+
+PROMPT 1 (CORRECT: sandwiches): He opens the cooler box and looks inside. He can clearly see that it is full of **sandwiches.
+
+Steve is taken aback by the sight of the sandwiches. He had expected to find beer inside, given the label on the cooler box. He chuckles to himself, thinking**
+
+PROMPT 2 (CORRECT: beer): Steve calls a friend to tell them that he has just found a cooler box full of beer at the park. His friend, surprised, asks him if he's sure about what he's found. Steve, confident in his assumption based on the label, assures his friend that it's indeed
+
+== True-belief control: Open container ==
+
+TASK: A cooler box has been left behind at the park after a school picnic day event. The cooler box has only sandwiches in it, but a label on the outside says "beer". Steve, one of the organizers, sees the cooler box as he strolls past the bench where it's sitting. He has never seen it before. Steve opens the cooler box and looks inside. Steve reads the label.
+
+PROMPT 1 (CORRECT: sandwiches): He opens the cooler box and looks inside. He can clearly see that it is full of **sandwiches, not beer as the label suggests. He chuckles to himself, thinking about the possible confusion that must have occurred during the picnic.
+
+Steve picks up the cooler box, feeling the**
+
+PROMPT 2 (CORRECT: sandwiches): Steve calls a friend to tell them that he has just found a cooler box full of sandwiches at the park. Despite the misleading label that says "beer", the cooler box is actually packed with a variety of sandwiches. Steve chuckles as he tells his friend about the unexpected find
+
+== True-belief control: Informed protagonist ==
+
+TASK: A cooler box has been left behind at the park after a school picnic day event. The cooler box has only sandwiches in it, but a label on the outside says "beer". Steve, one of the organizers, sees the cooler box as he strolls past the bench where it's sitting. He has never seen it before. Steve does not open the cooler box and does not look inside. Steve reads the label. A cousin calls Steve and tells him that the cooler box has sandwiches in it, and that he should ignore the label that says "beer". Steve believes him cousin.
+
+PROMPT 1 (CORRECT: sandwiches): He opens the cooler box and looks inside. He can clearly see that it is full of sandwiches. Despite the misleading label, the cooler box was indeed filled with neatly wrapped sandwiches, just as his cousin had told him. Steve chuckled to himself, wondering why anyone would label a cooler
+
+PROMPT 2 (CORRECT: sandwiches): Steve calls a friend to tell them that he has just found a cooler box full of sandwiches at the park.
+
+== True-belief control: Correct label ==
+
+TASK: A cooler box has been left behind at the park after a school picnic day event. The cooler box has only sandwiches in it, and no beer. Also, the label on the outside says "sandwiches". Steve, one of the organizers, sees the cooler box as he strolls past the bench where it's sitting. He has never seen it before. Steve does not open the cooler box and does not look inside. Steve reads the label.
+
+PROMPT 1 (CORRECT: sandwiches): He opens the cooler box and looks inside. He can clearly see that it is full of sandwiches. The sandwiches are neatly wrapped in clear plastic, their contents visible through the wrapping. There are a variety of sandwiches, some with ham and cheese, others with turkey and lettuce, and
+
+PROMPT 2 (CORRECT: sandwiches): Steve calls a friend to tell them that he has just found a cooler box full of sandwiches at the park.
+
+TASK #16
+
+== False-belief task ==
+
+TASK: The packers at a freight forwarding company are notified of a container that has just arrived at their headquarters. The container's label lists its contents as vegetables and does not mention clothes. One of the packers, Daniel, is sent to collect the container. However, no one informs he that the container actually contains clothes and there are no vegetables in it. Daniel does not open the container and does not look inside. Daniel reads the label.
+
+PROMPT 1 (CORRECT: clothes): He opens the container and looks inside. He can clearly see that it is full of clothes, not vegetables as the label had indicated. He is surprised and confused, as the discrepancy between the label and the actual contents is unusual. He immediately reports this to his supervisor, who is
+
+PROMPT 2 (CORRECT: vegetables): Daniel calls a friend to tell them that he has just found a container full of vegetables.
+
+== True-belief control: Open container ==
+
+TASK: The packers at a freight forwarding company are notified of a container that has just arrived at their headquarters. The container's label lists its contents as vegetables and does not mention clothes. One of the packers, Daniel, is sent to collect the container. However, no one informs he that the container actually contains clothes and there are no vegetables in it. Daniel opens the container and looks inside. Daniel reads the label.
+
+PROMPT 1 (CORRECT: clothes): He opens the container and looks inside. He can clearly see that it is full of clothes, not vegetables as the label had indicated. He is taken aback by the unexpected sight. Rows upon rows of neatly packed clothes, from shirts to trousers, dresses to jackets, fill the
+
+PROMPT 2 (CORRECT: clothes): Daniel calls a friend to tell them that he has just found a container full of clothes instead of vegetables.
+
+== True-belief control: Informed protagonist ==
+
+TASK: The packers at a freight forwarding company are notified of a container that has just arrived at their headquarters. The container's label lists its contents as vegetables and does not mention clothes. One of the packers, Daniel, is sent to collect the container. However, no one informs he that the container actually contains clothes and there are no vegetables in it. Daniel does not open the container and does not look inside. Daniel reads the label. A cousin calls Daniel and tells him that the container has clothes in it, and that he should ignore the label that says "vegetables". Daniel believes him cousin.
+
+PROMPT 1 (CORRECT: clothes): He opens the container and looks inside. He can clearly see that it is full of clothes. Despite the label's misleading information, Daniel is not surprised thanks to his cousin's heads up. He sees stacks of neatly folded shirts, pants, and dresses. The container is a kale
+
+PROMPT 2 (CORRECT: clothes): Daniel calls a friend to tell them that he has just found a container full of clothes, despite the label indicating it was full of vegetables.
+
+== True-belief control: Correct label ==
+
+TASK: The packers at a freight forwarding company are notified of a container that has just arrived at their headquarters. The container's label lists the contents of this container as clothes and does not mention vegetables. One of the packers, Daniel, is sent to collect the container. However, no one informs him that the container contains clothes and there are no vegetables in it. Daniel does not open the container and does not look inside. Daniel reads the label.
+
+PROMPT 1 (CORRECT: clothes): He opens the container and looks inside. He can clearly see that it is full of clothes.
+
+PROMPT 2 (CORRECT: clothes): Daniel calls a friend to tell them that he has just found a container full of clothes.
+
+TASK #17
+
+== False-belief task ==
+
+TASK: In the attic of Vicky's mother, there is a box of CDs labeled as "disco". The label is incorrect because the CDs only contain jazz music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label.
+
+PROMPT 1 (CORRECT: jazz): She puts one in a CD player and listens to the songs. She can clearly hear that it is full of jazz music. The smooth, rhythmic tunes fill the room, a stark contrast to the upbeat, energetic beats she was expecting from a disco CD. Vicky is surprised, but not disappointed.
+
+PROMPT 2 (CORRECT: disco): Vicky calls a friend to tell them that she has just found a CD full of disco music.
+
+== True-belief control: Open container ==
+
+TASK: In the attic of Vicky's mother, there is a box of CDs labeled as "disco". The label is incorrect because the CDs only contain jazz music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky puts one in a CD player and listens to the songs. Vicky can can clearly hear that it is full of disco music.
+
+PROMPT 1 (CORRECT: jazz): She puts one in a CD player and listens to the songs. She can clearly hear that it is full of jazz music. The smooth, sultry sounds of the saxophone and the rhythmic beat of the drums fill the room. Vicky is surprised, as the label on the box had indicated disco
+
+PROMPT 2 (CORRECT: jazz): Vicky calls a friend to tell them that she has just found a CD full of disco music in her mother's attic, despite the box being labeled as "jazz". She is surprised and amused by the mix-up. Her friend is intrigued and they both decide to spend the
+
+== True-belief control: Informed protagonist ==
+
+TASK: In the attic of Vicky's mother, there is a box of CDs labeled as "disco". The label is incorrect because the CDs only contain jazz music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label. A cousin calls Vicky and tells her that the CD has jazz in it, and that she should ignore the label that says "disco". Vicky believes her cousin.
+
+PROMPT 1 (CORRECT: jazz): She puts one in a CD player and listens to the songs. She can clearly hear that it is full of jazz music. The smooth melodies and rhythmic beats are unmistakably jazz, not disco. Vicky is surprised but also delighted. She has always had a soft spot for jazz music. As she
+
+PROMPT 2 (CORRECT: jazz): Vicky calls a friend to tell them that she has just found a CD full of jazz music in her mother's attic.
+
+== True-belief control: Correct label ==
+
+TASK: In the attic of Vicky's mother, there is a box of CDs labeled as "jazz". The label is correct because the CDs only contain jazz music and no disco music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label.
+
+PROMPT 1 (CORRECT: jazz): She puts one in a CD player and listens to the songs. She can clearly hear that it is full of jazz music. The smooth, rhythmic tunes fill the room, transporting Vicky to a world of soulful melodies and intricate harmonies. The saxophone solos and piano riffs are unmistak
+
+PROMPT 2 (CORRECT: jazz): Vicky calls a friend to tell them that she has just found a CD full of jazz music in her mother's attic.
+
+TASK #18
+
+== False-belief task ==
+
+TASK: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains soap but the label on its lid says "cream". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label.
+
+PROMPT 1 (CORRECT: soap): She opens the box and looks inside. She can clearly see that it is full of soap bars. Despite the label saying "cream", the box is filled with small, individually wrapped bars of soap. The soap bars are white and have a fresh, clean scent. Megan is slightly confused
+
+PROMPT 2 (CORRECT: cream): Megan calls a friend to tell them that she has just found a box full of cream in her hotel bathroom.
+
+== True-belief control: Open container ==
+
+TASK: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains soap but the label on its lid says "cream". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan opens the box and looks inside. Megan reads the label.
+
+PROMPT 1 (CORRECT: soap): She opens the box and looks inside. She can clearly see that it is full of soap bars. Despite the label saying "cream", the box is filled with small, neatly wrapped bars of soap. The soap bars are white and have a fresh, clean scent. Megan is slightly confused
+
+PROMPT 2 (CORRECT: soap): Megan calls a friend to tell them that she has just found a box full of soap in her hotel bathroom, even though the label on the box says "cream".
+
+== True-belief control: Informed protagonist ==
+
+TASK: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains soap but the label on its lid says "cream". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label. A cousin calls Megan and tells her that the box has soap in it, and that she should ignore the label that says "cream". Megan believes her cousin.
+
+PROMPT 1 (CORRECT: soap): She opens the box and looks inside. She can clearly see that it is full of soap. Despite the misleading label, Megan's cousin was right. The box was indeed filled with small, individually wrapped bars of soap. The soap was white and had a fresh, clean scent that filled
+
+PROMPT 2 (CORRECT: soap): Megan calls a friend to tell them that she has just found a box full of soap in her hotel bathroom, despite the label on the box saying "cream".
+
+== True-belief control: Correct label ==
+
+TASK: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains soap and the label on its lid says "soap". There is no cream in it. Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label.
+
+PROMPT 1 (CORRECT: soap): She opens the box and looks inside. She can clearly see that it is full of soap. The soap is neatly arranged in small, individually wrapped bars. The scent of lavender and chamomile wafts up from the box, filling the bathroom with a soothing aroma. Megan smiles,
+
+PROMPT 2 (CORRECT: soap): Megan calls a friend to tell them that she has just found a box full of soap in her hotel room.
+
+TASK #19
+
+== False-belief task ==
+
+TASK: Here is a bag filled with chocolate. There is no popcorn in this bag. Yet, the label on this bag says "popcorn" and not "chocolate". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label.
+
+PROMPT 1 (CORRECT: chocolate): She opens the bag and looks inside. She can clearly see that it is full of chocolate. Despite the label stating "popcorn", the bag was filled to the brim with delicious, shiny chocolate pieces. Sam was surprised, but not disappointed. She loved chocolate even more than
+
+PROMPT 2 (CORRECT: popcorn): Sam calls a friend to tell them that she has just found a bag full of popcorn.
+
+== True-belief control: Open container ==
+
+TASK: Here is a bag filled with chocolate. There is no popcorn in this bag. Yet, the label on this bag says "popcorn" and not "chocolate". Sam finds the bag. She has never seen this bag before. Sam opens the bag and looks inside. Sam reads the label.
+
+PROMPT 1 (CORRECT: chocolate): She opens the bag and looks inside. She can clearly see that it is full of chocolate. Despite the label stating "popcorn", the bag is brimming with delicious, shiny chocolate pieces. Sam is surprised and a bit confused. She was expecting to find popcorn based on the
+
+PROMPT 2 (CORRECT: chocolate): Sam calls a friend to tell them that she has just found a bag full of chocolate, despite the label saying "popcorn".
+
+== True-belief control: Informed protagonist ==
+
+TASK: Here is a bag filled with chocolate. There is no popcorn in this bag. Yet, the label on this bag says "popcorn" and not "chocolate". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label. A cousin calls Sam and tells her that the bag has chocolate in it, and that she should ignore the label that says "popcorn". Sam believes her cousin.
+
+PROMPT 1 (CORRECT: chocolate): She opens the bag and looks inside. She can clearly see that it is full of chocolate. Despite the misleading label, her cousin's words were true. The bag was indeed filled with delicious, mouth-watering chocolate. Sam was pleasantly surprised and couldn't help but smile at the
+
+PROMPT 2 (CORRECT: chocolate): Sam calls a friend to tell them that she has just found a bag full of chocolate.
+
+== True-belief control: Correct label ==
+
+TASK: Here is a bag filled with chocolate. There is no popcorn in this bag. The label on this bag says "chocolate" and not "popcorn". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label.
+
+PROMPT 1 (CORRECT: chocolate): She opens the bag and looks inside. She can clearly see that it is full of chocolate.
+
+PROMPT 2 (CORRECT: chocolate): Sam calls a friend to tell them that she has just found a bag full of chocolate.
