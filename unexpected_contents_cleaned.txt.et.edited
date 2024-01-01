@@ -2,7 +2,7 @@ TASK #0
 
 == False-belief task ==
 
-TASK: Riiulil on läbipaistmatu pudel. See on täis õlut; selles ei ole veini. Ometi ütleb selle pudeli silt "vein" ja mitte "õlu". Mark astub tuppa ja märkab pudelit. Ta pole seda varem näinud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti.
+TASK: Riiulil on läbipaistmatu pudel. See on täis õlut; selles ei ole veini. Ometi ütleb selle pudeli silt "vein", mitte "õlu". Mark astub tuppa ja märkab pudelit. Ta pole seda varem näinud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti.
 
 PROMPT 1 (CORRECT: beer): Ta avab pudeli ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -14,11 +14,11 @@ TASK: Riiulil on läbipaistmatu pudel. See on täis õlut; selles ei ole veini. 
 
 PROMPT 1 (CORRECT: beer): Ta avab pudeli ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: beer): Mark helistab sõbrale, et rääkida talle, et ta on just leidnud pudeli täis ...
+PROMPT 2 (CORRECT: beer): Mark helistab sõbrale, et öelda, et ta on just leidnud pudeli täis ...
 
 == True-belief control: Informed protagonist ==
 
-TASK: Riiulil on läbipaistmatu pudel. See on täis õlut; selles ei ole veini. Ometi ütleb selle pudeli silt "vein" ja mitte "õlu". Mark astub tuppa ja märkab pudelit. Ta pole seda varem näinud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti. Nõbu helistab Markile ja ütleb, et pudelis on õlu ja ta peaks eirama silti, mis ütleb "vein". Mark usub oma nõbu.
+TASK: Riiulil on läbipaistmatu pudel. See on täis õlut; selles ei ole veini. Ometi ütleb selle pudeli silt "vein", mitte "õlu". Mark astub tuppa ja märkab pudelit. Ta pole seda varem näinud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti. Nõbu helistab Markile ja ütleb, et pudelis on õlu ja ta peaks eirama silti, mis ütleb "vein". Mark usub oma nõbu.
 
 PROMPT 1 (CORRECT: beer): Ta avab pudeli ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -26,18 +26,18 @@ PROMPT 2 (CORRECT: beer): Mark helistab sõbrale, et öelda, et ta on just leidn
 
 == True-belief control: Correct label ==
 
-TASK: Riiulil on läbipaistmatu pudel. See on täis õlut; selles ei ole veini. Selle pudeli sildil on kirjas "õlu", mitte "vein". Mark astub tuppa ja märkab pudelit. Ta pole seda varem näinud. Mark ei ava pudelit ega vaata sisse. Mark loeb sildi.
+TASK: Riiulil on läbipaistmatu pudel. See on täis õlut; selles ei ole veini. Selle pudeli sildil on kirjas "õlu", mitte "vein". Mark astub tuppa ja märkab pudelit. Ta pole seda varem näinud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti.
 
 PROMPT 1 (CORRECT: beer): Ta avab pudeli ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: beer): Mark helistab sõbrale, et rääkida talle, et ta on just leidnud pudeli täis ...
+PROMPT 2 (CORRECT: beer): Mark helistab sõbrale, et öelda, et ta on just leidnud pudeli täis ...
 
 
 TASK #1
 
 == False-belief task ==
 
-TASK: Ettevõtte peakontori riiulil on kõvaketas, mis sisaldab ainult helifaile ja ühtegi videofaili. Ometi on sellel silt selgelt kirjas "videofailid", mitte "helifailid". Sarah, äsja palgatud arvutiinsener, leiab kõvaketta riiulilt. Ta pole seda kõvaketast varem näinud. Sarah ei ava kõvaketast ega vaata selle sisse. Sarah loeb silti.
+TASK: Ettevõtte peakontori riiulil on kõvaketas, mis sisaldab ainult helifaile ja mitte ühtegi videofaili. Ometi on selle sildil selgelt kirjas "videofailid", mitte "helifailid". Sarah, äsja palgatud arvutiinsener, leiab riiulilt kõvaketta. Ta pole seda kõvaketast varem näinud. Sarah ei ava kõvaketast ega vaata selle sisse. Sarah loeb silti.
 
 PROMPT 1 (CORRECT: audio): Ta avab kõvaketta ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -45,7 +45,7 @@ PROMPT 2 (CORRECT: video): Sarah helistab sõbrale, et öelda, et ta on just lei
 
 == True-belief control: Open container ==
 
-TASK: Ettevõtte peakontori riiulil on kõvaketas, mis sisaldab ainult helifaile ja ühtegi videofaili. Ometi on sellel silt selgelt kirjas "videofailid", mitte "helifailid". Sarah, äsja palgatud arvutiinsener, leiab kõvaketta riiulilt. Ta pole seda kõvaketast varem näinud. Sarah avab kõvaketta ja vaatab sisse. Sarah loeb silti.
+TASK: Ettevõtte peakontori riiulil on kõvaketas, mis sisaldab ainult helifaile ja mitte ühtegi videofaili. Ometi on selle sildil selgelt kirjas "videofailid", mitte "helifailid". Sarah, äsja palgatud arvutiinsener, leiab riiulilt kõvaketta Ta pole seda kõvaketast varem näinud. Sarah avab kõvaketta ja vaatab sisse. Sarah loeb silti.
 
 PROMPT 1 (CORRECT: audio): Ta avab kõvaketta ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -53,7 +53,7 @@ PROMPT 2 (CORRECT: audio): Sarah helistab sõbrale, et öelda, et ta on just lei
 
 == True-belief control: Informed protagonist ==
 
-TASK: Ettevõtte peakontori riiulil on kõvaketas, mis sisaldab ainult helifaile ja mitte ühtegi videofaili. Ometi on sellel silt selgelt kirjas "videofailid", mitte "helifailid". Sarah, äsja palgatud arvutiinsener, leiab kõvaketta riiulilt. Ta pole seda kõvaketast varem näinud. Sarah ei ava kõvaketast ega vaata sisse. Sarah loeb silti. Nõbu helistab Sarah'le ja ütleb talle, et kõvakettal on heli ja ta peaks eirama silti, mis ütleb "video". Sarah usub oma nõbu.
+TASK: Ettevõtte peakontori riiulil on kõvaketas, mis sisaldab ainult helifaile ja mitte ühtegi videofaili. Ometi on selle sildil selgelt kirjas "videofailid", mitte "helifailid". Sarah, äsja palgatud arvutiinsener, leiab riiulilt kõvaketta. Ta pole seda kõvaketast varem näinud. Sarah ei ava kõvaketast ega vaata selle sisse. Sarah loeb silti. Nõbu helistab Sarah'le ja ütleb talle, et kõvakettal on helifailid ja ta peaks eirama silti, mis ütleb "video". Sarah usub oma nõbu.
 
 PROMPT 1 (CORRECT: audio): Ta avab kõvaketta ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -61,7 +61,7 @@ PROMPT 2 (CORRECT: audio): Sarah helistab sõbrale, et öelda, et ta on just lei
 
 == True-belief control: Correct label ==
 
-TASK: Ettevõtte peakontori riiulil on kõvaketas, mis sisaldab ainult helifaile ja ühtegi videofaili. Selle sildil on selgelt kirjas "helifailid", mitte "videofailid". Sarah, äsja palgatud arvutiinsener, leiab riiulilt kõvaketta. Ta pole seda kõvaketast varem näinud. Sarah ei ava kõvaketast ega vaata sisse. Sarah loeb silti.
+TASK: Ettevõtte peakontori riiulil on kõvaketas, mis sisaldab ainult helifaile ja mitte ühtegi videofaili. Selle sildil on selgelt kirjas "helifailid", mitte "videofailid". Sarah, äsja palgatud arvutiinsener, leiab riiulilt kõvaketta. Ta pole seda kõvaketast varem näinud. Sarah ei ava kõvaketast ega vaata selle sisse. Sarah loeb silti.
 
 PROMPT 1 (CORRECT: audio): Ta avab kõvaketta ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -87,33 +87,33 @@ PROMPT 2 (CORRECT: vanilla): Floriane helistab sõbrale, et öelda, et ta on jus
 
 == True-belief control: Informed protagonist ==
 
-TASK: Sügavkülmas on anum täis vanillijäätist. Selles ei ole maasikamoosi. Siiski ütleb silt "maasikamoos", mitte "vanillijäätis". Silt on vale. Ühel päeval leiab Floriane anuma ja mõistab, et pole seda varem näinud. Floriane ei ava anumat ega vaata sisse. Floriane loeb silti. Üks nõbu helistab Florianele ja ütleb, et anumas on vanillijäätis ja ta peaks eirama silti, mis ütleb "maasikamoos". Floriane usub oma nõbu.
+TASK: Sügavkülmas on anum täis vanillijäätist. Seal sees ei ole maasikamoosi. Siiski ütleb silt "maasikamoos" ja mitte "vanillijäätis". Silt on vale. Ühel päeval leiab Floriane anuma ja mõistab, et pole seda varem näinud. Floriane ei ava anumat ega vaata sisse. Floriane loeb silti. Üks nõbu helistab Florianele ja ütleb, et anumas on vanillijäätis ja ta peaks eirama silti, mis ütleb "maasikamoos". Floriane usub oma nõbu.
 
 PROMPT 1 (CORRECT: vanilla): Ta avab anuma ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: vanilla): Floriane helistab sõbrale, et rääkida neile, et ta on just leidnud anuma täis ...
+PROMPT 2 (CORRECT: vanilla): Floriane helistab sõbrale, et öelda, et ta on just leidnud anuma täis ...
 
 == True-belief control: Correct label ==
 
-TASK: Sügavkülmas on anum täis vanillijäätist. Seal sees ei ole maasikamoosi. Sildil on kirjas "vanillijäätis", mitte "maasikamoos". Silt on õige. Ühel päeval leiab Floriane selle anuma ja mõistab, et pole seda varem näinud. Floriane ei ava anumat ega vaata sisse. Floriane loeb silti.
+TASK: Sügavkülmas on anum täis vanillijäätist. Seal sees ei ole maasikamoosi. Sildil on kirjas "vanillijäätis" ja mitte "maasikamoos". Silt on õige. Ühel päeval leiab Floriane anuma ja mõistab, et pole seda varem näinud. Floriane ei ava anumat ega vaata sisse. Floriane loeb silti.
 
 PROMPT 1 (CORRECT: vanilla): Ta avab anuma ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: vanilla): Floriane helistab sõbrale, et rääkida neile, et ta on just leidnud anuma täis ...
+PROMPT 2 (CORRECT: vanilla): Floriane helistab sõbrale, et öelda, et ta on just leidnud anuma täis ...
 
 TASK #3
 
 == False-belief task ==
 
-TASK: Amsterdami sadamasse saabub merekonteiner täis arvuteid. Selles ei ole mootorrattaid. See on pitseeritud. Siiski märgistus väidab, et selles on mootorrattad ja ei maini arvuteid. Mary, tolliametnik, lähenes merekonteinerile. Mary ei ava merekonteinerit ega vaata sisse. Mary loeb silti.
+TASK: Amsterdami sadamasse saabub konteiner täis arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski väidab märgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, läheneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti.
 
-PROMPT 1 (CORRECT: computers): Ta avab merekonteineri ja vaatab sisse. Ta näeb selgelt, et see on täis ...
+PROMPT 1 (CORRECT: computers): Ta avab konteineri ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: motorbikes): Mary helistab sõbrale, et öelda, et ta on just leidnud merekonteineri täis ...
+PROMPT 2 (CORRECT: motorbikes): Mary helistab sõbrale, et öelda, et ta on just leidnud konteineri täis ...
 
 == True-belief control: Open container ==
 
-TASK: Konteiner täis arvuteid saabub Amsterdami sadamasse. Selles ei ole mootorrattaid. See on pitseeritud. Siiski sildil on kirjas, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, lähenes konteinerile. Mary avab konteineri ja vaatab sisse. Mary loeb silti.
+TASK: Amsterdami sadamasse saabub konteiner täis arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski väidab märgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, läheneb konteinerile. Mary avab konteineri ja vaatab sisse. Mary loeb silti.
 
 PROMPT 1 (CORRECT: computers): Ta avab konteineri ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -121,7 +121,7 @@ PROMPT 2 (CORRECT: computers): Mary helistab sõbrale, et öelda, et ta on just 
 
 == True-belief control: Informed protagonist ==
 
-TASK: Amsterdami sadamasse saabub konteiner täis arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski näitab silt, et konteineris on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, lähenes konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. Üks sugulane helistab Maryle ja ütleb talle, et konteineris on arvutid ja ta peaks eirama silti, mis ütleb "mootorrattad". Mary usub oma sugulast.
+TASK: Amsterdami sadamasse saabub konteiner täis arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski väidab märgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, läheneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. Üks sugulane helistab Maryle ja ütleb talle, et konteineris on arvutid ja ta peaks eirama silti, mis ütleb "mootorrattad". Mary usub oma sugulast.
 
 PROMPT 1 (CORRECT: computers): Ta avab konteineri ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -129,51 +129,51 @@ PROMPT 2 (CORRECT: computers): Mary helistab sõbrale, et öelda, et ta on just 
 
 == True-belief control: Correct label ==
 
-TASK: Amsterdami sadamasse saabub merekonteiner täis arvuteid. Selles ei ole mootorrattaid. See on pitseeritud. Sildil on kirjas, et see sisaldab arvuteid ja mootorrattaid ei mainita. Mary, tolliametnik, lähenes merekonteinerile. Mary ei ava merekonteinerit ega vaata sisse. Mary loeb silti.
+TASK: Amsterdami sadamasse saabub konteiner täis arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Märgistusel on kirjas, et see sisaldab arvuteid ja mootorrattaid ei mainita. Mary, tolliametnik, läheneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti.
 
-PROMPT 1 (CORRECT: computers): Ta avab merekonteineri ja vaatab sisse. Ta näeb selgelt, et see on täis ...
+PROMPT 1 (CORRECT: computers): Ta avab konteineri ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: computers): Mary helistab sõbrale, et öelda, et ta on just leidnud merekonteineri täis ...
+PROMPT 2 (CORRECT: computers): Mary helistab sõbrale, et öelda, et ta on just leidnud konteineri täis ...
 
 TASK #4
 
 == False-belief task ==
 
-TASK: Laua peal tühjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on täitesulepead, kuid pliiatseid seal sees ei ole. Ometi on karp märgistatud sõnaga "pliiatsid", mitte "pastapliiatsid". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda kasti varem näinud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb sildi.
+TASK: Laua peal tühjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte ühtegi pliiatsit. Ometi on karp märgistatud sõnaga "pliiatsid", mitte "pastakad". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem näinud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti.
 
-PROMPT 1 (CORRECT: pens): Ta avab kasti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
+PROMPT 1 (CORRECT: pens): Ta avab karbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: pencils): Osaleja helistab sõbrale, et öelda, et ta on just leidnud kasti täis ...
+PROMPT 2 (CORRECT: pencils): Osaleja helistab sõbrale, et öelda, et ta on just leidnud karbi täis ...
 
 == True-belief control: Open container ==
 
-TASK: Laua peal tühjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud kast. Kast on täis pastakaid ja selles ei ole ühtegi pliiatsit. Siiski on kastile kirjutatud sõna "pliiatsid", mitte "pastakad". Esimene osaleja astub ruumi ja istub kasti ees olevasse tooli. Ta pole seda kasti varem näinud. Osaleja avab kasti ja vaatab sisse. Osaleja loeb sildi.
+TASK: Laua peal tühjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte ühtegi pliiatsit. Ometi on karp märgistatud sõnaga "pliiatsid", mitte "pastakad". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem näinud. Osaleja avab kasti ja vaatab sisse. Osaleja loeb silti.
 
-PROMPT 1 (CORRECT: pens): Ta avab kasti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
+PROMPT 1 (CORRECT: pens): Ta avab karbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: pens): Osaleja helistab sõbrale, et öelda, et ta on just leidnud kasti täis ...
+PROMPT 2 (CORRECT: pens): Osaleja helistab sõbrale, et öelda, et ta on just leidnud karbi täis ...
 
 == True-belief control: Informed protagonist ==
 
-TASK: Laua peal tühjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud kast. Kast on täis pastakaid ja selles ei ole ühtegi pliiatsit. Siiski on kastile kirjutatud sõna "pliiatsid", mitte "pastakad". Esimene osaleja astub ruumi ja istub kasti ees olevasse tooli. Ta pole seda kasti varem näinud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti. Osalejale helistab tema nõbu ja ütleb talle, et kastis on pastakad ja ta peaks eirama silti, mis ütleb "pliiatsid". Osaleja usub oma nõbu.
+TASK: Laua peal tühjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte ühtegi pliiatsit. Ometi on karp märgistatud sõnaga "pliiatsid", mitte "pastakad". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem näinud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti. Osalejale helistab tema nõbu ja ütleb talle, et karbis on pastakad ja ta peaks eirama silti, mis ütleb "pliiatsid". Osaleja usub oma nõbu.
 
-PROMPT 1 (CORRECT: pens): Ta avab kasti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
+PROMPT 1 (CORRECT: pens): Ta avab karbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: pens): Osaleja helistab sõbrale, et öelda talle, et ta on just leidnud kasti täis ...
+PROMPT 2 (CORRECT: pens): Osaleja helistab sõbrale, et öelda, et ta on just leidnud karbi täis ...
 
 == True-belief control: Correct label ==
 
-TASK: Laua peal tühjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud kast. Kast on täidetud pastakatega ja selles ei ole ühtegi pliiatsit. Sellele on kirjutatud sõna "pastakad", mitte "pliiatsid". Esimene osaleja astub ruumi ja istub kasti ees olevasse tooli. Ta pole seda kasti varem näinud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti.
+TASK: Laua peal tühjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte ühtegi pliiatsit. Sellele on kirjutatud sõna "pastakad", mitte "pliiatsid". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem näinud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti.
 
-PROMPT 1 (CORRECT: pens): Ta avab kasti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
+PROMPT 1 (CORRECT: pens): Ta avab karbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: pens): Osaleja helistab sõbrale, et öelda, et ta on just leidnud kasti täis ...
+PROMPT 2 (CORRECT: pens): Osaleja helistab sõbrale, et öelda, et ta on just leidnud karbi täis ...
 
 TASK #5
 
 == False-belief task ==
 
-TASK: Airbnb majutaja köögi külmkapis on purk, mille sildil on kirjas tuunikala. Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, kes on just majja saabunud külaline, avab külmkapi ja näeb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti.
+TASK: Airbnb võõrustaja köögi külmkapis on purk, mille sildil on kirjas "tuunikala". Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, kes on just majja saabunud külaline, avab külmkapi ja näeb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti.
 
 PROMPT 1 (CORRECT: pickles): Ta avab purgi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -181,33 +181,33 @@ PROMPT 2 (CORRECT: tuna): Jill helistab sõbrale, et rääkida, et ta on just le
 
 == True-belief control: Open container ==
 
-TASK: Airbnb võõrustaja köögi külmkapis on purk, mille sildil on kirjas tuunikala. Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, külaline, kes just saabus majja, avab külmkapi ja näeb purki. Jill avab purgi ja vaatab sisse. Jill loeb silti.
+TASK: Airbnb võõrustaja köögi külmkapis on purk, mille sildil on kirjas "tuunikala". Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, kes on just majja saabunud külaline, avab külmkapi ja näeb purki. Jill avab purgi ja vaatab sisse. Jill loeb silti.
 
 PROMPT 1 (CORRECT: pickles): Ta avab purgi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: pickles): Jill helistab sõbrale, et rääkida neile, et ta on just leidnud purgi täis ...
+PROMPT 2 (CORRECT: pickles): Jill helistab sõbrale, et rääkida, et ta on just leidnud purgi täis ...
 
 == True-belief control: Informed protagonist ==
 
-TASK: Airbnb majutaja köögi külmkapis on purk, mille sildil on kirjas "tuunikala". Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, külaline, kes just saabus majja, avab külmkapi ja näeb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti. Nõbu helistab Jillile ja ütleb talle, et purgis on kurgid ja ta peaks sildil olevat "tuunikala" ignoreerima. Jill usub oma nõbu.
+TASK: Airbnb võõrustaja köögi külmkapis on purk, mille sildil on kirjas "tuunikala". Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, kes on just majja saabunud külaline, avab külmkapi ja näeb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti. Nõbu helistab Jillile ja ütleb talle, et purgis on kurgid ja ta peaks sildil olevat "tuunikala" ignoreerima. Jill usub oma nõbu.
 
 PROMPT 1 (CORRECT: pickles): Ta avab purgi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: pickles): Jill helistab sõbrale, et rääkida neile, et ta on just leidnud purgi täis ...
+PROMPT 2 (CORRECT: pickles): Jill helistab sõbrale, et rääkida, et ta on just leidnud purgi täis ...
 
 == True-belief control: Correct label ==
 
-TASK: Airbnb võõrustaja köögi külmkapis on purk, millel on silt "marineeritud kurgid". Purk sisaldab marineeritud kurke ja mitte tuunikala. Sildil ei mainita tuunikala. Jill, külaline, kes just saabus majja, avab külmkapi ja näeb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti.
+TASK: Airbnb võõrustaja köögi külmkapis on purk, mille sildil on kirjas "marineeritud kurgid". Purk sisaldab marineeritud kurke ja mitte tuunikala. Sildil ei mainita tuunikala. Jill, kes on just majja saabunud külaline, avab külmkapi ja näeb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti.
 
 PROMPT 1 (CORRECT: pickles): Ta avab purgi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: pickles): Jill helistab sõbrale, et öelda, et ta on just leidnud purgi täis ...
+PROMPT 2 (CORRECT: pickles): Jill helistab sõbrale, et rääkida, et ta on just leidnud purgi täis ...
 
 TASK #6
 
 == False-belief task ==
 
-TASK: Julia ukse ees lebab ümbrik. Ümbrik on täis voldikuid ja seal sees pole ühtegi kviitungit. Siiski on välisküljele kinnitatud silt sõnaga "kviitungid". Sildil ei mainita "voldikuid". Julia naaber, kes lahkub esimest korda sel hommikul oma korterist, möödub ja märkab põrandal ümbrikut. Ta mõtleb, mis võiks ümbrikus olla. Julia naaber ei ava ümbrikut ega vaata sisse. Julia naaber loeb silti.
+TASK: Julia korteri ukse ees lebab ümbrik. Ümbrik on täis reklaamlehti ning selles ei ole ühtegi kviitungit. Siiski on välisküljele kinnitatud silt sõnaga "kviitungid". Sildil ei mainita "voldikuid". Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, möödub ja märkab põrandal ümbrikut. Ta mõtleb, mis võiks ümbrikus olla. Julia naaber ei ava ümbrikut ega vaata sisse. Julia naaber loeb silti.
 
 PROMPT 1 (CORRECT: leaflets): Ta avab ümbriku ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -215,7 +215,7 @@ PROMPT 2 (CORRECT: receipts): Julia naaber helistab sõbrale, et öelda, et ta o
 
 == True-belief control: Open container ==
 
-TASK: Julia ukse ees lebab ümbrik. Ümbrik on täis reklaamlehti, kuid selles ei ole ühtegi kviitungit. Siiski on välisküljele kinnitatud silt sõnaga "kviitungid". Sildil ei mainita "reklaamlehti". Julia naaber, kes lahkub esimest korda sel hommikul oma korterist, möödub ja märkab põrandal ümbrikut. Ta mõtleb, mis võiks ümbrikus olla. Julia naaber avab ümbriku ja vaatab sisse. Julia naaber loeb silti.
+TASK: Julia korteri ukse ees lebab ümbrik. Ümbrik on täis reklaamlehti ning selles ei ole ühtegi kviitungit. Siiski on välisküljele kinnitatud silt sõnaga "kviitungid". Sildil ei mainita reklaamlehti. Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, möödub ja märkab põrandal ümbrikut. Ta mõtleb, mis võiks ümbrikus olla. Julia naaber avab ümbriku ja vaatab sisse. Julia naaber loeb silti.
 
 PROMPT 1 (CORRECT: leaflets): Ta avab ümbriku ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -223,7 +223,7 @@ PROMPT 2 (CORRECT: leaflets): Julia naaber helistab sõbrale, et öelda, et ta o
 
 == True-belief control: Informed protagonist ==
 
-TASK: Julia ukse ees lebab ümbrik. Ümbrik on täis reklaamlehti ja seal sees pole kviitungeid. Siiski on välisküljele kinnitatud silt sõnaga "kviitungid". Sildil ei mainita "reklaamlehti". Julia naaber, kes lahkub sel hommikul esimest korda oma korterist, möödub ja märkab põrandal ümbrikut. Ta mõtleb, mis võiks ümbrikus olla. Julia naaber ei ava ümbrikut ega vaata sisse. Julia naaber loeb silti. Nõbu helistab Julia naabrile ja ütleb talle, et ümbrikus on reklaamlehed ja et ta peaks eirama silti, mis ütleb "kviitungid". Julia naaber usub oma nõbu.
+TASK: Julia korteri ukse ees lebab ümbrik. Ümbrik on täis reklaamlehti ning selles ei ole ühtegi kviitungit. Siiski on välisküljele kinnitatud silt sõnaga "kviitungid". Sildil ei mainita "reklaamlehti". Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, möödub ja märkab põrandal ümbrikut. Ta mõtleb, mis võiks ümbrikus olla. Julia naaber ei ava ümbrikut ega vaata sisse. Julia naaber loeb silti. Nõbu helistab Julia naabrile ja ütleb talle, et ümbrikus on reklaamlehed ja et ta peaks eirama silti, mis ütleb "kviitungid". Julia naaber usub oma nõbu.
 
 PROMPT 1 (CORRECT: leaflets): Ta avab ümbriku ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -231,7 +231,7 @@ PROMPT 2 (CORRECT: leaflets): Julia naaber helistab sõbrale, et öelda, et ta o
 
 == True-belief control: Correct label ==
 
-TASK: Julia ukse ees lebab ümbrik. Ümbrik on täis reklaamlehti ja seal sees pole kviitungeid. Välisküljele on kinnitatud silt sõnaga "reklaamlehed". Sildil ei mainita "kviitungeid". Julia naaber, kes lahkub esimest korda sel hommikul oma korterist, möödub ja märkab põrandal ümbrikut. Ta mõtleb, mis võiks ümbrikus olla. Julia naaber ei ava ümbrikut ega vaata sisse. Julia naaber loeb silti.
+TASK: Julia korteri ukse ees lebab ümbrik. Ümbrik on täis reklaamlehti ning selles ei ole ühtegi kviitungit. Välisküljele on kinnitatud silt sõnaga "reklaamlehed". Sildil ei mainita kviitungeid. Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, möödub ja märkab põrandal ümbrikut. Ta mõtleb, mis võiks ümbrikus olla. Julia naaber ei ava ümbrikut ega vaata sisse. Julia naaber loeb silti.
 
 PROMPT 1 (CORRECT: leaflets): Ta avab ümbriku ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -241,7 +241,7 @@ TASK #7
 
 == False-belief task ==
 
-TASK: Üle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis ütleb "raamatud". See ei maini "ehteid". Siiski sisaldab kast tegelikult ainult ehteid ja ühtegi raamatut seal pole. Steve, inspektor, lähenes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti.
+TASK: Üle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis ütleb "raamatud". See ei maini vääriskive. Siiski sisaldab kast tegelikult ainult vääriskive ja ühtegi raamatut seal pole. Steve, inspektor, lähenes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti.
 
 PROMPT 1 (CORRECT: gems): Ta avab kasti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -249,7 +249,7 @@ PROMPT 2 (CORRECT: books): Steve helistab sõbrale, et öelda, et ta on just lei
 
 == True-belief control: Open container ==
 
-TASK: Üle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis ütleb "raamatud". See ei maini "ehteid". Siiski sisaldab kast tegelikult ainult ehteid ja ühtegi raamatut seal pole. Steve, inspektor, lähenes seifile. Steve avab kasti ja vaatab sisse. Steve loeb silti.
+TASK: Üle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis ütleb "raamatud". See ei maini vääriskive. Siiski sisaldab kast tegelikult ainult vääriskive ja ühtegi raamatut seal pole. Steve, inspektor, lähenes seifile. Steve avab kasti ja vaatab sisse. Steve loeb silti.
 
 PROMPT 1 (CORRECT: gems): Ta avab kasti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -257,7 +257,7 @@ PROMPT 2 (CORRECT: gems): Steve helistab sõbrale, et öelda, et ta on just leid
 
 == True-belief control: Informed protagonist ==
 
-TASK: Üle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis ütleb "raamatud". See ei maini "ehteid". Siiski sisaldab kast tegelikult ainult ehteid ja ühtegi raamatut seal ei ole. Steve, inspektor, lähenes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti. Steve'i nõbu helistab talle ja ütleb, et kastis on ehted ja et ta peaks sildil olevat sõna "raamatud" ignoreerima. Steve usub oma nõbu.
+TASK: Üle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis ütleb "raamatud". See ei maini vääriskive. Siiski sisaldab kast tegelikult ainult vääriskive ja ühtegi raamatut seal pole. Steve, inspektor, lähenes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti. Steve'i nõbu helistab talle ja ütleb, et kastis on vääriskivid ja et ta peaks sildil olevat sõna "raamatud" ignoreerima. Steve usub oma nõbu.
 
 PROMPT 1 (CORRECT: gems): Ta avab kasti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -265,7 +265,7 @@ PROMPT 2 (CORRECT: gems): Steve helistab sõbrale, et öelda, et ta on just leid
 
 == True-belief control: Correct label ==
 
-TASK: Üle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis ütleb "vääriskivid". See ei maini "raamatuid". Kast sisaldab ainult vääriskive ja ei sisalda üldse raamatuid. Steve, inspektor, lähenes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti.
+TASK: Üle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis ütleb "vääriskivid". See ei maini raamatuid. Kast sisaldab ainult vääriskive ja ühtegi raamatut seal pole. Steve, inspektor, lähenes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti.
 
 PROMPT 1 (CORRECT: gems): Ta avab kasti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -275,7 +275,7 @@ TASK #8
 
 == False-belief task ==
 
-TASK: Mitte-läbipaistev pudel täis suhkrut seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel sildi "vesi" asemel "suhkur". Bernard, uus klient, läheb leti juurde ja märkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti.
+TASK: Mitte-läbipaistev suhkruga täidetud pudel seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel silti "vesi", mitte "suhkur". Bernard, uus klient, läheb leti juurde ja märkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti.
 
 PROMPT 1 (CORRECT: sugar): Ta avab pudeli ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -283,7 +283,7 @@ PROMPT 2 (CORRECT: water): Bernard helistab sõbrale, et öelda, et ta on just l
 
 == True-belief control: Open container ==
 
-TASK: Läbipaistmatu pudel täis suhkrut seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel silti "vesi" asemel "suhkur". Bernard, uus klient, läheb leti juurde ja märkab pudelit. Bernard avab pudeli ja vaatab sisse. Bernard loeb silti.
+TASK: Mitte-läbipaistev suhkruga täidetud pudel seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel silti "vesi", mitte "suhkur". Bernard, uus klient, läheb leti juurde ja märkab pudelit. Bernard avab pudeli ja vaatab sisse. Bernard loeb silti.
 
 PROMPT 1 (CORRECT: sugar): Ta avab pudeli ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -291,7 +291,7 @@ PROMPT 2 (CORRECT: sugar): Bernard helistab sõbrale, et öelda, et ta on just l
 
 == True-belief control: Informed protagonist ==
 
-TASK: Mitte-läbipaistev suhkruga täidetud pudel seisab kaubamaja letil. Selles ei ole vett; siiski kannab pudel silti "vesi" selle asemel, et "suhkur". Bernard, uus klient, läheb leti juurde ja märkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti. Nõbu helistab Bernardile ja ütleb talle, et pudelis on suhkur ja ta peaks eirama silti, mis ütleb "vesi". Bernard usub oma nõbu.
+TASK: Mitte-läbipaistev suhkruga täidetud pudel seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel silti "vesi", mitte "suhkur". Bernard, uus klient, läheb leti juurde ja märkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti. Nõbu helistab Bernardile ja ütleb talle, et pudelis on suhkur ja ta peaks eirama silti, mis ütleb "vesi". Bernard usub oma nõbu.
 
 PROMPT 1 (CORRECT: sugar): Ta avab pudeli ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -299,7 +299,7 @@ PROMPT 2 (CORRECT: sugar): Bernard helistab sõbrale, et öelda, et ta on just l
 
 == True-belief control: Correct label ==
 
-TASK: Läbipaistmatu pudel täis suhkrut seisab kaubamaja letil. Seal sees ei ole vett; pudelil on silt "suhkur", mitte "vesi". Bernard, uus klient, läheb leti juurde ja märkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti.
+TASK: Mitte-läbipaistev suhkruga täidetud pudel seisab kaubamaja letil. Pudelis ei ole vett; pudelil on silt "suhkur", mitte "vesi". Bernard, uus klient, läheb leti juurde ja märkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti.
 
 PROMPT 1 (CORRECT: sugar): Ta avab pudeli ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -309,15 +309,15 @@ TASK #9
 
 == False-belief task ==
 
-TASK: Mahajäetud häärberis uurib kriminalistide meeskond kuriteopaika. Laiba kõrval on suletud kast; keegi ei näe, mis seal sees on. Kuigi kastis on tegelikult tabletid, on sellel silt, mis ütleb kuulid. Peainspektor, kes on just sündmuskohale saabunud, kummardub kasti uurima. Peainspektor ei ava kasti ega vaata sisse. Peainspektor loeb silti.
+TASK: Mahajäetud häärberis uurib kriminalistide meeskond kuriteopaika. Laiba kõrval on suletud karp; keegi ei näe, mis seal sees on. Kuigi karbis on tegelikult tabletid, väidab sellel olev silt, et karbis on kuulid. Peainspektor, kes on just sündmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb silti.
 
-PROMPT 1 (CORRECT: pills): Ta avab kasti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
+PROMPT 1 (CORRECT: pills): Ta avab karbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: bullets): Peainspektor helistab sõbrale, et öelda, et ta on just leidnud kasti täis ...
+PROMPT 2 (CORRECT: bullets): Peainspektor helistab sõbrale, et öelda, et ta on just leidnud karbi täis ...
 
 == True-belief control: Open container ==
 
-TASK: Mahajäetud häärberis uurib kriminalistide meeskond kuriteopaika. Laiba kõrval on suletud karp; keegi ei näe, mis seal sees on. Kuigi karbis on tegelikult tabletid, on sellel silt, mis ütleb kuulid. Peainspektor, kes on just sündmuskohale saabunud, kummardub karpi uurima. Peainspektor avab karbi ja vaatab sisse. Peainspektor loeb sildi.
+TASK: Mahajäetud häärberis uurib kriminalistide meeskond kuriteopaika. Laiba kõrval on suletud karp; keegi ei näe, mis seal sees on. Kuigi karbis on tegelikult tabletid, väidab sellel olev silt, et karbis on kuulid. Peainspektor, kes on just sündmuskohale saabunud, kummardub karpi uurima. Peainspektor avab karbi ja vaatab sisse. Peainspektor loeb silti.
 
 PROMPT 1 (CORRECT: pills): Ta avab karbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -325,7 +325,7 @@ PROMPT 2 (CORRECT: pills): Peainspektor helistab sõbrale, et öelda, et ta on j
 
 == True-belief control: Informed protagonist ==
 
-TASK: Mahajäetud häärberis uurib kriminalistide meeskond kuriteopaika. Laiba kõrval on suletud karp; keegi ei näe, mis seal sees on. Kuigi karbis on tegelikult tabletid, on sellel silt, mis ütleb kuulid. Peainspektor, kes on just sündmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb silti. Peainspektori nõbu helistab talle ja ütleb, et karbis on tabletid ja ta peaks eirama silti, mis ütleb "kuulid". Peainspektor usub oma nõbu.
+TASK: Mahajäetud häärberis uurib kriminalistide meeskond kuriteopaika. Laiba kõrval on suletud karp; keegi ei näe, mis seal sees on. Kuigi karbis on tegelikult tabletid, väidab sellel olev silt, et karbis on kuulid. Peainspektor, kes on just sündmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb silti. Peainspektori nõbu helistab talle ja ütleb, et karbis on tabletid ja ta peaks eirama silti, mis ütleb "kuulid". Peainspektor usub oma nõbu.
 
 PROMPT 1 (CORRECT: pills): Ta avab karbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -333,7 +333,7 @@ PROMPT 2 (CORRECT: pills): Peainspektor helistab sõbrale, et öelda, et ta on j
 
 == True-belief control: Correct label ==
 
-TASK: Mahajäetud häärberis uurib kriminalistide meeskond kuriteopaika. Laiba kõrval on suletud karp; keegi ei näe, mis seal sees on. Karbis on tabletid ja selle silt seda ka näitab. Seal sees ei ole kuule. Peainspektor, kes on just sündmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb sildi.
+TASK: Mahajäetud häärberis uurib kriminalistide meeskond kuriteopaika. Laiba kõrval on suletud karp; keegi ei näe, mis seal sees on. Karbis on tabletid ja sellel olev silt väidab sama. Seal sees ei ole kuule. Peainspektor, kes on just sündmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb silti.
 
 PROMPT 1 (CORRECT: pills): Ta avab karbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -343,35 +343,35 @@ TASK #10
 
 == False-belief task ==
 
-TASK: Julia valmistab oma pojale Stevenile jõulupuu alla kingikarbi. Ta tahab Stevenit tüssata. Ta täidab kingikarbi teelehtedega, kuid märgistab selle selgelt suurte tähtedega kui kohvioad. Mõni tund hiljem tuleb Steven trepist alla ja leiab kingikarbi jõulupuu alt. Steven ei ava kingikarpi ega vaata sisse. Steven loeb sildi.
+TASK: Julia valmistab oma pojale Stevenile jõulupuu alla kingikarpi. Ta tahab Stevenit tüssata. Ta täidab kingikarbi teelehtedega, kuid märgistab selle suurte selgete tähtedega "kohvioad". Mõni tund hiljem tuleb Steven trepist alla ja leiab kingikarbi jõulupuu alt. Steven ei ava kingikarpi ega vaata sisse. Steven loeb silti.
 
 PROMPT 1 (CORRECT: tea): Ta avab kingikarbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: coffee): Steven helistab sõbrale, et rääkida neile, et ta on just leidnud kingikarbi täis ...
+PROMPT 2 (CORRECT: coffee): Steven helistab sõbrale, et rääkida talle, et ta on just leidnud kingikarbi täis ...
 
 == True-belief control: Open container ==
 
-TASK: Julia valmistab oma pojale Stevenile jõulupuu alla kingikarbi. Ta tahab Stevenit tüssata. Ta täidab kingikarbi teelehtedega, kuid märgistab selle selgelt suurte tähtedega kui kohvioad. Mõni tund hiljem tuleb Steven trepist alla ja leiab kingikarbi jõulupuu alt. Steven avab kingikarbi ja vaatab sisse. Steven loeb sildi.
+TASK: Julia valmistab oma pojale Stevenile jõulupuu alla kingikarpi. Ta tahab Stevenit tüssata. Ta täidab kingikarbi teelehtedega, kuid märgistab selle suurte selgete tähtedega "kohvioad". Mõni tund hiljem tuleb Steven trepist alla ja leiab kingikarbi jõulupuu alt. Steven avab kingikarbi ja vaatab sisse. Steven loeb silti.
 
 PROMPT 1 (CORRECT: tea): Ta avab kingikarbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: tea): Steven helistab sõbrale, et rääkida neile, et ta on just leidnud kingikarbi täis ...
+PROMPT 2 (CORRECT: tea): Steven helistab sõbrale, et rääkida talle, et ta on just leidnud kingikarbi täis ...
 
 == True-belief control: Informed protagonist ==
 
-TASK: Julia valmistab oma pojale, Stevenile, jõulupuu alla kingikarbi. Ta tahab Stevenit tüssata. Ta täidab kingikarbi teelehtedega, kuid märgistab selle suurte selgete tähtedega kui "kohvioad". Mõni tund hiljem tuleb Steven trepist alla ja leiab kingikarbi jõulupuu alt. Steven ei ava kingikarpi ega vaata sisse. Steven loeb silti. Üks nõbu helistab Stevenile ja ütleb talle, et kingikarbis on tegelikult teelehed ja ta peaks eirama silti, mis ütleb "kohvioad". Steven usub oma nõbu.
+TASK: Julia valmistab oma pojale Stevenile jõulupuu alla kingikarpi. Ta tahab Stevenit tüssata. Ta täidab kingikarbi teelehtedega, kuid märgistab selle suurte selgete tähtedega "kohvioad". Mõni tund hiljem tuleb Steven trepist alla ja leiab kingikarbi jõulupuu alt. Steven ei ava kingikarpi ega vaata sisse. Steven loeb silti. Üks nõbu helistab Stevenile ja ütleb talle, et kingikarbis on tegelikult teelehed ja ta peaks eirama silti, mis ütleb "kohvioad". Steven usub oma nõbu.
 
 PROMPT 1 (CORRECT: tea): Ta avab kingikarbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: tea): Steven helistab sõbrale, et rääkida neile, et ta on just leidnud kingikarbi täis ...
+PROMPT 2 (CORRECT: tea): Steven helistab sõbrale, et rääkida talle, et ta on just leidnud kingikarbi täis ...
 
 == True-belief control: Correct label ==
 
-TASK: Julia valmistab oma pojale Stevenile jõulupuu alla kingikarbi. Ta tahab Stevenit tüssata. Ta täidab kingikarbi teelehtedega ja märgistab selle suurte selgete tähtedega "teelehed". Mõni tund hiljem tuleb Steven trepist alla ja leiab kingikarbi jõulupuu alt. Steven ei ava kingikarpi ega vaata sisse. Steven loeb silti.
+TASK: Julia valmistab oma pojale Stevenile jõulupuu alla kingikarpi. Ta tahab Stevenit tüssata. Ta täidab kingikarbi teelehtedega ja märgistab selle suurte selgete tähtedega "teelehed". Mõni tund hiljem tuleb Steven trepist alla ja leiab kingikarbi jõulupuu alt. Steven ei ava kingikarpi ega vaata sisse. Steven loeb silti.
 
 PROMPT 1 (CORRECT: tea): Ta avab kingikarbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: tea): Steven helistab sõbrale, et rääkida neile, et ta on just leidnud kingikarbi täis ...
+PROMPT 2 (CORRECT: tea): Steven helistab sõbrale, et rääkida talle, et ta on just leidnud kingikarbi täis ...
 
 TASK #11
 
@@ -393,7 +393,7 @@ PROMPT 2 (CORRECT: blood): Inspektor helistab sõbrale, et öelda, et ta on just
 
 == True-belief control: Informed protagonist ==
 
-TASK: Lennujaama tolliosakonnas ulatab immigratsiooniametnik inspektorile kasti. See on pitseeritud ja sildiga "uriiniproovid". Keegi ei näe, mis seal sees on, kuid tegelikult sisaldab see ainult vereproove. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor ei ava kasti ega vaata sisse. Inspektor loeb silti. Inspektori nõbu helistab talle ja ütleb, et kastis on verd ja ta peaks sildil olevat "uriin" eirama. Inspektor usub oma nõbu.
+TASK: Lennujaama tolliosakonnas annab immigratsiooniametnik inspektorile üle kasti. See on pitseeritud ja sildiga "uriiniproovid". Keegi ei näe, mis seal sees on, kuid tegelikult sisaldab see ainult vereproove. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor ei ava kasti ega vaata sisse. Inspektor loeb silti. Inspektori nõbu helistab talle ja ütleb, et kastis on veri ja ta peaks silti, mis ütleb "uriin", eirama. Inspektor usub oma nõbu.
 
 PROMPT 1 (CORRECT: blood): Ta avab kasti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -401,7 +401,7 @@ PROMPT 2 (CORRECT: blood): Inspektor helistab sõbrale, et öelda, et ta on just
 
 == True-belief control: Correct label ==
 
-TASK: Tolliosakonnas lennujaamas annab immigratsiooniametnik bioloogilise ohu inspektorile üle kasti. See on suletud ja märgistatud kui "vereproovid". Keegi ei näe, mis seal sees on, kuid tegelikult ei ole seal uriiniproove, ainult vereproove. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor ei ava kasti ega vaata sisse. Inspektor loeb sildi.
+TASK: Tolliosakonnas lennujaamas annab immigratsiooniametnik bioloogilise ohu inspektorile üle kasti. See on pitseeritud ja sildiga "vereproovid". Keegi ei näe, mis seal sees on, kuid tegelikult ei ole seal uriiniproove, ainult vereproovid. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor ei ava kasti ega vaata sisse. Inspektor loeb silti.
 
 PROMPT 1 (CORRECT: blood): Ta avab kasti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -411,7 +411,7 @@ TASK #12
 
 == False-belief task ==
 
-TASK: Paul ulatab Sarale kinkepaberisse mähitud karbi ja ütleb talle, et seal sees on sallid. Tegelikult on karbis aga ainult sokid. Sara võtab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb sildi.
+TASK: Paul ulatab Sarale kinkepaberisse mähitud karbi ja ütleb talle, et seal sees on sallid. Tegelikult on karbis aga ainult sokid. Sara võtab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb silti.
 
 PROMPT 1 (CORRECT: socks): Ta avab karbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -419,7 +419,7 @@ PROMPT 2 (CORRECT: scarves): Sara helistab sõbrale, et öelda, et ta on just sa
 
 == True-belief control: Open container ==
 
-TASK: Paul ulatab Sarale kingituseks pakitud karbi ja ütleb talle, et seal sees on sallid. Tegelikult on karbis aga ainult sokid. Sara võtab temalt karbi. Sara avab karbi ja vaatab sisse. Sara loeb sildi.
+TASK: Paul ulatab Sarale kinkepaberisse mähitud karbi ja ütleb talle, et seal sees on sallid. Tegelikult on karbis aga ainult sokid. Sara võtab temalt karbi. Sara avab karbi ja vaatab sisse. Sara loeb silti.
 
 PROMPT 1 (CORRECT: socks): Ta avab karbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -427,7 +427,7 @@ PROMPT 2 (CORRECT: socks): Sara helistab sõbrale, et öelda, et ta on just saan
 
 == True-belief control: Informed protagonist ==
 
-TASK: Paul ulatab Sarale kinkepakitud karbi ja ütleb talle, et seal on sallid sees. Tegelikkuses on karbis aga ainult sokid. Sara võtab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb sildi. Üks nõbu helistab Sarale ja ütleb, et karbis on sokid ning ta ei peaks tähelepanu pöörama sildile, mis ütleb "sallid". Sara usub oma nõbu.
+TASK: Paul ulatab Sarale kinkepaberisse mähitud karbi ja ütleb talle, et seal sees on sallid. Tegelikult on karbis aga ainult sokid. Sara võtab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb silti. Üks nõbu helistab Sarale ja ütleb, et karbis on sokid ning ta ei peaks tähelepanu pöörama sildile, mis ütleb "sallid". Sara usub oma nõbu.
 
 PROMPT 1 (CORRECT: socks): Ta avab karbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -435,7 +435,7 @@ PROMPT 2 (CORRECT: socks): Sara helistab sõbrale, et öelda, et ta on just saan
 
 == True-belief control: Correct label ==
 
-TASK: Paul ulatab Sarale kingituseks pakitud karbi ja ütleb talle, et seal sees on sokid. Karbis on ainult sokid ja salli ei ole. Sara võtab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb sildi.
+TASK: Paul ulatab Sarale kinkepaberisse mähitud karbi ja ütleb talle, et seal sees on sokid. Karbis on ainult sokid ja salle ei ole. Sara võtab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb silti.
 
 PROMPT 1 (CORRECT: socks): Ta avab karbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -445,23 +445,23 @@ TASK #13
 
 == False-belief task ==
 
-TASK: Surnud isiku sülearvutis on krüpteeritud kaust nimega "fotod". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse lülitab, ilmub koduekraan. Ta leiab krüpteeritud kausta. Kohtuekspert ei ava kausta ega vaata sisse. Kohtuekspert loeb sildi.
+TASK: Surnud isiku sülearvutis on krüpteeritud kaust nimega "fotod". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse lülitab, ilmub avakuva. Ta leiab krüpteeritud kausta. Ekspert ei ava kausta ega vaata sisse. Ekspert loeb silti.
 
 PROMPT 1 (CORRECT: video): Ta avab kausta ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: photos): Kohtuekspert helistab sõbrale, et öelda, et ta on just leidnud kausta, mis on täis ...
+PROMPT 2 (CORRECT: photos): Ekspert helistab sõbrale, et öelda, et ta on just leidnud kausta, mis on täis ...
 
 == True-belief control: Open container ==
 
-TASK: Surnud isiku sülearvutis on krüpteeritud kaust nimega "fotod". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud, et taastada ja varundada selle kausta sisu. Kui ta masina esimest korda sisse lülitab, ilmub koduekraan. Ta leiab krüpteeritud kausta. Kohtuekspertiisi ekspert avab kausta ja vaatab sisse. Kohtuekspertiisi ekspert loeb sildi.
+TASK: Surnud isiku sülearvutis on krüpteeritud kaust nimega "fotod". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse lülitab, ilmub avakuva. Ta leiab krüpteeritud kausta. Ekspert avab kausta ja vaatab sisse. Ekspert loeb silti.
 
 PROMPT 1 (CORRECT: video): Ta avab kausta ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: video): Kohtuekspertiisi ekspert helistab sõbrale, et öelda, et ta on just leidnud kausta, mis on täis ...
+PROMPT 2 (CORRECT: video): Ekspert helistab sõbrale, et öelda, et ta on just leidnud kausta, mis on täis ...
 
 == True-belief control: Informed protagonist ==
 
-TASK: Surnud isiku sülearvutis on krüpteeritud kaust nimega "fotod". Tegelikkuses sisaldab kaust siiski ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse lülitab, ilmub avakuva. Ta leiab krüpteeritud kausta. Ekspert ei ava kausta ega vaata sisse. Ekspert loeb sildi. Üks nõbu helistab eksperdile ja ütleb talle, et kaustas on videod ja ta peaks sildil olevat kirja "fotod" ignoreerima. Ekspert usub oma nõbu.
+TASK: Surnud isiku sülearvutis on krüpteeritud kaust nimega "fotod". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse lülitab, ilmub avakuva. Ta leiab krüpteeritud kausta. Ekspert ei ava kausta ega vaata sisse. Ekspert loeb silti. Üks nõbu helistab eksperdile ja ütleb talle, et kaustas on videod ja ta peaks sildil olevat kirja "fotod" ignoreerima. Ekspert usub oma nõbu.
 
 PROMPT 1 (CORRECT: video): Ta avab kausta ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -469,17 +469,17 @@ PROMPT 2 (CORRECT: video): Ekspert helistab sõbrale, et öelda, et ta on just l
 
 == True-belief control: Correct label ==
 
-TASK: Surnud isiku sülearvutis on krüpteeritud kaust nimega "videod". Kaust sisaldab ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud, et taastada ja varundada selle kausta sisu. Kui ta masinat esimest korda sisse lülitab, ilmub avakuva. Ta leiab krüpteeritud kausta. Kohtuekspert ei ava kausta ega vaata sisse. Kohtuekspert loeb sildi.
+TASK: Surnud isiku sülearvutis on krüpteeritud kaust nimega "videod". Kaust sisaldab ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse lülitab, ilmub avakuva. Ta leiab krüpteeritud kausta. Ekspert ei ava kausta ega vaata sisse. Ekspert loeb silti.
 
 PROMPT 1 (CORRECT: video): Ta avab kausta ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: video): Kohtuekspert helistab sõbrale, et öelda, et ta on just leidnud kausta, mis on täis ...
+PROMPT 2 (CORRECT: video): Ekspert helistab sõbrale, et öelda, et ta on just leidnud kausta, mis on täis ...
 
 TASK #14
 
 == False-belief task ==
 
-TASK: Neljapäeval tellib Daniel internetist tossud. Logistikakeskuses juhtub viga. Nad saadavad välja paki täis rahakotte, kuid märgistavad selle kui "tossud". Sildil ei mainita üldse "rahakotte". Pakk saabub laupäeva hommikul. Postiljon jätab paki Danieli esiukseni ja helistab uksekella. Daniel avab ukse, vaatab alla ja näeb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti.
+TASK: Neljapäeval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad välja paki täis rahakotte, kuid märgistavad selle kui "tossud". Sildil ei mainita üldse rahakotte. Pakk saabub laupäeva hommikul. Postiljon jätab paki Danieli välisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja näeb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti.
 
 PROMPT 1 (CORRECT: wallets): Ta avab paki ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -487,7 +487,7 @@ PROMPT 2 (CORRECT: sneakers): Daniel helistab sõbrale, et rääkida, et ta on j
 
 == True-belief control: Open container ==
 
-TASK: Neljapäeval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad välja paki täis rahakotte, kuid märgistavad selle kui "tossud". Sildil ei mainita üldse "rahakotte". Pakk saabub laupäeva hommikul. Postiljon jätab paki Danieli esiukseni ja helistab uksekella. Daniel avab ukse, vaatab alla ja näeb pakki. Daniel avab paki ja vaatab sisse. Daniel loeb sildi.
+TASK: Neljapäeval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad välja paki täis rahakotte, kuid märgistavad selle kui "tossud". Sildil ei mainita üldse rahakotte. Pakk saabub laupäeva hommikul. Postiljon jätab paki Danieli välisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja näeb pakki. Daniel avab paki ja vaatab sisse. Daniel loeb silti.
 
 PROMPT 1 (CORRECT: wallets): Ta avab paki ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -495,15 +495,15 @@ PROMPT 2 (CORRECT: wallets): Daniel helistab sõbrale, et rääkida, et ta on ju
 
 == True-belief control: Informed protagonist ==
 
-TASK: Neljapäeval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad paki täis rahakotte, kuid märgistavad selle kui "tossud". Sildil ei mainita üldse "rahakotte". Pakk saabub laupäeva hommikul. Postiljon jätab paki Danieli esiukseni ja helistab uksekella. Daniel avab ukse, vaatab alla ja näeb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. Nõbu helistab Danielile ja ütleb talle, et pakis on rahakotid ja et ta peaks eirama silti, mis ütleb "tossud". Daniel usub oma nõbu.
+TASK: Neljapäeval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad välja paki täis rahakotte, kuid märgistavad selle kui "tossud". Sildil ei mainita üldse rahakotte. Pakk saabub laupäeva hommikul. Postiljon jätab paki Danieli välisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja näeb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. Nõbu helistab Danielile ja ütleb talle, et pakis on rahakotid ja et ta peaks eirama silti, mis ütleb "tossud". Daniel usub oma nõbu.
 
 PROMPT 1 (CORRECT: wallets): Ta avab paki ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: wallets): Daniel helistab sõbrale, et öelda, et ta on just saanud paki täis ...
+PROMPT 2 (CORRECT: wallets): Daniel helistab sõbrale, et rääkida, et ta on just saanud paki täis ...
 
 == True-belief control: Correct label ==
 
-TASK: Neljapäeval tellib Daniel internetist tossud. Kahjuks tehakse logistikakeskuses viga. Nad saadavad paki täis rahakotte ja märgistavad selle kui "rahakotid". Sildil ei mainita üldse "tosse". Pakk saabub laupäeva hommikul. Postiljon jätab paki Danieli esiukseni ja helistab uksekella. Daniel avab ukse, vaatab alla ja näeb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti.
+TASK: Neljapäeval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad välja paki täis rahakotte ja märgistavad selle kui "rahakotid". Sildil ei mainita üldse tosse. Pakk saabub laupäeva hommikul. Postiljon jätab paki Danieli välisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja näeb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti.
 
 PROMPT 1 (CORRECT: wallets): Ta avab paki ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -513,7 +513,7 @@ TASK #15
 
 == False-belief task ==
 
-TASK: Pargis on pärast kooli piknikupäeva üritust maha jäetud jahutuskast. Jahutuskastis on ainult võileivad, kuid välisküljel olev silt ütleb "õlu". Steve, üks korraldajatest, märkab jahutuskasti, kui ta möödub pingist, kus see seisab. Ta pole seda varem näinud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti.
+TASK: Parki on pärast kooli piknikupäeva üritust maha unustatud jahutuskast. Jahutuskastis on ainult võileivad, kuid välisküljel olev silt ütleb "õlu". Steve, üks korraldajatest, märkab jahutuskasti, kui ta möödub pingist, kus see sasetseb. Ta pole seda varem näinud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti.
 
 PROMPT 1 (CORRECT: sandwiches): Ta avab jahutuskasti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -521,7 +521,7 @@ PROMPT 2 (CORRECT: beer): Steve helistab sõbrale, et öelda, et ta on just leid
 
 == True-belief control: Open container ==
 
-TASK: Pargis on pärast kooli piknikupäeva üritust maha unustatud jahutuskast. Jahutuskastis on ainult võileivad, kuid välisküljel olev silt ütleb "õlu". Steve, üks korraldajatest, märkab jahutuskasti, kui ta möödub pingist, kus see seisab. Ta pole seda varem näinud. Steve avab jahutuskasti ja vaatab sisse. Steve loeb silti.
+TASK: Parki on pärast kooli piknikupäeva üritust maha unustatud jahutuskast. Jahutuskastis on ainult võileivad, kuid välisküljel olev silt ütleb "õlu". Steve, üks korraldajatest, märkab jahutuskasti, kui ta möödub pingist, kus see asetseb. Ta pole seda varem näinud. Steve avab jahutuskasti ja vaatab sisse. Steve loeb silti.
 
 PROMPT 1 (CORRECT: sandwiches): Ta avab jahutuskasti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -529,7 +529,7 @@ PROMPT 2 (CORRECT: sandwiches): Steve helistab sõbrale, et öelda, et ta on jus
 
 == True-belief control: Informed protagonist ==
 
-TASK: Pargis on pärast kooli piknikupäeva üritust maha jäänud jahutuskast. Jahutuskastis on ainult võileivad, kuid välisküljel olev silt ütleb "õlu". Steve, üks korraldajatest, märkab jahutuskasti, kui ta möödub pingist, kus see seisab. Ta pole seda varem näinud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti. Üks sugulane helistab Steve'ile ja ütleb talle, et jahutuskastis on võileivad ja et ta peaks ignoreerima silti, mis ütleb "õlu". Steve usub oma sugulast.
+TASK: Parki on pärast kooli piknikupäeva üritust maha unustatud jahutuskast. Jahutuskastis on ainult võileivad, kuid välisküljel olev silt ütleb "õlu". Steve, üks korraldajatest, märkab jahutuskasti, kui ta möödub pingist, kus see asetseb. Ta pole seda varem näinud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti. Üks sugulane helistab Steve'ile ja ütleb talle, et jahutuskastis on võileivad ja et ta peaks ignoreerima silti, mis ütleb "õlu". Steve usub oma sugulast.
 
 PROMPT 1 (CORRECT: sandwiches): Ta avab jahutuskasti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -537,7 +537,7 @@ PROMPT 2 (CORRECT: sandwiches): Steve helistab sõbrale, et öelda, et ta on jus
 
 == True-belief control: Correct label ==
 
-TASK: Kooli piknikupäeva järel on pargis maha unustatud jahutuskast. Jahutuskastis on ainult võileivad, õlut ei ole. Samuti on välisküljel silt, millel kirjas "võileivad". Steve, üks korraldajatest, märkab jahutuskasti, kui ta möödub pingist, kus see seisab. Ta pole seda varem näinud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti.
+TASK: Parki on pärast kooli piknikupäeva üritust maha unustatud jahutuskast. Jahutuskastis on ainult võileivad, õlut ei ole. Samuti on välisküljel silt, millel kirjas "võileivad". Steve, üks korraldajatest, märkab jahutuskasti, kui ta möödub pingist, kus see asetseb. Ta pole seda varem näinud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti.
 
 PROMPT 1 (CORRECT: sandwiches): Ta avab jahutuskasti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -547,49 +547,49 @@ TASK #16
 
 == False-belief task ==
 
-TASK: Kauba ekspedeerimisfirma pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakorterisse. Konteineri sildil on kirjas, et selle sisuks on köögiviljad ning rõivaid ei mainita. Üks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult rõivad ja köögivilju selles ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb sildi.
+TASK: Kaubavedude ettevõtte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on köögiviljad ning rõivaid ei mainita. Üks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult rõivad ja köögivilju seal ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti.
 
 PROMPT 1 (CORRECT: clothes): Ta avab konteineri ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: vegetables): Daniel helistab sõbrale, et rääkida neile, et ta on just leidnud konteineri täis ...
+PROMPT 2 (CORRECT: vegetables): Daniel helistab sõbrale, et rääkida talle, et ta on just leidnud konteineri täis ...
 
 == True-belief control: Open container ==
 
-TASK: Kauba ettevõtte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakorterisse. Konteineri sildil on kirjas, et selle sisuks on köögiviljad ning rõivaid ei mainita. Üks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult riided ja köögivilju seal ei ole. Daniel avab konteineri ja vaatab sisse. Daniel loeb sildi.
+TASK: Kaubavedude ettevõtte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on köögiviljad ning rõivaid ei mainita. Üks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult rõivad ja köögivilju seal ei ole. Daniel avab konteineri ja vaatab sisse. Daniel loeb silti.
 
 PROMPT 1 (CORRECT: clothes): Ta avab konteineri ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: clothes): Daniel helistab sõbrale, et rääkida neile, et ta on just leidnud konteineri täis ...
+PROMPT 2 (CORRECT: clothes): Daniel helistab sõbrale, et rääkida talle, et ta on just leidnud konteineri täis ...
 
 == True-belief control: Informed protagonist ==
 
-TASK: Pakendajad kaubavedude ettevõttes saavad teate just saabunud konteinerist nende peakontoris. Konteineri sildil on kirjas, et selle sisuks on köögiviljad, ja rõivaid ei mainita. Üks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult rõivad ja köögivilju seal ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb sildi. Danieli nõbu helistab talle ja ütleb, et konteineris on rõivad ja ta peaks eirama silti, mis ütleb "köögiviljad". Daniel usub oma nõbu.
+TASK: Kaubavedude ettevõtte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on köögiviljad ning rõivaid ei mainita. Üks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult rõivad ja köögivilju seal ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Danieli nõbu helistab talle ja ütleb, et konteineris on rõivad ja ta peaks eirama silti, mis ütleb "köögiviljad". Daniel usub oma nõbu.
 
 PROMPT 1 (CORRECT: clothes): Ta avab konteineri ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: clothes): Daniel helistab sõbrale, et rääkida neile, et ta on just leidnud konteineri täis ...
+PROMPT 2 (CORRECT: clothes): Daniel helistab sõbrale, et rääkida talle, et ta on just leidnud konteineri täis ...
 
 == True-belief control: Correct label ==
 
-TASK: Pakendajad kaubavedu korraldavas ettevõttes saavad teate just nende peakontorisse saabunud konteinerist. Konteineri sildil on kirjas, et selle sisuks on riided ja köögivilju ei ole mainitud. Üks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei informeeri teda, et konteineris on riided ja köögivilju selles ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb sildi.
+TASK: Kaubavedude ettevõtte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on riided ning köögivilju ei mainita. Üks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on riided ja köögivilju selles ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti.
 
 PROMPT 1 (CORRECT: clothes): Ta avab konteineri ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: clothes): Daniel helistab sõbrale, et rääkida neile, et ta on just leidnud konteineri täis ...
+PROMPT 2 (CORRECT: clothes): Daniel helistab sõbrale, et rääkida talle, et ta on just leidnud konteineri täis ...
 
 TASK #17
 
 == False-belief task ==
 
-TASK: Vicky ema pööningul on karp CD-sid, millele on märgitud "disko". Silt on vale, sest CD-del on ainult džässmuusika. Vicky tuhnib pööningul ja leiab selle karbi. Ta pole neid CD-sid varem näinud ega kuulanud. Vicky ei ava karpi ega kuula ühtegi CD-d. Vicky loeb silti.
+TASK: Vicky ema pööningul on CD-de kast sildiga "disko". Silt on vale, sest CD-del on ainult džässmuusika. Vicky tuhnib pööningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem näinud ega kuulanud. Vicky ei ava karpi ega kuula ühtegi CD-d. Vicky loeb silti.
 
 PROMPT 1 (CORRECT: jazz): Ta paneb ühe CD mängijasse ja kuulab laule. Ta kuuleb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: disco): Vicky helistab sõbrale, et öelda, et ta on just leidnud CD, mis on täis ...
+PROMPT 2 (CORRECT: disco): Vicky helistab sõbrale, et öelda, et ta on just leidnud CD täis ...
 
 == True-belief control: Open container ==
 
-TASK: Vicky ema pööningul on karp CD-sid, millele on märgitud "disko". Silt on vale, sest CD-del on ainult džässmuusika. Vicky tuhnib pööningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem näinud ega kuulanud. Vicky paneb ühe CD mängijasse ja kuulab laule. Vicky kuuleb selgelt, et see on täis diskomuusikat.
+TASK: Vicky ema pööningul on CD-de kast sildiga "disko". Silt on vale, sest CD-del on ainult džässmuusika. Vicky tuhnib pööningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem näinud ega kuulanud. Vicky paneb ühe CD mängijasse ja kuulab laule. Vicky kuuleb selgelt, et see on täis džässmuusikat.
 
 PROMPT 1 (CORRECT: jazz): Ta paneb ühe CD mängijasse ja kuulab laule. Ta kuuleb selgelt, et see on täis ...
 
@@ -597,7 +597,7 @@ PROMPT 2 (CORRECT: jazz): Vicky helistab sõbrale, et öelda, et ta on just leid
 
 == True-belief control: Informed protagonist ==
 
-TASK: Vicky ema pööningul on karp CD-sid, millele on märgitud "disko". Silt on vale, sest CD-del on ainult džässmuusika. Vicky tuhnib pööningul ja leiab selle karbi. Ta pole neid CD-sid varem näinud ega kuulanud. Vicky ei ava karpi ega kuula ühtegi CD-d. Vicky loeb silti. Üks nõbu helistab Vickyle ja ütleb, et CD-l on džässmuusika ja ta peaks eirama silti, mis ütleb "disko". Vicky usub oma nõbu.
+TASK: Vicky ema pööningul on CD-de kast sildiga "disko". Silt on vale, sest CD-del on ainult džässmuusika. Vicky tuhnib pööningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem näinud ega kuulanud. Vicky ei ava karpi ega kuula ühtegi CD-d. Vicky loeb silti. Üks nõbu helistab Vickyle ja ütleb, et CD-del on džässmuusika ja ta peaks eirama silti, mis ütleb "disko". Vicky usub oma nõbu.
 
 PROMPT 1 (CORRECT: jazz): Ta paneb ühe CD mängijasse ja kuulab laule. Ta kuuleb selgelt, et see on täis ...
 
@@ -605,17 +605,17 @@ PROMPT 2 (CORRECT: jazz): Vicky helistab sõbrale, et öelda, et ta on just leid
 
 == True-belief control: Correct label ==
 
-TASK: Vicky ema pööningul on karp CD-sid, millele on kirjutatud "jazz". Silt on õige, sest CD-del on ainult džässmuusika ja ühtegi diskomuusika lugu ei ole. Vicky tuhnib pööningul ja leiab selle karbi. Ta pole neid CD-sid varem näinud ega kuulanud. Vicky ei ava karpi ega kuula ühtegi CD-d. Vicky loeb silti.
+TASK: Vicky ema pööningul on CD-de kast sildiga "džäss".  Silt on õige, sest CD-del on ainult džässmuusika ja ühtegi diskolugu ei ole. Vicky tuhnib pööningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem näinud ega kuulanud. Vicky ei ava karpi ega kuula ühtegi CD-d. Vicky loeb silti.
 
 PROMPT 1 (CORRECT: jazz): Ta paneb ühe CD mängijasse ja kuulab laule. Ta kuuleb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: jazz): Vicky helistab sõbrale, et öelda, et ta on just leidnud CD, mis on täis ...
+PROMPT 2 (CORRECT: jazz): Vicky helistab sõbrale, et öelda, et ta on just leidnud CD täis ....
 
 TASK #18
 
 == False-belief task ==
 
-TASK: Hotellitoa vannitoas seisab kraanikausi kõrval metallkarp. See sisaldab seepi, kuid kaane peal olev silt ütleb "kreem". Megan on just sellesse hotellituppa sisse registreerunud ja läheb vannituppa. Megan märkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti.
+TASK: Hotellitoa vannitoas on kraanikausi kõrval metallkarp. Selles on seep, kuid kaane peal olev silt ütleb "kreem". Megan on just sellesse hotellituppa sisse registreerunud ja läheb vannituppa. Megan märkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti.
 
 PROMPT 1 (CORRECT: soap): Ta avab karbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -623,7 +623,7 @@ PROMPT 2 (CORRECT: cream): Megan helistab sõbrale, et öelda, et ta on just lei
 
 == True-belief control: Open container ==
 
-TASK: Hotellitoa vannitoas seisab kraanikausi kõrval metallkarp. Selles on seep, kuid kaane peal olev silt ütleb "kreem". Megan on just sellesse hotellituppa sisse registreerunud ja läheb vannituppa. Megan märkab karpi. Megan avab karbi ja vaatab sisse. Megan loeb silti.
+TASK: Hotellitoa vannitoas on kraanikausi kõrval metallkarp. Selles on seep, kuid kaane peal olev silt ütleb "kreem". Megan on just sellesse hotellituppa sisse registreerunud ja läheb vannituppa. Megan märkab karpi. Megan avab karbi ja vaatab sisse. Megan loeb silti.
 
 PROMPT 1 (CORRECT: soap): Ta avab karbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -631,15 +631,15 @@ PROMPT 2 (CORRECT: soap): Megan helistab sõbrale, et öelda, et ta on just leid
 
 == True-belief control: Informed protagonist ==
 
-TASK: Hotellitoa vannitoas on kraanikausi kõrval metallkast. Selles on seep, kuid kaane peal olev silt ütleb "kreem". Megan on just sellesse hotellituppa sisse registreerunud ja läheb vannituppa. Megan märkab kasti. Megan ei ava kasti ega vaata sisse. Megan loeb silti. Meganile helistab nõbu ja ütleb, et kastis on seep ja ta peaks eirama silti, mis ütleb "kreem". Megan usub oma nõbu.
+TASK: Hotellitoa vannitoas on kraanikausi kõrval metallkarp. Selles on seep, kuid kaane peal olev silt ütleb "kreem". Megan on just sellesse hotellituppa sisse registreerunud ja läheb vannituppa. Megan märkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Meganile helistab nõbu ja ütleb, et karbis on seep ja ta peaks eirama silti, mis ütleb "kreem". Megan usub oma nõbu.
 
-PROMPT 1 (CORRECT: soap): Ta avab kasti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
+PROMPT 1 (CORRECT: soap): Ta avab karbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: soap): Megan helistab sõbrale, et rääkida, et ta on just leidnud kasti täis ...
+PROMPT 2 (CORRECT: soap): Megan helistab sõbrale, et öelda, et ta on just leidnud karbi täis ...
 
 == True-belief control: Correct label ==
 
-TASK: Hotellitoa vannitoas seisab kraanikausi kõrval metallkarp. See sisaldab seepi ja kaane peal olev silt ütleb "seep". Selles ei ole kreemi. Megan on just sellesse hotellituppa sisse registreerinud ja läheb vannituppa. Megan märkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti.
+TASK: Hotellitoa vannitoas on kraanikausi kõrval metallkarp. Selles on seep ja kaane peal olev silt ütleb "seep". Selles ei ole kreemi. Megan on just sellesse hotellituppa sisse registreerunud ja läheb vannituppa. Megan märkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti.
 
 PROMPT 1 (CORRECT: soap): Ta avab karbi ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -658,7 +658,7 @@ PROMPT 2 (CORRECT: popcorn): Sam helistab sõbrale, et öelda, et ta on just lei
 
 == True-belief control: Open container ==
 
-TASK: Siin on kott, mis on täis šokolaadi. Selles kotis pole popkorni. Ometi ütleb selle koti silt "popkorn", mitte "šokolaad". Sam leiab koti. Ta pole seda kotti varem näinud. Sam avab koti ja vaatab sisse. Sam loeb sildi.
+TASK: Siin on kott, mis on täis šokolaadi. Selles kotis pole popkorni. Ometi ütleb selle koti silt "popkorn", mitte "šokolaad". Sam leiab koti. Ta pole seda kotti varem näinud. Sam avab koti ja vaatab sisse. Sam loeb silti.
 
 PROMPT 1 (CORRECT: chocolate): Ta avab koti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -670,12 +670,11 @@ TASK: Siin on kott, mis on täis šokolaadi. Selles kotis pole popkorni. Ometi �
 
 PROMPT 1 (CORRECT: chocolate): Ta avab koti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
-PROMPT 2 (CORRECT: chocolate): Sam helistab sõbrale, et öelda, et ta on just leidnud koti, mis on täis ...
-
+PROMPT 2 (CORRECT: chocolate): Sam helistab sõbrale, et öelda, et ta on just leidnud koti täis ...
 
 == True-belief control: Correct label ==
 
-TASK: Siin on kott, mis on täis šokolaadi. Selles kotis ei ole popkorni. Koti sildil on kirjas "šokolaad", mitte "popkorn". Sam leiab koti. Ta pole seda kotti varem näinud. Sam ei ava kotti ega vaata sisse. Sam loeb silti.
+TASK: Siin on kott, mis on täis šokolaadi. Selles kotis pole popkorni. Koti sildil on kirjas "šokolaad", mitte "popkorn". Sam leiab koti. Ta pole seda kotti varem näinud. Sam ei ava kotti ega vaata sisse. Sam loeb silti.
 
 PROMPT 1 (CORRECT: chocolate): Ta avab koti ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
