@@ -605,7 +605,7 @@ PROMPT 2 (CORRECT: jazz): Vicky helistab sõbrale, et öelda, et ta on just leid
 
 == True-belief control: Correct label ==
 
-TASK: Vicky ema pööningul on CD-de kast sildiga "džäss".  Silt on õige, sest CD-del on ainult džässmuusika ja ühtegi diskolugu ei ole. Vicky tuhnib pööningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem näinud ega kuulanud. Vicky ei ava karpi ega kuula ühtegi CD-d. Vicky loeb silti.
+TASK: Vicky ema pööningul on CD-de kast sildiga "džäss". Silt on õige, sest CD-del on ainult džässmuusika ja ühtegi diskolugu ei ole. Vicky tuhnib pööningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem näinud ega kuulanud. Vicky ei ava karpi ega kuula ühtegi CD-d. Vicky loeb silti.
 
 PROMPT 1 (CORRECT: jazz): Ta paneb ühe CD mängijasse ja kuulab laule. Ta kuuleb selgelt, et see on täis ...
 
