@@ -571,7 +571,7 @@ PROMPT 2 (CORRECT: clothes): Daniel helistab sõbrale, et rääkida talle, et ta
 
 == True-belief control: Correct label ==
 
-TASK: Kaubavedude ettevõtte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on riided ning köögivilju ei mainita. Üks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on riided ja köögivilju selles ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti.
+TASK: Kaubavedude ettevõtte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on rõivad ning köögivilju ei mainita. Üks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on rõivad ja köögivilju selles ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti.
 
 PROMPT 1 (CORRECT: clothes): Ta avab konteineri ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
