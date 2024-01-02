@@ -207,7 +207,7 @@ TASK #6
 
 == False-belief task ==
 
-TASK: Julia korteri ukse ees lebab ümbrik. Ümbrik on täis reklaamlehti ning selles ei ole ühtegi kviitungit. Siiski on välisküljele kinnitatud silt sõnaga "kviitungid". Sildil ei mainita "voldikuid". Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, möödub ja märkab põrandal ümbrikut. Ta mõtleb, mis võiks ümbrikus olla. Julia naaber ei ava ümbrikut ega vaata sisse. Julia naaber loeb silti.
+TASK: Julia korteri ukse ees lebab ümbrik. Ümbrik on täis reklaamlehti ning selles ei ole ühtegi kviitungit. Siiski on välisküljele kinnitatud silt sõnaga "kviitungid". Sildil ei mainita reklaamlehti. Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, möödub ja märkab põrandal ümbrikut. Ta mõtleb, mis võiks ümbrikus olla. Julia naaber ei ava ümbrikut ega vaata sisse. Julia naaber loeb silti.
 
 PROMPT 1 (CORRECT: leaflets): Ta avab ümbriku ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
@@ -223,7 +223,7 @@ PROMPT 2 (CORRECT: leaflets): Julia naaber helistab sõbrale, et öelda, et ta o
 
 == True-belief control: Informed protagonist ==
 
-TASK: Julia korteri ukse ees lebab ümbrik. Ümbrik on täis reklaamlehti ning selles ei ole ühtegi kviitungit. Siiski on välisküljele kinnitatud silt sõnaga "kviitungid". Sildil ei mainita "reklaamlehti". Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, möödub ja märkab põrandal ümbrikut. Ta mõtleb, mis võiks ümbrikus olla. Julia naaber ei ava ümbrikut ega vaata sisse. Julia naaber loeb silti. Nõbu helistab Julia naabrile ja ütleb talle, et ümbrikus on reklaamlehed ja et ta peaks eirama silti, mis ütleb "kviitungid". Julia naaber usub oma nõbu.
+TASK: Julia korteri ukse ees lebab ümbrik. Ümbrik on täis reklaamlehti ning selles ei ole ühtegi kviitungit. Siiski on välisküljele kinnitatud silt sõnaga "kviitungid". Sildil ei mainita reklaamlehti. Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, möödub ja märkab põrandal ümbrikut. Ta mõtleb, mis võiks ümbrikus olla. Julia naaber ei ava ümbrikut ega vaata sisse. Julia naaber loeb silti. Nõbu helistab Julia naabrile ja ütleb talle, et ümbrikus on reklaamlehed ja et ta peaks eirama silti, mis ütleb "kviitungid". Julia naaber usub oma nõbu.
 
 PROMPT 1 (CORRECT: leaflets): Ta avab ümbriku ja vaatab sisse. Ta näeb selgelt, et see on täis ...
 
