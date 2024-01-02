@@ -672,7 +672,6 @@ PROMPT 1 (CORRECT: chocolate): Ta avab koti ja vaatab sisse. Ta näeb selgelt, e
 
 PROMPT 2 (CORRECT: chocolate): Sam helistab sõbrale, et öelda, et ta on just leidnud koti, mis on täis ...
 
-
 == True-belief control: Correct label ==
 
 TASK: Siin on kott, mis on täis šokolaadi. Selles kotis ei ole popkorni. Koti sildil on kirjas "šokolaad", mitte "popkorn". Sam leiab koti. Ta pole seda kotti varem näinud. Sam ei ava kotti ega vaata sisse. Sam loeb silti.
