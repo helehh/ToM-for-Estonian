@@ -1,0 +1,1922 @@
+[
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 0,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Riiulil on l\u00e4bipaistmatu pudel. See on t\u00e4is \u00f5lut; selles ei ole veini. Ometi \u00fctleb selle pudeli silt \"vein\", mitte \"\u00f5lu\". Mark astub tuppa ja m\u00e4rkab pudelit. Ta pole seda varem n\u00e4inud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti. Ta avab pudeli ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 0,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Riiulil on l\u00e4bipaistmatu pudel. See on t\u00e4is \u00f5lut; selles ei ole veini. Ometi \u00fctleb selle pudeli silt \"vein\", mitte \"\u00f5lu\". Mark astub tuppa ja m\u00e4rkab pudelit. Ta pole seda varem n\u00e4inud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti. Mark helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud pudeli t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 0,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Riiulil on l\u00e4bipaistmatu pudel. See on t\u00e4is \u00f5lut; selles ei ole veini. Ometi \u00fctleb selle pudeli silt \"vein\", mitte \"\u00f5lu\". Mark astub tuppa ja m\u00e4rkab pudelit. Ta pole seda varem n\u00e4inud. Mark avab pudeli ja vaatab sisse. Mark loeb silti. Ta avab pudeli ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 0,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Riiulil on l\u00e4bipaistmatu pudel. See on t\u00e4is \u00f5lut; selles ei ole veini. Ometi \u00fctleb selle pudeli silt \"vein\", mitte \"\u00f5lu\". Mark astub tuppa ja m\u00e4rkab pudelit. Ta pole seda varem n\u00e4inud. Mark avab pudeli ja vaatab sisse. Mark loeb silti. Mark helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud pudeli t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 0,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Riiulil on l\u00e4bipaistmatu pudel. See on t\u00e4is \u00f5lut; selles ei ole veini. Ometi \u00fctleb selle pudeli silt \"vein\", mitte \"\u00f5lu\". Mark astub tuppa ja m\u00e4rkab pudelit. Ta pole seda varem n\u00e4inud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti. N\u00f5bu helistab Markile ja \u00fctleb, et pudelis on \u00f5lu ja ta peaks eirama silti, mis \u00fctleb \"vein\". Mark usub oma n\u00f5bu. Ta avab pudeli ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 0,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Riiulil on l\u00e4bipaistmatu pudel. See on t\u00e4is \u00f5lut; selles ei ole veini. Ometi \u00fctleb selle pudeli silt \"vein\", mitte \"\u00f5lu\". Mark astub tuppa ja m\u00e4rkab pudelit. Ta pole seda varem n\u00e4inud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti. N\u00f5bu helistab Markile ja \u00fctleb, et pudelis on \u00f5lu ja ta peaks eirama silti, mis \u00fctleb \"vein\". Mark usub oma n\u00f5bu. Mark helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud pudeli t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 0,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Riiulil on l\u00e4bipaistmatu pudel. See on t\u00e4is \u00f5lut; selles ei ole veini. Selle pudeli sildil on kirjas \"\u00f5lu\", mitte \"vein\". Mark astub tuppa ja m\u00e4rkab pudelit. Ta pole seda varem n\u00e4inud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti. Ta avab pudeli ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 0,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Riiulil on l\u00e4bipaistmatu pudel. See on t\u00e4is \u00f5lut; selles ei ole veini. Selle pudeli sildil on kirjas \"\u00f5lu\", mitte \"vein\". Mark astub tuppa ja m\u00e4rkab pudelit. Ta pole seda varem n\u00e4inud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti. Mark helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud pudeli t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 1,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Ettev\u00f5tte peakontori riiulil on k\u00f5vaketas, mis sisaldab ainult helifaile ja mitte \u00fchtegi videofaili. Ometi on selle sildil selgelt kirjas \"videofailid\", mitte \"helifailid\". Sarah, \u00e4sja palgatud arvutiinsener, leiab riiulilt k\u00f5vaketta. Ta pole seda k\u00f5vaketast varem n\u00e4inud. Sarah ei ava k\u00f5vaketast ega vaata selle sisse. Sarah loeb silti. Ta avab k\u00f5vaketta ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 1,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Ettev\u00f5tte peakontori riiulil on k\u00f5vaketas, mis sisaldab ainult helifaile ja mitte \u00fchtegi videofaili. Ometi on selle sildil selgelt kirjas \"videofailid\", mitte \"helifailid\". Sarah, \u00e4sja palgatud arvutiinsener, leiab riiulilt k\u00f5vaketta. Ta pole seda k\u00f5vaketast varem n\u00e4inud. Sarah ei ava k\u00f5vaketast ega vaata selle sisse. Sarah loeb silti. Sarah helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud k\u00f5vaketta t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 1,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Ettev\u00f5tte peakontori riiulil on k\u00f5vaketas, mis sisaldab ainult helifaile ja mitte \u00fchtegi videofaili. Ometi on selle sildil selgelt kirjas \"videofailid\", mitte \"helifailid\". Sarah, \u00e4sja palgatud arvutiinsener, leiab riiulilt k\u00f5vaketta Ta pole seda k\u00f5vaketast varem n\u00e4inud. Sarah avab k\u00f5vaketta ja vaatab sisse. Sarah loeb silti. Ta avab k\u00f5vaketta ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 1,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Ettev\u00f5tte peakontori riiulil on k\u00f5vaketas, mis sisaldab ainult helifaile ja mitte \u00fchtegi videofaili. Ometi on selle sildil selgelt kirjas \"videofailid\", mitte \"helifailid\". Sarah, \u00e4sja palgatud arvutiinsener, leiab riiulilt k\u00f5vaketta Ta pole seda k\u00f5vaketast varem n\u00e4inud. Sarah avab k\u00f5vaketta ja vaatab sisse. Sarah loeb silti. Sarah helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud k\u00f5vaketta t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 1,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Ettev\u00f5tte peakontori riiulil on k\u00f5vaketas, mis sisaldab ainult helifaile ja mitte \u00fchtegi videofaili. Ometi on selle sildil selgelt kirjas \"videofailid\", mitte \"helifailid\". Sarah, \u00e4sja palgatud arvutiinsener, leiab riiulilt k\u00f5vaketta. Ta pole seda k\u00f5vaketast varem n\u00e4inud. Sarah ei ava k\u00f5vaketast ega vaata selle sisse. Sarah loeb silti. N\u00f5bu helistab Sarah'le ja \u00fctleb talle, et k\u00f5vakettal on helifailid ja ta peaks eirama silti, mis \u00fctleb \"video\". Sarah usub oma n\u00f5bu. Ta avab k\u00f5vaketta ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 1,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Ettev\u00f5tte peakontori riiulil on k\u00f5vaketas, mis sisaldab ainult helifaile ja mitte \u00fchtegi videofaili. Ometi on selle sildil selgelt kirjas \"videofailid\", mitte \"helifailid\". Sarah, \u00e4sja palgatud arvutiinsener, leiab riiulilt k\u00f5vaketta. Ta pole seda k\u00f5vaketast varem n\u00e4inud. Sarah ei ava k\u00f5vaketast ega vaata selle sisse. Sarah loeb silti. N\u00f5bu helistab Sarah'le ja \u00fctleb talle, et k\u00f5vakettal on helifailid ja ta peaks eirama silti, mis \u00fctleb \"video\". Sarah usub oma n\u00f5bu. Sarah helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud k\u00f5vaketta t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 1,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Ettev\u00f5tte peakontori riiulil on k\u00f5vaketas, mis sisaldab ainult helifaile ja mitte \u00fchtegi videofaili. Selle sildil on selgelt kirjas \"helifailid\", mitte \"videofailid\". Sarah, \u00e4sja palgatud arvutiinsener, leiab riiulilt k\u00f5vaketta. Ta pole seda k\u00f5vaketast varem n\u00e4inud. Sarah ei ava k\u00f5vaketast ega vaata selle sisse. Sarah loeb silti. Ta avab k\u00f5vaketta ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 1,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Ettev\u00f5tte peakontori riiulil on k\u00f5vaketas, mis sisaldab ainult helifaile ja mitte \u00fchtegi videofaili. Selle sildil on selgelt kirjas \"helifailid\", mitte \"videofailid\". Sarah, \u00e4sja palgatud arvutiinsener, leiab riiulilt k\u00f5vaketta. Ta pole seda k\u00f5vaketast varem n\u00e4inud. Sarah ei ava k\u00f5vaketast ega vaata selle sisse. Sarah loeb silti. Sarah helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud k\u00f5vaketta t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 2,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: S\u00fcgavk\u00fclmas on anum t\u00e4is vanillij\u00e4\u00e4tist. Seal sees ei ole maasikamoosi. Siiski \u00fctleb silt \"maasikamoos\" ja mitte \"vanillij\u00e4\u00e4tis\". Silt on vale. \u00dchel p\u00e4eval leiab Floriane anuma ja m\u00f5istab, et pole seda varem n\u00e4inud. Floriane ei ava anumat ega vaata sisse. Floriane loeb silti. Ta avab anuma ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 2,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: S\u00fcgavk\u00fclmas on anum t\u00e4is vanillij\u00e4\u00e4tist. Seal sees ei ole maasikamoosi. Siiski \u00fctleb silt \"maasikamoos\" ja mitte \"vanillij\u00e4\u00e4tis\". Silt on vale. \u00dchel p\u00e4eval leiab Floriane anuma ja m\u00f5istab, et pole seda varem n\u00e4inud. Floriane ei ava anumat ega vaata sisse. Floriane loeb silti. Floriane helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud anuma t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 2,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: S\u00fcgavk\u00fclmas on anum t\u00e4is vanillij\u00e4\u00e4tist. Seal sees ei ole maasikamoosi. Siiski \u00fctleb silt \"maasikamoos\" ja mitte \"vanillij\u00e4\u00e4tis\". Silt on vale. \u00dchel p\u00e4eval leiab Floriane anuma ja m\u00f5istab, et pole seda varem n\u00e4inud. Floriane avab anuma ja vaatab sisse. Floriane loeb silti. Ta avab anuma ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 2,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: S\u00fcgavk\u00fclmas on anum t\u00e4is vanillij\u00e4\u00e4tist. Seal sees ei ole maasikamoosi. Siiski \u00fctleb silt \"maasikamoos\" ja mitte \"vanillij\u00e4\u00e4tis\". Silt on vale. \u00dchel p\u00e4eval leiab Floriane anuma ja m\u00f5istab, et pole seda varem n\u00e4inud. Floriane avab anuma ja vaatab sisse. Floriane loeb silti. Floriane helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud anuma t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 2,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: S\u00fcgavk\u00fclmas on anum t\u00e4is vanillij\u00e4\u00e4tist. Seal sees ei ole maasikamoosi. Siiski \u00fctleb silt \"maasikamoos\" ja mitte \"vanillij\u00e4\u00e4tis\". Silt on vale. \u00dchel p\u00e4eval leiab Floriane anuma ja m\u00f5istab, et pole seda varem n\u00e4inud. Floriane ei ava anumat ega vaata sisse. Floriane loeb silti. \u00dcks n\u00f5bu helistab Florianele ja \u00fctleb, et anumas on vanillij\u00e4\u00e4tis ja ta peaks eirama silti, mis \u00fctleb \"maasikamoos\". Floriane usub oma n\u00f5bu. Ta avab anuma ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 2,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: S\u00fcgavk\u00fclmas on anum t\u00e4is vanillij\u00e4\u00e4tist. Seal sees ei ole maasikamoosi. Siiski \u00fctleb silt \"maasikamoos\" ja mitte \"vanillij\u00e4\u00e4tis\". Silt on vale. \u00dchel p\u00e4eval leiab Floriane anuma ja m\u00f5istab, et pole seda varem n\u00e4inud. Floriane ei ava anumat ega vaata sisse. Floriane loeb silti. \u00dcks n\u00f5bu helistab Florianele ja \u00fctleb, et anumas on vanillij\u00e4\u00e4tis ja ta peaks eirama silti, mis \u00fctleb \"maasikamoos\". Floriane usub oma n\u00f5bu. Floriane helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud anuma t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 2,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: S\u00fcgavk\u00fclmas on anum t\u00e4is vanillij\u00e4\u00e4tist. Seal sees ei ole maasikamoosi. Sildil on kirjas \"vanillij\u00e4\u00e4tis\" ja mitte \"maasikamoos\". Silt on \u00f5ige. \u00dchel p\u00e4eval leiab Floriane anuma ja m\u00f5istab, et pole seda varem n\u00e4inud. Floriane ei ava anumat ega vaata sisse. Floriane loeb silti. Ta avab anuma ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 2,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: S\u00fcgavk\u00fclmas on anum t\u00e4is vanillij\u00e4\u00e4tist. Seal sees ei ole maasikamoosi. Sildil on kirjas \"vanillij\u00e4\u00e4tis\" ja mitte \"maasikamoos\". Silt on \u00f5ige. \u00dchel p\u00e4eval leiab Floriane anuma ja m\u00f5istab, et pole seda varem n\u00e4inud. Floriane ei ava anumat ega vaata sisse. Floriane loeb silti. Floriane helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud anuma t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 3,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 3,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. Mary helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud konteineri t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 3,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary avab konteineri ja vaatab sisse. Mary loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 3,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary avab konteineri ja vaatab sisse. Mary loeb silti. Mary helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud konteineri t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 3,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. \u00dcks sugulane helistab Maryle ja \u00fctleb talle, et konteineris on arvutid ja ta peaks eirama silti, mis \u00fctleb \"mootorrattad\". Mary usub oma sugulast. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 3,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. \u00dcks sugulane helistab Maryle ja \u00fctleb talle, et konteineris on arvutid ja ta peaks eirama silti, mis \u00fctleb \"mootorrattad\". Mary usub oma sugulast. Mary helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud konteineri t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 3,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. M\u00e4rgistusel on kirjas, et see sisaldab arvuteid ja mootorrattaid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 3,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. M\u00e4rgistusel on kirjas, et see sisaldab arvuteid ja mootorrattaid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. Mary helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud konteineri t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 4,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Laua peal t\u00fchjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte \u00fchtegi pliiatsit. Ometi on karp m\u00e4rgistatud s\u00f5naga \"pliiatsid\", mitte \"pastakad\". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem n\u00e4inud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 4,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Laua peal t\u00fchjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte \u00fchtegi pliiatsit. Ometi on karp m\u00e4rgistatud s\u00f5naga \"pliiatsid\", mitte \"pastakad\". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem n\u00e4inud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti. Osaleja helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 4,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Laua peal t\u00fchjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte \u00fchtegi pliiatsit. Ometi on karp m\u00e4rgistatud s\u00f5naga \"pliiatsid\", mitte \"pastakad\". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem n\u00e4inud. Osaleja avab kasti ja vaatab sisse. Osaleja loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 4,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Laua peal t\u00fchjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte \u00fchtegi pliiatsit. Ometi on karp m\u00e4rgistatud s\u00f5naga \"pliiatsid\", mitte \"pastakad\". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem n\u00e4inud. Osaleja avab kasti ja vaatab sisse. Osaleja loeb silti. Osaleja helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 4,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Laua peal t\u00fchjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte \u00fchtegi pliiatsit. Ometi on karp m\u00e4rgistatud s\u00f5naga \"pliiatsid\", mitte \"pastakad\". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem n\u00e4inud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti. Osalejale helistab tema n\u00f5bu ja \u00fctleb talle, et karbis on pastakad ja ta peaks eirama silti, mis \u00fctleb \"pliiatsid\". Osaleja usub oma n\u00f5bu. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 4,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Laua peal t\u00fchjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte \u00fchtegi pliiatsit. Ometi on karp m\u00e4rgistatud s\u00f5naga \"pliiatsid\", mitte \"pastakad\". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem n\u00e4inud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti. Osalejale helistab tema n\u00f5bu ja \u00fctleb talle, et karbis on pastakad ja ta peaks eirama silti, mis \u00fctleb \"pliiatsid\". Osaleja usub oma n\u00f5bu. Osaleja helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 4,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Laua peal t\u00fchjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte \u00fchtegi pliiatsit. Sellele on kirjutatud s\u00f5na \"pastakad\", mitte \"pliiatsid\". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem n\u00e4inud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 4,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Laua peal t\u00fchjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte \u00fchtegi pliiatsit. Sellele on kirjutatud s\u00f5na \"pastakad\", mitte \"pliiatsid\". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem n\u00e4inud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti. Osaleja helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 5,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Airbnb v\u00f5\u00f5rustaja k\u00f6\u00f6gi k\u00fclmkapis on purk, mille sildil on kirjas \"tuunikala\". Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, kes on just majja saabunud k\u00fclaline, avab k\u00fclmkapi ja n\u00e4eb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti. Ta avab purgi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 5,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Airbnb v\u00f5\u00f5rustaja k\u00f6\u00f6gi k\u00fclmkapis on purk, mille sildil on kirjas \"tuunikala\". Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, kes on just majja saabunud k\u00fclaline, avab k\u00fclmkapi ja n\u00e4eb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti. Jill helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just leidnud purgi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 5,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Airbnb v\u00f5\u00f5rustaja k\u00f6\u00f6gi k\u00fclmkapis on purk, mille sildil on kirjas \"tuunikala\". Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, kes on just majja saabunud k\u00fclaline, avab k\u00fclmkapi ja n\u00e4eb purki. Jill avab purgi ja vaatab sisse. Jill loeb silti. Ta avab purgi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 5,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Airbnb v\u00f5\u00f5rustaja k\u00f6\u00f6gi k\u00fclmkapis on purk, mille sildil on kirjas \"tuunikala\". Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, kes on just majja saabunud k\u00fclaline, avab k\u00fclmkapi ja n\u00e4eb purki. Jill avab purgi ja vaatab sisse. Jill loeb silti. Jill helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just leidnud purgi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 5,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Airbnb v\u00f5\u00f5rustaja k\u00f6\u00f6gi k\u00fclmkapis on purk, mille sildil on kirjas \"tuunikala\". Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, kes on just majja saabunud k\u00fclaline, avab k\u00fclmkapi ja n\u00e4eb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti. N\u00f5bu helistab Jillile ja \u00fctleb talle, et purgis on kurgid ja ta peaks sildil olevat \"tuunikala\" ignoreerima. Jill usub oma n\u00f5bu. Ta avab purgi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 5,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Airbnb v\u00f5\u00f5rustaja k\u00f6\u00f6gi k\u00fclmkapis on purk, mille sildil on kirjas \"tuunikala\". Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, kes on just majja saabunud k\u00fclaline, avab k\u00fclmkapi ja n\u00e4eb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti. N\u00f5bu helistab Jillile ja \u00fctleb talle, et purgis on kurgid ja ta peaks sildil olevat \"tuunikala\" ignoreerima. Jill usub oma n\u00f5bu. Jill helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just leidnud purgi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 5,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Airbnb v\u00f5\u00f5rustaja k\u00f6\u00f6gi k\u00fclmkapis on purk, mille sildil on kirjas \"marineeritud kurgid\". Purk sisaldab marineeritud kurke ja mitte tuunikala. Sildil ei mainita tuunikala. Jill, kes on just majja saabunud k\u00fclaline, avab k\u00fclmkapi ja n\u00e4eb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti. Ta avab purgi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 5,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Airbnb v\u00f5\u00f5rustaja k\u00f6\u00f6gi k\u00fclmkapis on purk, mille sildil on kirjas \"marineeritud kurgid\". Purk sisaldab marineeritud kurke ja mitte tuunikala. Sildil ei mainita tuunikala. Jill, kes on just majja saabunud k\u00fclaline, avab k\u00fclmkapi ja n\u00e4eb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti. Jill helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just leidnud purgi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 6,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Julia korteri ukse ees lebab \u00fcmbrik. \u00dcmbrik on t\u00e4is reklaamlehti ning selles ei ole \u00fchtegi kviitungit. Siiski on v\u00e4lisk\u00fcljele kinnitatud silt s\u00f5naga \"kviitungid\". Sildil ei mainita \"voldikuid\". Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, m\u00f6\u00f6dub ja m\u00e4rkab p\u00f5randal \u00fcmbrikut. Ta m\u00f5tleb, mis v\u00f5iks \u00fcmbrikus olla. Julia naaber ei ava \u00fcmbrikut ega vaata sisse. Julia naaber loeb silti. Ta avab \u00fcmbriku ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 6,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Julia korteri ukse ees lebab \u00fcmbrik. \u00dcmbrik on t\u00e4is reklaamlehti ning selles ei ole \u00fchtegi kviitungit. Siiski on v\u00e4lisk\u00fcljele kinnitatud silt s\u00f5naga \"kviitungid\". Sildil ei mainita \"voldikuid\". Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, m\u00f6\u00f6dub ja m\u00e4rkab p\u00f5randal \u00fcmbrikut. Ta m\u00f5tleb, mis v\u00f5iks \u00fcmbrikus olla. Julia naaber ei ava \u00fcmbrikut ega vaata sisse. Julia naaber loeb silti. Julia naaber helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud \u00fcmbriku t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 6,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Julia korteri ukse ees lebab \u00fcmbrik. \u00dcmbrik on t\u00e4is reklaamlehti ning selles ei ole \u00fchtegi kviitungit. Siiski on v\u00e4lisk\u00fcljele kinnitatud silt s\u00f5naga \"kviitungid\". Sildil ei mainita reklaamlehti. Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, m\u00f6\u00f6dub ja m\u00e4rkab p\u00f5randal \u00fcmbrikut. Ta m\u00f5tleb, mis v\u00f5iks \u00fcmbrikus olla. Julia naaber avab \u00fcmbriku ja vaatab sisse. Julia naaber loeb silti. Ta avab \u00fcmbriku ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 6,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Julia korteri ukse ees lebab \u00fcmbrik. \u00dcmbrik on t\u00e4is reklaamlehti ning selles ei ole \u00fchtegi kviitungit. Siiski on v\u00e4lisk\u00fcljele kinnitatud silt s\u00f5naga \"kviitungid\". Sildil ei mainita reklaamlehti. Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, m\u00f6\u00f6dub ja m\u00e4rkab p\u00f5randal \u00fcmbrikut. Ta m\u00f5tleb, mis v\u00f5iks \u00fcmbrikus olla. Julia naaber avab \u00fcmbriku ja vaatab sisse. Julia naaber loeb silti. Julia naaber helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud \u00fcmbriku t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 6,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Julia korteri ukse ees lebab \u00fcmbrik. \u00dcmbrik on t\u00e4is reklaamlehti ning selles ei ole \u00fchtegi kviitungit. Siiski on v\u00e4lisk\u00fcljele kinnitatud silt s\u00f5naga \"kviitungid\". Sildil ei mainita \"reklaamlehti\". Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, m\u00f6\u00f6dub ja m\u00e4rkab p\u00f5randal \u00fcmbrikut. Ta m\u00f5tleb, mis v\u00f5iks \u00fcmbrikus olla. Julia naaber ei ava \u00fcmbrikut ega vaata sisse. Julia naaber loeb silti. N\u00f5bu helistab Julia naabrile ja \u00fctleb talle, et \u00fcmbrikus on reklaamlehed ja et ta peaks eirama silti, mis \u00fctleb \"kviitungid\". Julia naaber usub oma n\u00f5bu. Ta avab \u00fcmbriku ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 6,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Julia korteri ukse ees lebab \u00fcmbrik. \u00dcmbrik on t\u00e4is reklaamlehti ning selles ei ole \u00fchtegi kviitungit. Siiski on v\u00e4lisk\u00fcljele kinnitatud silt s\u00f5naga \"kviitungid\". Sildil ei mainita \"reklaamlehti\". Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, m\u00f6\u00f6dub ja m\u00e4rkab p\u00f5randal \u00fcmbrikut. Ta m\u00f5tleb, mis v\u00f5iks \u00fcmbrikus olla. Julia naaber ei ava \u00fcmbrikut ega vaata sisse. Julia naaber loeb silti. N\u00f5bu helistab Julia naabrile ja \u00fctleb talle, et \u00fcmbrikus on reklaamlehed ja et ta peaks eirama silti, mis \u00fctleb \"kviitungid\". Julia naaber usub oma n\u00f5bu. Julia naaber helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud \u00fcmbriku t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 6,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Julia korteri ukse ees lebab \u00fcmbrik. \u00dcmbrik on t\u00e4is reklaamlehti ning selles ei ole \u00fchtegi kviitungit. V\u00e4lisk\u00fcljele on kinnitatud silt s\u00f5naga \"reklaamlehed\". Sildil ei mainita kviitungeid. Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, m\u00f6\u00f6dub ja m\u00e4rkab p\u00f5randal \u00fcmbrikut. Ta m\u00f5tleb, mis v\u00f5iks \u00fcmbrikus olla. Julia naaber ei ava \u00fcmbrikut ega vaata sisse. Julia naaber loeb silti. Ta avab \u00fcmbriku ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 6,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Julia korteri ukse ees lebab \u00fcmbrik. \u00dcmbrik on t\u00e4is reklaamlehti ning selles ei ole \u00fchtegi kviitungit. V\u00e4lisk\u00fcljele on kinnitatud silt s\u00f5naga \"reklaamlehed\". Sildil ei mainita kviitungeid. Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, m\u00f6\u00f6dub ja m\u00e4rkab p\u00f5randal \u00fcmbrikut. Ta m\u00f5tleb, mis v\u00f5iks \u00fcmbrikus olla. Julia naaber ei ava \u00fcmbrikut ega vaata sisse. Julia naaber loeb silti. Julia naaber helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud \u00fcmbriku t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 7,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: \u00dcle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis \u00fctleb \"raamatud\". See ei maini v\u00e4\u00e4riskive. Siiski sisaldab kast tegelikult ainult v\u00e4\u00e4riskive ja \u00fchtegi raamatut seal pole. Steve, inspektor, l\u00e4henes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti. Ta avab kasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 7,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: \u00dcle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis \u00fctleb \"raamatud\". See ei maini v\u00e4\u00e4riskive. Siiski sisaldab kast tegelikult ainult v\u00e4\u00e4riskive ja \u00fchtegi raamatut seal pole. Steve, inspektor, l\u00e4henes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti. Steve helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kasti t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 7,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: \u00dcle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis \u00fctleb \"raamatud\". See ei maini v\u00e4\u00e4riskive. Siiski sisaldab kast tegelikult ainult v\u00e4\u00e4riskive ja \u00fchtegi raamatut seal pole. Steve, inspektor, l\u00e4henes seifile. Steve avab kasti ja vaatab sisse. Steve loeb silti. Ta avab kasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 7,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: \u00dcle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis \u00fctleb \"raamatud\". See ei maini v\u00e4\u00e4riskive. Siiski sisaldab kast tegelikult ainult v\u00e4\u00e4riskive ja \u00fchtegi raamatut seal pole. Steve, inspektor, l\u00e4henes seifile. Steve avab kasti ja vaatab sisse. Steve loeb silti. Steve helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kasti t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 7,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: \u00dcle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis \u00fctleb \"raamatud\". See ei maini v\u00e4\u00e4riskive. Siiski sisaldab kast tegelikult ainult v\u00e4\u00e4riskive ja \u00fchtegi raamatut seal pole. Steve, inspektor, l\u00e4henes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti. Steve'i n\u00f5bu helistab talle ja \u00fctleb, et kastis on v\u00e4\u00e4riskivid ja et ta peaks sildil olevat s\u00f5na \"raamatud\" ignoreerima. Steve usub oma n\u00f5bu. Ta avab kasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 7,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: \u00dcle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis \u00fctleb \"raamatud\". See ei maini v\u00e4\u00e4riskive. Siiski sisaldab kast tegelikult ainult v\u00e4\u00e4riskive ja \u00fchtegi raamatut seal pole. Steve, inspektor, l\u00e4henes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti. Steve'i n\u00f5bu helistab talle ja \u00fctleb, et kastis on v\u00e4\u00e4riskivid ja et ta peaks sildil olevat s\u00f5na \"raamatud\" ignoreerima. Steve usub oma n\u00f5bu. Steve helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kasti t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 7,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: \u00dcle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis \u00fctleb \"v\u00e4\u00e4riskivid\". See ei maini raamatuid. Kast sisaldab ainult v\u00e4\u00e4riskive ja \u00fchtegi raamatut seal pole. Steve, inspektor, l\u00e4henes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti. Ta avab kasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 7,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: \u00dcle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis \u00fctleb \"v\u00e4\u00e4riskivid\". See ei maini raamatuid. Kast sisaldab ainult v\u00e4\u00e4riskive ja \u00fchtegi raamatut seal pole. Steve, inspektor, l\u00e4henes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti. Steve helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kasti t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 8,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Mitte-l\u00e4bipaistev suhkruga t\u00e4idetud pudel seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel silti \"vesi\", mitte \"suhkur\". Bernard, uus klient, l\u00e4heb leti juurde ja m\u00e4rkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti. Ta avab pudeli ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 8,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Mitte-l\u00e4bipaistev suhkruga t\u00e4idetud pudel seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel silti \"vesi\", mitte \"suhkur\". Bernard, uus klient, l\u00e4heb leti juurde ja m\u00e4rkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti. Bernard helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud pudeli t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 8,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Mitte-l\u00e4bipaistev suhkruga t\u00e4idetud pudel seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel silti \"vesi\", mitte \"suhkur\". Bernard, uus klient, l\u00e4heb leti juurde ja m\u00e4rkab pudelit. Bernard avab pudeli ja vaatab sisse. Bernard loeb silti. Ta avab pudeli ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 8,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Mitte-l\u00e4bipaistev suhkruga t\u00e4idetud pudel seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel silti \"vesi\", mitte \"suhkur\". Bernard, uus klient, l\u00e4heb leti juurde ja m\u00e4rkab pudelit. Bernard avab pudeli ja vaatab sisse. Bernard loeb silti. Bernard helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud pudeli t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 8,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Mitte-l\u00e4bipaistev suhkruga t\u00e4idetud pudel seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel silti \"vesi\", mitte \"suhkur\". Bernard, uus klient, l\u00e4heb leti juurde ja m\u00e4rkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti. N\u00f5bu helistab Bernardile ja \u00fctleb talle, et pudelis on suhkur ja ta peaks eirama silti, mis \u00fctleb \"vesi\". Bernard usub oma n\u00f5bu. Ta avab pudeli ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 8,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Mitte-l\u00e4bipaistev suhkruga t\u00e4idetud pudel seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel silti \"vesi\", mitte \"suhkur\". Bernard, uus klient, l\u00e4heb leti juurde ja m\u00e4rkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti. N\u00f5bu helistab Bernardile ja \u00fctleb talle, et pudelis on suhkur ja ta peaks eirama silti, mis \u00fctleb \"vesi\". Bernard usub oma n\u00f5bu. Bernard helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud pudeli t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 8,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Mitte-l\u00e4bipaistev suhkruga t\u00e4idetud pudel seisab kaubamaja letil. Pudelis ei ole vett; pudelil on silt \"suhkur\", mitte \"vesi\". Bernard, uus klient, l\u00e4heb leti juurde ja m\u00e4rkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti. Ta avab pudeli ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 8,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Mitte-l\u00e4bipaistev suhkruga t\u00e4idetud pudel seisab kaubamaja letil. Pudelis ei ole vett; pudelil on silt \"suhkur\", mitte \"vesi\". Bernard, uus klient, l\u00e4heb leti juurde ja m\u00e4rkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti. Bernard helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud pudeli t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 9,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Mahaj\u00e4etud h\u00e4\u00e4rberis uurib kriminalistide meeskond kuriteopaika. Laiba k\u00f5rval on suletud karp; keegi ei n\u00e4e, mis seal sees on. Kuigi karbis on tegelikult tabletid, v\u00e4idab sellel olev silt, et karbis on kuulid. Peainspektor, kes on just s\u00fcndmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 9,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Mahaj\u00e4etud h\u00e4\u00e4rberis uurib kriminalistide meeskond kuriteopaika. Laiba k\u00f5rval on suletud karp; keegi ei n\u00e4e, mis seal sees on. Kuigi karbis on tegelikult tabletid, v\u00e4idab sellel olev silt, et karbis on kuulid. Peainspektor, kes on just s\u00fcndmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb silti. Peainspektor helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 9,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Mahaj\u00e4etud h\u00e4\u00e4rberis uurib kriminalistide meeskond kuriteopaika. Laiba k\u00f5rval on suletud karp; keegi ei n\u00e4e, mis seal sees on. Kuigi karbis on tegelikult tabletid, v\u00e4idab sellel olev silt, et karbis on kuulid. Peainspektor, kes on just s\u00fcndmuskohale saabunud, kummardub karpi uurima. Peainspektor avab karbi ja vaatab sisse. Peainspektor loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 9,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Mahaj\u00e4etud h\u00e4\u00e4rberis uurib kriminalistide meeskond kuriteopaika. Laiba k\u00f5rval on suletud karp; keegi ei n\u00e4e, mis seal sees on. Kuigi karbis on tegelikult tabletid, v\u00e4idab sellel olev silt, et karbis on kuulid. Peainspektor, kes on just s\u00fcndmuskohale saabunud, kummardub karpi uurima. Peainspektor avab karbi ja vaatab sisse. Peainspektor loeb silti. Peainspektor helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 9,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Mahaj\u00e4etud h\u00e4\u00e4rberis uurib kriminalistide meeskond kuriteopaika. Laiba k\u00f5rval on suletud karp; keegi ei n\u00e4e, mis seal sees on. Kuigi karbis on tegelikult tabletid, v\u00e4idab sellel olev silt, et karbis on kuulid. Peainspektor, kes on just s\u00fcndmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb silti. Peainspektori n\u00f5bu helistab talle ja \u00fctleb, et karbis on tabletid ja ta peaks eirama silti, mis \u00fctleb \"kuulid\". Peainspektor usub oma n\u00f5bu. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 9,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Mahaj\u00e4etud h\u00e4\u00e4rberis uurib kriminalistide meeskond kuriteopaika. Laiba k\u00f5rval on suletud karp; keegi ei n\u00e4e, mis seal sees on. Kuigi karbis on tegelikult tabletid, v\u00e4idab sellel olev silt, et karbis on kuulid. Peainspektor, kes on just s\u00fcndmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb silti. Peainspektori n\u00f5bu helistab talle ja \u00fctleb, et karbis on tabletid ja ta peaks eirama silti, mis \u00fctleb \"kuulid\". Peainspektor usub oma n\u00f5bu. Peainspektor helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 9,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Mahaj\u00e4etud h\u00e4\u00e4rberis uurib kriminalistide meeskond kuriteopaika. Laiba k\u00f5rval on suletud karp; keegi ei n\u00e4e, mis seal sees on. Karbis on tabletid ja sellel olev silt v\u00e4idab sama. Seal sees ei ole kuule. Peainspektor, kes on just s\u00fcndmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 9,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Mahaj\u00e4etud h\u00e4\u00e4rberis uurib kriminalistide meeskond kuriteopaika. Laiba k\u00f5rval on suletud karp; keegi ei n\u00e4e, mis seal sees on. Karbis on tabletid ja sellel olev silt v\u00e4idab sama. Seal sees ei ole kuule. Peainspektor, kes on just s\u00fcndmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb silti. Peainspektor helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 10,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Julia valmistab oma pojale Stevenile j\u00f5ulupuu alla kingikarpi. Ta tahab Stevenit t\u00fcssata. Ta t\u00e4idab kingikarbi teelehtedega, kuid m\u00e4rgistab selle suurte selgete t\u00e4htedega \"kohvioad\". M\u00f5ni tund hiljem tuleb Steven trepist alla ja leiab kingikarbi j\u00f5ulupuu alt. Steven ei ava kingikarpi ega vaata sisse. Steven loeb silti. Ta avab kingikarbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 10,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Julia valmistab oma pojale Stevenile j\u00f5ulupuu alla kingikarpi. Ta tahab Stevenit t\u00fcssata. Ta t\u00e4idab kingikarbi teelehtedega, kuid m\u00e4rgistab selle suurte selgete t\u00e4htedega \"kohvioad\". M\u00f5ni tund hiljem tuleb Steven trepist alla ja leiab kingikarbi j\u00f5ulupuu alt. Steven ei ava kingikarpi ega vaata sisse. Steven loeb silti. Steven helistab s\u00f5brale, et r\u00e4\u00e4kida talle, et ta on just leidnud kingikarbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 10,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Julia valmistab oma pojale Stevenile j\u00f5ulupuu alla kingikarpi. Ta tahab Stevenit t\u00fcssata. Ta t\u00e4idab kingikarbi teelehtedega, kuid m\u00e4rgistab selle suurte selgete t\u00e4htedega \"kohvioad\". M\u00f5ni tund hiljem tuleb Steven trepist alla ja leiab kingikarbi j\u00f5ulupuu alt. Steven avab kingikarbi ja vaatab sisse. Steven loeb silti. Ta avab kingikarbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 10,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Julia valmistab oma pojale Stevenile j\u00f5ulupuu alla kingikarpi. Ta tahab Stevenit t\u00fcssata. Ta t\u00e4idab kingikarbi teelehtedega, kuid m\u00e4rgistab selle suurte selgete t\u00e4htedega \"kohvioad\". M\u00f5ni tund hiljem tuleb Steven trepist alla ja leiab kingikarbi j\u00f5ulupuu alt. Steven avab kingikarbi ja vaatab sisse. Steven loeb silti. Steven helistab s\u00f5brale, et r\u00e4\u00e4kida talle, et ta on just leidnud kingikarbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 10,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Julia valmistab oma pojale Stevenile j\u00f5ulupuu alla kingikarpi. Ta tahab Stevenit t\u00fcssata. Ta t\u00e4idab kingikarbi teelehtedega, kuid m\u00e4rgistab selle suurte selgete t\u00e4htedega \"kohvioad\". M\u00f5ni tund hiljem tuleb Steven trepist alla ja leiab kingikarbi j\u00f5ulupuu alt. Steven ei ava kingikarpi ega vaata sisse. Steven loeb silti. \u00dcks n\u00f5bu helistab Stevenile ja \u00fctleb talle, et kingikarbis on tegelikult teelehed ja ta peaks eirama silti, mis \u00fctleb \"kohvioad\". Steven usub oma n\u00f5bu. Ta avab kingikarbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 10,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Julia valmistab oma pojale Stevenile j\u00f5ulupuu alla kingikarpi. Ta tahab Stevenit t\u00fcssata. Ta t\u00e4idab kingikarbi teelehtedega, kuid m\u00e4rgistab selle suurte selgete t\u00e4htedega \"kohvioad\". M\u00f5ni tund hiljem tuleb Steven trepist alla ja leiab kingikarbi j\u00f5ulupuu alt. Steven ei ava kingikarpi ega vaata sisse. Steven loeb silti. \u00dcks n\u00f5bu helistab Stevenile ja \u00fctleb talle, et kingikarbis on tegelikult teelehed ja ta peaks eirama silti, mis \u00fctleb \"kohvioad\". Steven usub oma n\u00f5bu. Steven helistab s\u00f5brale, et r\u00e4\u00e4kida talle, et ta on just leidnud kingikarbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 10,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Julia valmistab oma pojale Stevenile j\u00f5ulupuu alla kingikarpi. Ta tahab Stevenit t\u00fcssata. Ta t\u00e4idab kingikarbi teelehtedega ja m\u00e4rgistab selle suurte selgete t\u00e4htedega \"teelehed\". M\u00f5ni tund hiljem tuleb Steven trepist alla ja leiab kingikarbi j\u00f5ulupuu alt. Steven ei ava kingikarpi ega vaata sisse. Steven loeb silti. Ta avab kingikarbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 10,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Julia valmistab oma pojale Stevenile j\u00f5ulupuu alla kingikarpi. Ta tahab Stevenit t\u00fcssata. Ta t\u00e4idab kingikarbi teelehtedega ja m\u00e4rgistab selle suurte selgete t\u00e4htedega \"teelehed\". M\u00f5ni tund hiljem tuleb Steven trepist alla ja leiab kingikarbi j\u00f5ulupuu alt. Steven ei ava kingikarpi ega vaata sisse. Steven loeb silti. Steven helistab s\u00f5brale, et r\u00e4\u00e4kida talle, et ta on just leidnud kingikarbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 11,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Lennujaama tolliosakonnas annab immigratsiooniametnik inspektorile \u00fcle kasti. See on pitseeritud ja sildiga \"uriiniproovid\". Keegi ei n\u00e4e, mis seal sees on, kuid tegelikult sisaldab see ainult vereproove. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor ei ava kasti ega vaata sisse. Inspektor loeb silti. Ta avab kasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 11,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Lennujaama tolliosakonnas annab immigratsiooniametnik inspektorile \u00fcle kasti. See on pitseeritud ja sildiga \"uriiniproovid\". Keegi ei n\u00e4e, mis seal sees on, kuid tegelikult sisaldab see ainult vereproove. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor ei ava kasti ega vaata sisse. Inspektor loeb silti. Inspektor helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kasti t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 11,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Lennujaama tolliosakonnas annab immigratsiooniametnik inspektorile \u00fcle kasti. See on pitseeritud ja sildiga \"uriiniproovid\". Keegi ei n\u00e4e, mis seal sees on, kuid tegelikult sisaldab see ainult vereproove. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor avab kasti ja vaatab sisse. Inspektor loeb silti. Ta avab kasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 11,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Lennujaama tolliosakonnas annab immigratsiooniametnik inspektorile \u00fcle kasti. See on pitseeritud ja sildiga \"uriiniproovid\". Keegi ei n\u00e4e, mis seal sees on, kuid tegelikult sisaldab see ainult vereproove. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor avab kasti ja vaatab sisse. Inspektor loeb silti. Inspektor helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kasti t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 11,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Lennujaama tolliosakonnas annab immigratsiooniametnik inspektorile \u00fcle kasti. See on pitseeritud ja sildiga \"uriiniproovid\". Keegi ei n\u00e4e, mis seal sees on, kuid tegelikult sisaldab see ainult vereproove. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor ei ava kasti ega vaata sisse. Inspektor loeb silti. Inspektori n\u00f5bu helistab talle ja \u00fctleb, et kastis on veri ja ta peaks silti, mis \u00fctleb \"uriin\", eirama. Inspektor usub oma n\u00f5bu. Ta avab kasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 11,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Lennujaama tolliosakonnas annab immigratsiooniametnik inspektorile \u00fcle kasti. See on pitseeritud ja sildiga \"uriiniproovid\". Keegi ei n\u00e4e, mis seal sees on, kuid tegelikult sisaldab see ainult vereproove. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor ei ava kasti ega vaata sisse. Inspektor loeb silti. Inspektori n\u00f5bu helistab talle ja \u00fctleb, et kastis on veri ja ta peaks silti, mis \u00fctleb \"uriin\", eirama. Inspektor usub oma n\u00f5bu. Inspektor helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kasti t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 11,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Tolliosakonnas lennujaamas annab immigratsiooniametnik bioloogilise ohu inspektorile \u00fcle kasti. See on pitseeritud ja sildiga \"vereproovid\". Keegi ei n\u00e4e, mis seal sees on, kuid tegelikult ei ole seal uriiniproove, ainult vereproovid. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor ei ava kasti ega vaata sisse. Inspektor loeb silti. Ta avab kasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 11,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Tolliosakonnas lennujaamas annab immigratsiooniametnik bioloogilise ohu inspektorile \u00fcle kasti. See on pitseeritud ja sildiga \"vereproovid\". Keegi ei n\u00e4e, mis seal sees on, kuid tegelikult ei ole seal uriiniproove, ainult vereproovid. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor ei ava kasti ega vaata sisse. Inspektor loeb silti. Inspektor helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kasti t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 12,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Paul ulatab Sarale kinkepaberisse m\u00e4hitud karbi ja \u00fctleb talle, et seal sees on sallid. Tegelikult on karbis aga ainult sokid. Sara v\u00f5tab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 12,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Paul ulatab Sarale kinkepaberisse m\u00e4hitud karbi ja \u00fctleb talle, et seal sees on sallid. Tegelikult on karbis aga ainult sokid. Sara v\u00f5tab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb silti. Sara helistab s\u00f5brale, et \u00f6elda, et ta on just saanud karbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 12,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Paul ulatab Sarale kinkepaberisse m\u00e4hitud karbi ja \u00fctleb talle, et seal sees on sallid. Tegelikult on karbis aga ainult sokid. Sara v\u00f5tab temalt karbi. Sara avab karbi ja vaatab sisse. Sara loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 12,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Paul ulatab Sarale kinkepaberisse m\u00e4hitud karbi ja \u00fctleb talle, et seal sees on sallid. Tegelikult on karbis aga ainult sokid. Sara v\u00f5tab temalt karbi. Sara avab karbi ja vaatab sisse. Sara loeb silti. Sara helistab s\u00f5brale, et \u00f6elda, et ta on just saanud karbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 12,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Paul ulatab Sarale kinkepaberisse m\u00e4hitud karbi ja \u00fctleb talle, et seal sees on sallid. Tegelikult on karbis aga ainult sokid. Sara v\u00f5tab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb silti. \u00dcks n\u00f5bu helistab Sarale ja \u00fctleb, et karbis on sokid ning ta ei peaks t\u00e4helepanu p\u00f6\u00f6rama sildile, mis \u00fctleb \"sallid\". Sara usub oma n\u00f5bu. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 12,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Paul ulatab Sarale kinkepaberisse m\u00e4hitud karbi ja \u00fctleb talle, et seal sees on sallid. Tegelikult on karbis aga ainult sokid. Sara v\u00f5tab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb silti. \u00dcks n\u00f5bu helistab Sarale ja \u00fctleb, et karbis on sokid ning ta ei peaks t\u00e4helepanu p\u00f6\u00f6rama sildile, mis \u00fctleb \"sallid\". Sara usub oma n\u00f5bu. Sara helistab s\u00f5brale, et \u00f6elda, et ta on just saanud karbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 12,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Paul ulatab Sarale kinkepaberisse m\u00e4hitud karbi ja \u00fctleb talle, et seal sees on sokid. Karbis on ainult sokid ja salle ei ole. Sara v\u00f5tab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 12,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Paul ulatab Sarale kinkepaberisse m\u00e4hitud karbi ja \u00fctleb talle, et seal sees on sokid. Karbis on ainult sokid ja salle ei ole. Sara v\u00f5tab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb silti. Sara helistab s\u00f5brale, et \u00f6elda, et ta on just saanud karbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 13,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Surnud isiku s\u00fclearvutis on kr\u00fcpteeritud kaust nimega \"fotod\". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse l\u00fclitab, ilmub avakuva. Ta leiab kr\u00fcpteeritud kausta. Ekspert ei ava kausta ega vaata sisse. Ekspert loeb silti. Ta avab kausta ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 13,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Surnud isiku s\u00fclearvutis on kr\u00fcpteeritud kaust nimega \"fotod\". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse l\u00fclitab, ilmub avakuva. Ta leiab kr\u00fcpteeritud kausta. Ekspert ei ava kausta ega vaata sisse. Ekspert loeb silti. Ekspert helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kausta, mis on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 13,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Surnud isiku s\u00fclearvutis on kr\u00fcpteeritud kaust nimega \"fotod\". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse l\u00fclitab, ilmub avakuva. Ta leiab kr\u00fcpteeritud kausta. Ekspert avab kausta ja vaatab sisse. Ekspert loeb silti. Ta avab kausta ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 13,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Surnud isiku s\u00fclearvutis on kr\u00fcpteeritud kaust nimega \"fotod\". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse l\u00fclitab, ilmub avakuva. Ta leiab kr\u00fcpteeritud kausta. Ekspert avab kausta ja vaatab sisse. Ekspert loeb silti. Ekspert helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kausta, mis on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 13,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Surnud isiku s\u00fclearvutis on kr\u00fcpteeritud kaust nimega \"fotod\". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse l\u00fclitab, ilmub avakuva. Ta leiab kr\u00fcpteeritud kausta. Ekspert ei ava kausta ega vaata sisse. Ekspert loeb silti. \u00dcks n\u00f5bu helistab eksperdile ja \u00fctleb talle, et kaustas on videod ja ta peaks sildil olevat kirja \"fotod\" ignoreerima. Ekspert usub oma n\u00f5bu. Ta avab kausta ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 13,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Surnud isiku s\u00fclearvutis on kr\u00fcpteeritud kaust nimega \"fotod\". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse l\u00fclitab, ilmub avakuva. Ta leiab kr\u00fcpteeritud kausta. Ekspert ei ava kausta ega vaata sisse. Ekspert loeb silti. \u00dcks n\u00f5bu helistab eksperdile ja \u00fctleb talle, et kaustas on videod ja ta peaks sildil olevat kirja \"fotod\" ignoreerima. Ekspert usub oma n\u00f5bu. Ekspert helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kausta, mis on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 13,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Surnud isiku s\u00fclearvutis on kr\u00fcpteeritud kaust nimega \"videod\". Kaust sisaldab ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse l\u00fclitab, ilmub avakuva. Ta leiab kr\u00fcpteeritud kausta. Ekspert ei ava kausta ega vaata sisse. Ekspert loeb silti. Ta avab kausta ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 13,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Surnud isiku s\u00fclearvutis on kr\u00fcpteeritud kaust nimega \"videod\". Kaust sisaldab ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse l\u00fclitab, ilmub avakuva. Ta leiab kr\u00fcpteeritud kausta. Ekspert ei ava kausta ega vaata sisse. Ekspert loeb silti. Ekspert helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kausta, mis on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 14,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. Ta avab paki ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 14,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just saanud paki t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 14,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel avab paki ja vaatab sisse. Daniel loeb silti. Ta avab paki ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 14,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel avab paki ja vaatab sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just saanud paki t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 14,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. N\u00f5bu helistab Danielile ja \u00fctleb talle, et pakis on rahakotid ja et ta peaks eirama silti, mis \u00fctleb \"tossud\". Daniel usub oma n\u00f5bu. Ta avab paki ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 14,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. N\u00f5bu helistab Danielile ja \u00fctleb talle, et pakis on rahakotid ja et ta peaks eirama silti, mis \u00fctleb \"tossud\". Daniel usub oma n\u00f5bu. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just saanud paki t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 14,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte ja m\u00e4rgistavad selle kui \"rahakotid\". Sildil ei mainita \u00fcldse tosse. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. Ta avab paki ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 14,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte ja m\u00e4rgistavad selle kui \"rahakotid\". Sildil ei mainita \u00fcldse tosse. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just saanud paki t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 15,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Parki on p\u00e4rast kooli piknikup\u00e4eva \u00fcritust maha unustatud jahutuskast. Jahutuskastis on ainult v\u00f5ileivad, kuid v\u00e4lisk\u00fcljel olev silt \u00fctleb \"\u00f5lu\". Steve, \u00fcks korraldajatest, m\u00e4rkab jahutuskasti, kui ta m\u00f6\u00f6dub pingist, kus see sasetseb. Ta pole seda varem n\u00e4inud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti. Ta avab jahutuskasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 15,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Parki on p\u00e4rast kooli piknikup\u00e4eva \u00fcritust maha unustatud jahutuskast. Jahutuskastis on ainult v\u00f5ileivad, kuid v\u00e4lisk\u00fcljel olev silt \u00fctleb \"\u00f5lu\". Steve, \u00fcks korraldajatest, m\u00e4rkab jahutuskasti, kui ta m\u00f6\u00f6dub pingist, kus see sasetseb. Ta pole seda varem n\u00e4inud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti. Steve helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud jahutuskasti t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 15,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Parki on p\u00e4rast kooli piknikup\u00e4eva \u00fcritust maha unustatud jahutuskast. Jahutuskastis on ainult v\u00f5ileivad, kuid v\u00e4lisk\u00fcljel olev silt \u00fctleb \"\u00f5lu\". Steve, \u00fcks korraldajatest, m\u00e4rkab jahutuskasti, kui ta m\u00f6\u00f6dub pingist, kus see asetseb. Ta pole seda varem n\u00e4inud. Steve avab jahutuskasti ja vaatab sisse. Steve loeb silti. Ta avab jahutuskasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 15,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Parki on p\u00e4rast kooli piknikup\u00e4eva \u00fcritust maha unustatud jahutuskast. Jahutuskastis on ainult v\u00f5ileivad, kuid v\u00e4lisk\u00fcljel olev silt \u00fctleb \"\u00f5lu\". Steve, \u00fcks korraldajatest, m\u00e4rkab jahutuskasti, kui ta m\u00f6\u00f6dub pingist, kus see asetseb. Ta pole seda varem n\u00e4inud. Steve avab jahutuskasti ja vaatab sisse. Steve loeb silti. Steve helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud jahutuskasti t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 15,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Parki on p\u00e4rast kooli piknikup\u00e4eva \u00fcritust maha unustatud jahutuskast. Jahutuskastis on ainult v\u00f5ileivad, kuid v\u00e4lisk\u00fcljel olev silt \u00fctleb \"\u00f5lu\". Steve, \u00fcks korraldajatest, m\u00e4rkab jahutuskasti, kui ta m\u00f6\u00f6dub pingist, kus see asetseb. Ta pole seda varem n\u00e4inud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti. \u00dcks sugulane helistab Steve'ile ja \u00fctleb talle, et jahutuskastis on v\u00f5ileivad ja et ta peaks ignoreerima silti, mis \u00fctleb \"\u00f5lu\". Steve usub oma sugulast. Ta avab jahutuskasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 15,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Parki on p\u00e4rast kooli piknikup\u00e4eva \u00fcritust maha unustatud jahutuskast. Jahutuskastis on ainult v\u00f5ileivad, kuid v\u00e4lisk\u00fcljel olev silt \u00fctleb \"\u00f5lu\". Steve, \u00fcks korraldajatest, m\u00e4rkab jahutuskasti, kui ta m\u00f6\u00f6dub pingist, kus see asetseb. Ta pole seda varem n\u00e4inud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti. \u00dcks sugulane helistab Steve'ile ja \u00fctleb talle, et jahutuskastis on v\u00f5ileivad ja et ta peaks ignoreerima silti, mis \u00fctleb \"\u00f5lu\". Steve usub oma sugulast. Steve helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud jahutuskasti t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 15,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Parki on p\u00e4rast kooli piknikup\u00e4eva \u00fcritust maha unustatud jahutuskast. Jahutuskastis on ainult v\u00f5ileivad, \u00f5lut ei ole. Samuti on v\u00e4lisk\u00fcljel silt, millel kirjas \"v\u00f5ileivad\". Steve, \u00fcks korraldajatest, m\u00e4rkab jahutuskasti, kui ta m\u00f6\u00f6dub pingist, kus see asetseb. Ta pole seda varem n\u00e4inud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti. Ta avab jahutuskasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 15,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Parki on p\u00e4rast kooli piknikup\u00e4eva \u00fcritust maha unustatud jahutuskast. Jahutuskastis on ainult v\u00f5ileivad, \u00f5lut ei ole. Samuti on v\u00e4lisk\u00fcljel silt, millel kirjas \"v\u00f5ileivad\". Steve, \u00fcks korraldajatest, m\u00e4rkab jahutuskasti, kui ta m\u00f6\u00f6dub pingist, kus see asetseb. Ta pole seda varem n\u00e4inud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti. Steve helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud jahutuskasti t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 16,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on k\u00f6\u00f6giviljad ning r\u00f5ivaid ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult r\u00f5ivad ja k\u00f6\u00f6givilju seal ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 16,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on k\u00f6\u00f6giviljad ning r\u00f5ivaid ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult r\u00f5ivad ja k\u00f6\u00f6givilju seal ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida talle, et ta on just leidnud konteineri t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 16,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on k\u00f6\u00f6giviljad ning r\u00f5ivaid ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult r\u00f5ivad ja k\u00f6\u00f6givilju seal ei ole. Daniel avab konteineri ja vaatab sisse. Daniel loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 16,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on k\u00f6\u00f6giviljad ning r\u00f5ivaid ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult r\u00f5ivad ja k\u00f6\u00f6givilju seal ei ole. Daniel avab konteineri ja vaatab sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida talle, et ta on just leidnud konteineri t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 16,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on k\u00f6\u00f6giviljad ning r\u00f5ivaid ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult r\u00f5ivad ja k\u00f6\u00f6givilju seal ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Danieli n\u00f5bu helistab talle ja \u00fctleb, et konteineris on r\u00f5ivad ja ta peaks eirama silti, mis \u00fctleb \"k\u00f6\u00f6giviljad\". Daniel usub oma n\u00f5bu. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 16,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on k\u00f6\u00f6giviljad ning r\u00f5ivaid ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult r\u00f5ivad ja k\u00f6\u00f6givilju seal ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Danieli n\u00f5bu helistab talle ja \u00fctleb, et konteineris on r\u00f5ivad ja ta peaks eirama silti, mis \u00fctleb \"k\u00f6\u00f6giviljad\". Daniel usub oma n\u00f5bu. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida talle, et ta on just leidnud konteineri t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 16,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on riided ning k\u00f6\u00f6givilju ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on riided ja k\u00f6\u00f6givilju selles ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 16,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on riided ning k\u00f6\u00f6givilju ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on riided ja k\u00f6\u00f6givilju selles ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida talle, et ta on just leidnud konteineri t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 17,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"disko\". Silt on vale, sest CD-del on ainult d\u017e\u00e4ssmuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. Ta paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Ta kuuleb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 17,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"disko\". Silt on vale, sest CD-del on ainult d\u017e\u00e4ssmuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. Vicky helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud CD t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 17,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"disko\". Silt on vale, sest CD-del on ainult d\u017e\u00e4ssmuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Vicky kuuleb selgelt, et see on t\u00e4is d\u017e\u00e4ssmuusikat. Ta paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Ta kuuleb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 17,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"disko\". Silt on vale, sest CD-del on ainult d\u017e\u00e4ssmuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Vicky kuuleb selgelt, et see on t\u00e4is d\u017e\u00e4ssmuusikat. Vicky helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud CD t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 17,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"disko\". Silt on vale, sest CD-del on ainult d\u017e\u00e4ssmuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. \u00dcks n\u00f5bu helistab Vickyle ja \u00fctleb, et CD-del on d\u017e\u00e4ssmuusika ja ta peaks eirama silti, mis \u00fctleb \"disko\". Vicky usub oma n\u00f5bu. Ta paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Ta kuuleb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 17,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"disko\". Silt on vale, sest CD-del on ainult d\u017e\u00e4ssmuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. \u00dcks n\u00f5bu helistab Vickyle ja \u00fctleb, et CD-del on d\u017e\u00e4ssmuusika ja ta peaks eirama silti, mis \u00fctleb \"disko\". Vicky usub oma n\u00f5bu. Vicky helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud CD t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 17,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"d\u017e\u00e4ss\".  Silt on \u00f5ige, sest CD-del on ainult d\u017e\u00e4ssmuusika ja \u00fchtegi diskolugu ei ole. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. Ta paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Ta kuuleb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 17,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"d\u017e\u00e4ss\".  Silt on \u00f5ige, sest CD-del on ainult d\u017e\u00e4ssmuusika ja \u00fchtegi diskolugu ei ole. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. Vicky helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud CD t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 18,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on seep, kuid kaane peal olev silt \u00fctleb \"kreem\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 18,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on seep, kuid kaane peal olev silt \u00fctleb \"kreem\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Megan helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 18,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on seep, kuid kaane peal olev silt \u00fctleb \"kreem\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan avab karbi ja vaatab sisse. Megan loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 18,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on seep, kuid kaane peal olev silt \u00fctleb \"kreem\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan avab karbi ja vaatab sisse. Megan loeb silti. Megan helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 18,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on seep, kuid kaane peal olev silt \u00fctleb \"kreem\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Meganile helistab n\u00f5bu ja \u00fctleb, et karbis on seep ja ta peaks eirama silti, mis \u00fctleb \"kreem\". Megan usub oma n\u00f5bu. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 18,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on seep, kuid kaane peal olev silt \u00fctleb \"kreem\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Meganile helistab n\u00f5bu ja \u00fctleb, et karbis on seep ja ta peaks eirama silti, mis \u00fctleb \"kreem\". Megan usub oma n\u00f5bu. Megan helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 18,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on seep ja kaane peal olev silt \u00fctleb \"seep\". Selles ei ole kreemi. Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 18,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on seep ja kaane peal olev silt \u00fctleb \"seep\". Selles ei ole kreemi. Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Megan helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 19,
+        "type": "False-belief task",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Siin on kott, mis on t\u00e4is \u0161okolaadi. Selles kotis pole popkorni. Ometi \u00fctleb selle koti silt \"popkorn\", mitte \"\u0161okolaad\". Sam leiab koti. Ta pole seda kotti varem n\u00e4inud. Sam ei ava kotti ega vaata sisse. Sam loeb silti. Ta avab koti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 19,
+        "type": "False-belief task",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Siin on kott, mis on t\u00e4is \u0161okolaadi. Selles kotis pole popkorni. Ometi \u00fctleb selle koti silt \"popkorn\", mitte \"\u0161okolaad\". Sam leiab koti. Ta pole seda kotti varem n\u00e4inud. Sam ei ava kotti ega vaata sisse. Sam loeb silti. Sam helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud koti t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 19,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Siin on kott, mis on t\u00e4is \u0161okolaadi. Selles kotis pole popkorni. Ometi \u00fctleb selle koti silt \"popkorn\", mitte \"\u0161okolaad\". Sam leiab koti. Ta pole seda kotti varem n\u00e4inud. Sam avab koti ja vaatab sisse. Sam loeb silti. Ta avab koti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 19,
+        "type": "True-belief control: Open container",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Siin on kott, mis on t\u00e4is \u0161okolaadi. Selles kotis pole popkorni. Ometi \u00fctleb selle koti silt \"popkorn\", mitte \"\u0161okolaad\". Sam leiab koti. Ta pole seda kotti varem n\u00e4inud. Sam avab koti ja vaatab sisse. Sam loeb silti. Sam helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud koti t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 19,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Siin on kott, mis on t\u00e4is \u0161okolaadi. Selles kotis pole popkorni. Ometi \u00fctleb selle koti silt \"popkorn\", mitte \"\u0161okolaad\". Sam leiab koti. Ta pole seda kotti varem n\u00e4inud. Sam ei ava kotti ega vaata sisse. Sam loeb silti. N\u00f5bu helistab Samile ja \u00fctleb talle, et kotis on \u0161okolaad ja ta peaks eirama silti, mis \u00fctleb \"popkorn\". Sam usub oma n\u00f5bu. Ta avab koti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 19,
+        "type": "True-belief control: Informed protagonist",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Siin on kott, mis on t\u00e4is \u0161okolaadi. Selles kotis pole popkorni. Ometi \u00fctleb selle koti silt \"popkorn\", mitte \"\u0161okolaad\". Sam leiab koti. Ta pole seda kotti varem n\u00e4inud. Sam ei ava kotti ega vaata sisse. Sam loeb silti. N\u00f5bu helistab Samile ja \u00fctleb talle, et kotis on \u0161okolaad ja ta peaks eirama silti, mis \u00fctleb \"popkorn\". Sam usub oma n\u00f5bu. Sam helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud koti t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 19,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Siin on kott, mis on t\u00e4is \u0161okolaadi. Selles kotis pole popkorni. Koti sildil on kirjas \"\u0161okolaad\", mitte \"popkorn\". Sam leiab koti. Ta pole seda kotti varem n\u00e4inud. Sam ei ava kotti ega vaata sisse. Sam loeb silti. Ta avab koti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is"
+            }
+        ]
+    },
+    {
+        "dataset": "ToM-for-Estonian/json/unexpected_contents_cleaned.et.edited.json",
+        "nr": 19,
+        "type": "True-belief control: Correct label",
+        "prompt": "prompt_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Complete the following story: Siin on kott, mis on t\u00e4is \u0161okolaadi. Selles kotis pole popkorni. Koti sildil on kirjas \"\u0161okolaad\", mitte \"popkorn\". Sam leiab koti. Ta pole seda kotti varem n\u00e4inud. Sam ei ava kotti ega vaata sisse. Sam loeb silti. Sam helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud koti t\u00e4is"
+            }
+        ]
+    }
+]
