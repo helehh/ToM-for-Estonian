@@ -1,0 +1,137 @@
+{
+    "nr": 14,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. Ta avab paki ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "rahakotte. Daniel on \u00fcllatunud ja segaduses. Ta m\u00f5tle",
+                    "rahakotte. Daniel on \u00fcllatunud ja segaduses. Ta m\u00f5tle",
+                    "rahakotte. Daniel on \u00fcllatunud ja segaduses. Ta m\u00f5tle",
+                    "rahakotte. Daniel on \u00fcllatunud ja segaduses. Ta m\u00f5tle",
+                    "rahakotte. Daniel on \u00fcllatunud ja segaduses. Ta m\u00f5tle",
+                    "rahakotte. Daniel on \u00fcllatunud ja segaduses. Ta m\u00f5tle",
+                    "rahakotte. Daniel on \u00fcllatunud ja segaduses. Ta m\u00f5tle",
+                    "rahakotte. Daniel on \u00fcllatunud ja segaduses. Ta m\u00f5tle",
+                    "rahakotte. Daniel on \u00fcllatunud ja segaduses. Ta m\u00f5tle",
+                    "rahakotte. Daniel on \u00fcllatunud ja segaduses. Ta m\u00f5tle"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just saanud paki t\u00e4is",
+                "answers": [
+                    "rahakotte. S\u00f5ber, nimega Marko, ei suuda alguses us",
+                    "rahakotte. S\u00f5ber, nimega Marko, ei suuda alguses us",
+                    "rahakotte. S\u00f5ber, nimega Marko, ei suuda alguses us",
+                    "rahakotte. S\u00f5ber, nimega Marko, ei suuda alguses us",
+                    "rahakotte. S\u00f5ber, nimega Marko, ei suuda alguses us",
+                    "rahakotte. S\u00f5ber, nimega Marko, ei suuda alguses us",
+                    "rahakotte. S\u00f5ber, nimega Marko, ei suuda alguses us",
+                    "rahakotte. S\u00f5ber, nimega Marko, ei suuda alguses us",
+                    "rahakotte. S\u00f5ber, nimega Marko, ei suuda alguses us",
+                    "rahakotte. S\u00f5ber, nimega Marko, ei suuda alguses us"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel avab paki ja vaatab sisse. Daniel loeb silti. Ta avab paki ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "rahakotte. Daniel on segaduses ja ei tea, mida teha. Ta m",
+                    "rahakotte. Daniel on segaduses ja ei tea, mida teha. Ta m",
+                    "rahakotte. Daniel on segaduses ja ei tea, mida teha. Ta m",
+                    "rahakotte. Daniel on segaduses ja ei tea, mida teha. Ta m",
+                    "rahakotte. Daniel on segaduses ja ei tea, mida teha. Ta m",
+                    "rahakotte. Daniel on segaduses ja ei tea, mida teha. Ta m",
+                    "rahakotte. Daniel on segaduses ja ei tea, mida teha. Ta m",
+                    "rahakotte. Daniel on segaduses ja ei tea, mida teha. Ta m",
+                    "rahakotte. Daniel on segaduses ja ei tea, mida teha. Ta m",
+                    "rahakotte. Daniel on segaduses ja ei tea, mida teha. Ta m"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel avab paki ja vaatab sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just saanud paki t\u00e4is",
+                "answers": [
+                    "rahat\u00e4hti. S\u00f5ber ei usu teda alguses, arvates, et",
+                    "rahat\u00e4hti. S\u00f5ber ei usu teda alguses, arvates, et",
+                    "rahat\u00e4hti. S\u00f5ber ei usu teda alguses, arvates, et",
+                    "rahat\u00e4hti. S\u00f5ber ei usu teda alguses, arvates, et",
+                    "rahat\u00e4hti. S\u00f5ber ei usu teda alguses, arvates, et",
+                    "rahat\u00e4hti. S\u00f5ber ei usu teda alguses, arvates, et",
+                    "rahat\u00e4hti. S\u00f5ber ei usu teda alguses, arvates, et",
+                    "rahat\u00e4hti. S\u00f5ber ei usu teda alguses, arvates, et",
+                    "rahat\u00e4hti. S\u00f5ber ei usu teda alguses, arvates, et",
+                    "rahat\u00e4hti. S\u00f5ber ei usu teda alguses, arvates, et"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. N\u00f5bu helistab Danielile ja \u00fctleb talle, et pakis on rahakotid ja et ta peaks eirama silti, mis \u00fctleb \"tossud\". Daniel usub oma n\u00f5bu. Ta avab paki ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "rahakotte. Daniel on \u00fcllatunud ja \u00f5nnelik, et ta",
+                    "rahakotte. Daniel on \u00fcllatunud ja \u00f5nnelik, et ta",
+                    "rahakotte. Daniel on \u00fcllatunud ja \u00f5nnelik, et ta",
+                    "rahakotte. Daniel on \u00fcllatunud ja \u00f5nnelik, et ta",
+                    "rahakotte. Daniel on \u00fcllatunud ja \u00f5nnelik, et ta",
+                    "rahakotte. Daniel on \u00fcllatunud ja \u00f5nnelik, et ta",
+                    "rahakotte. Daniel on \u00fcllatunud ja \u00f5nnelik, et ta",
+                    "rahakotte. Daniel on \u00fcllatunud ja \u00f5nnelik, et ta",
+                    "rahakotte. Daniel on \u00fcllatunud ja \u00f5nnelik, et ta",
+                    "rahakotte. Daniel on \u00fcllatunud ja \u00f5nnelik, et ta"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. N\u00f5bu helistab Danielile ja \u00fctleb talle, et pakis on rahakotid ja et ta peaks eirama silti, mis \u00fctleb \"tossud\". Daniel usub oma n\u00f5bu. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just saanud paki t\u00e4is",
+                "answers": [
+                    "rahakotte, kuigi see oli m\u00e4rgistatud kui \"tossud",
+                    "rahakotte, kuigi see pidi olema tossude tellimus. S\u00f5ber on",
+                    "rahakotte, kuigi see pidi olema tossude tellimus. S\u00f5ber on",
+                    "rahakotte, kuigi see pidi olema tossude tellimus. S\u00f5ber on",
+                    "rahakotte, kuigi see pidi olema tossude tellimus. S\u00f5ber on",
+                    "rahakotte, kuigi see oli m\u00e4rgistatud kui \"tossud",
+                    "rahakotte, kuigi see pidi olema tossude tellimus. S\u00f5ber on",
+                    "rahakotte, kuigi see oli m\u00e4rgistatud kui \"tossud",
+                    "rahakotte, kuigi see oli m\u00e4rgistatud kui \"tossud",
+                    "rahakotte, kuigi see pidi olema tossude tellimus. S\u00f5ber on"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte ja m\u00e4rgistavad selle kui \"rahakotid\". Sildil ei mainita \u00fcldse tosse. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. Ta avab paki ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "rahakotte. Daniel on segaduses ja m\u00f5tleb, miks ta sai r",
+                    "rahakotte. Daniel on segaduses ja m\u00f5tleb, miks ta sai sell",
+                    "rahakotte. Daniel on segaduses ja m\u00f5tleb, miks ta sai sell",
+                    "rahakotte. Daniel on segaduses ja m\u00f5tleb, miks ta sai sell",
+                    "rahakotte. Daniel on segaduses ja m\u00f5tleb, miks ta sai sell",
+                    "rahakotte. Daniel on segaduses ja m\u00f5tleb, miks ta sai sell",
+                    "rahakotte. Daniel on segaduses ja m\u00f5tleb, miks ta sai sell",
+                    "rahakotte. Daniel on segaduses ja m\u00f5tleb, miks ta sai sell",
+                    "rahakotte. Daniel on segaduses ja m\u00f5tleb, miks ta sai sell",
+                    "rahakotte. Daniel on segaduses ja m\u00f5tleb, miks ta sai sell"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte ja m\u00e4rgistavad selle kui \"rahakotid\". Sildil ei mainita \u00fcldse tosse. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just saanud paki t\u00e4is",
+                "answers": [
+                    "rahakotte. S\u00f5ber, nimega Marko, on \u00fcllatunud",
+                    "rahakotte. S\u00f5ber, nimega Marko, ei suuda uskuda",
+                    "rahakotte. S\u00f5ber, nimega Marko, on \u00fcllatunud",
+                    "rahakotte. S\u00f5ber, nimega Marko, on \u00fcllatunud",
+                    "rahakotte. S\u00f5ber, nimega Marko, ei suuda uskuda",
+                    "rahakotte. S\u00f5ber, nimega Marko, on \u00fcllatunud",
+                    "rahakotte. S\u00f5ber, nimega Marko, on \u00fcllatunud",
+                    "rahakotte. S\u00f5ber, nimega Marko, on \u00fcllatunud",
+                    "rahakotte. S\u00f5ber, nimega Marko, on \u00fcllatunud",
+                    "rahakotte. S\u00f5ber, nimega Marko, on \u00fcllatunud"
+                ]
+            }
+        }
+    ]
+}

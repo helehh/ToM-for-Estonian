@@ -1,0 +1,137 @@
+{
+    "nr": 1,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Ettev\u00f5tte peakontori riiulil on k\u00f5vaketas, mis sisaldab ainult helifaile ja mitte \u00fchtegi videofaili. Ometi on selle sildil selgelt kirjas \"videofailid\", mitte \"helifailid\". Sarah, \u00e4sja palgatud arvutiinsener, leiab riiulilt k\u00f5vaketta. Ta pole seda k\u00f5vaketast varem n\u00e4inud. Sarah ei ava k\u00f5vaketast ega vaata selle sisse. Sarah loeb silti. Ta avab k\u00f5vaketta ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "helifaile. Sarah on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Sarah on segaduses, sest silt riiulil \u00fc",
+                    "helifaile. Sarah on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Sarah on segaduses, sest silt riiulil \u00fc",
+                    "helifaile. Sarah on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Sarah on segaduses, sest silt riiulil \u00fc",
+                    "helifaile. Sarah on segaduses, sest silt riiulil \u00fc",
+                    "helifaile. Sarah on segaduses, sest silt riiulil \u00fc",
+                    "helifaile. Sarah on segaduses, sest silt riiulil \u00fc",
+                    "helifaile. Sarah on segaduses, sest silt riiulil \u00fct"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Ettev\u00f5tte peakontori riiulil on k\u00f5vaketas, mis sisaldab ainult helifaile ja mitte \u00fchtegi videofaili. Ometi on selle sildil selgelt kirjas \"videofailid\", mitte \"helifailid\". Sarah, \u00e4sja palgatud arvutiinsener, leiab riiulilt k\u00f5vaketta. Ta pole seda k\u00f5vaketast varem n\u00e4inud. Sarah ei ava k\u00f5vaketast ega vaata selle sisse. Sarah loeb silti. Sarah helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud k\u00f5vaketta t\u00e4is",
+                "answers": [
+                    "videofaile. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, k",
+                    "videofaile. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, k",
+                    "videofaile. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, k",
+                    "videofaile. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, k",
+                    "videofaile. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, k",
+                    "videofaile. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, k",
+                    "videofaile. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, k",
+                    "videofaile. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, k",
+                    "videofaile. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, k",
+                    "videofaile. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, k"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Ettev\u00f5tte peakontori riiulil on k\u00f5vaketas, mis sisaldab ainult helifaile ja mitte \u00fchtegi videofaili. Ometi on selle sildil selgelt kirjas \"videofailid\", mitte \"helifailid\". Sarah, \u00e4sja palgatud arvutiinsener, leiab riiulilt k\u00f5vaketta Ta pole seda k\u00f5vaketast varem n\u00e4inud. Sarah avab k\u00f5vaketta ja vaatab sisse. Sarah loeb silti. Ta avab k\u00f5vaketta ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "helifaile. Ta on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Ta on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Ta on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Ta on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Ta on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Ta on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Ta on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Ta on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Ta on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Ta on segaduses, sest silt riiulil \u00fct"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Ettev\u00f5tte peakontori riiulil on k\u00f5vaketas, mis sisaldab ainult helifaile ja mitte \u00fchtegi videofaili. Ometi on selle sildil selgelt kirjas \"videofailid\", mitte \"helifailid\". Sarah, \u00e4sja palgatud arvutiinsener, leiab riiulilt k\u00f5vaketta Ta pole seda k\u00f5vaketast varem n\u00e4inud. Sarah avab k\u00f5vaketta ja vaatab sisse. Sarah loeb silti. Sarah helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud k\u00f5vaketta t\u00e4is",
+                "answers": [
+                    "salvestatud videofaile. Ta on \u00fcllatunud, sest s",
+                    "salvestatud videofaile. Ta on \u00fcllatunud, sest s",
+                    "salvestatud videofaile. Ta on \u00fcllatunud, sest s",
+                    "salvestatud videofaile. Ta on \u00fcllatunud, sest s",
+                    "salvestatud videofaile. Ta on \u00fcllatunud, sest s",
+                    "salvestatud videofaile. Ta on \u00fcllatunud, sest s",
+                    "salvestatud videofaile. Ta on \u00fcllatunud, sest s",
+                    "salvestatud videofaile. Ta on \u00fcllatunud, sest s",
+                    "salvestatud videofaile. Ta on \u00fcllatunud, sest s",
+                    "salvestatud videofaile. Ta on \u00fcllatunud, sest s"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Ettev\u00f5tte peakontori riiulil on k\u00f5vaketas, mis sisaldab ainult helifaile ja mitte \u00fchtegi videofaili. Ometi on selle sildil selgelt kirjas \"videofailid\", mitte \"helifailid\". Sarah, \u00e4sja palgatud arvutiinsener, leiab riiulilt k\u00f5vaketta. Ta pole seda k\u00f5vaketast varem n\u00e4inud. Sarah ei ava k\u00f5vaketast ega vaata selle sisse. Sarah loeb silti. N\u00f5bu helistab Sarah'le ja \u00fctleb talle, et k\u00f5vakettal on helifailid ja ta peaks eirama silti, mis \u00fctleb \"video\". Sarah usub oma n\u00f5bu. Ta avab k\u00f5vaketta ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "helifaile. Sarah on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Sarah on \u00fcllatunud, et silt riiulil oli",
+                    "helifaile. Sarah on \u00fcllatunud, et silt riiulil oli",
+                    "helifaile. Sarah on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Sarah on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Sarah on \u00fcllatunud, et silt riiulil oli",
+                    "helifaile. Sarah on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Sarah on \u00fcllatunud, et silt riiulil oli",
+                    "helifaile. Sarah on segaduses, sest silt riiulil \u00fct",
+                    "helifaile. Sarah on segaduses, sest silt riiulil \u00fct"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Ettev\u00f5tte peakontori riiulil on k\u00f5vaketas, mis sisaldab ainult helifaile ja mitte \u00fchtegi videofaili. Ometi on selle sildil selgelt kirjas \"videofailid\", mitte \"helifailid\". Sarah, \u00e4sja palgatud arvutiinsener, leiab riiulilt k\u00f5vaketta. Ta pole seda k\u00f5vaketast varem n\u00e4inud. Sarah ei ava k\u00f5vaketast ega vaata selle sisse. Sarah loeb silti. N\u00f5bu helistab Sarah'le ja \u00fctleb talle, et k\u00f5vakettal on helifailid ja ta peaks eirama silti, mis \u00fctleb \"video\". Sarah usub oma n\u00f5bu. Sarah helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud k\u00f5vaketta t\u00e4is",
+                "answers": [
+                    "helifaile, kuigi sildil on kirjas \"videofailid\". S",
+                    "helifaile, kuigi sildil on kirjas \"videofailid\". S",
+                    "helifaile, kuigi sildil on kirjas \"videofailid\". S",
+                    "helifaile, kuigi sildil on kirjas \"videofailid\". S",
+                    "helifaile, kuigi sildil on kirjas \"videofailid\". S",
+                    "helifaile, kuigi sildil on kirjas \"videofailid\". S",
+                    "helifaile, kuigi sildil on kirjas \"videofailid\". S",
+                    "helifaile, kuigi sildil on kirjas \"videofailid\". S",
+                    "helifaile, kuigi sildil on kirjas \"videofailid\". S",
+                    "helifaile, kuigi sildil on kirjas \"videofailid\". S"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Ettev\u00f5tte peakontori riiulil on k\u00f5vaketas, mis sisaldab ainult helifaile ja mitte \u00fchtegi videofaili. Selle sildil on selgelt kirjas \"helifailid\", mitte \"videofailid\". Sarah, \u00e4sja palgatud arvutiinsener, leiab riiulilt k\u00f5vaketta. Ta pole seda k\u00f5vaketast varem n\u00e4inud. Sarah ei ava k\u00f5vaketast ega vaata selle sisse. Sarah loeb silti. Ta avab k\u00f5vaketta ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "helifaile. Sarah on r\u00f5\u00f5mus, et leidis just sellise k\u00f5vak",
+                    "helifaile. Sarah on r\u00f5\u00f5mus, et leidis just sellise k\u00f5vak",
+                    "helifaile. Sarah on r\u00f5\u00f5mus, et leidis just sellise k\u00f5vak",
+                    "helifaile. Sarah on r\u00f5\u00f5mus, et leidis just sellise k\u00f5vak",
+                    "helifaile. Sarah on r\u00f5\u00f5mus, et leidis just sellise k\u00f5vak",
+                    "helifaile. Sarah on r\u00f5\u00f5mus, et leidis just sellise k\u00f5vak",
+                    "helifaile. Sarah on r\u00f5\u00f5mus, et leidis just sellise k\u00f5vak",
+                    "helifaile. Sarah on r\u00f5\u00f5mus, et leidis just sellise k\u00f5vak",
+                    "helifaile. Sarah on r\u00f5\u00f5mus, et leidis just sellise k\u00f5vak",
+                    "helifaile. Sarah on r\u00f5\u00f5mus, et leidis just sellise k\u00f5vak"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Ettev\u00f5tte peakontori riiulil on k\u00f5vaketas, mis sisaldab ainult helifaile ja mitte \u00fchtegi videofaili. Selle sildil on selgelt kirjas \"helifailid\", mitte \"videofailid\". Sarah, \u00e4sja palgatud arvutiinsener, leiab riiulilt k\u00f5vaketta. Ta pole seda k\u00f5vaketast varem n\u00e4inud. Sarah ei ava k\u00f5vaketast ega vaata selle sisse. Sarah loeb silti. Sarah helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud k\u00f5vaketta t\u00e4is",
+                "answers": [
+                    "helifaile. S\u00f5ber, nimega Mark, on p\u00f5nevil ja",
+                    "helifaile. S\u00f5ber, nimega Mark, on p\u00f5nevil ja",
+                    "helifaile. S\u00f5ber, nimega Mark, on p\u00f5nevil ja",
+                    "helifaile. S\u00f5ber, nimega Mark, on p\u00f5nevil ja",
+                    "helifaile. S\u00f5ber, nimega Mark, on p\u00f5nevil ja",
+                    "helifaile. S\u00f5ber, nimega Mark, on p\u00f5nevil ja",
+                    "helifaile. S\u00f5ber, nimega Mark, on p\u00f5nevil ja",
+                    "helifaile. S\u00f5ber, nimega Mark, on p\u00f5nevil ja",
+                    "helifaile. S\u00f5ber, nimega Mark, on p\u00f5nevil ja",
+                    "helifaile. S\u00f5ber, nimega Mark, on p\u00f5nevil ja"
+                ]
+            }
+        }
+    ]
+}

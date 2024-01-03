@@ -1,0 +1,137 @@
+{
+    "nr": 18,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on kreem, kuid kaane peal olev silt \u00fctleb \"seep\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "seepi. Megan v\u00f5tab seepi karbist v\u00e4lja ja paneb selle",
+                    "seepi. Megan v\u00f5tab seepi karbist v\u00e4lja ja paneb selle",
+                    "seepi. Megan v\u00f5tab seepi karbist v\u00e4lja ja paneb selle",
+                    "seepi. Megan v\u00f5tab seepi karbist v\u00e4lja ja paneb selle",
+                    "seepi. Megan v\u00f5tab seepi karbist v\u00e4lja ja paneb selle",
+                    "seepi. Megan v\u00f5tab seepi karbist v\u00e4lja ja paneb selle",
+                    "seepi. Megan v\u00f5tab seepi karbist v\u00e4lja ja paneb selle",
+                    "seepi. Megan v\u00f5tab seepi karbist v\u00e4lja ja paneb selle",
+                    "seepi. Megan v\u00f5tab seepi karbist v\u00e4lja ja paneb selle",
+                    "seepi. Megan v\u00f5tab seepi karbist v\u00e4lja ja paneb selle"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on kreem, kuid kaane peal olev silt \u00fctleb \"seep\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Megan helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is",
+                "answers": [
+                    "kallist seepi. S\u00f5ber k\u00fcsib, miks Megan ei avan",
+                    "kallist seepi. S\u00f5ber k\u00fcsib, miks Megan ei avan",
+                    "kallist seepi. S\u00f5ber k\u00fcsib, miks Megan ei avan",
+                    "kallist seepi. S\u00f5ber k\u00fcsib, miks Megan ei avan",
+                    "kallist seepi. S\u00f5ber k\u00fcsib, miks Megan ei avan",
+                    "kallist seepi. S\u00f5ber k\u00fcsib, miks Megan ei avan",
+                    "kallist seepi. S\u00f5ber k\u00fcsib, miks Megan ei avan",
+                    "kallist seepi. S\u00f5ber k\u00fcsib, miks Megan ei avan",
+                    "kallist seepi. S\u00f5ber k\u00fcsib, miks Megan ei avan",
+                    "kallist seepi. S\u00f5ber k\u00fcsib, miks Megan ei avan"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on kreem, kuid kaane peal olev silt \u00fctleb \"seep\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan avab karbi ja vaatab sisse. Megan loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "\u0161okolaadikomme. Megan on \u00fcllatunud, sest ta o",
+                    "v\u00e4rvilisi \u0161okolaadikomme. Megan naeratab r\u00f5\u00f5ms",
+                    "v\u00e4rvilisi \u0161okolaadikomme. Megan naeratab r\u00f5\u00f5ms",
+                    "\u0161okolaadikomme. Megan on \u00fcllatunud, sest ta o",
+                    "\u0161okolaadikomme. Megan on \u00fcllatunud, sest ta o",
+                    "\u0161okolaadikomme. Megan on \u00fcllatunud, sest ta o",
+                    "v\u00e4rvilisi \u0161okolaadikomme. Megan naeratab r\u00f5\u00f5ms",
+                    "\u0161okolaadikomme. Megan on \u00fcllatunud, sest ta o",
+                    "\u0161okolaadikomme. Megan naeratab r\u00f5\u00f5msalt, sest",
+                    "\u0161okolaadikomme. Megan naeratab r\u00f5\u00f5msalt, sest"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on kreem, kuid kaane peal olev silt \u00fctleb \"seep\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan avab karbi ja vaatab sisse. Megan loeb silti. Megan helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is",
+                "answers": [
+                    "kallist parf\u00fc\u00fcmi. S\u00f5ber on p\u00f5nevil ja soovit",
+                    "kallist parf\u00fc\u00fcmi. S\u00f5ber on p\u00f5nevil ja soovit",
+                    "kallist parf\u00fc\u00fcmi. S\u00f5ber on \u00fcllatunud ja soov",
+                    "kallist parf\u00fc\u00fcmi. S\u00f5ber on p\u00f5nevil ja soovit",
+                    "kallist parf\u00fc\u00fcmi. S\u00f5ber on \u00fcllatunud ja soov",
+                    "kallist parf\u00fc\u00fcmi. S\u00f5ber on p\u00f5nevil ja soovit",
+                    "kallist parf\u00fc\u00fcmi. S\u00f5ber on \u00fcllatunud ja soov",
+                    "kallist parf\u00fc\u00fcmi. S\u00f5ber on \u00fcllatunud ja soov",
+                    "kallist parf\u00fc\u00fcmi. S\u00f5ber on p\u00f5nevil ja soovit",
+                    "kallist parf\u00fc\u00fcmi. S\u00f5ber on p\u00f5nevil ja soovit"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on kreem, kuid kaane peal olev silt \u00fctleb \"seep\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Meganile helistab n\u00f5bu ja \u00fctleb, et karbis on kreem ja ta peaks eirama silti, mis \u00fctleb \"seep\". Megan usub oma n\u00f5bu. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "kreemi, nagu n\u00f5bu oli \u00f6elnud. Megan naeratab rahul",
+                    "kreemi, nagu n\u00f5bu oli \u00f6elnud. Megan naeratab rahul",
+                    "kreemi, nagu n\u00f5bu oli \u00f6elnud. Megan naeratab rahul",
+                    "kreemi, nagu n\u00f5bu oli \u00f6elnud. Megan naeratab rahul",
+                    "kreemi, nagu n\u00f5bu oli \u00f6elnud. Megan naeratab rahul",
+                    "kreemi, nagu n\u00f5bu oli \u00f6elnud. Megan naeratab rahul",
+                    "kreemi, nagu n\u00f5bu oli \u00f6elnud. Megan naeratab rahul",
+                    "kreemi, nagu n\u00f5bu oli \u00f6elnud. Megan naeratab rahul",
+                    "kreemi, nagu n\u00f5bu oli \u00f6elnud. Megan naeratab rahul",
+                    "kreemi, nagu n\u00f5bu oli \u00f6elnud. Megan naeratab rahul"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on kreem, kuid kaane peal olev silt \u00fctleb \"seep\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Meganile helistab n\u00f5bu ja \u00fctleb, et karbis on kreem ja ta peaks eirama silti, mis \u00fctleb \"seep\". Megan usub oma n\u00f5bu. Megan helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is",
+                "answers": [
+                    "kreemi. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks Megan",
+                    "kreemi. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks Megan",
+                    "kreemi. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks Megan",
+                    "kreemi. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks Megan",
+                    "kreemi. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks Megan",
+                    "kreemi. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks Megan",
+                    "kreemi. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks Megan",
+                    "kreemi. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks Megan",
+                    "kreemi. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks Megan",
+                    "kreemi. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks Megan"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on kreem ja kaane peal olev silt \u00fctleb \"kreem\". Selles ei ole seepi. Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "nahahoolduskreemi. Megan v\u00f5tab kreemi v\u00e4lja ja paneb selle kra",
+                    "nahahoolduskreemi. Megan v\u00f5tab kreemi v\u00e4lja ja paneb selle kra",
+                    "nahahoolduskreemi. Megan v\u00f5tab kreemi v\u00e4lja ja paneb selle kra",
+                    "nahahoolduskreemi. Megan v\u00f5tab kreemi v\u00e4lja ja paneb selle kra",
+                    "nahahoolduskreemi. Megan v\u00f5tab kreemi v\u00e4lja ja paneb selle kra",
+                    "nahahoolduskreemi. Megan v\u00f5tab kreemi v\u00e4lja ja paneb selle kra",
+                    "nahahoolduskreemi. Megan v\u00f5tab kreemi v\u00e4lja ja paneb selle kra",
+                    "nahahoolduskreemi. Megan v\u00f5tab kreemi v\u00e4lja ja paneb selle kra",
+                    "nahahoolduskreemi. Megan v\u00f5tab kreemi v\u00e4lja ja paneb selle kra",
+                    "nahahoolduskreemi. Megan v\u00f5tab kreemi v\u00e4lja ja paneb selle kra"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on kreem ja kaane peal olev silt \u00fctleb \"kreem\". Selles ei ole seepi. Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Megan helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is",
+                "answers": [
+                    "luksuslikku kreemi. S\u00f5ber on p\u00f5nevil ja soovit",
+                    "luksuslikku kreemi. S\u00f5ber on p\u00f5nevil ja soovit",
+                    "luksuslikku kreemi. S\u00f5ber on elevil ja soovitab Megan",
+                    "luksuslikku kreemi. S\u00f5ber on p\u00f5nevil ja soovit",
+                    "luksuslikku kreemi. S\u00f5ber on p\u00f5nevil ja soovit",
+                    "luksuslikku kreemi. S\u00f5ber on p\u00f5nevil ja soovit",
+                    "luksuslikku kreemi. S\u00f5ber on p\u00f5nevil ja soovit",
+                    "luksuslikku kreemi. S\u00f5ber on p\u00f5nevil ja soovit",
+                    "luksuslikku kreemi. S\u00f5ber on p\u00f5nevil ja soovit",
+                    "luksuslikku kreemi. S\u00f5ber on elevil ja soovitab Megan"
+                ]
+            }
+        }
+    ]
+}

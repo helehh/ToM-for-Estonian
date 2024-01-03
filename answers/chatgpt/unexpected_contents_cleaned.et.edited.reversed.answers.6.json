@@ -1,0 +1,137 @@
+{
+    "nr": 6,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Julia korteri ukse ees lebab \u00fcmbrik. \u00dcmbrik on t\u00e4is kviitungeid ning selles ei ole \u00fchtegi reklaamlehte. Siiski on v\u00e4lisk\u00fcljele kinnitatud silt s\u00f5naga \"reklaamlehed\". Sildil ei mainita kviitungeid. Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, m\u00f6\u00f6dub ja m\u00e4rkab p\u00f5randal \u00fcmbrikut. Ta m\u00f5tleb, mis v\u00f5iks \u00fcmbrikus olla. Julia naaber ei ava \u00fcmbrikut ega vaata sisse. Julia naaber loeb silti. Ta avab \u00fcmbriku ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "kviitungeid. Ta on \u00fcllatunud, sest sildil oli",
+                    "kviitungeid. Ta on \u00fcllatunud, sest sildil oli",
+                    "raha. \u00dcllatunud naaber haarab \u00fcmbriku kiiresti end",
+                    "raha. \u00dcllatunud naaber haarab \u00fcmbriku kiiresti end",
+                    "raha. \u00dcllatunud naaber haarab \u00fcmbriku kiiresti end",
+                    "raha. \u00dcllatunud naaber haarab \u00fcmbriku kiiresti end",
+                    "raha. \u00dcllatunud naaber haarab \u00fcmbriku kiiresti end",
+                    "raha. \u00dcllatunud naaber haarab \u00fcmbriku kiiresti end",
+                    "raha. \u00dcllatunud naaber haarab \u00fcmbriku kiiresti end",
+                    "raha. \u00dcllatunud naaber haarab \u00fcmbriku kiiresti end"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Julia korteri ukse ees lebab \u00fcmbrik. \u00dcmbrik on t\u00e4is kviitungeid ning selles ei ole \u00fchtegi reklaamlehte. Siiski on v\u00e4lisk\u00fcljele kinnitatud silt s\u00f5naga \"reklaamlehed\". Sildil ei mainita kviitungeid. Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, m\u00f6\u00f6dub ja m\u00e4rkab p\u00f5randal \u00fcmbrikut. Ta m\u00f5tleb, mis v\u00f5iks \u00fcmbrikus olla. Julia naaber ei ava \u00fcmbrikut ega vaata sisse. Julia naaber loeb silti. Julia naaber helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud \u00fcmbriku t\u00e4is",
+                "answers": [
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida na",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida na",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida na",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida na",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida na",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida na",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida na",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida na",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida na",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida na"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Julia korteri ukse ees lebab \u00fcmbrik. \u00dcmbrik on t\u00e4is kviitungeid ning selles ei ole \u00fchtegi reklaamlehte. Siiski on v\u00e4lisk\u00fcljele kinnitatud silt s\u00f5naga \"reklaamlehed\". Sildil ei mainita kviitungeid. Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, m\u00f6\u00f6dub ja m\u00e4rkab p\u00f5randal \u00fcmbrikut. Ta m\u00f5tleb, mis v\u00f5iks \u00fcmbrikus olla. Julia naaber avab \u00fcmbriku ja vaatab sisse. Julia naaber loeb silti. Ta avab \u00fcmbriku ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "raha. \u00dcllatunult ja r\u00f5\u00f5msalt naaber h\u00fc\u00fcatab",
+                    "raha. \u00dcllatunult ja r\u00f5\u00f5msalt naaber h\u00fc\u00fcatab",
+                    "raha. \u00dcllatunult ja r\u00f5\u00f5msalt naaber h\u00fc\u00fcatab",
+                    "raha. \u00dcllatunult ja r\u00f5\u00f5msalt naaber h\u00fc\u00fcatab",
+                    "raha. \u00dcllatunult ja r\u00f5\u00f5msalt naaber h\u00fc\u00fcatab",
+                    "raha. \u00dcllatunult ja r\u00f5\u00f5msalt naaber h\u00fc\u00fcatab",
+                    "raha. \u00dcllatunult ja r\u00f5\u00f5msalt naaber h\u00fc\u00fcatab",
+                    "raha. \u00dcllatunult ja r\u00f5\u00f5msalt naaber h\u00fc\u00fcatab",
+                    "raha. \u00dcllatunult ja r\u00f5\u00f5msalt naaber h\u00fc\u00fcatab",
+                    "raha. \u00dcllatunult ja r\u00f5\u00f5msalt naaber h\u00fc\u00fcatab"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Julia korteri ukse ees lebab \u00fcmbrik. \u00dcmbrik on t\u00e4is kviitungeid ning selles ei ole \u00fchtegi reklaamlehte. Siiski on v\u00e4lisk\u00fcljele kinnitatud silt s\u00f5naga \"reklaamlehed\". Sildil ei mainita kviitungeid. Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, m\u00f6\u00f6dub ja m\u00e4rkab p\u00f5randal \u00fcmbrikut. Ta m\u00f5tleb, mis v\u00f5iks \u00fcmbrikus olla. Julia naaber avab \u00fcmbriku ja vaatab sisse. Julia naaber loeb silti. Julia naaber helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud \u00fcmbriku t\u00e4is",
+                "answers": [
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Julia korteri ukse ees lebab \u00fcmbrik. \u00dcmbrik on t\u00e4is kviitungeid ning selles ei ole \u00fchtegi reklaamlehte. Siiski on v\u00e4lisk\u00fcljele kinnitatud silt s\u00f5naga \"reklaamlehed\". Sildil ei mainita kviitungeid. Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, m\u00f6\u00f6dub ja m\u00e4rkab p\u00f5randal \u00fcmbrikut. Ta m\u00f5tleb, mis v\u00f5iks \u00fcmbrikus olla. Julia naaber ei ava \u00fcmbrikut ega vaata sisse. Julia naaber loeb silti. N\u00f5bu helistab Julia naabrile ja \u00fctleb talle, et \u00fcmbrikus on kviitungid ja et ta peaks eirama silti, mis \u00fctleb \"reklaamlehed\". Julia naaber usub oma n\u00f5bu. Ta avab \u00fcmbriku ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "erinevaid kviitungeid erinevate kaupluste ja teenuste",
+                    "erinevaid kviitungeid erinevate kaupluste ja teenuste",
+                    "erinevaid kviitungeid erinevate kaupluste ja teenuste",
+                    "erinevaid kviitungeid. \u00dcllatunult m\u00f5tleb ta",
+                    "erinevaid kviitungeid erinevate kaupluste ja teenuste",
+                    "erinevaid kviitungeid. \u00dcllatunult m\u00f5tleb ta",
+                    "erinevaid kviitungeid erinevate kaupluste ja teenuste",
+                    "erinevaid kviitungeid erinevate kaupluste ja teenuste",
+                    "erinevaid kviitungeid. \u00dcllatunult m\u00f5tleb ta",
+                    "erinevaid kviitungeid. \u00dcllatunult m\u00f5tleb ta"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Julia korteri ukse ees lebab \u00fcmbrik. \u00dcmbrik on t\u00e4is kviitungeid ning selles ei ole \u00fchtegi reklaamlehte. Siiski on v\u00e4lisk\u00fcljele kinnitatud silt s\u00f5naga \"reklaamlehed\". Sildil ei mainita kviitungeid. Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, m\u00f6\u00f6dub ja m\u00e4rkab p\u00f5randal \u00fcmbrikut. Ta m\u00f5tleb, mis v\u00f5iks \u00fcmbrikus olla. Julia naaber ei ava \u00fcmbrikut ega vaata sisse. Julia naaber loeb silti. N\u00f5bu helistab Julia naabrile ja \u00fctleb talle, et \u00fcmbrikus on kviitungid ja et ta peaks eirama silti, mis \u00fctleb \"reklaamlehed\". Julia naaber usub oma n\u00f5bu. Julia naaber helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud \u00fcmbriku t\u00e4is",
+                "answers": [
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,",
+                    "kviitungeid. S\u00f5ber on \u00fcllatunud ja k\u00fcsib,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Julia korteri ukse ees lebab \u00fcmbrik. \u00dcmbrik on t\u00e4is kviitungeid ning selles ei ole \u00fchtegi reklaamlehte. V\u00e4lisk\u00fcljele on kinnitatud silt s\u00f5naga \"kviitungid\". Sildil ei mainita reklaamlehti. Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, m\u00f6\u00f6dub ja m\u00e4rkab p\u00f5randal \u00fcmbrikut. Ta m\u00f5tleb, mis v\u00f5iks \u00fcmbrikus olla. Julia naaber ei ava \u00fcmbrikut ega vaata sisse. Julia naaber loeb silti. Ta avab \u00fcmbriku ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "kviitungeid. Ta on \u00fcllatunud, sest ta ei oota",
+                    "kviitungeid. Naaber on \u00fcllatunud, sest ta ei os",
+                    "kviitungeid. Ta on \u00fcllatunud, sest ta ei oota",
+                    "kviitungeid. Ta on \u00fcllatunud, sest ta ei oota",
+                    "kviitungeid. Ta on \u00fcllatunud, sest ta ei oota",
+                    "kviitungeid. Ta on \u00fcllatunud, sest ta ei oota",
+                    "kviitungeid. Ta imestab, miks keegi on j\u00e4tnud",
+                    "kviitungeid. Ta on \u00fcllatunud, sest ta ei oota",
+                    "kviitungeid. Ta on \u00fcllatunud, sest ta ei oota",
+                    "kviitungeid. Ta on \u00fcllatunud, sest ta ei oota"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Julia korteri ukse ees lebab \u00fcmbrik. \u00dcmbrik on t\u00e4is kviitungeid ning selles ei ole \u00fchtegi reklaamlehte. V\u00e4lisk\u00fcljele on kinnitatud silt s\u00f5naga \"kviitungid\". Sildil ei mainita reklaamlehti. Julia naaber, kes sel hommikul lahkub esimest korda oma korterist, m\u00f6\u00f6dub ja m\u00e4rkab p\u00f5randal \u00fcmbrikut. Ta m\u00f5tleb, mis v\u00f5iks \u00fcmbrikus olla. Julia naaber ei ava \u00fcmbrikut ega vaata sisse. Julia naaber loeb silti. Julia naaber helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud \u00fcmbriku t\u00e4is",
+                "answers": [
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida \u00fc",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida \u00fc",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida \u00fc",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida \u00fc",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida \u00fc",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida \u00fc",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida \u00fc",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida \u00fc",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida \u00fc",
+                    "kviitungeid. S\u00f5ber k\u00fcsib p\u00f5nevil, mida \u00fc"
+                ]
+            }
+        }
+    ]
+}

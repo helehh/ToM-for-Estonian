@@ -1,0 +1,137 @@
+{
+    "nr": 3,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on segaduses",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on segaduses",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on segaduses",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on segaduses",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on segaduses",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on segaduses",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on segaduses",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on segaduses",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on segaduses",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on segaduses"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. Mary helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud konteineri t\u00e4is",
+                "answers": [
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary avab konteineri ja vaatab sisse. Mary loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on \u00fcllat",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on \u00fcllat",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on \u00fcllat",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on \u00fcllat",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on \u00fcllat",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on \u00fcllat",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on \u00fcllat",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on \u00fcllat",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on \u00fcllat",
+                    "arvuteid, nagu m\u00e4rgistus v\u00e4itis. Mary on \u00fcllat"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary avab konteineri ja vaatab sisse. Mary loeb silti. Mary helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud konteineri t\u00e4is",
+                "answers": [
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John",
+                    "valesti m\u00e4rgistatud kaupu. S\u00f5ber, nimega John"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. \u00dcks sugulane helistab Maryle ja \u00fctleb talle, et konteineris on arvutid ja ta peaks eirama silti, mis \u00fctleb \"mootorrattad\". Mary usub oma sugulast. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "arvuteid, nagu tema sugulane talle mainis. Mary on \u00fcll",
+                    "arvuteid, nagu tema sugulane talle mainis. Mary on \u00fcll",
+                    "arvuteid, nagu tema sugulane talle mainis. Mary on \u00fcll",
+                    "arvuteid, nagu tema sugulane talle mainis. Mary on \u00fcll",
+                    "arvuteid, nagu tema sugulane talle mainis. Mary on \u00fcll",
+                    "arvuteid, nagu tema sugulane talle mainis. Mary on \u00fcll",
+                    "arvuteid, nagu tema sugulane talle mainis. Mary on \u00fcll",
+                    "arvuteid, nagu tema sugulane talle mainis. Mary on \u00fcll",
+                    "arvuteid, nagu tema sugulane talle mainis. Mary on \u00fcll",
+                    "arvuteid, nagu tema sugulane talle mainis. Mary on \u00fcll"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. \u00dcks sugulane helistab Maryle ja \u00fctleb talle, et konteineris on arvutid ja ta peaks eirama silti, mis \u00fctleb \"mootorrattad\". Mary usub oma sugulast. Mary helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud konteineri t\u00e4is",
+                "answers": [
+                    "arvuteid, mitte mootorrattaid. S\u00f5ber on \u00fcllatun",
+                    "arvuteid, mitte mootorrattaid. S\u00f5ber on \u00fcllatun",
+                    "arvuteid, mitte mootorrattaid. S\u00f5ber on \u00fcllatun",
+                    "arvuteid, mitte mootorrattaid. S\u00f5ber on \u00fcllatun",
+                    "arvuteid, mitte mootorrattaid. S\u00f5ber on \u00fcllatun",
+                    "arvuteid, mitte mootorrattaid. S\u00f5ber on \u00fcllatun",
+                    "arvuteid, mitte mootorrattaid. S\u00f5ber on \u00fcllatun",
+                    "arvuteid, mitte mootorrattaid. S\u00f5ber on \u00fcllatun",
+                    "arvuteid, mitte mootorrattaid. S\u00f5ber on \u00fcllatun",
+                    "arvuteid, mitte mootorrattaid. S\u00f5ber on \u00fcllatun"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. M\u00e4rgistusel on kirjas, et see sisaldab arvuteid ja mootorrattaid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "arvuteid, nagu sildil m\u00e4rgitud. Mary on rahul",
+                    "arvuteid, nagu sildil m\u00e4rgitud. Mary on rahul",
+                    "arvuteid, nagu sildil m\u00e4rgitud. Mary on rahul",
+                    "arvuteid, nagu sildil m\u00e4rgitud. Mary on rahul",
+                    "arvuteid, nagu sildil m\u00e4rgitud. Mary on rahul",
+                    "arvuteid, nagu sildil m\u00e4rgitud. Mary on rahul",
+                    "arvuteid, nagu sildil m\u00e4rgitud. Mary on rahul",
+                    "arvuteid, nagu sildil m\u00e4rgitud. Mary on rahul",
+                    "arvuteid, nagu sildil m\u00e4rgitud. Mary on rahul",
+                    "arvuteid, nagu sildil m\u00e4rgitud. Mary on rahul"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. M\u00e4rgistusel on kirjas, et see sisaldab arvuteid ja mootorrattaid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. Mary helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud konteineri t\u00e4is",
+                "answers": [
+                    "arvuteid, ilma mootorratasteta. S\u00f5ber, nimega John",
+                    "arvuteid, ilma mootorratasteta. S\u00f5ber, nimega John",
+                    "arvuteid, ilma mootorratasteta. S\u00f5ber, nimega John",
+                    "arvuteid, ilma mootorratasteta. S\u00f5ber, nimega John",
+                    "arvuteid, ilma mootorratasteta. S\u00f5ber, nimega John",
+                    "arvuteid, kuid ilma mootorratasteta. Ta on p\u00f5nevil",
+                    "arvuteid, ilma mootorratasteta. S\u00f5ber, nimega John",
+                    "arvuteid, ilma mootorratasteta. S\u00f5ber, nimega John",
+                    "arvuteid, ilma mootorratasteta. S\u00f5ber, nimega John",
+                    "arvuteid, ilma mootorratasteta. S\u00f5ber, nimega John"
+                ]
+            }
+        }
+    ]
+}

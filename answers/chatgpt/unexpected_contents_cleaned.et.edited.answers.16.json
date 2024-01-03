@@ -1,0 +1,137 @@
+{
+    "nr": 16,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on k\u00f6\u00f6giviljad ning r\u00f5ivaid ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult r\u00f5ivad ja k\u00f6\u00f6givilju seal ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "riideid. Ta on \u00fcllatunud, sest sildil oli ju kir",
+                    "riideid. Ta on \u00fcllatunud, sest sildil oli ju kir",
+                    "riideid. Ta on \u00fcllatunud, sest sildil oli ju kir",
+                    "riideid. Ta on \u00fcllatunud, sest sildil oli ju kir",
+                    "riideid. Ta on \u00fcllatunud, sest sildil oli ju kir",
+                    "riideid. Ta on \u00fcllatunud, sest sildil oli ju kir",
+                    "riideid. Ta on \u00fcllatunud, sest sildil oli ju kir",
+                    "riideid. Ta on \u00fcllatunud, sest sildil oli ju kir",
+                    "riideid. Ta on \u00fcllatunud, sest sildil oli ju kir",
+                    "riideid. Ta on \u00fcllatunud, sest sildil oli ju kir"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on k\u00f6\u00f6giviljad ning r\u00f5ivaid ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult r\u00f5ivad ja k\u00f6\u00f6givilju seal ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida talle, et ta on just leidnud konteineri t\u00e4is",
+                "answers": [
+                    "r\u00f5ivaid. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "r\u00f5ivaid. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "r\u00f5ivaid. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "r\u00f5ivaid. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "r\u00f5ivaid. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "r\u00f5ivaid. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "r\u00f5ivaid. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "r\u00f5ivaid. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "r\u00f5ivaid. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "r\u00f5ivaid. S\u00f5ber, nimega Laura, on \u00fcllatunud"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on k\u00f6\u00f6giviljad ning r\u00f5ivaid ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult r\u00f5ivad ja k\u00f6\u00f6givilju seal ei ole. Daniel avab konteineri ja vaatab sisse. Daniel loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "riideid. Ta on \u00fcllatunud, sest ta ootas k\u00f6\u00f6givil",
+                    "riideid. Ta on \u00fcllatunud, sest ta ootas k\u00f6\u00f6givil",
+                    "riideid. Ta on \u00fcllatunud, sest ta ootas k\u00f6\u00f6givil",
+                    "riideid. Ta on \u00fcllatunud, sest ta ootas k\u00f6\u00f6givil",
+                    "riideid. Ta on \u00fcllatunud, sest ta ootas k\u00f6\u00f6givil",
+                    "riideid. Ta on \u00fcllatunud, sest ta ootas k\u00f6\u00f6givil",
+                    "riideid. Ta on \u00fcllatunud, sest ta ootas k\u00f6\u00f6givil",
+                    "riideid. Ta on \u00fcllatunud, sest ta ootas k\u00f6\u00f6givil",
+                    "riideid. Ta on \u00fcllatunud, sest ta ootas k\u00f6\u00f6givil",
+                    "riideid. Ta on \u00fcllatunud, sest ta ootas k\u00f6\u00f6givil"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on k\u00f6\u00f6giviljad ning r\u00f5ivaid ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult r\u00f5ivad ja k\u00f6\u00f6givilju seal ei ole. Daniel avab konteineri ja vaatab sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida talle, et ta on just leidnud konteineri t\u00e4is",
+                "answers": [
+                    "r\u00f5ivaid, mitte k\u00f6\u00f6givilju. S\u00f5ber, nimega Laura",
+                    "r\u00f5ivaid, mitte k\u00f6\u00f6givilju. S\u00f5ber, nimega Laura",
+                    "r\u00f5ivaid, mitte k\u00f6\u00f6givilju. S\u00f5ber, nimega Laura",
+                    "r\u00f5ivaid, mitte k\u00f6\u00f6givilju. S\u00f5ber, nimega Laura",
+                    "r\u00f5ivaid, mitte k\u00f6\u00f6givilju. S\u00f5ber, nimega Laura",
+                    "r\u00f5ivaid, mitte k\u00f6\u00f6givilju. S\u00f5ber, nimega Laura",
+                    "r\u00f5ivaid, mitte k\u00f6\u00f6givilju. S\u00f5ber, nimega Laura",
+                    "r\u00f5ivaid, mitte k\u00f6\u00f6givilju. S\u00f5ber, nimega Laura",
+                    "r\u00f5ivaid, mitte k\u00f6\u00f6givilju. S\u00f5ber, nimega Laura",
+                    "r\u00f5ivaid, mitte k\u00f6\u00f6givilju. S\u00f5ber, nimega Laura"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on k\u00f6\u00f6giviljad ning r\u00f5ivaid ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult r\u00f5ivad ja k\u00f6\u00f6givilju seal ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Danieli n\u00f5bu helistab talle ja \u00fctleb, et konteineris on r\u00f5ivad ja ta peaks eirama silti, mis \u00fctleb \"k\u00f6\u00f6giviljad\". Daniel usub oma n\u00f5bu. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "riideid. Daniel on \u00fcllatunud, et silt oli vale ja ta on",
+                    "riideid. Daniel on \u00fcllatunud, et silt oli vale ja ta on",
+                    "riideid. Daniel on \u00fcllatunud, et silt oli vale ja ta on",
+                    "riideid. Daniel on \u00fcllatunud, et silt oli vale ja ta on",
+                    "riideid. Daniel on \u00fcllatunud, et silt oli vale ja ta on",
+                    "riideid. Daniel on \u00fcllatunud, et silt oli vale ja ta on",
+                    "riideid. Daniel on \u00fcllatunud, et silt oli vale ja et ke",
+                    "riideid. Daniel on \u00fcllatunud, et silt oli vale ja ta on",
+                    "riideid. Daniel on \u00fcllatunud, et silt oli vale ja ta on",
+                    "riideid. Daniel on \u00fcllatunud, et silt oli vale ja ta on"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on k\u00f6\u00f6giviljad ning r\u00f5ivaid ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult r\u00f5ivad ja k\u00f6\u00f6givilju seal ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Danieli n\u00f5bu helistab talle ja \u00fctleb, et konteineris on r\u00f5ivad ja ta peaks eirama silti, mis \u00fctleb \"k\u00f6\u00f6giviljad\". Daniel usub oma n\u00f5bu. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida talle, et ta on just leidnud konteineri t\u00e4is",
+                "answers": [
+                    "r\u00f5ivaid. S\u00f5ber on \u00fcllatunud ja soovib kohe",
+                    "r\u00f5ivaid. S\u00f5ber on \u00fcllatunud ja soovib kohe",
+                    "r\u00f5ivaid. S\u00f5ber on \u00fcllatunud ja soovib kohe",
+                    "r\u00f5ivaid. S\u00f5ber on \u00fcllatunud ja soovib kohe",
+                    "r\u00f5ivaid. S\u00f5ber on \u00fcllatunud ja soovib kohe",
+                    "r\u00f5ivaid. S\u00f5ber on \u00fcllatunud ja soovib kohe",
+                    "r\u00f5ivaid. S\u00f5ber on \u00fcllatunud ja soovib kohe",
+                    "r\u00f5ivaid. S\u00f5ber on \u00fcllatunud ja soovib kohe",
+                    "r\u00f5ivaid. S\u00f5ber on \u00fcllatunud ja soovib kohe",
+                    "r\u00f5ivaid. S\u00f5ber on \u00fcllatunud ja soovib kohe"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on riided ning k\u00f6\u00f6givilju ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on riided ja k\u00f6\u00f6givilju selles ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "riideid. Ta on \u00fcllatunud, et k\u00f6\u00f6givilju pole, k",
+                    "riideid. Ta on \u00fcllatunud, et k\u00f6\u00f6givilju pole, k",
+                    "riideid. Ta on \u00fcllatunud, et k\u00f6\u00f6givilju pole, k",
+                    "riideid. Ta on \u00fcllatunud, et k\u00f6\u00f6givilju pole, k",
+                    "riideid. Ta on \u00fcllatunud, et k\u00f6\u00f6givilju pole, k",
+                    "riideid. Ta on \u00fcllatunud, et k\u00f6\u00f6givilju pole, k",
+                    "riideid. Ta on \u00fcllatunud, et k\u00f6\u00f6givilju pole, k",
+                    "riideid. Ta on \u00fcllatunud, sest ta ootas, et kont",
+                    "riideid. Ta on \u00fcllatunud, sest ta ootas, et kont",
+                    "riideid. Ta on \u00fcllatunud, et k\u00f6\u00f6givilju pole, k"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on riided ning k\u00f6\u00f6givilju ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on riided ja k\u00f6\u00f6givilju selles ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida talle, et ta on just leidnud konteineri t\u00e4is",
+                "answers": [
+                    "riideid. S\u00f5ber, nimega Laura, on v\u00e4ga huvitatud",
+                    "riideid. S\u00f5ber, nimega Laura, on v\u00e4ga huvitatud",
+                    "riideid. S\u00f5ber, nimega Laura, on v\u00e4ga huvitatud",
+                    "riideid. S\u00f5ber, nimega Laura, on v\u00e4ga huvitatud",
+                    "riideid. S\u00f5ber, nimega Laura, on v\u00e4ga huvitatud",
+                    "riideid. S\u00f5ber, nimega Laura, on v\u00e4ga huvitatud",
+                    "riideid. S\u00f5ber, nimega Laura, on v\u00e4ga huvitatud",
+                    "riideid. S\u00f5ber, nimega Laura, on v\u00e4ga huvitatud",
+                    "riideid. S\u00f5ber, nimega Laura, on v\u00e4ga huvitatud",
+                    "riideid. S\u00f5ber, nimega Laura, on v\u00e4ga huvitatud"
+                ]
+            }
+        }
+    ]
+}

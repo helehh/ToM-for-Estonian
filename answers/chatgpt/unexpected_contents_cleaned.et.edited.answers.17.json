@@ -1,0 +1,137 @@
+{
+    "nr": 17,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"disko\". Silt on vale, sest CD-del on ainult d\u017e\u00e4ssmuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. Ta paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Ta kuuleb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"disko\". Silt on vale, sest CD-del on ainult d\u017e\u00e4ssmuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. Vicky helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud CD t\u00e4is",
+                "answers": [
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on Vicky uudisest v\u00e4",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on Vicky uudisest v\u00e4",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on Vicky uudisest v\u00e4",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on Vicky uudisest v\u00e4",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on Vicky uudisest v\u00e4",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on Vicky uudisest v\u00e4",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on Vicky uudisest v\u00e4",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on Vicky uudisest v\u00e4",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on Vicky uudisest v\u00e4",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on Vicky uudisest v\u00e4"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"disko\". Silt on vale, sest CD-del on ainult d\u017e\u00e4ssmuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Vicky kuuleb selgelt, et see on t\u00e4is d\u017e\u00e4ssmuusikat. Ta paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Ta kuuleb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "d\u017e\u00e4ssmuusikat. Vicky on \u00fcllatunud, sest",
+                    "d\u017e\u00e4ssmuusikat. Vicky on \u00fcllatunud, sest",
+                    "d\u017e\u00e4ssmuusikat. Vicky on \u00fcllatunud, sest",
+                    "d\u017e\u00e4ssmuusikat. Vicky on \u00fcllatunud, sest",
+                    "d\u017e\u00e4ssmuusikat. Vicky on \u00fcllatunud, sest",
+                    "d\u017e\u00e4ssmuusikat. Vicky on \u00fcllatunud, sest",
+                    "d\u017e\u00e4ssmuusikat. Vicky on \u00fcllatunud, sest",
+                    "d\u017e\u00e4ssmuusikat. Vicky on \u00fcllatunud, sest",
+                    "d\u017e\u00e4ssmuusikat. Vicky on \u00fcllatunud, sest",
+                    "d\u017e\u00e4ssmuusikat. Vicky on \u00fcllatunud, sest"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"disko\". Silt on vale, sest CD-del on ainult d\u017e\u00e4ssmuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Vicky kuuleb selgelt, et see on t\u00e4is d\u017e\u00e4ssmuusikat. Vicky helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud CD t\u00e4is",
+                "answers": [
+                    "oma lemmikmuusikat. S\u00f5ber, nimega Mark, on su",
+                    "oma lemmikmuusikat. S\u00f5ber, nimega Marko, on",
+                    "oma lemmikmuusikat. S\u00f5ber, nimega Marko, on",
+                    "oma lemmikmuusikat. S\u00f5ber, nimega Marko, on",
+                    "oma lemmikmuusikat. S\u00f5ber, nimega Mark, on su",
+                    "oma lemmikmuusikat. S\u00f5ber, nimega Mark, on su",
+                    "oma lemmikmuusikat. S\u00f5ber, nimega Marko, on",
+                    "oma lemmikmuusikat. S\u00f5ber, nimega Marko, on",
+                    "oma lemmikmuusikat. S\u00f5ber, nimega Marko, on",
+                    "oma lemmikmuusikat. S\u00f5ber, nimega Marko, on"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"disko\". Silt on vale, sest CD-del on ainult d\u017e\u00e4ssmuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. \u00dcks n\u00f5bu helistab Vickyle ja \u00fctleb, et CD-del on d\u017e\u00e4ssmuusika ja ta peaks eirama silti, mis \u00fctleb \"disko\". Vicky usub oma n\u00f5bu. Ta paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Ta kuuleb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"disko\". Silt on vale, sest CD-del on ainult d\u017e\u00e4ssmuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. \u00dcks n\u00f5bu helistab Vickyle ja \u00fctleb, et CD-del on d\u017e\u00e4ssmuusika ja ta peaks eirama silti, mis \u00fctleb \"disko\". Vicky usub oma n\u00f5bu. Vicky helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud CD t\u00e4is",
+                "answers": [
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on v\u00e4ga p\u00f5nevil ja",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on v\u00e4ga p\u00f5nevil ja",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on v\u00e4ga p\u00f5nevil ja",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on v\u00e4ga p\u00f5nevil ja",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on v\u00e4ga p\u00f5nevil ja",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on v\u00e4ga p\u00f5nevil ja",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on v\u00e4ga p\u00f5nevil ja",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on v\u00e4ga p\u00f5nevil ja",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on v\u00e4ga p\u00f5nevil ja",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber on v\u00e4ga p\u00f5nevil ja"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"d\u017e\u00e4ss\".  Silt on \u00f5ige, sest CD-del on ainult d\u017e\u00e4ssmuusika ja \u00fchtegi diskolugu ei ole. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. Ta paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Ta kuuleb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o",
+                    "d\u017e\u00e4ssmuusikat. Vicky naudib seda v\u00e4ga ja o"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"d\u017e\u00e4ss\".  Silt on \u00f5ige, sest CD-del on ainult d\u017e\u00e4ssmuusika ja \u00fchtegi diskolugu ei ole. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. Vicky helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud CD t\u00e4is",
+                "answers": [
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber, nimega Mark, on su",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber, nimega Mark, on su",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber, nimega Mark, on su",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber, nimega Mark, on su",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber, nimega Mark, on su",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber, nimega Mark, on su",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber, nimega Mark, on su",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber, nimega Mark, on su",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber, nimega Mark, on su",
+                    "d\u017e\u00e4ssmuusikat. S\u00f5ber, nimega Mark, on su"
+                ]
+            }
+        }
+    ]
+}

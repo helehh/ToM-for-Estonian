@@ -1,0 +1,137 @@
+{
+    "nr": 5,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Airbnb v\u00f5\u00f5rustaja k\u00f6\u00f6gi k\u00fclmkapis on purk, mille sildil on kirjas \"tuunikala\". Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, kes on just majja saabunud k\u00fclaline, avab k\u00fclmkapi ja n\u00e4eb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti. Ta avab purgi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "marineeritud kurke. Jill on \u00fcllatunud, sest ta oli ood",
+                    "marineeritud kurke. Jill on \u00fcllatunud, sest ta oli ood",
+                    "marineeritud kurke. Jill on \u00fcllatunud, sest ta oli ood",
+                    "marineeritud kurke. Jill on \u00fcllatunud, sest ta oli ood",
+                    "marineeritud kurke. Jill on \u00fcllatunud, sest ta oli ood",
+                    "marineeritud kurke. Jill on \u00fcllatunud, sest ta oli ood",
+                    "marineeritud kurke. Jill on \u00fcllatunud, sest ta oli ood",
+                    "marineeritud kurke. Jill on \u00fcllatunud, sest ta oli ood",
+                    "marineeritud kurke. Jill on \u00fcllatunud, sest ta oli ood",
+                    "marineeritud kurke. Jill on \u00fcllatunud, sest ta oli ood"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Airbnb v\u00f5\u00f5rustaja k\u00f6\u00f6gi k\u00fclmkapis on purk, mille sildil on kirjas \"tuunikala\". Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, kes on just majja saabunud k\u00fclaline, avab k\u00fclmkapi ja n\u00e4eb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti. Jill helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just leidnud purgi t\u00e4is",
+                "answers": [
+                    "marineeritud kurke, kuigi sildil on kirjas \"tuunikala\". Jill",
+                    "marineeritud kurke, kuigi sildil on kirjas \"tuunikala\". Jill",
+                    "marineeritud kurke, kuigi sildil on kirjas \"tuunikala\". Jill",
+                    "marineeritud kurke, kuigi sildil on kirjas \"tuunikala\". Jill",
+                    "marineeritud kurke, kuigi sildil on kirjas \"tuunikala\". Jill",
+                    "marineeritud kurke, kuigi sildil on kirjas \"tuunikala\". Jill",
+                    "marineeritud kurke, kuigi sildil on kirjas \"tuunikala\". Jill",
+                    "marineeritud kurke, kuigi sildil on kirjas \"tuunikala\". Jill",
+                    "marineeritud kurke, kuigi sildil on kirjas \"tuunikala\". Jill",
+                    "marineeritud kurke, kuigi sildil on kirjas \"tuunikala\". Jill"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Airbnb v\u00f5\u00f5rustaja k\u00f6\u00f6gi k\u00fclmkapis on purk, mille sildil on kirjas \"tuunikala\". Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, kes on just majja saabunud k\u00fclaline, avab k\u00fclmkapi ja n\u00e4eb purki. Jill avab purgi ja vaatab sisse. Jill loeb silti. Ta avab purgi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "marineeritud kurke. Jill naeratab rahulolevalt, sest ta",
+                    "marineeritud kurke. Jill naeratab rahulolevalt, sest ta",
+                    "marineeritud kurke. Jill naeratab rahulolevalt, sest ta",
+                    "marineeritud kurke. Jill naeratab rahulolevalt, sest ta",
+                    "marineeritud kurke. Jill naeratab rahulolevalt, sest ta",
+                    "marineeritud kurke. Jill naeratab rahulolevalt, sest ta",
+                    "marineeritud kurke, mitte tuunikala. Jill naeratab, sest ta",
+                    "marineeritud kurke, mitte tuunikala. Jill naeratab rahulole",
+                    "marineeritud kurke. Jill naeratab rahulolevalt, sest ta",
+                    "marineeritud kurke. Jill naeratab rahulolevalt, sest ta"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Airbnb v\u00f5\u00f5rustaja k\u00f6\u00f6gi k\u00fclmkapis on purk, mille sildil on kirjas \"tuunikala\". Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, kes on just majja saabunud k\u00fclaline, avab k\u00fclmkapi ja n\u00e4eb purki. Jill avab purgi ja vaatab sisse. Jill loeb silti. Jill helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just leidnud purgi t\u00e4is",
+                "answers": [
+                    "marineeritud kurke, mitte tuunikala. Jill on \u00fcllatunud,",
+                    "marineeritud kurke, mitte tuunikala. Jill on \u00fcllatunud,",
+                    "marineeritud kurke, mitte tuunikala. Jill on \u00fcllatunud,",
+                    "marineeritud kurke, mitte tuunikala. Jill on \u00fcllatunud,",
+                    "marineeritud kurke, mitte tuunikala. Jill on \u00fcllatunud,",
+                    "marineeritud kurke, mitte tuunikala. Jill on \u00fcllatunud,",
+                    "marineeritud kurke, mitte tuunikala. Jill on \u00fcllatunud,",
+                    "marineeritud kurke, mitte tuunikala. Jill on \u00fcllatunud,",
+                    "marineeritud kurke, mitte tuunikala. Jill on \u00fcllatunud,",
+                    "marineeritud kurke, mitte tuunikala. Jill on \u00fcllatunud,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Airbnb v\u00f5\u00f5rustaja k\u00f6\u00f6gi k\u00fclmkapis on purk, mille sildil on kirjas \"tuunikala\". Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, kes on just majja saabunud k\u00fclaline, avab k\u00fclmkapi ja n\u00e4eb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti. N\u00f5bu helistab Jillile ja \u00fctleb talle, et purgis on kurgid ja ta peaks sildil olevat \"tuunikala\" ignoreerima. Jill usub oma n\u00f5bu. Ta avab purgi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "marineeritud kurke. Jill naeratab ja m\u00f5tleb, kui naljak",
+                    "marineeritud kurke. Jill naeratab ja m\u00f5tleb, kui naljak",
+                    "marineeritud kurke. Jill naeratab ja m\u00f5tleb, kui \u00f5",
+                    "marineeritud kurke. Jill naeratab ja m\u00f5tleb, kui naljak",
+                    "marineeritud kurke. Jill naeratab ja m\u00f5tleb, kui \u00f5",
+                    "marineeritud kurke. Jill naeratab ja m\u00f5tleb, kui naljak",
+                    "marineeritud kurke. Jill naeratab ja m\u00f5tleb, kui naljak",
+                    "marineeritud kurke. Jill naeratab ja m\u00f5tleb, kui naljak",
+                    "marineeritud kurke. Jill naeratab ja m\u00f5tleb, kui naljak",
+                    "marineeritud kurke. Jill naeratab ja m\u00f5tleb, kui naljak"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Airbnb v\u00f5\u00f5rustaja k\u00f6\u00f6gi k\u00fclmkapis on purk, mille sildil on kirjas \"tuunikala\". Tegelikult sisaldab purk aga marineeritud kurke ja mitte tuunikala. Sildil ei mainita kurke. Jill, kes on just majja saabunud k\u00fclaline, avab k\u00fclmkapi ja n\u00e4eb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti. N\u00f5bu helistab Jillile ja \u00fctleb talle, et purgis on kurgid ja ta peaks sildil olevat \"tuunikala\" ignoreerima. Jill usub oma n\u00f5bu. Jill helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just leidnud purgi t\u00e4is",
+                "answers": [
+                    "marineeritud kurke k\u00fclmkapist, kuigi sildil on kirjas \"tu",
+                    "marineeritud kurke k\u00fclmkapist, kuigi sildil oli kirjas \"tu",
+                    "marineeritud kurke, kuigi sildil on kirjas \"tuunikala\". S",
+                    "marineeritud kurke, kuigi sildil on kirjas \"tuunikala\". S",
+                    "marineeritud kurke, kuigi sildil on kirjas \"tuunikala\". S",
+                    "marineeritud kurke, kuigi sildil on kirjas \"tuunikala\". S",
+                    "marineeritud kurke, kuigi sildil on kirjas \"tuunikala\". S",
+                    "marineeritud kurke k\u00fclmkapist, mille sildil on ekslikult kir",
+                    "marineeritud kurke, kuigi sildil oli kirjas \"tuunikala\". S",
+                    "marineeritud kurke k\u00fclmkapist, mille sildil on ekslikult kir"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Airbnb v\u00f5\u00f5rustaja k\u00f6\u00f6gi k\u00fclmkapis on purk, mille sildil on kirjas \"marineeritud kurgid\". Purk sisaldab marineeritud kurke ja mitte tuunikala. Sildil ei mainita tuunikala. Jill, kes on just majja saabunud k\u00fclaline, avab k\u00fclmkapi ja n\u00e4eb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti. Ta avab purgi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "marineeritud kurke. Jill on r\u00f5\u00f5mus, sest ta armastab marine",
+                    "marineeritud kurke. Jill on r\u00f5\u00f5mus, sest ta armastab marine",
+                    "marineeritud kurke. Jill on r\u00f5\u00f5mus, sest ta armastab marine",
+                    "marineeritud kurke. Jill sulgeb purgi ja paneb selle tagasi k\u00fclm",
+                    "marineeritud kurke. Jill sulgeb purgi ja paneb selle tagasi k\u00fclm",
+                    "marineeritud kurke. Jill sulgeb purgi ja paneb selle tagasi k\u00fclm",
+                    "marineeritud kurke. Jill sulgeb purgi ja paneb selle tagasi k\u00fclm",
+                    "marineeritud kurke. Jill sulgeb purgi ja paneb selle tagasi k\u00fclm",
+                    "marineeritud kurke. Jill sulgeb purgi ja paneb selle tagasi k\u00fclm",
+                    "marineeritud kurke. Jill on r\u00f5\u00f5mus, sest ta armastab marine"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Airbnb v\u00f5\u00f5rustaja k\u00f6\u00f6gi k\u00fclmkapis on purk, mille sildil on kirjas \"marineeritud kurgid\". Purk sisaldab marineeritud kurke ja mitte tuunikala. Sildil ei mainita tuunikala. Jill, kes on just majja saabunud k\u00fclaline, avab k\u00fclmkapi ja n\u00e4eb purki. Jill ei ava purki ega vaata sisse. Jill loeb silti. Jill helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just leidnud purgi t\u00e4is",
+                "answers": [
+                    "marineeritud kurke. Ta \u00fctleb s\u00f5brale, et see on tema le",
+                    "marineeritud kurke. Ta \u00fctleb s\u00f5brale, et see on tema le",
+                    "marineeritud kurke. Ta \u00fctleb s\u00f5brale, et see on tema le",
+                    "marineeritud kurke. Ta \u00fctleb s\u00f5brale, et see on tema le",
+                    "marineeritud kurke. Ta \u00fctleb s\u00f5brale, et see on tema le",
+                    "marineeritud kurke. Ta \u00fctleb s\u00f5brale, et see on tema le",
+                    "marineeritud kurke. Ta \u00fctleb s\u00f5brale, et see on tema le",
+                    "marineeritud kurke. Ta \u00fctleb s\u00f5brale, et see on tema le",
+                    "marineeritud kurke. Ta \u00fctleb s\u00f5brale, et see on tema le",
+                    "marineeritud kurke. Ta \u00fctleb s\u00f5brale, et see on tema le"
+                ]
+            }
+        }
+    ]
+}

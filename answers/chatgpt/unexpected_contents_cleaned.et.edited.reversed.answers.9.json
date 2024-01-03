@@ -1,0 +1,137 @@
+{
+    "nr": 9,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mahaj\u00e4etud h\u00e4\u00e4rberis uurib kriminalistide meeskond kuriteopaika. Laiba k\u00f5rval on suletud karp; keegi ei n\u00e4e, mis seal sees on. Kuigi karbis on tegelikult kuulid, v\u00e4idab sellel olev silt, et karbis on tabletid. Peainspektor, kes on just s\u00fcndmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "kuule. Ta v\u00f5tab \u00fche kuuli ettevaatlikult karbist v\u00e4l",
+                    "kuule. Ta v\u00f5tab \u00fche kuuli ettevaatlikult karbist v\u00e4l",
+                    "kuule. Ta v\u00f5tab \u00fche kuuli ettevaatlikult karbist v\u00e4l",
+                    "kuule. Ta v\u00f5tab \u00fche kuuli ettevaatlikult karbist v\u00e4l",
+                    "kuule. Ta v\u00f5tab \u00fche kuuli ettevaatlikult karbist v\u00e4l",
+                    "kuule. Ta v\u00f5tab \u00fche kuuli ettevaatlikult karbist v\u00e4l",
+                    "kuule. Ta v\u00f5tab \u00fche kuuli ettevaatlikult karbist v\u00e4l",
+                    "kuule. Ta v\u00f5tab \u00fche kuuli ettevaatlikult karbist v\u00e4l",
+                    "kuule. Ta v\u00f5tab \u00fche kuuli ettevaatlikult karbist v\u00e4l",
+                    "kuule. Ta v\u00f5tab \u00fche kuuli ettevaatlikult karbist v\u00e4l"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mahaj\u00e4etud h\u00e4\u00e4rberis uurib kriminalistide meeskond kuriteopaika. Laiba k\u00f5rval on suletud karp; keegi ei n\u00e4e, mis seal sees on. Kuigi karbis on tegelikult kuulid, v\u00e4idab sellel olev silt, et karbis on tabletid. Peainspektor, kes on just s\u00fcndmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb silti. Peainspektor helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is",
+                "answers": [
+                    "kuule. S\u00f5ber, kes on relvahuviline, k\u00fcsib p\u00f5",
+                    "kuule. S\u00f5ber, kes on relvaekspert, k\u00fcsib peains",
+                    "kuule. S\u00f5ber, kes on relvahuviline, k\u00fcsib p\u00f5",
+                    "kuule. S\u00f5ber, kes on relvahuviline, k\u00fcsib p\u00f5",
+                    "kuule. S\u00f5ber, kes on relvaekspert, k\u00fcsib peains",
+                    "kuule. S\u00f5ber, kes on relvaekspert, k\u00fcsib peains",
+                    "kuule. S\u00f5ber, kes on relvaekspert, k\u00fcsib peains",
+                    "kuule. S\u00f5ber, kes on relvaekspert, k\u00fcsib peains",
+                    "kuule. S\u00f5ber, kes on relvahuviline, k\u00fcsib p\u00f5",
+                    "kuule. S\u00f5ber, kes on relvaekspert, k\u00fcsib peains"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mahaj\u00e4etud h\u00e4\u00e4rberis uurib kriminalistide meeskond kuriteopaika. Laiba k\u00f5rval on suletud karp; keegi ei n\u00e4e, mis seal sees on. Kuigi karbis on tegelikult kuulid, v\u00e4idab sellel olev silt, et karbis on tabletid. Peainspektor, kes on just s\u00fcndmuskohale saabunud, kummardub karpi uurima. Peainspektor avab karbi ja vaatab sisse. Peainspektor loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "kuule. Ta on hetkeks segaduses, sest karbil olev silt",
+                    "kuule. Ta on hetkeks segaduses, sest karbil olev silt",
+                    "kuule. Ta on hetkeks segaduses, sest karbil olev silt",
+                    "kuule. Ta on hetkeks segaduses, sest karbil olev silt",
+                    "kuule. Ta on hetkeks segaduses, sest karbil olev silt",
+                    "kuule. Ta on hetkeks segaduses, sest karbil olev silt",
+                    "kuule. Ta on hetkeks segaduses, sest karbil olev silt",
+                    "kuule. Ta on hetkeks segaduses, sest karbil olev silt",
+                    "kuule. Ta on hetkeks segaduses, sest karbil olev silt",
+                    "kuule. Ta on hetkeks segaduses, sest karbil olev silt"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mahaj\u00e4etud h\u00e4\u00e4rberis uurib kriminalistide meeskond kuriteopaika. Laiba k\u00f5rval on suletud karp; keegi ei n\u00e4e, mis seal sees on. Kuigi karbis on tegelikult kuulid, v\u00e4idab sellel olev silt, et karbis on tabletid. Peainspektor, kes on just s\u00fcndmuskohale saabunud, kummardub karpi uurima. Peainspektor avab karbi ja vaatab sisse. Peainspektor loeb silti. Peainspektor helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is",
+                "answers": [
+                    "kuule. S\u00f5ber k\u00fcsib uudishimulikult, mis karbis",
+                    "kuule. S\u00f5ber k\u00fcsib uudishimulikult, mis karbis",
+                    "kuule. S\u00f5ber k\u00fcsib uudishimulikult, mis karbis",
+                    "relvi. S\u00f5ber, kes on relvade ekspert, k\u00fcsib pe",
+                    "relvi. S\u00f5ber, kes on relvade ekspert, k\u00fcsib pe",
+                    "relvi. S\u00f5ber, kes on relvade ekspert, k\u00fcsib pe",
+                    "relvi. S\u00f5ber, kes on relvade ekspert, k\u00fcsib pe",
+                    "relvi. S\u00f5ber, kes on relvade ekspert, k\u00fcsib pe",
+                    "relvi. S\u00f5ber, kes on relvade ekspert, k\u00fcsib pe",
+                    "relvi. S\u00f5ber, kes on relvade ekspert, k\u00fcsib pe"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mahaj\u00e4etud h\u00e4\u00e4rberis uurib kriminalistide meeskond kuriteopaika. Laiba k\u00f5rval on suletud karp; keegi ei n\u00e4e, mis seal sees on. Kuigi karbis on tegelikult kuulid, v\u00e4idab sellel olev silt, et karbis on tabletid. Peainspektor, kes on just s\u00fcndmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb silti. Peainspektori n\u00f5bu helistab talle ja \u00fctleb, et karbis on kuulid ja ta peaks eirama silti, mis \u00fctleb \"tabletid\". Peainspektor usub oma n\u00f5bu. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "kuule. Peainspektor on hetkeks segaduses, kuid otsust",
+                    "kuule. Peainspektor on hetkeks segaduses, kuid otsust",
+                    "kuule. Peainspektor on hetkeks segaduses, kuid otsust",
+                    "kuule. Peainspektor on hetkeks segaduses, kuid otsust",
+                    "kuule. Ta on \u00fcllatunud, et karbis on midagi nii o",
+                    "kuule. Ta on \u00fcllatunud, et karbis on midagi nii o",
+                    "kuule. Peainspektor on hetkeks segaduses, kuid otsust",
+                    "kuule. Ta on \u00fcllatunud, et karbis on midagi nii o",
+                    "kuule. Peainspektor on hetkeks segaduses, kuid otsust",
+                    "kuule. Peainspektor on hetkeks segaduses, kuid otsust"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mahaj\u00e4etud h\u00e4\u00e4rberis uurib kriminalistide meeskond kuriteopaika. Laiba k\u00f5rval on suletud karp; keegi ei n\u00e4e, mis seal sees on. Kuigi karbis on tegelikult kuulid, v\u00e4idab sellel olev silt, et karbis on tabletid. Peainspektor, kes on just s\u00fcndmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb silti. Peainspektori n\u00f5bu helistab talle ja \u00fctleb, et karbis on kuulid ja ta peaks eirama silti, mis \u00fctleb \"tabletid\". Peainspektor usub oma n\u00f5bu. Peainspektor helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is",
+                "answers": [
+                    "kuule. S\u00f5ber, kes on relvaekspert, palub peainspe",
+                    "kuule. S\u00f5ber, kes on relvaekspert, palub peainspe",
+                    "kuule. S\u00f5ber, kes on relvaekspert, palub peainspe",
+                    "kuule. S\u00f5ber, kes on relvaekspert, palub peainspe",
+                    "kuule. S\u00f5ber, kes on relvaekspert, palub peainspe",
+                    "kuule. S\u00f5ber, kes on relvaekspert, palub peainspe",
+                    "kuule. S\u00f5ber, kes on relvaekspert, palub peainspe",
+                    "kuule. S\u00f5ber, kes on relvaekspert, palub peainspe",
+                    "kuule. S\u00f5ber, kes on relvaekspert, palub peainspe",
+                    "kuule. S\u00f5ber, kes on relvaekspert, palub peainspe"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mahaj\u00e4etud h\u00e4\u00e4rberis uurib kriminalistide meeskond kuriteopaika. Laiba k\u00f5rval on suletud karp; keegi ei n\u00e4e, mis seal sees on. Karbis on kuulid ja sellel olev silt v\u00e4idab sama. Seal sees ei ole tablette. Peainspektor, kes on just s\u00fcndmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "relvi. Peainspektor t\u00f5stab kulmu \u00fcllatunult, sest",
+                    "relvi. Peainspektor t\u00f5stab kulmu \u00fcllatusest, sest",
+                    "relvi. Peainspektor t\u00f5stab kulmu \u00fcllatusest, sest",
+                    "relvi. Peainspektor t\u00f5stab kulmu \u00fcllatusest, sest",
+                    "relvi. Peainspektor t\u00f5stab kulmu \u00fcllatusest, sest",
+                    "relvi. Peainspektor t\u00f5stab kulmu \u00fcllatunult, sest",
+                    "relvi. Peainspektor t\u00f5stab kulmu \u00fcllatusest, sest",
+                    "relvi. Peainspektor t\u00f5stab kulmu \u00fcllatusest, sest",
+                    "relvi. Karbi sisemus on t\u00e4idetud erinevate kaliibrite",
+                    "relvi. Peainspektor t\u00f5stab kulmu \u00fcllatusest, sest"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mahaj\u00e4etud h\u00e4\u00e4rberis uurib kriminalistide meeskond kuriteopaika. Laiba k\u00f5rval on suletud karp; keegi ei n\u00e4e, mis seal sees on. Karbis on kuulid ja sellel olev silt v\u00e4idab sama. Seal sees ei ole tablette. Peainspektor, kes on just s\u00fcndmuskohale saabunud, kummardub karpi uurima. Peainspektor ei ava karpi ega vaata sisse. Peainspektor loeb silti. Peainspektor helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is",
+                "answers": [
+                    "relvakuule. S\u00f5ber k\u00fcsib, miks ta karpi ei avan",
+                    "kuule. S\u00f5ber k\u00fcsib, mida karbis t\u00e4pselt on. Pe",
+                    "kuule. S\u00f5ber k\u00fcsib, mida karbis t\u00e4pselt on. Pe",
+                    "kuule. S\u00f5ber k\u00fcsib, mida karbis t\u00e4pselt on. Pe",
+                    "kuule. S\u00f5ber k\u00fcsib, mida karbis t\u00e4pselt on. Pe",
+                    "kuule. S\u00f5ber k\u00fcsib, mida karbis t\u00e4pselt on. Pe",
+                    "kuule. S\u00f5ber k\u00fcsib, mida karbis t\u00e4pselt on. Pe",
+                    "kuule. S\u00f5ber k\u00fcsib, mida karbis t\u00e4pselt on. Pe",
+                    "relvakuule. S\u00f5ber k\u00fcsib, miks ta karpi ei avan",
+                    "kuule. S\u00f5ber k\u00fcsib, mida karbis t\u00e4pselt on. Pe"
+                ]
+            }
+        }
+    ]
+}

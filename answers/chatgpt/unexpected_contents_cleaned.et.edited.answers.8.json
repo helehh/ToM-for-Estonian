@@ -1,0 +1,137 @@
+{
+    "nr": 8,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mitte-l\u00e4bipaistev suhkruga t\u00e4idetud pudel seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel silti \"vesi\", mitte \"suhkur\". Bernard, uus klient, l\u00e4heb leti juurde ja m\u00e4rkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti. Ta avab pudeli ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "suhkrut, mitte vett. Bernard on segaduses ja p\u00f6\u00f6rd",
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab",
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab",
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab",
+                    "suhkrut, mitte vett. Bernard on segaduses ja p\u00f6\u00f6rd",
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab",
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab",
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab",
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab",
+                    "suhkrut, mitte vett. Bernard on segaduses ja p\u00f6\u00f6rd"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mitte-l\u00e4bipaistev suhkruga t\u00e4idetud pudel seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel silti \"vesi\", mitte \"suhkur\". Bernard, uus klient, l\u00e4heb leti juurde ja m\u00e4rkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti. Bernard helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud pudeli t\u00e4is",
+                "answers": [
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mitte-l\u00e4bipaistev suhkruga t\u00e4idetud pudel seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel silti \"vesi\", mitte \"suhkur\". Bernard, uus klient, l\u00e4heb leti juurde ja m\u00e4rkab pudelit. Bernard avab pudeli ja vaatab sisse. Bernard loeb silti. Ta avab pudeli ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab",
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab",
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab",
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab",
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab",
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab",
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab",
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab",
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab",
+                    "suhkrut, mitte vett. Bernard on segaduses ja otsustab"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mitte-l\u00e4bipaistev suhkruga t\u00e4idetud pudel seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel silti \"vesi\", mitte \"suhkur\". Bernard, uus klient, l\u00e4heb leti juurde ja m\u00e4rkab pudelit. Bernard avab pudeli ja vaatab sisse. Bernard loeb silti. Bernard helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud pudeli t\u00e4is",
+                "answers": [
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud",
+                    "magusat vett. S\u00f5ber, nimega Laura, on \u00fcllatunud"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mitte-l\u00e4bipaistev suhkruga t\u00e4idetud pudel seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel silti \"vesi\", mitte \"suhkur\". Bernard, uus klient, l\u00e4heb leti juurde ja m\u00e4rkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti. N\u00f5bu helistab Bernardile ja \u00fctleb talle, et pudelis on suhkur ja ta peaks eirama silti, mis \u00fctleb \"vesi\". Bernard usub oma n\u00f5bu. Ta avab pudeli ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "suhkrut, nagu tema n\u00f5bu talle mainis. Bernard on veidi",
+                    "suhkrut, nagu tema n\u00f5bu talle mainis. Bernard on veidi",
+                    "suhkrut, nagu tema n\u00f5bu talle mainis. Bernard on veidi",
+                    "suhkrut, nagu tema n\u00f5bu talle mainis. Bernard on veidi",
+                    "suhkrut, nagu tema n\u00f5bu talle mainis. Bernard on veidi",
+                    "suhkrut, nagu tema n\u00f5bu talle mainis. Bernard on veidi",
+                    "suhkrut, nagu tema n\u00f5bu talle mainis. Bernard on veidi",
+                    "suhkrut, nagu tema n\u00f5bu talle mainis. Bernard on veidi",
+                    "suhkrut, nagu tema n\u00f5bu talle mainis. Bernard on veidi",
+                    "suhkrut, nagu tema n\u00f5bu talle mainis. Bernard on veidi"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mitte-l\u00e4bipaistev suhkruga t\u00e4idetud pudel seisab kaubamaja letil. Pudelis ei ole vett; siiski kannab pudel silti \"vesi\", mitte \"suhkur\". Bernard, uus klient, l\u00e4heb leti juurde ja m\u00e4rkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti. N\u00f5bu helistab Bernardile ja \u00fctleb talle, et pudelis on suhkur ja ta peaks eirama silti, mis \u00fctleb \"vesi\". Bernard usub oma n\u00f5bu. Bernard helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud pudeli t\u00e4is",
+                "answers": [
+                    "suhkrut, kuigi silt \u00fctleb \"vesi\". S\u00f5ber na",
+                    "suhkrut, kuigi silt \u00fctleb \"vesi\". S\u00f5ber na",
+                    "suhkrut, kuigi silt \u00fctleb \"vesi\". S\u00f5ber na",
+                    "suhkrut, kuigi silt \u00fctleb \"vesi\". S\u00f5ber na",
+                    "suhkrut, kuigi silt \u00fctleb \"vesi\". S\u00f5ber na",
+                    "suhkrut, kuigi silt \u00fctleb \"vesi\". S\u00f5ber na",
+                    "suhkrut, kuigi silt \u00fctleb \"vesi\". S\u00f5ber na",
+                    "suhkrut, kuigi silt \u00fctleb \"vesi\". S\u00f5ber na",
+                    "suhkrut, kuigi silt \u00fctleb \"vesi\". S\u00f5ber na",
+                    "suhkrut, kuigi silt \u00fctleb \"vesi\". S\u00f5ber na"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mitte-l\u00e4bipaistev suhkruga t\u00e4idetud pudel seisab kaubamaja letil. Pudelis ei ole vett; pudelil on silt \"suhkur\", mitte \"vesi\". Bernard, uus klient, l\u00e4heb leti juurde ja m\u00e4rkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti. Ta avab pudeli ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "valget suhkrut. Bernard on \u00fcllatunud, sest ta ootas",
+                    "valget suhkrut. Bernard on \u00fcllatunud, sest ta ootas",
+                    "valget suhkrut. Bernard on \u00fcllatunud, sest ta ootas",
+                    "valget suhkrut. Bernard on \u00fcllatunud, sest ta ootas",
+                    "valget suhkrut. Bernard on \u00fcllatunud, sest ta ootas",
+                    "valget suhkrut. Bernard on \u00fcllatunud, sest ta ootas",
+                    "valget suhkrut. Bernard on \u00fcllatunud, sest ta ootas",
+                    "valget suhkrut. Bernard on \u00fcllatunud, sest ta ootas",
+                    "valget suhkrut. Bernard on \u00fcllatunud, sest ta ootas",
+                    "valget suhkrut. Bernard on \u00fcllatunud, sest ta ootas"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mitte-l\u00e4bipaistev suhkruga t\u00e4idetud pudel seisab kaubamaja letil. Pudelis ei ole vett; pudelil on silt \"suhkur\", mitte \"vesi\". Bernard, uus klient, l\u00e4heb leti juurde ja m\u00e4rkab pudelit. Bernard ei ava pudelit ega vaata sisse. Bernard loeb silti. Bernard helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud pudeli t\u00e4is",
+                "answers": [
+                    "suhkrut. S\u00f5ber, nimega Laura, on v\u00e4ga huvitat",
+                    "suhkrut. S\u00f5ber, nimega Laura, on v\u00e4ga huvitat",
+                    "suhkrut. S\u00f5ber, nimega Laura, on v\u00e4ga huvitat",
+                    "suhkrut. S\u00f5ber, nimega Laura, on v\u00e4ga huvitat",
+                    "suhkrut. S\u00f5ber, nimega Laura, on v\u00e4ga huvitat",
+                    "suhkrut. S\u00f5ber, nimega Laura, on v\u00e4ga huvitat",
+                    "suhkrut. S\u00f5ber, nimega Laura, on v\u00e4ga huvitat",
+                    "suhkrut. S\u00f5ber, nimega Laura, on v\u00e4ga huvitat",
+                    "suhkrut. S\u00f5ber, nimega Laura, on v\u00e4ga huvitat",
+                    "suhkrut. S\u00f5ber, nimega Laura, on v\u00e4ga huvitat"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "nr": 12,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Paul ulatab Sarale kinkepaberisse m\u00e4hitud karbi ja \u00fctleb talle, et seal sees on sokid. Tegelikult on karbis aga ainult sallid. Sara v\u00f5tab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "salle, mitte sokke. Sara on veidi pettunud, sest ta",
+                    "salle, mitte sokke. Sara on veidi pettunud, sest ta",
+                    "salle, mitte sokke. Ta vaatab Pauli imestunud pilku ja",
+                    "salle, mitte sokke. Sara on veidi pettunud, sest ta",
+                    "salle, mitte sokke. Sara on veidi pettunud, sest ta",
+                    "salle, mitte sokke. Sara on veidi pettunud, sest ta",
+                    "salle, mitte sokke. Ta vaatab Pauli imestunud pilku ja",
+                    "salle, mitte sokke. Sara on veidi pettunud, sest ta",
+                    "salle, mitte sokke. Sara on veidi pettunud, sest ta",
+                    "salle, mitte sokke. Sara on veidi pettunud, sest ta"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Paul ulatab Sarale kinkepaberisse m\u00e4hitud karbi ja \u00fctleb talle, et seal sees on sokid. Tegelikult on karbis aga ainult sallid. Sara v\u00f5tab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb silti. Sara helistab s\u00f5brale, et \u00f6elda, et ta on just saanud karbi t\u00e4is",
+                "answers": [
+                    "sokke. S\u00f5ber on elevil ja k\u00fcsib, millised sokid seal",
+                    "sokke. S\u00f5ber on elevil ja k\u00fcsib, millised sokid seal",
+                    "sokke. S\u00f5ber on elevil ja k\u00fcsib, millised sokid seal",
+                    "sokke. S\u00f5ber on elevil ja k\u00fcsib, millised sokid seal",
+                    "sokke. S\u00f5ber on elevil ja k\u00fcsib, millised sokid seal",
+                    "sokke. S\u00f5ber on elevil ja k\u00fcsib, millised sokid seal",
+                    "sokke. S\u00f5ber on elevil ja k\u00fcsib, millised sokid seal",
+                    "sokke. S\u00f5ber on elevil ja k\u00fcsib, millised sokid seal",
+                    "sokke. S\u00f5ber on elevil ja k\u00fcsib, millised sokid seal",
+                    "sokke. S\u00f5ber on elevil ja k\u00fcsib, millised sokid seal"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Paul ulatab Sarale kinkepaberisse m\u00e4hitud karbi ja \u00fctleb talle, et seal sees on sokid. Tegelikult on karbis aga ainult sallid. Sara v\u00f5tab temalt karbi. Sara avab karbi ja vaatab sisse. Sara loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "salle, mitte sokke. Ta vaatab Pauli imestunud pilku ja",
+                    "salle, mitte sokke. Ta vaatab Pauli imestunud pilku ja",
+                    "salle, mitte sokke. Ta vaatab Pauli imestunud pilku ja",
+                    "salle, mitte sokke. Ta vaatab Pauli imestunud pilku ja",
+                    "salle, mitte sokke. Ta vaatab Pauli imestunud pilku ja",
+                    "salle, mitte sokke. Sara vaatab Pauli imestunud pilku ja",
+                    "salle, mitte sokke. Ta vaatab Pauli imestunud pilku ja",
+                    "salle, mitte sokke. Ta vaatab Pauli imestunud pilku ja",
+                    "salle, mitte sokke. Ta vaatab Pauli imestunud pilku ja",
+                    "salle, mitte sokke. Ta vaatab Pauli imestunud pilku ja"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Paul ulatab Sarale kinkepaberisse m\u00e4hitud karbi ja \u00fctleb talle, et seal sees on sokid. Tegelikult on karbis aga ainult sallid. Sara v\u00f5tab temalt karbi. Sara avab karbi ja vaatab sisse. Sara loeb silti. Sara helistab s\u00f5brale, et \u00f6elda, et ta on just saanud karbi t\u00e4is",
+                "answers": [
+                    "salle. S\u00f5ber on v\u00e4ga p\u00f5nevil ja k\u00fcsib, millised",
+                    "salle. S\u00f5ber on v\u00e4ga p\u00f5nevil ja k\u00fcsib, millised",
+                    "salle. S\u00f5ber on v\u00e4ga p\u00f5nevil ja k\u00fcsib, millised",
+                    "salle. S\u00f5ber on v\u00e4ga p\u00f5nevil ja k\u00fcsib, millised",
+                    "salle. S\u00f5ber on v\u00e4ga p\u00f5nevil ja k\u00fcsib, millised",
+                    "salle. S\u00f5ber on elevil ja k\u00fcsib, millised sokid tal si",
+                    "salle. S\u00f5ber on v\u00e4ga p\u00f5nevil ja k\u00fcsib, millised",
+                    "salle. S\u00f5ber on v\u00e4ga p\u00f5nevil ja k\u00fcsib, millised",
+                    "salle. S\u00f5ber on v\u00e4ga p\u00f5nevil ja k\u00fcsib, millised",
+                    "salle. S\u00f5ber on elevil ja k\u00fcsib, millised sokid tal si"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Paul ulatab Sarale kinkepaberisse m\u00e4hitud karbi ja \u00fctleb talle, et seal sees on sokid. Tegelikult on karbis aga ainult sallid. Sara v\u00f5tab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb silti. \u00dcks n\u00f5bu helistab Sarale ja \u00fctleb, et karbis on sallid ning ta ei peaks t\u00e4helepanu p\u00f6\u00f6rama sildile, mis \u00fctleb \"sokid\". Sara usub oma n\u00f5bu. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "salle, mitte sokke. Sara naeratab ja t\u00e4nab oma n\u00f5bu",
+                    "salle, mitte sokke. Sara naeratab ja t\u00e4nab oma n\u00f5bu",
+                    "salle, mitte sokke. Sara naeratab ja t\u00e4nab oma n\u00f5bu",
+                    "salle, mitte sokke. Sara naeratab ja t\u00e4nab oma n\u00f5bu",
+                    "salle, mitte sokke. Sara naeratab ja t\u00e4nab oma n\u00f5bu",
+                    "salle, mitte sokke. Sara naeratab ja t\u00e4nab oma n\u00f5bu",
+                    "salle, mitte sokke. Sara naeratab ja t\u00e4nab oma n\u00f5bu",
+                    "salle, mitte sokke. Sara naeratab ja t\u00e4nab oma n\u00f5bu",
+                    "salle, mitte sokke. Sara naeratab ja t\u00e4nab oma n\u00f5bu",
+                    "salle, mitte sokke. Sara naeratab ja t\u00e4nab oma n\u00f5bu"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Paul ulatab Sarale kinkepaberisse m\u00e4hitud karbi ja \u00fctleb talle, et seal sees on sokid. Tegelikult on karbis aga ainult sallid. Sara v\u00f5tab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb silti. \u00dcks n\u00f5bu helistab Sarale ja \u00fctleb, et karbis on sallid ning ta ei peaks t\u00e4helepanu p\u00f6\u00f6rama sildile, mis \u00fctleb \"sokid\". Sara usub oma n\u00f5bu. Sara helistab s\u00f5brale, et \u00f6elda, et ta on just saanud karbi t\u00e4is",
+                "answers": [
+                    "salle. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks kar",
+                    "salle. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks kar",
+                    "salle. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks kar",
+                    "salle. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks kar",
+                    "salle. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks kar",
+                    "salle. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks kar",
+                    "salle. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks kar",
+                    "salle. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks kar",
+                    "salle. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks kar",
+                    "salle. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, miks kar"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Paul ulatab Sarale kinkepaberisse m\u00e4hitud karbi ja \u00fctleb talle, et seal sees sallid. Karbis on ainult sallid ja sokke ei ole. Sara v\u00f5tab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "v\u00e4rvilisi sallikesi erinevates mustrites ja suurustes",
+                    "v\u00e4rvilisi sallikesi erinevates mustrites ja suurustes",
+                    "v\u00e4rvilisi sallikesi erinevates mustrites ja suurustes",
+                    "v\u00e4rvilisi sallikesi erinevates mustrites ja suurustes",
+                    "v\u00e4rvilisi sallikesi erinevates mustrites ja suurustes",
+                    "v\u00e4rvilisi sallikesi erinevates mustrites ja suurustes",
+                    "v\u00e4rvilisi sallikesi erinevates mustrites ja suurustes",
+                    "v\u00e4rvilisi sallikesi erinevates mustrites ja suurustes",
+                    "v\u00e4rvilisi sallikesi erinevates mustrites ja suurustes",
+                    "v\u00e4rvilisi sallikesi erinevates mustrites ja suurustes"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Paul ulatab Sarale kinkepaberisse m\u00e4hitud karbi ja \u00fctleb talle, et seal sees sallid. Karbis on ainult sallid ja sokke ei ole. Sara v\u00f5tab temalt karbi. Sara ei ava karpi ega vaata sisse. Sara loeb silti. Sara helistab s\u00f5brale, et \u00f6elda, et ta on just saanud karbi t\u00e4is",
+                "answers": [
+                    "salle. S\u00f5ber k\u00fcsib, kas karbis on ka sokke, kuid",
+                    "salle. S\u00f5ber k\u00fcsib, kas karbis on ka sokke, kuid",
+                    "salle. S\u00f5ber k\u00fcsib, kas karbis on ka sokke, kuid",
+                    "salle. S\u00f5ber k\u00fcsib, kas karbis on ka sokke, kuid",
+                    "salle. S\u00f5ber k\u00fcsib, kas karbis on ka sokke, kuid",
+                    "salle. S\u00f5ber k\u00fcsib, kas karbis on ka sokke, kuid",
+                    "salle. S\u00f5ber k\u00fcsib, kas karbis on ka sokke, kuid",
+                    "salle. S\u00f5ber k\u00fcsib, kas karbis on ka sokke, kuid",
+                    "salle. S\u00f5ber k\u00fcsib, kas karbis on ka sokke, kuid",
+                    "salle. S\u00f5ber k\u00fcsib, kas karbis on ka sokke, kuid"
+                ]
+            }
+        }
+    ]
+}
