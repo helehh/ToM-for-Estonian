@@ -1,0 +1,65 @@
+{
+    "nr": 0,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Riiulil on l\u00e4bipaistmatu pudel. See on t\u00e4is \u00f5lut; selles ei ole veini. Ometi \u00fctleb selle pudeli silt \"vein\", mitte \"\u00f5lu\". Mark astub tuppa ja m\u00e4rkab pudelit. Ta pole seda varem n\u00e4inud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti. Ta avab pudeli ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "\u00f5lut, mitte veini. Mark on segaduses. Ta v\u00f5tab pudeli ja vaatab uuesti silti. Seal seisab endiselt \"vein\". Mark raputab pead ja m\u00f5tleb, kas ta on midagi valesti lugenud. Ta otsustab k\u00fcsida"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Riiulil on l\u00e4bipaistmatu pudel. See on t\u00e4is \u00f5lut; selles ei ole veini. Ometi \u00fctleb selle pudeli silt \"vein\", mitte \"\u00f5lu\". Mark astub tuppa ja m\u00e4rkab pudelit. Ta pole seda varem n\u00e4inud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti. Mark helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud pudeli t\u00e4is",
+                "answers": [
+                    "veini. S\u00f5ber, nimega Timo, on suur veinis\u00f5ber ja Mark teab, et ta oleks sellest uudisest v\u00e4ga huvitatud.\n\n\"Hey, Timo! Sa ei arva iial, mis ma just leidsin!\" h\u00fc\u00fcatab Mark p\u00f5"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Riiulil on l\u00e4bipaistmatu pudel. See on t\u00e4is \u00f5lut; selles ei ole veini. Ometi \u00fctleb selle pudeli silt \"vein\", mitte \"\u00f5lu\". Mark astub tuppa ja m\u00e4rkab pudelit. Ta pole seda varem n\u00e4inud. Mark avab pudeli ja vaatab sisse. Mark loeb silti. Ta avab pudeli ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "\u00f5lut, mitte veini. Mark on segaduses. Ta v\u00f5tab pudeli ja raputab seda, et veenduda, et see t\u00f5esti sisaldab \u00f5lut. Pudel k\u00f5lab \u00f5lleklaasiga sarnaselt. Mark m\u00f5tleb hetke ja o"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Riiulil on l\u00e4bipaistmatu pudel. See on t\u00e4is \u00f5lut; selles ei ole veini. Ometi \u00fctleb selle pudeli silt \"vein\", mitte \"\u00f5lu\". Mark astub tuppa ja m\u00e4rkab pudelit. Ta pole seda varem n\u00e4inud. Mark avab pudeli ja vaatab sisse. Mark loeb silti. Mark helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud pudeli t\u00e4is",
+                "answers": [
+                    "veini. S\u00f5ber, nimega Laura, vastab telefonile p\u00f5nevil h\u00e4\u00e4lega.\n\n\"Mark, kas sa t\u00f5esti leidsid pudeli t\u00e4is veini?\" k\u00fcsib Laura elevil.\n\n\"Jah, t\u00e4pselt nii!\" vastab Mark p\u00f5nevil. \"A"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Riiulil on l\u00e4bipaistmatu pudel. See on t\u00e4is \u00f5lut; selles ei ole veini. Ometi \u00fctleb selle pudeli silt \"vein\", mitte \"\u00f5lu\". Mark astub tuppa ja m\u00e4rkab pudelit. Ta pole seda varem n\u00e4inud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti. N\u00f5bu helistab Markile ja \u00fctleb, et pudelis on \u00f5lu ja ta peaks eirama silti, mis \u00fctleb \"vein\". Mark usub oma n\u00f5bu. Ta avab pudeli ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "\u00f5lut, mitte veini. Mark naeratab ja t\u00e4nab oma n\u00f5bu, et ta talle \u00f5ige informatsiooni andis.\n\nMark otsustab pudelit mitte raisku lasta ja kutsub oma s\u00f5brad k\u00fclla, et koos \u00f5lut nautida."
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Riiulil on l\u00e4bipaistmatu pudel. See on t\u00e4is \u00f5lut; selles ei ole veini. Ometi \u00fctleb selle pudeli silt \"vein\", mitte \"\u00f5lu\". Mark astub tuppa ja m\u00e4rkab pudelit. Ta pole seda varem n\u00e4inud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti. N\u00f5bu helistab Markile ja \u00fctleb, et pudelis on \u00f5lu ja ta peaks eirama silti, mis \u00fctleb \"vein\". Mark usub oma n\u00f5bu. Mark helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud pudeli t\u00e4is",
+                "answers": [
+                    "\u00f5lut. S\u00f5ber naerab ja \u00fctleb, et see on v\u00f5imatu, sest pudelil on silt, mis \u00fctleb \"vein\". Mark on segaduses, sest ta usub nii oma n\u00f5bu kui ka s\u00f5pra. Ta otsustab uurida pud"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Riiulil on l\u00e4bipaistmatu pudel. See on t\u00e4is \u00f5lut; selles ei ole veini. Selle pudeli sildil on kirjas \"\u00f5lu\", mitte \"vein\". Mark astub tuppa ja m\u00e4rkab pudelit. Ta pole seda varem n\u00e4inud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti. Ta avab pudeli ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "\u00f5lut, nagu sildilgi kirjas. Mark naeratab rahulolevalt, sest ta armastab \u00f5lut ja on r\u00f5\u00f5mus, et leidis sellise pudeli.\n\nMark otsustab pudelit l\u00e4hemalt uurida. Ta keerab selle \u00fcmber"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Riiulil on l\u00e4bipaistmatu pudel. See on t\u00e4is \u00f5lut; selles ei ole veini. Selle pudeli sildil on kirjas \"\u00f5lu\", mitte \"vein\". Mark astub tuppa ja m\u00e4rkab pudelit. Ta pole seda varem n\u00e4inud. Mark ei ava pudelit ega vaata sisse. Mark loeb silti. Mark helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud pudeli t\u00e4is",
+                "answers": [
+                    "\u00f5lut. S\u00f5ber, nimega Timo, on suur \u00f5lles\u00f5ber ja Mark teab, et ta hindab head \u00f5lut. Ta otsustab Timole helistada ja jagada oma leidu.\n\n\"Hey, Timo! Sa ei arva iial, mida ma"
+                ]
+            }
+        }
+    ]
+}

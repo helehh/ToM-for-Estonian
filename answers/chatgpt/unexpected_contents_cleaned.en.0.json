@@ -1,0 +1,97 @@
+{
+    "nr": 0,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. Yet, the label on this bottle says \"wine\" and not \"beer\". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label. He opens the bottle and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "beer, not wine. Confused, Mark wonders why the label on the bottle is incorrect. He examines the bottle closely, searching for any clues or explanations. As he inspects it, he notices a small note tucked behind the label.\n\nCuriosity piqued, Mark carefully removes the note and unfolds it. The note reads, \"Congratulations!",
+                    "beer, not wine. Confused, Mark wonders why the label on the bottle is incorrect. He examines the bottle closely, searching for any clues or explanations. As he inspects it, he notices a small note tucked behind the label.\n\nCuriosity piqued, Mark carefully removes the note and unfolds it. The note reads, \"Congratulations!",
+                    "beer, not wine. Confused, Mark wonders why the label on the bottle is incorrect. He examines the bottle closely, searching for any clues or explanations. As he inspects it, he notices a small note tucked behind the label.\n\nCuriosity piqued, Mark carefully removes the note and unfolds it. The note reads, \"Congratulations!",
+                    "beer, not wine. Confused, Mark wonders why the label on the bottle is incorrect. He examines the bottle closely, searching for any clues or explanations. As he inspects it, he notices a small note tucked behind the label.\n\nCuriosity piqued, Mark carefully removes the note and unfolds it. The note reads, \"Congratulations!",
+                    "beer, not wine. Confused, Mark wonders why the label on the bottle is incorrect. He examines the bottle closely, searching for any clues or explanations. As he inspects it, he notices a small note tucked behind the label.\n\nCuriosity piqued, Mark carefully removes the note and unfolds it. The note reads, \"Congratulations!"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. Yet, the label on this bottle says \"wine\" and not \"beer\". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label. Mark calls a friend to tell them that he has just found a bottle full of",
+                "answers": [
+                    "wine labeled as beer. His friend, Sarah, is intrigued by Mark's discovery and decides to come over to see it for herself.\n\nWhen Sarah arrives, she examines the bottle closely. She notices that the label appears to be professionally printed and securely attached. Curiosity piqued, she suggests they try to solve the mystery together.\n\nThey begin by",
+                    "wine labeled as beer. His friend, Sarah, is intrigued by Mark's discovery and decides to come over to see it for herself.\n\nWhen Sarah arrives, she examines the bottle closely. She notices that the label is indeed labeled as \"wine\" and not \"beer,\" just as Mark had described. Curiosity piqued, Sarah suggests they try",
+                    "wine labeled as beer. His friend, Sarah, is intrigued by Mark's discovery and decides to pay him a visit to see the peculiar bottle for herself.\n\nWhen Sarah arrives, she examines the bottle closely. She notices that the label appears to be professionally printed and securely attached. Curiosity piqued, Sarah suggests they try to solve the mystery together",
+                    "wine. His friend, Sarah, is intrigued and asks Mark where he found it. Mark explains that he discovered it on a shelf in his grandfather's old study. Sarah suggests that they should investigate further to uncover the mystery behind the mislabeled bottle.\n\nExcited by the prospect of unraveling a secret, Mark and Sarah decide to meet at Mark",
+                    "wine labeled as beer. His friend, Sarah, is intrigued by Mark's discovery and decides to pay him a visit to see the peculiar bottle for herself.\n\nWhen Sarah arrives, she examines the bottle closely. She notices that the label appears to be professionally printed and securely attached. Curiosity piqued, Sarah suggests they try to solve the mystery together"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. Yet, the label on this bottle says \"wine\" and not \"beer\". Mark walks into the room and notices the bottle. He has never seen it before. Mark opens the bottle and looks inside. Mark reads the label. He opens the bottle and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "beer, not wine. Confused, Mark examines the label again, making sure he read it correctly. He wonders why the label would say \"wine\" when it clearly contains beer. Intrigued by the mystery, Mark decides to investigate further.\n\nHe takes out his phone and searches for any information about this peculiar bottle. After a few minutes of",
+                    "beer, not wine. Confused, Mark examines the label again, making sure he read it correctly. He wonders why the label would say \"wine\" when it clearly contains beer. Intrigued by the mystery, Mark decides to investigate further.\n\nHe takes out his phone and searches for any information about this peculiar bottle. After a few minutes of",
+                    "beer, not wine. Confused, Mark examines the label again, making sure he read it correctly. He wonders why the label would say \"wine\" when it clearly contains beer. Intrigued by the mystery, Mark decides to investigate further.\n\nHe takes out his phone and searches for any information about this peculiar bottle. After a few minutes of",
+                    "beer, not wine. Confused, Mark examines the label again, making sure he read it correctly. He wonders why the label would say \"wine\" when it clearly contains beer. Intrigued by the mystery, Mark decides to investigate further.\n\nHe takes a closer look at the bottle, examining its shape and design. Suddenly, he notices a",
+                    "beer, not wine. Confused, Mark examines the label again, making sure he read it correctly. He wonders why the label would say \"wine\" when it clearly contains beer. Intrigued by the mystery, Mark decides to investigate further.\n\nHe takes out his phone and searches for any information about this peculiar bottle. After a few minutes of"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. Yet, the label on this bottle says \"wine\" and not \"beer\". Mark walks into the room and notices the bottle. He has never seen it before. Mark opens the bottle and looks inside. Mark reads the label. Mark calls a friend to tell them that he has just found a bottle full of",
+                "answers": [
+                    "beer labeled as wine. His friend, Sarah, is intrigued and suggests that they meet up to investigate further. They decide to bring the bottle to a local wine expert, Mr. Johnson, who might be able to shed some light on this peculiar situation.\n\nMark carefully places the bottle in a bag and heads over to Sarah's house. They hop into",
+                    "beer labeled as wine. His friend, Sarah, is intrigued and suggests that they meet up to investigate further. They decide to bring the bottle to a local wine expert, Mr. Johnson, who might be able to shed some light on this peculiar situation.\n\nMark carefully places the bottle in a bag and heads over to Sarah's house. They hop into",
+                    "beer labeled as wine. His friend, Sarah, is intrigued and suggests that they meet up to investigate further. They decide to bring the bottle to a local wine expert, Mr. Johnson, who might be able to shed some light on this peculiar situation.\n\nMark carefully places the bottle in a bag and heads over to Sarah's house. They hop into",
+                    "beer labeled as wine. His friend, Sarah, is intrigued and suggests that they meet up to investigate further. They decide to meet at Mark's place, where the mysterious bottle is still sitting on the shelf.\n\nAs Sarah arrives, she examines the bottle closely. She notices that the label appears to be professionally printed and securely attached. It doesn't seem",
+                    "beer labeled as wine. His friend, Sarah, is intrigued and suggests that they meet up to investigate further. They decide to bring the bottle to a local wine expert, Mr. Johnson, who might be able to shed some light on this peculiar situation.\n\nMark carefully places the bottle in a bag and heads over to Sarah's house. They hop into"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. Yet, the label on this bottle says \"wine\" and not \"beer\". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label. A cousin calls Mark and tells him that the bottle has beer in it, and that he should ignore the label that says \"wine\". Mark believes him cousin. He opens the bottle and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "beer, just as his cousin had said. Mark is puzzled by the mislabeled bottle but decides to trust his cousin's word. He takes a sip of the beer and finds it to be refreshing and enjoyable.\n\nCuriosity gets the better of Mark, and he wonders why the bottle was mislabeled in the first place. He decides to investigate",
+                    "beer, just as his cousin had said. Mark is puzzled by the mislabeled bottle but decides to trust his cousin's word. He takes a sip of the beer and finds it to be refreshing and enjoyable.\n\nCuriosity gets the better of Mark, and he wonders how the bottle ended up mislabeled. He decides to investigate further. Mark",
+                    "beer, just as his cousin had said. Mark is puzzled by the mislabeled bottle but decides to trust his cousin's word. He takes a sip of the beer and finds it to be refreshing and enjoyable.\n\nCuriosity gets the better of Mark, and he wonders how the bottle ended up mislabeled. He decides to investigate further. Mark",
+                    "beer, just as his cousin had said. Mark is puzzled by the mislabeled bottle but decides to trust his cousin's word. He takes a sip of the beer and finds it to be quite refreshing. As he continues to enjoy his drink, he wonders how the bottle ended up mislabeled in the first place.\n\nCuriosity gets the better",
+                    "beer, just as his cousin had said. Mark is puzzled by the mislabeled bottle but decides to trust his cousin's word. He takes a sip of the beer and finds it to be refreshing and enjoyable.\n\nCuriosity gets the better of Mark, and he wonders how the bottle ended up mislabeled. He decides to investigate further. Mark"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. Yet, the label on this bottle says \"wine\" and not \"beer\". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label. A cousin calls Mark and tells him that the bottle has beer in it, and that he should ignore the label that says \"wine\". Mark believes him cousin. Mark calls a friend to tell them that he has just found a bottle full of",
+                "answers": [
+                    "beer, despite the label claiming it to be wine. Intrigued by the unusual discovery, Mark's friend, Sarah, suggests they conduct an experiment to confirm the contents of the bottle.\n\nExcited by the idea, Mark agrees and invites Sarah over to his place. As Sarah arrives, she brings along a few empty glasses and a bottle opener.",
+                    "beer, despite the label claiming it to be wine. Intrigued by the unusual discovery, Mark's friend, Sarah, suggests they conduct an experiment to confirm the contents of the bottle.\n\nExcited by the idea, Mark agrees and invites Sarah over to his place. As Sarah arrives, she brings along a few empty glasses and a bottle opener.",
+                    "beer, despite the label claiming it to be wine. Intrigued by the unusual discovery, Mark's friend, Sarah, suggests they conduct an experiment to confirm the contents of the bottle.\n\nExcited by the idea, Mark agrees and invites Sarah over to his place. As Sarah arrives, she brings along a few empty glasses and a bottle opener.",
+                    "beer, despite the label claiming it to be wine. Intrigued by the unusual discovery, Mark's friend, Sarah, suggests they conduct an experiment to confirm the contents of the bottle.\n\nExcited by the idea, Mark agrees and invites Sarah over to his place. As Sarah arrives, she brings along a few empty glasses and a bottle opener.",
+                    "beer, despite the label claiming it to be wine. Intrigued by the unusual discovery, Mark's friend, Sarah, suggests they conduct an experiment to confirm the contents of the bottle.\n\nExcited by the idea, Mark agrees and invites Sarah over to his place. When Sarah arrives, they carefully examine the bottle, ensuring not to open it or"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. The label on this bottle says \"beer\" and not \"wine\". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label. He opens the bottle and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "beer, just as the label indicated. Mark takes a moment to appreciate the golden liquid inside, its frothy head bubbling invitingly. He can almost taste the refreshing bitterness on his tongue.\n\nCuriosity piqued, Mark wonders where this bottle of beer came from. He scans the room, searching for any clues that might lead him to its",
+                    "beer, just as the label indicated. Mark takes a moment to appreciate the golden liquid inside, its frothy head bubbling invitingly. He can almost taste the refreshing bitterness on his tongue.\n\nCuriosity piqued, Mark wonders where this bottle of beer came from. He scans the room, searching for any clues that might lead him to its",
+                    "beer, just as the label indicated. Mark takes a moment to appreciate the golden liquid inside, its frothy head bubbling invitingly. He can almost taste the refreshing bitterness on his tongue.\n\nCuriosity piqued, Mark wonders where the bottle came from. He scans the room, searching for any clues that might explain its presence. However,",
+                    "beer, just as the label indicated. Mark takes a moment to appreciate the golden liquid inside, its frothy head bubbling invitingly. He can almost taste the refreshing bitterness on his tongue.\n\nCuriosity piqued, Mark wonders where the bottle came from. He scans the room, searching for any clues that might explain its presence. However,",
+                    "beer, just as the label indicated. Mark takes a moment to appreciate the golden liquid inside, its frothy head bubbling invitingly. He can almost taste the refreshing bitterness on his tongue.\n\nCuriosity piqued, Mark wonders where this bottle of beer came from. He scans the room, searching for any clues that might lead him to its"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. The label on this bottle says \"beer\" and not \"wine\". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label. Mark calls a friend to tell them that he has just found a bottle full of",
+                "answers": [
+                    "beer. He is excited because he loves trying different types of beer and this one seems to be a new addition to his collection. Mark's friend, Sarah, is equally enthusiastic about trying out new beverages and suggests that they meet up later to open the bottle together.\n\nAs the evening approaches, Mark and Sarah gather at Mark's place, eager to taste",
+                    "beer. He is excited because he loves trying different types of beer and this one seems to be a new addition to his collection. Mark's friend, Sarah, is equally enthusiastic about trying out new beverages and suggests that they meet up later to open the bottle together.\n\nAs the evening approaches, Mark and Sarah gather at Mark's place, eager to taste",
+                    "beer. He is excited because he loves trying different types of beer and this one seems to be a new addition to his collection. Mark's friend, Sarah, is equally enthusiastic about trying out new beverages and suggests that they meet up later to open the bottle together.\n\nAs the evening approaches, Mark and Sarah gather at Mark's place, eager to taste",
+                    "beer. He is excited because he loves trying different types of beer and this one seems to be a new addition to his collection. Mark's friend, Sarah, is equally enthusiastic about trying out new beverages and suggests that they meet up later to open the bottle together.\n\nAs the evening approaches, Mark and Sarah gather at Mark's place, eager to taste",
+                    "beer. He is excited because he loves trying different types of beer and this one seems to be a new addition to his collection. Mark's friend, Sarah, is equally enthusiastic about trying out new beverages and suggests that they meet up later to open the bottle together.\n\nAs the evening approaches, Mark and Sarah gather at Mark's place, eager to taste"
+                ]
+            }
+        }
+    ]
+}

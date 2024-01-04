@@ -1,0 +1,97 @@
+{
+    "nr": 12,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Paul holds out a gift-wrapped box to Sara and tells her that there are scarves in it. In reality, though, the box contains only socks. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "socks. Disappointed, Sara looks up at Paul with a puzzled expression on her face.\n\n\"Paul, you said there were scarves in here,\" she says, her voice tinged with disappointment.\n\nPaul scratches his head nervously, realizing his mistake. \"Oh, I must have mixed up the boxes. I'm so sorry, Sara.",
+                    "socks. Disappointed, Sara looks up at Paul with a puzzled expression on her face.\n\n\"Paul, you said there were scarves in here,\" she says, her voice tinged with disappointment.\n\nPaul scratches his head nervously, realizing his mistake. \"Oh, I must have mixed up the boxes. I'm so sorry, Sara.",
+                    "socks. Disappointed, Sara looks up at Paul with a puzzled expression on her face.\n\n\"Paul, you said there were scarves in here,\" she says, her voice tinged with disappointment.\n\nPaul scratches his head nervously, realizing his mistake. \"Oh, I must have mixed up the boxes. I'm so sorry, Sara.",
+                    "socks. Disappointed, Sara looks up at Paul with a puzzled expression on her face.\n\n\"Paul, you said there were scarves in here,\" she says, her voice tinged with disappointment.\n\nPaul scratches his head nervously, realizing his mistake. \"Oh, I must have mixed up the boxes. I'm so sorry, Sara.",
+                    "socks. Disappointed, Sara looks up at Paul with a puzzled expression on her face.\n\n\"Paul, you said there were scarves in here,\" she says, her voice tinged with disappointment.\n\nPaul scratches his head nervously, realizing his mistake. \"Oh, I must have mixed up the boxes. I'm so sorry, Sara."
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Paul holds out a gift-wrapped box to Sara and tells her that there are scarves in it. In reality, though, the box contains only socks. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label. Sara calls a friend to tell them that she has just received a box full of",
+                "answers": [
+                    "socks instead of scarves. Her friend, Lisa, chuckles on the other end of the line, finding the situation amusing. Sara explains how Paul had promised her scarves, but had instead given her socks. Lisa suggests that maybe it was just a mix-up and that Paul might have accidentally put the wrong items in the box.\n\nCuriosity",
+                    "socks instead of scarves. Her friend, Lisa, chuckles on the other end of the line, finding the situation amusing. Sara explains how Paul had promised her scarves, but had instead given her socks. Lisa suggests that maybe it was just a mix-up and that Paul might have accidentally put the wrong items in the box.\n\nCuriosity",
+                    "socks instead of scarves. Her friend, Lisa, chuckles on the other end of the line, finding the situation amusing. Sara explains how Paul had promised her scarves, but had instead given her socks. Lisa suggests that maybe it was just a mix-up and that Paul might have accidentally put the wrong items in the box.\n\nCuriosity",
+                    "socks instead of scarves. Her friend, Lisa, laughs on the other end of the line, finding the situation amusing. Sara, however, is slightly disappointed as she was really looking forward to receiving scarves.\n\nCuriosity gets the better of Sara, and she decides to open the box to see what kind of socks Paul had given her.",
+                    "socks instead of scarves. Her friend, Lisa, chuckles on the other end of the line, finding the situation amusing. Sara explains how Paul had promised her scarves, but had instead given her socks. Lisa suggests that maybe it was just a mix-up and that Paul might have accidentally put the wrong items in the box.\n\nCuriosity"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Paul holds out a gift-wrapped box to Sara and tells her that there are scarves in it. In reality, though, the box contains only socks. Sara takes the box from him. Sara opens the box and looks inside. Sara reads the label. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "socks. Confused, Sara looks up at Paul with a puzzled expression on her face.\n\n\"Paul, I thought you said there were scarves in here,\" Sara says, disappointment evident in her voice.\n\nPaul scratches his head sheepishly, realizing his mistake. \"Oh no, I must have mixed up the boxes. I'm so sorry,",
+                    "socks. Confused, Sara looks up at Paul with a puzzled expression on her face.\n\n\"Paul, I thought you said there were scarves in here,\" Sara says, disappointment evident in her voice.\n\nPaul scratches his head sheepishly, realizing his mistake. \"Oh no, I must have mixed up the boxes. I'm so sorry,",
+                    "socks. Confused, Sara looks up at Paul, who is grinning mischievously. \"Socks?\" she asks, raising an eyebrow.\n\nPaul bursts into laughter, unable to contain his amusement any longer. \"Surprise!\" he exclaims, still chuckling. \"I thought it would be funny to trick you with the gift",
+                    "socks. Confused, Sara looks up at Paul with a puzzled expression on her face.\n\n\"Paul, I thought you said there were scarves in here,\" Sara says, disappointment evident in her voice.\n\nPaul scratches his head sheepishly, realizing his mistake. \"Oh no, I must have mixed up the boxes. I'm so sorry,",
+                    "socks. Confused, Sara looks up at Paul, who is grinning mischievously. \"Socks?\" she asks, raising an eyebrow.\n\nPaul bursts into laughter, unable to contain his amusement any longer. \"Surprise!\" he exclaims, still chuckling. \"I thought it would be funny to trick you with the gift"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Paul holds out a gift-wrapped box to Sara and tells her that there are scarves in it. In reality, though, the box contains only socks. Sara takes the box from him. Sara opens the box and looks inside. Sara reads the label. Sara calls a friend to tell them that she has just received a box full of",
+                "answers": [
+                    "socks instead of scarves. She couldn't help but feel a little disappointed, as she had been hoping for some cozy scarves to add to her winter wardrobe. However, Sara knew that Paul had a mischievous sense of humor, so she couldn't help but chuckle at his prank.\n\nCuriosity got the better of her, and",
+                    "socks instead of scarves. Her friend, Lisa, answers the call and Sara excitedly shares the unexpected surprise. \"Lisa, you won't believe what just happened! Paul gave me this beautifully wrapped box, saying it had scarves inside, but guess what? It's filled with socks!\"\n\nLisa chuckles on the other end of the line",
+                    "socks instead of scarves. She couldn't help but feel a little disappointed, as she had been hoping for some cozy scarves to add to her winter wardrobe. However, Sara knew that Paul had a mischievous sense of humor, so she couldn't help but chuckle at his prank.\n\nCuriosity got the better of her, and",
+                    "socks instead of scarves. She couldn't help but feel a little disappointed, as she had been hoping for some cozy scarves to add to her winter wardrobe. However, Sara knew that Paul had a mischievous sense of humor, so she couldn't help but chuckle at his prank.\n\nCuriosity got the better of her, and",
+                    "socks instead of scarves. Her friend, Lisa, answers the call and Sara excitedly shares the unexpected surprise. \"Lisa, you won't believe what just happened! Paul gave me this beautifully wrapped box, saying it had scarves inside, but guess what? It's filled with socks!\"\n\nLisa chuckles on the other end of the line"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Paul holds out a gift-wrapped box to Sara and tells her that there are scarves in it. In reality, though, the box contains only socks. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label. A cousin calls Sara and tells her that the box has socks in it, and that she should ignore the label that says \"scarves\". Sara believes her cousin. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "socks. Sara is disappointed but not surprised. She had suspected that Paul was playing a prank on her. She puts the lid back on the box and sets it aside, deciding to confront Paul later about his misleading gift.\n\nAs the day goes on, Sara can't help but feel a bit hurt by Paul's prank. She wonders why he would",
+                    "socks. Sara is disappointed but not surprised. She had suspected that Paul was playing a prank on her. She puts on a fake smile and thanks Paul for the gift, pretending to be grateful for the socks.\n\nAs the day goes on, Sara can't help but feel a bit hurt by Paul's prank. She wonders why he would go through",
+                    "socks. Sara is disappointed but not surprised. She had suspected that Paul was playing a prank on her. She puts the lid back on the box and sets it aside, deciding to confront Paul later about his misleading gift.\n\nAs the day goes on, Sara can't help but feel a bit hurt by Paul's prank. She wonders why he would",
+                    "socks. Sara is disappointed but not surprised. She had suspected that Paul was playing a prank on her. She puts on a fake smile and thanks Paul for the gift, pretending to be grateful for the socks.\n\nAs the day goes on, Sara can't help but feel a bit hurt by Paul's prank. She wonders why he would go through",
+                    "socks. Sara is disappointed but not surprised. She had suspected that Paul was playing a prank on her. She puts the lid back on the box and sets it aside, deciding to confront Paul later about his misleading gift.\n\nAs the day goes on, Sara can't help but feel a bit hurt by Paul's prank. She wonders why he would"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Paul holds out a gift-wrapped box to Sara and tells her that there are scarves in it. In reality, though, the box contains only socks. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label. A cousin calls Sara and tells her that the box has socks in it, and that she should ignore the label that says \"scarves\". Sara believes her cousin. Sara calls a friend to tell them that she has just received a box full of",
+                "answers": [
+                    "socks instead of scarves. Her friend, Lisa, is surprised and asks Sara why she hasn't opened the box yet. Sara explains that her cousin had called and informed her about the contents of the box. Lisa suggests that they open the box together to confirm what's inside.\n\nSara agrees and carefully unwraps the gift box, revealing",
+                    "socks instead of scarves. Her friend, Lisa, is surprised and asks Sara why she hasn't opened the box yet. Sara explains that her cousin had called and informed her about the contents of the box. Lisa suggests that they open the box together to confirm what's inside.\n\nSara hesitates for a moment, torn between trusting her cousin",
+                    "socks instead of scarves. Her friend, Lisa, is surprised and asks Sara why she hasn't opened the box yet. Sara explains that her cousin had called and informed her about the contents of the box. Lisa suggests that they open the box together to confirm what's inside.\n\nSara agrees and carefully unwraps the gift box, revealing",
+                    "socks instead of scarves. Her friend, Lisa, is surprised and asks Sara why she hasn't opened the box yet. Sara explains that her cousin had called and informed her about the contents of the box. Lisa suggests that they open the box together to confirm what's inside.\n\nSara hesitates for a moment, torn between trusting her cousin",
+                    "socks instead of scarves. Her friend, Lisa, is surprised and asks Sara why she hasn't opened the box yet. Sara explains that her cousin had called and informed her about the contents of the box. Lisa suggests that they open the box together to confirm what's inside.\n\nSara agrees and carefully unwraps the gift box, revealing"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Paul holds out a gift-wrapped box to Sara and tells her that there are socks in it. The box contains only socks and no scarves. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "colorful socks in various patterns and sizes. Sara's eyes light up with excitement as she realizes that Paul has given her a thoughtful and practical gift. She has always loved collecting unique socks, and this box is a treasure trove of possibilities.\n\nWith a grateful smile, Sara thanks Paul for the wonderful surprise. She can't wait to try on each",
+                    "colorful socks in various patterns and sizes. Sara's eyes light up with excitement as she realizes that Paul has given her a thoughtful and practical gift. She has always loved collecting unique socks, and this box is a treasure trove of possibilities.\n\nWith a grateful smile, Sara thanks Paul for the wonderful surprise. She can't wait to try on each",
+                    "colorful socks in various patterns and sizes. Sara's eyes light up with excitement as she realizes that Paul has given her a thoughtful and practical gift. She has always loved collecting unique socks, and this box is a treasure trove of possibilities.\n\nWith a grateful smile, Sara thanks Paul for the wonderful surprise. She can't wait to try on each",
+                    "colorful, patterned socks. Sara's eyes light up with excitement as she realizes that Paul has given her a box full of her favorite kind of socks. She had always loved collecting unique and vibrant socks to add a touch of personality to her outfits.\n\nWith a grateful smile, Sara thanks Paul for the thoughtful gift. She can't help but feel",
+                    "colorful, patterned socks. Sara's eyes light up with excitement as she realizes that Paul has given her a box full of her favorite kind of socks. She had always loved collecting unique and vibrant socks to add a touch of personality to her outfits.\n\nWith a grateful smile, Sara thanks Paul for the thoughtful gift. She can't help but feel"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Paul holds out a gift-wrapped box to Sara and tells her that there are socks in it. The box contains only socks and no scarves. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label. Sara calls a friend to tell them that she has just received a box full of",
+                "answers": [
+                    "socks. She giggles as she imagines the look on her friend's face when she tells them about the unexpected gift. Sara's friend, Lisa, answers the phone and Sara excitedly blurts out, \"Guess what? Paul just gave me a box full of socks!\"\n\nLisa chuckles on the other end of the line. \"S",
+                    "socks. She giggles as she imagines the look on her friend's face when she tells them about the unexpected gift. Sara's friend, Lisa, answers the phone and Sara excitedly blurts out, \"Guess what? Paul just gave me a box full of socks!\"\n\nLisa chuckles on the other end of the line. \"S",
+                    "socks. She giggles as she imagines the look on her friend's face when she tells them about the unexpected gift. Sara's friend, Lisa, answers the phone and Sara excitedly blurts out, \"Guess what? Paul just gave me a box full of socks!\"\n\nLisa chuckles on the other end of the line. \"S",
+                    "socks. She giggles as she imagines the look on her friend's face when she tells them about the unexpected gift. Sara's friend, Lisa, answers the phone and Sara excitedly blurts out, \"Guess what? Paul just gave me a box full of socks!\"\n\nLisa chuckles on the other end of the line. \"S",
+                    "socks. She giggles as she imagines the look on her friend's face when she tells them about the unexpected gift. Sara's friend, Lisa, answers the phone and Sara excitedly blurts out, \"Guess what? Paul just gave me a box full of socks!\"\n\nLisa chuckles on the other end of the line. \"S"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "nr": 15,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Parki on p\u00e4rast kooli piknikup\u00e4eva \u00fcritust maha unustatud jahutuskast. Jahutuskastis on ainult v\u00f5ileivad, kuid v\u00e4lisk\u00fcljel olev silt \u00fctleb \"\u00f5lu\". Steve, \u00fcks korraldajatest, m\u00e4rkab jahutuskasti, kui ta m\u00f6\u00f6dub pingist, kus see sasetseb. Ta pole seda varem n\u00e4inud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti. Ta avab jahutuskasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "v\u00f5ileibu. Steve on veidi segaduses, sest silt \u00fctles \"\u00f5lu\", kuid jahutuskastis on ainult v\u00f5ileivad. Ta m\u00f5tleb hetkeks, kas v\u00f5ib-olla keegi on sildi valesti kirjutanud v\u00f5i k"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Parki on p\u00e4rast kooli piknikup\u00e4eva \u00fcritust maha unustatud jahutuskast. Jahutuskastis on ainult v\u00f5ileivad, kuid v\u00e4lisk\u00fcljel olev silt \u00fctleb \"\u00f5lu\". Steve, \u00fcks korraldajatest, m\u00e4rkab jahutuskasti, kui ta m\u00f6\u00f6dub pingist, kus see sasetseb. Ta pole seda varem n\u00e4inud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti. Steve helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud jahutuskasti t\u00e4is",
+                "answers": [
+                    "\u00f5lut. S\u00f5ber, nimega Mark, on kohe p\u00f5nevil ja k\u00fcsib Steve'ilt, kus ta asub. Steve annab talle teada, et nad on l\u00e4hedal kooli parkis ja kutsub Marki kiiresti sinna.\n\nMark saabub m\u00f5"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Parki on p\u00e4rast kooli piknikup\u00e4eva \u00fcritust maha unustatud jahutuskast. Jahutuskastis on ainult v\u00f5ileivad, kuid v\u00e4lisk\u00fcljel olev silt \u00fctleb \"\u00f5lu\". Steve, \u00fcks korraldajatest, m\u00e4rkab jahutuskasti, kui ta m\u00f6\u00f6dub pingist, kus see asetseb. Ta pole seda varem n\u00e4inud. Steve avab jahutuskasti ja vaatab sisse. Steve loeb silti. Ta avab jahutuskasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "v\u00f5ileibu. Steve on segaduses, sest silt \u00fctles \"\u00f5lu\", kuid jahutuskastis pole \u00fchtegi \u00f5lut. Ta m\u00f5tleb hetkeks, kas v\u00f5ib-olla keegi on sildi \u00e4ra vahetanud v\u00f5i kas"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Parki on p\u00e4rast kooli piknikup\u00e4eva \u00fcritust maha unustatud jahutuskast. Jahutuskastis on ainult v\u00f5ileivad, kuid v\u00e4lisk\u00fcljel olev silt \u00fctleb \"\u00f5lu\". Steve, \u00fcks korraldajatest, m\u00e4rkab jahutuskasti, kui ta m\u00f6\u00f6dub pingist, kus see asetseb. Ta pole seda varem n\u00e4inud. Steve avab jahutuskasti ja vaatab sisse. Steve loeb silti. Steve helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud jahutuskasti t\u00e4is",
+                "answers": [
+                    "\u00f5lut. S\u00f5ber, nimega Mark, on kohe p\u00f5nevil ja palub Steve'il jahutuskast tema juurde tuua. Steve n\u00f5ustub ja v\u00f5tab jahutuskasti kaasa.\n\nKui Steve j\u00f5uab Marki juurde, on s\u00f5ber j"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Parki on p\u00e4rast kooli piknikup\u00e4eva \u00fcritust maha unustatud jahutuskast. Jahutuskastis on ainult v\u00f5ileivad, kuid v\u00e4lisk\u00fcljel olev silt \u00fctleb \"\u00f5lu\". Steve, \u00fcks korraldajatest, m\u00e4rkab jahutuskasti, kui ta m\u00f6\u00f6dub pingist, kus see asetseb. Ta pole seda varem n\u00e4inud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti. \u00dcks sugulane helistab Steve'ile ja \u00fctleb talle, et jahutuskastis on v\u00f5ileivad ja et ta peaks ignoreerima silti, mis \u00fctleb \"\u00f5lu\". Steve usub oma sugulast. Ta avab jahutuskasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "v\u00f5ileibu, nagu sugulane talle mainis. Steve tunneb kergendust, et ta ei lasknud end eksitada sildist, mis oleks v\u00f5inud teda valele teele juhtida.\n\nSteve otsustab v\u00f5tta paar v\u00f5ileiba jahut"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Parki on p\u00e4rast kooli piknikup\u00e4eva \u00fcritust maha unustatud jahutuskast. Jahutuskastis on ainult v\u00f5ileivad, kuid v\u00e4lisk\u00fcljel olev silt \u00fctleb \"\u00f5lu\". Steve, \u00fcks korraldajatest, m\u00e4rkab jahutuskasti, kui ta m\u00f6\u00f6dub pingist, kus see asetseb. Ta pole seda varem n\u00e4inud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti. \u00dcks sugulane helistab Steve'ile ja \u00fctleb talle, et jahutuskastis on v\u00f5ileivad ja et ta peaks ignoreerima silti, mis \u00fctleb \"\u00f5lu\". Steve usub oma sugulast. Steve helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud jahutuskasti t\u00e4is",
+                "answers": [
+                    "maitsvaid v\u00f5ileibu. S\u00f5ber, nimega Lisa, on kohe p\u00f5nevil ja palub Steve'il jahutuskast tema juurde tuua, et nad saaksid v\u00f5ileibu koos nautida.\n\nSteve v\u00f5tab jahutuskasti pingilt ja suundub Lisa"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Parki on p\u00e4rast kooli piknikup\u00e4eva \u00fcritust maha unustatud jahutuskast. Jahutuskastis on ainult v\u00f5ileivad, \u00f5lut ei ole. Samuti on v\u00e4lisk\u00fcljel silt, millel kirjas \"v\u00f5ileivad\". Steve, \u00fcks korraldajatest, m\u00e4rkab jahutuskasti, kui ta m\u00f6\u00f6dub pingist, kus see asetseb. Ta pole seda varem n\u00e4inud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti. Ta avab jahutuskasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "erinevaid v\u00f5ileibu. Steve'il hakkab k\u00f5ht t\u00fchjaks minema ja ta otsustab v\u00f5tta \u00fche v\u00f5ileiva. Ta haarab \u00fche juustu- ja singiv\u00f5ileiva ning hakkab seda nautima.\n\nSamal ajal m\u00e4rkab"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Parki on p\u00e4rast kooli piknikup\u00e4eva \u00fcritust maha unustatud jahutuskast. Jahutuskastis on ainult v\u00f5ileivad, \u00f5lut ei ole. Samuti on v\u00e4lisk\u00fcljel silt, millel kirjas \"v\u00f5ileivad\". Steve, \u00fcks korraldajatest, m\u00e4rkab jahutuskasti, kui ta m\u00f6\u00f6dub pingist, kus see asetseb. Ta pole seda varem n\u00e4inud. Steve ei ava jahutuskasti ega vaata sisse. Steve loeb silti. Steve helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud jahutuskasti t\u00e4is",
+                "answers": [
+                    "v\u00f5ileibu. S\u00f5ber, nimega Mark, on parasjagu l\u00e4hedal asuvas kohvikus ning Steve kutsub ta kiiresti parki, et koos seda avastust uurida.\n\nMark saabub kiiresti ja nad seisavad m\u00f5lemad jahutusk"
+                ]
+            }
+        }
+    ]
+}

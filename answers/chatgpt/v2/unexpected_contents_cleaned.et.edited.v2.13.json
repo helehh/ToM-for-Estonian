@@ -1,0 +1,65 @@
+{
+    "nr": 13,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Surnud isiku s\u00fclearvutis on kr\u00fcpteeritud kaust nimega \"fotod\". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse l\u00fclitab, ilmub avakuva. Ta leiab kr\u00fcpteeritud kausta. Ekspert ei ava kausta ega vaata sisse. Ekspert loeb silti. Ta avab kausta ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "videofaile. Ekspert m\u00f5istab, et surnud isik on tahtlikult kasutanud vale nime, et segadust tekitada. Ta otsustab alustada kausta sisu taastamist ja varundamist.\n\nEkspert \u00fchendab s\u00fclear"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Surnud isiku s\u00fclearvutis on kr\u00fcpteeritud kaust nimega \"fotod\". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse l\u00fclitab, ilmub avakuva. Ta leiab kr\u00fcpteeritud kausta. Ekspert ei ava kausta ega vaata sisse. Ekspert loeb silti. Ekspert helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kausta, mis on t\u00e4is",
+                "answers": [
+                    "salajasi videoid. Ta palub s\u00f5bral kohe kohale tulla, et nad saaksid koos kausta sisu uurida.\n\nS\u00f5ber, kes on samuti digitaalse kohtuekspertiisi valdkonnas kogenud, saabub kiiresti. Nad istuv"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Surnud isiku s\u00fclearvutis on kr\u00fcpteeritud kaust nimega \"fotod\". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse l\u00fclitab, ilmub avakuva. Ta leiab kr\u00fcpteeritud kausta. Ekspert avab kausta ja vaatab sisse. Ekspert loeb silti. Ta avab kausta ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "videofaile. Ta m\u00e4rkab, et videod on erinevatest kohtadest ja erinevatel aegadel salvestatud. M\u00f5ned neist on perekondlikud hetked, kus inimesed naeravad ja naudivad \u00fcksteise seltsk"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Surnud isiku s\u00fclearvutis on kr\u00fcpteeritud kaust nimega \"fotod\". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse l\u00fclitab, ilmub avakuva. Ta leiab kr\u00fcpteeritud kausta. Ekspert avab kausta ja vaatab sisse. Ekspert loeb silti. Ekspert helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kausta, mis on t\u00e4is",
+                "answers": [
+                    "salajasi videoid. S\u00f5ber on p\u00f5nevil ja k\u00fcsib, kas ekspert suudab neid videoid avada. Ekspert vastab, et ta peab k\u00f5igepealt kr\u00fcpteeringu lahti muukima, et sisule juurde p\u00e4\u00e4seda.\n\n"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Surnud isiku s\u00fclearvutis on kr\u00fcpteeritud kaust nimega \"fotod\". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse l\u00fclitab, ilmub avakuva. Ta leiab kr\u00fcpteeritud kausta. Ekspert ei ava kausta ega vaata sisse. Ekspert loeb silti. \u00dcks n\u00f5bu helistab eksperdile ja \u00fctleb talle, et kaustas on videod ja ta peaks sildil olevat kirja \"fotod\" ignoreerima. Ekspert usub oma n\u00f5bu. Ta avab kausta ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "videofaile. Ekspert on r\u00f5\u00f5mus, et tema n\u00f5bu oli \u00f5igesti informeeritud ja ta saab asuda kausta sisu taastama.\n\nEkspert hakkab s\u00fclearvuti k\u00f5vakettal olevaid videofaile uurima. Ta m\u00e4rk"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Surnud isiku s\u00fclearvutis on kr\u00fcpteeritud kaust nimega \"fotod\". Tegelikkuses sisaldab kaust aga ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse l\u00fclitab, ilmub avakuva. Ta leiab kr\u00fcpteeritud kausta. Ekspert ei ava kausta ega vaata sisse. Ekspert loeb silti. \u00dcks n\u00f5bu helistab eksperdile ja \u00fctleb talle, et kaustas on videod ja ta peaks sildil olevat kirja \"fotod\" ignoreerima. Ekspert usub oma n\u00f5bu. Ekspert helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kausta, mis on t\u00e4is",
+                "answers": [
+                    "videoid, mitte fotosid, nagu silt v\u00e4idab. S\u00f5ber soovitab ekspertil teha koopia kogu kaustast ja seej\u00e4rel avada selle, et veenduda, kas seal t\u00f5esti on videod. Ekspert j\u00e4rgib s\u00f5bra"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Surnud isiku s\u00fclearvutis on kr\u00fcpteeritud kaust nimega \"videod\". Kaust sisaldab ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse l\u00fclitab, ilmub avakuva. Ta leiab kr\u00fcpteeritud kausta. Ekspert ei ava kausta ega vaata sisse. Ekspert loeb silti. Ta avab kausta ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "erinevaid videofaile. Ekspert m\u00f5istab, et sellel surnud isikul oli ilmselt oluline p\u00f5hjus kausta kr\u00fcpteerida.\n\nEkspert otsustab alustada kausta sisu taastamist. Ta \u00fchend"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Surnud isiku s\u00fclearvutis on kr\u00fcpteeritud kaust nimega \"videod\". Kaust sisaldab ainult videoid. Digitaalse kohtuekspertiisi ekspert on palgatud selle kausta sisu taastama ja varundama. Kui ta masina esimest korda sisse l\u00fclitab, ilmub avakuva. Ta leiab kr\u00fcpteeritud kausta. Ekspert ei ava kausta ega vaata sisse. Ekspert loeb silti. Ekspert helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kausta, mis on t\u00e4is",
+                "answers": [
+                    "salap\u00e4raseid videoid. S\u00f5ber on p\u00f5nevil ja soovib kohe teada, mida kaust sisaldab. Ekspert aga hoiatab teda ettevaatlikkusest ning r\u00e4\u00e4gib, et enne kausta avamist tuleb teha"
+                ]
+            }
+        }
+    ]
+}

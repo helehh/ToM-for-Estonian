@@ -1,0 +1,65 @@
+{
+    "nr": 14,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. Ta avab paki ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "rahakotte. Daniel on \u00fcllatunud ja segaduses. Ta m\u00f5tleb, mida teha. Ta otsustab helistada logistikakeskusesse ja selgitada olukorda.\n\nLogistikakeskuse t\u00f6\u00f6taja kuulab Danieli muret ja vabandab"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just saanud paki t\u00e4is",
+                "answers": [
+                    "rahakotte. S\u00f5ber, nimega Marko, ei suuda alguses uskuda, mida Daniel talle r\u00e4\u00e4gib.\n\n\"Kas sa oled kindel, et see on t\u00f5si?\" k\u00fcsib Marko skeptiliselt.\n\n\"Jah, ma olen t\u00e4iesti kind"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel avab paki ja vaatab sisse. Daniel loeb silti. Ta avab paki ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "rahakotte. Daniel on segaduses ja ei tea, mida teha. Ta m\u00f5tleb hetke ja otsustab helistada logistikakeskusesse, et probleemist teada anda.\n\nLogistikakeskuse t\u00f6\u00f6taja, kes vastab telefonile, kuulab Danieli mure"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel avab paki ja vaatab sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just saanud paki t\u00e4is",
+                "answers": [
+                    "rahat\u00e4hti. S\u00f5ber ei usu teda alguses, arvates, et Daniel teeb nalja. Kuid kui Daniel saadab talle pildi pakis olevatest rahakottidest, muutub s\u00f5ber \u00e4kitselt v\u00e4ga p\u00f5nevil.\n\nS\u00f5ber"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. N\u00f5bu helistab Danielile ja \u00fctleb talle, et pakis on rahakotid ja et ta peaks eirama silti, mis \u00fctleb \"tossud\". Daniel usub oma n\u00f5bu. Ta avab paki ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "rahakotte. Daniel on \u00fcllatunud ja \u00f5nnelik, et ta tellitud tossude asemel sai hoopis rahakotid. Ta t\u00e4nab oma n\u00f5bu ja otsustab kohe uurida, kust need rahakotid p\u00e4rit on.\n\nDaniel avab \u00fc"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte, kuid m\u00e4rgistavad selle kui \"tossud\". Sildil ei mainita \u00fcldse rahakotte. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. N\u00f5bu helistab Danielile ja \u00fctleb talle, et pakis on rahakotid ja et ta peaks eirama silti, mis \u00fctleb \"tossud\". Daniel usub oma n\u00f5bu. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just saanud paki t\u00e4is",
+                "answers": [
+                    "rahakotte, kuigi see pidi olema tossude tellimus. S\u00f5ber on \u00fcllatunud ja soovitab Danielil pakki avada ja kontrollida, kas seal t\u00f5esti on rahakotid.\n\nDaniel otsustab s\u00f5bra n\u00f5uandeid j\u00e4rgida ning"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte ja m\u00e4rgistavad selle kui \"rahakotid\". Sildil ei mainita \u00fcldse tosse. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. Ta avab paki ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "rahakotte. Daniel on segaduses ja m\u00f5tleb, miks ta sai sellise paki, kui ta tellis hoopis tossud. Ta otsustab helistada logistikakeskusesse ja selgitada olukorda.\n\nLogistikakeskuse t\u00f6\u00f6taja vabandab s\u00fcd"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Neljap\u00e4eval tellib Daniel internetist tossud. Logistikakeskuses tehakse viga. Nad saadavad v\u00e4lja paki t\u00e4is rahakotte ja m\u00e4rgistavad selle kui \"rahakotid\". Sildil ei mainita \u00fcldse tosse. Pakk saabub laup\u00e4eva hommikul. Postiljon j\u00e4tab paki Danieli v\u00e4lisukse taha ja helistab uksekella. Daniel avab ukse, vaatab alla ja n\u00e4eb pakki. Daniel ei ava pakki ega vaata sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida, et ta on just saanud paki t\u00e4is",
+                "answers": [
+                    "rahakotte. S\u00f5ber, nimega Marko, on \u00fcllatunud ja k\u00fcsib, miks Daniel ei avanud pakki ega vaadanud sisse. Daniel selgitab, et sildil ei mainita \u00fcldse tosse ning ta ei taha midagi valesti teha"
+                ]
+            }
+        }
+    ]
+}

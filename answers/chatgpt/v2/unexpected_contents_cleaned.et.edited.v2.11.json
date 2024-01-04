@@ -1,0 +1,65 @@
+{
+    "nr": 11,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Lennujaama tolliosakonnas annab immigratsiooniametnik inspektorile \u00fcle kasti. See on pitseeritud ja sildiga \"uriiniproovid\". Keegi ei n\u00e4e, mis seal sees on, kuid tegelikult sisaldab see ainult vereproove. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor ei ava kasti ega vaata sisse. Inspektor loeb silti. Ta avab kasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "vereproove. Inspektor on hetkeks segaduses, sest silt \u00fctles ju, et kastis on uriiniproovid. Ta m\u00f5tleb hetkeks, kas v\u00f5ib olla tehtud viga v\u00f5i on midagi valesti l\u00e4inud.\n\nSiis meenub"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Lennujaama tolliosakonnas annab immigratsiooniametnik inspektorile \u00fcle kasti. See on pitseeritud ja sildiga \"uriiniproovid\". Keegi ei n\u00e4e, mis seal sees on, kuid tegelikult sisaldab see ainult vereproove. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor ei ava kasti ega vaata sisse. Inspektor loeb silti. Inspektor helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kasti t\u00e4is",
+                "answers": [
+                    "vereproove. S\u00f5ber, kes t\u00f6\u00f6tab meditsiinilaboris, on \u00fcllatunud ja k\u00fcsib, miks inspektor sellise kasti sai. Inspektor selgitab, et see oli tolliosakonnale saadetud eksituse t\u00f5ttu ning"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Lennujaama tolliosakonnas annab immigratsiooniametnik inspektorile \u00fcle kasti. See on pitseeritud ja sildiga \"uriiniproovid\". Keegi ei n\u00e4e, mis seal sees on, kuid tegelikult sisaldab see ainult vereproove. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor avab kasti ja vaatab sisse. Inspektor loeb silti. Ta avab kasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "vereproove. Inspektor on hetkeks segaduses, sest ta ootas uriiniproove, mitte verd. Ta m\u00f5tleb, kas tegemist v\u00f5ib olla eksitusega v\u00f5i on midagi valesti l\u00e4inud.\n\nInspektor otsustab kasti sisu"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Lennujaama tolliosakonnas annab immigratsiooniametnik inspektorile \u00fcle kasti. See on pitseeritud ja sildiga \"uriiniproovid\". Keegi ei n\u00e4e, mis seal sees on, kuid tegelikult sisaldab see ainult vereproove. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor avab kasti ja vaatab sisse. Inspektor loeb silti. Inspektor helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kasti t\u00e4is",
+                "answers": [
+                    "valesti m\u00e4rgistatud proove. S\u00f5ber, kes on meditsiinivaldkonnas t\u00f6\u00f6tav, soovitab inspektoril viivitamatult teavitada immigratsiooniametnikut ja kasti tagasi anda.\n\nInspektor v\u00f5tab s\u00f5bra n\u00f5"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Lennujaama tolliosakonnas annab immigratsiooniametnik inspektorile \u00fcle kasti. See on pitseeritud ja sildiga \"uriiniproovid\". Keegi ei n\u00e4e, mis seal sees on, kuid tegelikult sisaldab see ainult vereproove. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor ei ava kasti ega vaata sisse. Inspektor loeb silti. Inspektori n\u00f5bu helistab talle ja \u00fctleb, et kastis on veri ja ta peaks silti, mis \u00fctleb \"uriin\", eirama. Inspektor usub oma n\u00f5bu. Ta avab kasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "vereproove. Inspektor on segaduses ja m\u00f5tleb, miks talle anti vale siltiga kast. Ta otsustab p\u00f6\u00f6rduda immigratsiooniametniku poole, et selgitust saada.\n\nImigratsiooniametnik on \u00fcllat"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Lennujaama tolliosakonnas annab immigratsiooniametnik inspektorile \u00fcle kasti. See on pitseeritud ja sildiga \"uriiniproovid\". Keegi ei n\u00e4e, mis seal sees on, kuid tegelikult sisaldab see ainult vereproove. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor ei ava kasti ega vaata sisse. Inspektor loeb silti. Inspektori n\u00f5bu helistab talle ja \u00fctleb, et kastis on veri ja ta peaks silti, mis \u00fctleb \"uriin\", eirama. Inspektor usub oma n\u00f5bu. Inspektor helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kasti t\u00e4is",
+                "answers": [
+                    "vereproove, mitte uriiniproove. S\u00f5ber on \u00fcllatunud ja soovitab inspektoril viivitamatult kasti avada ja sisu kontrollida. Inspektor m\u00f5tleb hetkeks ja otsustab s\u00f5bra n\u00f5uannet j\u00e4"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Tolliosakonnas lennujaamas annab immigratsiooniametnik bioloogilise ohu inspektorile \u00fcle kasti. See on pitseeritud ja sildiga \"vereproovid\". Keegi ei n\u00e4e, mis seal sees on, kuid tegelikult ei ole seal uriiniproove, ainult vereproovid. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor ei ava kasti ega vaata sisse. Inspektor loeb silti. Ta avab kasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "vereproove. Inspektor on veidi \u00fcllatunud, sest ta ootas, et kastis oleksid uriiniproovid. Ta m\u00f5tleb hetkeks, kas v\u00f5ib olla tehtud viga v\u00f5i eksitus, kuid otsustab siiski j\u00e4rg"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Tolliosakonnas lennujaamas annab immigratsiooniametnik bioloogilise ohu inspektorile \u00fcle kasti. See on pitseeritud ja sildiga \"vereproovid\". Keegi ei n\u00e4e, mis seal sees on, kuid tegelikult ei ole seal uriiniproove, ainult vereproovid. Inspektor pole selle kasti sisu varem kunagi uurinud. Inspektor ei ava kasti ega vaata sisse. Inspektor loeb silti. Inspektor helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kasti t\u00e4is",
+                "answers": [
+                    "salap\u00e4raseid vereproove. S\u00f5ber, kes on meditsiinivaldkonnas p\u00e4dev, kuulab huviga inspektori kirjeldust ja soovitab tal viivitamatult kutsuda kohale asjatundja, et kasti sisu t\u00e4p"
+                ]
+            }
+        }
+    ]
+}
