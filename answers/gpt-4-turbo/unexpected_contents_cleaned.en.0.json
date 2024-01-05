@@ -1,0 +1,74 @@
+{
+    "nr": 0,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. Yet, the label on this bottle says \"wine\" and not \"beer\". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label. He opens the bottle and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "beer. The golden liquid bubbles gently, and the familiar scent of hops and barley fills the air. Mark is puzzled by the discrepancy between the label and the contents. He wonders if it's a prank or a mistake. He recalls a friend who works at a local brewery and often shares stories about the bottling process, where sometimes labels can get mixed",
+                    "beer. The golden liquid bubbles gently, and the familiar scent of hops and barley fills the air. Mark is puzzled by the discrepancy between the label and the contents. He wonders if it's a prank or a mistake. He recalls a friend who works at a local brewery and often shares stories about the bottling process, where sometimes labels can get mixed"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. Yet, the label on this bottle says \"wine\" and not \"beer\". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label. Mark calls a friend to tell them that he has just found a bottle full of",
+                "answers": [
+                    "wine. His friend, confused, asks how he can be sure it's wine without opening the bottle or seeing its contents. Mark laughs and says, \"Well, the label says 'wine,' and I haven't had a chance to check it myself, but isn't it funny to find a bottle like this just sitting here?\" His friend chuckles",
+                    "wine. His friend, puzzled by the excitement, asks why that's so interesting. Mark laughs and says, \"Because it's actually full of beer!\" His friend is confused and asks how he knows that without opening the bottle or seeing its contents. Mark explains that earlier in the day, he had overheard a conversation between two of the brewery workers"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. Yet, the label on this bottle says \"wine\" and not \"beer\". Mark walks into the room and notices the bottle. He has never seen it before. Mark opens the bottle and looks inside. Mark reads the label. He opens the bottle and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "beer, the golden liquid gently fizzing at the top. The aroma of hops and malt fills the air as he brings the bottle closer to his nose. Mark is puzzled. He's a connoisseur of drinks and knows his beverages well. The label, with its elegant font and image of a vineyard, clearly states \"wine,\" which contrad",
+                    "beer, the golden liquid gently fizzing at the top. The aroma of hops and malt fills the air as he brings the bottle closer to his nose. Mark is puzzled. He's certain that the contents do not match the label. He wonders if it's some sort of prank or a mistake at the bottling plant.\n\nMark decides to pour the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. Yet, the label on this bottle says \"wine\" and not \"beer\". Mark walks into the room and notices the bottle. He has never seen it before. Mark opens the bottle and looks inside. Mark reads the label. Mark calls a friend to tell them that he has just found a bottle full of",
+                "answers": [
+                    "wine, despite the contents clearly being beer. His friend, confused, asks him to explain. Mark chuckles and says, \"Well, it's the strangest thing. There's this bottle on the shelf, and it's not see-through, so you can't tell what's inside just by looking at it. It's actually full of beer",
+                    "wine. His friend, confused, asks, \"But you just said it's full of beer?\" Mark laughs and explains, \"Well, the bottle is actually full of beer, but the label says 'wine.' It must be some sort of mix-up at the bottling plant or a practical joke.\" His friend chuckles at the oddity and"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. Yet, the label on this bottle says \"wine\" and not \"beer\". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label. A cousin calls Mark and tells him that the bottle has beer in it, and that he should ignore the label that says \"wine\". Mark believes him cousin. He opens the bottle and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "beer. The amber liquid bubbles gently, releasing the characteristic scent of hops and malt. Mark smiles, amused by the mix-up with the label. He pours himself a glass, the frothy head forming as the beer splashes into the glass. He takes a sip, savoring the rich, full flavor that confirms without a doubt that it is",
+                    "beer. The amber liquid bubbles gently, releasing a familiar malty aroma into the air. Mark smiles, shaking his head at the mislabeled bottle. He pours the beer into a glass, watching the frothy head form at the top. He takes a sip, the cool beverage refreshing and exactly as his cousin had described. Mark makes a mental"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. Yet, the label on this bottle says \"wine\" and not \"beer\". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label. A cousin calls Mark and tells him that the bottle has beer in it, and that he should ignore the label that says \"wine\". Mark believes him cousin. Mark calls a friend to tell them that he has just found a bottle full of",
+                "answers": [
+                    "beer, despite the label indicating otherwise. His friend, intrigued by the oddity, asks how Mark can be so sure without having opened the bottle or seen its contents. Mark explains that his cousin, who is known for being a reliable source and has never led him astray, informed him about the bottle's true contents. He trusts his cousin's",
+                    "beer, despite the label indicating otherwise. His friend, intrigued by the oddity, asks how Mark can be so sure without having opened the bottle or seen its contents. Mark explains that his cousin, who is known for his honesty and knowledge about the family's quirky collection of bottles, had just informed him of the mix-up. The friend laughs,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. The label on this bottle says \"beer\" and not \"wine\". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label. He opens the bottle and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "beer, just as the label indicated. The amber liquid reflects the light in the room, and he can see the bubbles rising to the top, confirming its carbonated nature. Mark smiles, pleased to find that the contents match the label's promise. He had been craving a cold beer after a long day, and this discovery was a welcome surprise.",
+                    "beer, just as the label indicated. The amber liquid reflects the light in the room, and he can see the bubbles rising to the top, confirming its carbonated nature. Mark smiles, pleased to find that the contents match the label's promise. He pours himself a glass, the frothy head forming as the beer splashes into the glass."
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On the shelf, there is a non-transparent bottle. It is full of beer; there is no wine in it. The label on this bottle says \"beer\" and not \"wine\". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label. Mark calls a friend to tell them that he has just found a bottle full of",
+                "answers": [
+                    "wine. His friend is confused and asks, \"But didn't the label say beer?\" Mark laughs and says, \"Yes, it did, but I was just testing you. It's actually a bottle full of beer, just as the label says.\" His friend chuckles at the joke, and Mark goes on to tell them about the interesting design",
+                    "wine. His friend is puzzled and asks, \"But didn't the label say beer?\" Mark laughs and says, \"Yes, it does! But I just wanted to see if you were paying attention. It's actually a bottle of beer, just as the label says.\" His friend chuckles, realizing it was just a playful jest. Mark puts"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

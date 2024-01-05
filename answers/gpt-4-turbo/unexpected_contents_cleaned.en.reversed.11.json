@@ -1,0 +1,74 @@
+{
+    "nr": 11,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: At the customs department of an airport, an immigration officer hands a box to an inspector. It is sealed and labeled as \"blood samples\". No one can see what is inside, but in reality, it only contains urine samples. The inspector has never examined the contents of this box before. The inspector does not open the box and does not look inside. The inspector reads the label. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "vials, each carefully packed and labeled with different codes and dates. The inspector is puzzled; the label on the outside of the box clearly states \"blood samples,\" yet the contents appear to be urine samples based on the color and consistency of the liquid in the vials. She wonders if there has been a mistake or if this is an attempt to",
+                    "vials, each carefully packed and labeled as \"blood samples.\" However, upon closer inspection, the inspector notices that the color of the liquid inside the vials is not the deep red typically associated with blood, but rather a pale yellow, characteristic of urine. Puzzled by this discrepancy, the inspector's training kicks in, and she realizes that"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: At the customs department of an airport, an immigration officer hands a box to an inspector. It is sealed and labeled as \"blood samples\". No one can see what is inside, but in reality, it only contains urine samples. The inspector has never examined the contents of this box before. The inspector does not open the box and does not look inside. The inspector reads the label. The inspector calls a friend to tell them that she has just found a box full of",
+                "answers": [
+                    "blood samples at the airport. Her friend, a medical professional, is immediately intrigued and asks why such samples would be passing through customs rather than being handled through medical courier services that specialize in biological materials.\n\nThe inspector explains that the box is part of a shipment for a research facility that has the proper authorization and documentation. She mentions that the facility is conducting",
+                    "blood samples at the airport. Her friend, a medical professional, immediately understands the gravity of the situation and advises her to handle the box with extreme care, considering the potential biohazard. The inspector assures her friend that all protocols for handling such sensitive materials are being followed.\n\nThe inspector, still on the phone, walks the box over to the designated"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: At the customs department of an airport, an immigration officer hands a box to an inspector. It is sealed and labeled as \"blood samples\". No one can see what is inside, but in reality, it only contains urine samples. The inspector has never examined the contents of this box before. The inspector opens the box and looks inside. The inspector reads the label. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "small, carefully labeled vials. Each vial is filled with a yellowish liquid, which is not consistent with the \"blood samples\" label on the outside of the box. The inspector frowns, puzzled by the discrepancy. She picks up one of the vials, holding it up to the light, examining the color and consistency. It",
+                    "small, carefully labeled vials. Each vial is filled with a yellowish liquid, which is not consistent with the \"blood samples\" label on the outside of the box. The inspector frowns, puzzled by the discrepancy. She picks up one of the vials, holding it up to the light, examining the color and consistency. It"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: At the customs department of an airport, an immigration officer hands a box to an inspector. It is sealed and labeled as \"blood samples\". No one can see what is inside, but in reality, it only contains urine samples. The inspector has never examined the contents of this box before. The inspector opens the box and looks inside. The inspector reads the label. The inspector calls a friend to tell them that she has just found a box full of",
+                "answers": [
+                    "urine samples, mistakenly labeled as blood samples. The inspector, puzzled by the discrepancy, decides to investigate further. She carefully examines the paperwork accompanying the box and finds that the shipment is from a reputable medical laboratory, which adds to her confusion.\n\n\"Why would they mislabel such a sensitive shipment?\" she wonders aloud.\n\nAfter a moment of contemplation,",
+                    "urine samples, mistakenly labeled as blood samples. The inspector, puzzled by the discrepancy, decides to investigate further. She checks the paperwork accompanying the box and finds that the sender is a reputable medical laboratory, which adds to her confusion. The inspector then puts on her gloves, carefully removes one of the sample containers, and holds it up to the light"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: At the customs department of an airport, an immigration officer hands a box to an inspector. It is sealed and labeled as \"blood samples\". No one can see what is inside, but in reality, it only contains urine samples. The inspector has never examined the contents of this box before. The inspector does not open the box and does not look inside. The inspector reads the label. A cousin calls The inspector and tells her that the box has urine in it, and that she should ignore the label that says \"blood\". The inspector believes her cousin. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "urine samples, each carefully placed in its own labeled container. The inspector is puzzled by the discrepancy between the label and the actual contents. She wonders why the box was mislabeled and considers the potential implications of this error.\n\nThe inspector knows that mislabeling biological samples can have serious consequences for both the sender and the receiver. It could be",
+                    "urine samples, each carefully placed in its own labeled container. The inspector is puzzled by the discrepancy between the label and the actual contents. She wonders why the box was mislabeled and considers the potential implications of this error.\n\nThe inspector knows that mislabeling biological samples can have serious consequences for both the sender and the receiver. It could be"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: At the customs department of an airport, an immigration officer hands a box to an inspector. It is sealed and labeled as \"blood samples\". No one can see what is inside, but in reality, it only contains urine samples. The inspector has never examined the contents of this box before. The inspector does not open the box and does not look inside. The inspector reads the label. A cousin calls The inspector and tells her that the box has urine in it, and that she should ignore the label that says \"blood\". The inspector believes her cousin. The inspector calls a friend to tell them that she has just found a box full of",
+                "answers": [
+                    "urine samples, despite the label claiming they are blood samples. Her friend, who works in the medical field, chuckles at the mix-up and advises her to double-check the contents to ensure proper handling and compliance with regulations. The inspector, bound by protocol, realizes she must verify the contents of the box regardless of her cousin's tip-off.\n\n",
+                    "urine samples, despite the label claiming they are blood samples. Her friend, who works in the medical field, chuckles at the mix-up and advises her to double-check the contents to ensure proper handling and compliance with regulations. The inspector, bound by protocol, realizes she must verify the contents of the box regardless of her cousin's tip-off.\n\n"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: At the customs department of an airport, an immigration officer hands a box to a biohazard inspector. It is sealed and labeled as \"urine samples\". No one can see what is inside, but in reality, there are no blood samples in it, only urine samples. The inspector has never examined the contents of this box before. The inspector does not open the box and does not look inside. The inspector reads the label. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "vials containing a yellowish liquid, each meticulously sealed and labeled with different codes and dates. The inspector, having dealt with similar shipments in the past, knows that these are indeed urine samples, likely for medical testing or research purposes. She carefully examines the paperwork accompanying the box to ensure that all the necessary documentation and permits are in order for the transportation",
+                    "vials containing a yellowish liquid, each meticulously sealed and labeled with different codes. The inspector, having dealt with similar shipments in the past, knows that these are indeed urine samples, likely for medical testing or research. She carefully examines the paperwork accompanying the box to ensure that all the necessary documentation and permits are in order for the transportation of biological material"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: At the customs department of an airport, an immigration officer hands a box to a biohazard inspector. It is sealed and labeled as \"urine samples\". No one can see what is inside, but in reality, there are no blood samples in it, only urine samples. The inspector has never examined the contents of this box before. The inspector does not open the box and does not look inside. The inspector reads the label. The inspector calls a friend to tell them that she has just found a box full of",
+                "answers": [
+                    "blood samples at the airport. Her friend, a fellow biohazard inspector, is immediately intrigued and asks how she knows what's inside without opening the box. The inspector chuckles and says, \"Well, it's labeled as 'urine samples', but you know how these things can be. Sometimes labels are switched or misprinted. I'm",
+                    "blood samples at the airport. Her friend, a fellow biohazard inspector, is immediately intrigued and asks how she knows what's inside without opening the box. The inspector chuckles and says, \"Well, that's what the label claims, but it's actually a box of urine samples.\"\n\nHer friend pauses for a moment, confused by the mix"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

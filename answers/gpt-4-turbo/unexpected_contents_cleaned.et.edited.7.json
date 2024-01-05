@@ -1,0 +1,74 @@
+{
+    "nr": 7,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: \u00dcle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis \u00fctleb \"raamatud\". See ei maini v\u00e4\u00e4riskive. Siiski sisaldab kast tegelikult ainult v\u00e4\u00e4riskive ja \u00fchtegi raamatut seal pole. Steve, inspektor, l\u00e4henes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti. Ta avab kasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "v\u00e4\u00e4riskive \u2013 s\u00e4delevaid rubiine, s\u00e4ravaid teemante, s\u00fcgavsiniseid safiire ja rohelisi smaragde, mis k\u00f5ik peegeldavad seifi sisemuses olevat valgust. Steve on h\u00e4mmingus, sest silt",
+                    "v\u00e4\u00e4riskive \u2013 s\u00e4delevaid rubiine, s\u00e4ravaid teemante, s\u00fcgavsiniseid safiire ja rohelisi smaragde, mis k\u00f5ik peegeldavad seifi sisemuses olevat valgust. Steve on h\u00e4mmingus, sest silt"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: \u00dcle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis \u00fctleb \"raamatud\". See ei maini v\u00e4\u00e4riskive. Siiski sisaldab kast tegelikult ainult v\u00e4\u00e4riskive ja \u00fchtegi raamatut seal pole. Steve, inspektor, l\u00e4henes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti. Steve helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kasti t\u00e4is",
+                "answers": [
+                    "raamatuid. Ta on p\u00f5nevil, sest ta on kirglik bibliofiil ja armastab haruldasi v\u00e4ljaandeid. Steve'i s\u00f5ber, kes on samuti raamatute huviline, on telefonis elevil ja k\u00fcsib, kas nad v\u00f5iksid koos kasti sis",
+                    "raamatuid. Ta on p\u00f5nevil, sest ta on kirglik bibliofiil ja armastab vanu haruldusi. Tema s\u00f5ber, kes on samuti ajaloo huviline, jagab tema elevust ja k\u00fcsib, kas nad v\u00f5iksid koos kasti avada."
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: \u00dcle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis \u00fctleb \"raamatud\". See ei maini v\u00e4\u00e4riskive. Siiski sisaldab kast tegelikult ainult v\u00e4\u00e4riskive ja \u00fchtegi raamatut seal pole. Steve, inspektor, l\u00e4henes seifile. Steve avab kasti ja vaatab sisse. Steve loeb silti. Ta avab kasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "v\u00e4\u00e4riskive \u2013 s\u00e4delevaid rubiine, s\u00e4ravaid teemante, s\u00fcgavsiniseid safiire ja smaragde, mis helgivad nagu kevadine rohelus. Steve on hetkeks h\u00e4mmingus, sest ta ootas leida raamat",
+                    "v\u00e4\u00e4riskive \u2013 s\u00e4delevaid rubiine, s\u00e4ravaid teemante, s\u00fcgavsiniseid safiire ja smaragdrohelisi smaragde. Steve'i silmad laienevad \u00fcllatusest. Ta oli oodanud leida vanu, tolmuse"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: \u00dcle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis \u00fctleb \"raamatud\". See ei maini v\u00e4\u00e4riskive. Siiski sisaldab kast tegelikult ainult v\u00e4\u00e4riskive ja \u00fchtegi raamatut seal pole. Steve, inspektor, l\u00e4henes seifile. Steve avab kasti ja vaatab sisse. Steve loeb silti. Steve helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kasti t\u00e4is",
+                "answers": [
+                    "v\u00e4\u00e4riskive. Tema h\u00e4\u00e4l v\u00e4riseb elevusest, kui ta kirjeldab leidu: \"Sa ei usuks, mis ma just avastasin! See seif, mis on olnud \u00fcle sajandi suletud, pidi sisaldama raamatuid \u2013 v\u00e4h",
+                    "v\u00e4\u00e4riskive. Tema h\u00e4\u00e4l v\u00e4riseb elevusest, kui ta kirjeldab leidu: \"Sa ei usuks, mis ma just avastasin! See seif, mis on olnud \u00fcle sajandi suletud, pidi sisaldama raamatuid \u2013 v\u00e4h"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: \u00dcle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis \u00fctleb \"raamatud\". See ei maini v\u00e4\u00e4riskive. Siiski sisaldab kast tegelikult ainult v\u00e4\u00e4riskive ja \u00fchtegi raamatut seal pole. Steve, inspektor, l\u00e4henes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti. Steve'i n\u00f5bu helistab talle ja \u00fctleb, et kastis on v\u00e4\u00e4riskivid ja et ta peaks sildil olevat s\u00f5na \"raamatud\" ignoreerima. Steve usub oma n\u00f5bu. Ta avab kasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "v\u00e4\u00e4riskive, mis s\u00e4delevad erinevates v\u00e4rvides. Kivid on paigutatud hoolikalt vooderdatud sahtlitesse, iga\u00fcks neist on justkui kunstiteos omaette. Steve on h\u00e4mmingus, sest ta ei osan",
+                    "v\u00e4\u00e4riskive, mis s\u00e4delevad erinevates v\u00e4rvides. Kivid on paigutatud hoolikalt vooderdatud sahtlitesse, iga\u00fcks neist justkui hoolikalt valitud ja paigutatud, et demonstreerida nende er"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: \u00dcle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis \u00fctleb \"raamatud\". See ei maini v\u00e4\u00e4riskive. Siiski sisaldab kast tegelikult ainult v\u00e4\u00e4riskive ja \u00fchtegi raamatut seal pole. Steve, inspektor, l\u00e4henes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti. Steve'i n\u00f5bu helistab talle ja \u00fctleb, et kastis on v\u00e4\u00e4riskivid ja et ta peaks sildil olevat s\u00f5na \"raamatud\" ignoreerima. Steve usub oma n\u00f5bu. Steve helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kasti t\u00e4is",
+                "answers": [
+                    "v\u00e4\u00e4riskive. S\u00f5ber on alguses skeptiline, kuid Steve'i kindel veendumus ja n\u00f5bu usaldusv\u00e4\u00e4rne info veenavad teda l\u00f5puks. Steve'i s\u00f5ber palub tal olla ettevaatlik, sest selline leid v\u00f5ib kaasa",
+                    "v\u00e4\u00e4riskive. S\u00f5ber on h\u00e4mmingus ja k\u00fcsib, kuidas Steve seda teab, kui ta pole kasti isegi avanud. Steve selgitab, et tema usaldusv\u00e4\u00e4rne n\u00f5bu andis talle selle teabe ja et ta on kindel"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: \u00dcle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis \u00fctleb \"v\u00e4\u00e4riskivid\". See ei maini raamatuid. Kast sisaldab ainult v\u00e4\u00e4riskive ja \u00fchtegi raamatut seal pole. Steve, inspektor, l\u00e4henes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti. Ta avab kasti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "raamatuid. Steve on segaduses, sest silt lubas v\u00e4\u00e4riskive, kuid n\u00fc\u00fcd seisab ta silmitsi virnade vanade, tolmuste raamatutega. Ta sirutab k\u00e4e ja t\u00f5stab \u00fche raamatu v\u00e4lja, p\u00fchkides ka",
+                    "raamatuid. Steve on segaduses, sest silt lubas v\u00e4\u00e4riskive, kuid n\u00fc\u00fcd seisab ta silmitsi virnade vanade, tolmuste raamatutega. Ta sirutab k\u00e4e ja t\u00f5stab \u00fche raamatu v\u00e4lja, et seda l\u00e4h"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: \u00dcle 100 aasta avamata olnud seif on just avatud. Sees on suletud kast, millel on silt, mis \u00fctleb \"v\u00e4\u00e4riskivid\". See ei maini raamatuid. Kast sisaldab ainult v\u00e4\u00e4riskive ja \u00fchtegi raamatut seal pole. Steve, inspektor, l\u00e4henes seifile. Steve ei ava kasti ega vaata sisse. Steve loeb silti. Steve helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud kasti t\u00e4is",
+                "answers": [
+                    "v\u00e4\u00e4riskive. S\u00f5ber, kes on samuti kogenud antiikesemete huviline, on p\u00f5nevil ja palub Steve'il kirjeldada kasti ja seifi \u00fcksikasjalikumalt.\n\nSteve kirjeldab seifi kui massiivset, roostetan",
+                    "v\u00e4\u00e4riskive. Tema h\u00e4\u00e4l v\u00e4riseb elevusest, kui ta kirjeldab oma s\u00f5brale, kuidas seif, mis oli \u00fcle sajandi puutumata seisnud, avanes justkui ajaloo v\u00e4ravad, paljastades selle sal"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

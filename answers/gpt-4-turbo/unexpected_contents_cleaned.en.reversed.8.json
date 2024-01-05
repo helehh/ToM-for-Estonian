@@ -1,0 +1,74 @@
+{
+    "nr": 8,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: A non-transparent bottle filled with water sits on the counter of a department store. There is no sugar inside it; however, the bottle bears the label \"sugar\" instead of \"water\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label. He opens the bottle and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "clear, colorless liquid. Bernard is puzzled by the discrepancy between the label and the contents. He calls over a store clerk and points out the mistake.\n\n\"Excuse me,\" Bernard says, holding up the bottle. \"This says 'sugar,' but it's filled with water.\"\n\nThe clerk, a young woman with a name tag that reads",
+                    "clear, colorless liquid. Bernard is puzzled by the discrepancy between the label and the contents. He calls over a store clerk and points out the mistake.\n\n\"Excuse me,\" Bernard says, holding up the bottle. \"This says 'sugar,' but it's filled with water.\"\n\nThe clerk, a young woman with a name tag that reads"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A non-transparent bottle filled with water sits on the counter of a department store. There is no sugar inside it; however, the bottle bears the label \"sugar\" instead of \"water\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label. Bernard calls a friend to tell them that he has just found a bottle full of",
+                "answers": [
+                    "sugar at the department store. His friend, who is a bit of a prankster, chuckles on the other end of the line. \"Are you sure it's sugar, Bernard?\" his friend asks, knowing all too well the kind of mix-ups that can happen in stores.\n\nBernard, confident in what he has read, replies,",
+                    "sugar at the department store. His friend, who is a bit of a prankster and knows about the mislabeled bottle, decides to play along and expresses surprise and curiosity. \"Really? A bottle of sugar?\" his friend asks, trying to suppress a chuckle. \"That's unusual. Are you sure it's not something else?\"\n\n"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: A non-transparent bottle filled with water sits on the counter of a department store. There is no sugar inside it; however, the bottle bears the label \"sugar\" instead of \"water\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard opens the bottle and looks inside. Bernard reads the label. He opens the bottle and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "clear, colorless liquid. Bernard is puzzled by the discrepancy between the label and the contents. He calls over a store clerk and points out the oddity.\n\n\"Excuse me,\" Bernard says, holding up the bottle. \"This says 'sugar,' but it's filled with water. Is this some kind of mistake?\"\n\nThe clerk, a",
+                    "clear liquid, not the granulated substance he was expecting. Bernard is puzzled by the discrepancy between the label and the contents. He calls over a store clerk and points out the mistake.\n\n\"Excuse me,\" Bernard says, holding up the bottle. \"This is labeled as sugar, but it's actually filled with water.\"\n\nThe clerk, a young"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A non-transparent bottle filled with water sits on the counter of a department store. There is no sugar inside it; however, the bottle bears the label \"sugar\" instead of \"water\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard opens the bottle and looks inside. Bernard reads the label. Bernard calls a friend to tell them that he has just found a bottle full of",
+                "answers": [
+                    "sugar, but when he looks inside, it's clear that it's filled with water. His friend on the other end of the line chuckles and says, \"That's quite the mix-up! Are you sure it's water?\" Bernard nods to himself, even though his friend can't see him. \"Yes, it's definitely water.",
+                    "sugar, but when he looks inside, it's clear that it's just water. His friend, confused, asks him to explain. Bernard chuckles and says, \"Well, it's the strangest thing. There's this bottle here at the store, and it's labeled 'sugar,' but when I opened it, it's nothing"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: A non-transparent bottle filled with water sits on the counter of a department store. There is no sugar inside it; however, the bottle bears the label \"sugar\" instead of \"water\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label. A cousin calls Bernard and tells him that the bottle has water in it, and that he should ignore the label that says \"sugar\". Bernard believes him cousin. He opens the bottle and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "water, just as his cousin had told him. The liquid is clear and reflects the light in a way that only water can. Bernard is puzzled by the mislabeling and wonders why the bottle would be labeled \"sugar\" when it clearly contains water. He decides to ask the store clerk for an explanation.\n\nThe clerk, upon hearing Bernard's",
+                    "water, just as his cousin had told him. The liquid inside is clear and reflects the light in a way that is unmistakable. Bernard is puzzled by the mislabeling and wonders why a bottle would be labeled \"sugar\" when it clearly contains water. He decides to bring this to the attention of a store employee.\n\nBernard waves over"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A non-transparent bottle filled with water sits on the counter of a department store. There is no sugar inside it; however, the bottle bears the label \"sugar\" instead of \"water\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label. A cousin calls Bernard and tells him that the bottle has water in it, and that he should ignore the label that says \"sugar\". Bernard believes him cousin. Bernard calls a friend to tell them that he has just found a bottle full of",
+                "answers": [
+                    "water in a department store, despite the misleading label that reads \"sugar\". His friend, intrigued by the oddity, asks how Bernard is so sure about the contents without having opened the bottle. Bernard explains that his cousin, who works in the store, had just informed him about the mix-up with the labels. The friend laughs at the situation",
+                    "water in a department store, despite the misleading label that says \"sugar\". His friend, intrigued by the oddity, asks how Bernard knows for sure what's inside without opening the bottle. Bernard explains that his cousin, who works in the store, informed him of the mix-up with the labels. The friend laughs at the situation and suggests that"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: A non-transparent bottle filled with water sits on the counter of a department store. There is no sugar inside it; the bottle bears the label \"water\" and not \"sugar\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label. He opens the bottle and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "water, just as the label had indicated. The liquid inside was clear and colorless, and it caught the light in a way that left no doubt about its contents. Bernard, who had been out running errands all day under the hot sun, felt a wave of relief wash over him at the sight of the refreshing water.\n\nHe had been skeptical",
+                    "water, just as the label indicated. The liquid inside is clear and colorless, and it refracts the light in a way that is characteristic of water. Bernard is not surprised; he had no reason to doubt the label, as it matched the appearance of the contents perfectly. He closes the bottle and places it back on the counter, satisfied that"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A non-transparent bottle filled with water sits on the counter of a department store. There is no sugar inside it; the bottle bears the label \"water\" and not \"sugar\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label. Bernard calls a friend to tell them that he has just found a bottle full of",
+                "answers": [
+                    "water at the department store. His friend, curious about Bernard's excitement over such a mundane find, asks him why he's so interested in the bottle. Bernard explains that he's been searching for a simple, unadorned bottle of water without any additives or flavorings for his collection of minimalist design items. The label's straightforward honesty, the",
+                    "water at the department store. His friend, curious about the call, asks why Bernard felt the need to share this seemingly mundane discovery. Bernard laughs and explains that he's been on a quest to find the perfect bottle of water for his long hikes, and this particular brand has been recommended to him multiple times for its purity and taste. The non-transparent"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

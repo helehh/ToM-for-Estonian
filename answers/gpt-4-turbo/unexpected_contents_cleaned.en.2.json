@@ -1,0 +1,74 @@
+{
+    "nr": 2,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: In the freezer, there is a container filled with vanilla ice cream. There is no strawberry jam in it. Yet, the label says \"strawberry jam\" and not \"vanilla ice cream\". The label is wrong. One day, Floriane finds the container and realizes that she has never seen it before. Floriane does not open the container and does not look inside. Floriane reads the label. She opens the container and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "vanilla ice cream, its creamy white color unmistakable even in the cold, frosty interior of the freezer. Floriane is puzzled by the discrepancy between the label and the contents. She wonders why someone would mislabel a container of ice cream as strawberry jam.\n\nFloriane considers the possibilities. Perhaps it was a simple mistake, or maybe someone",
+                    "vanilla ice cream, its creamy white color unmistakable even in the cold, frosty interior of the freezer. Floriane is puzzled by the discrepancy between the label and the contents. She wonders why someone would mislabel a container of ice cream as strawberry jam.\n\nFloriane's curiosity gets the better of her, and she decides to investigate."
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In the freezer, there is a container filled with vanilla ice cream. There is no strawberry jam in it. Yet, the label says \"strawberry jam\" and not \"vanilla ice cream\". The label is wrong. One day, Floriane finds the container and realizes that she has never seen it before. Floriane does not open the container and does not look inside. Floriane reads the label. Floriane calls a friend to tell them that she has just found a container full of",
+                "answers": [
+                    "strawberry jam in the freezer. Her friend, intrigued by the discovery, asks why there would be jam in the freezer. Floriane shrugs, saying that she found it odd too, but the label was clear. They laugh about the peculiar storage choice and wonder if freezing jam is a new trend they haven't heard about.\n\nFloriane",
+                    "strawberry jam in the freezer. Her friend, intrigued by the discovery, asks Floriane if she's sure it's jam, considering it's in the freezer. Floriane, confident in the accuracy of labels, insists that it must be, despite the unusual storage location. They laugh about the oddity and make plans to use the jam for"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: In the freezer, there is a container filled with vanilla ice cream. There is no strawberry jam in it. Yet, the label says \"strawberry jam\" and not \"vanilla ice cream\". The label is wrong. One day, Floriane finds the container and realizes that she has never seen it before. Floriane opens the container and looks inside. Floriane reads the label. She opens the container and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "vanilla ice cream, its creamy whiteness unmistakable. Floriane is puzzled by the discrepancy between the label and the contents. She wonders why someone would mislabel a container of ice cream as strawberry jam. \n\nWith a shrug, Floriane decides to investigate further. She scoops a small amount of the ice cream into a bowl,",
+                    "vanilla ice cream, its creamy whiteness unmistakable against the stark contrast of the red label claiming it to be strawberry jam. Floriane is puzzled by this discrepancy. She wonders why anyone would mislabel a container in such a way. It's a small mystery, but it piques her curiosity.\n\nShe decides to ask her roommate, Mar"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In the freezer, there is a container filled with vanilla ice cream. There is no strawberry jam in it. Yet, the label says \"strawberry jam\" and not \"vanilla ice cream\". The label is wrong. One day, Floriane finds the container and realizes that she has never seen it before. Floriane opens the container and looks inside. Floriane reads the label. Floriane calls a friend to tell them that she has just found a container full of",
+                "answers": [
+                    "vanilla ice cream in the freezer, but it's labeled as strawberry jam. Her friend, intrigued by the oddity, asks Floriane if she's sure about what she's seeing. Floriane confirms, describing the creamy white contents that are unmistakably vanilla ice cream. They both laugh at the mix-up, wondering how the label could have been",
+                    "vanilla ice cream in the freezer, but it's labeled as strawberry jam. Her friend, intrigued by the oddity, asks Floriane if she's sure about what she's seeing. Floriane confirms, describing the creamy white contents that are unmistakably vanilla ice cream. They both laugh at the mix-up, wondering how the label could have been"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: In the freezer, there is a container filled with vanilla ice cream. There is no strawberry jam in it. Yet, the label says \"strawberry jam\" and not \"vanilla ice cream\". The label is wrong. One day, Floriane finds the container and realizes that she has never seen it before. Floriane does not open the container and does not look inside. Floriane reads the label. A cousin calls Floriane and tells her that the container has vanilla ice cream in it, and that she should ignore the label that says \"strawberry jam\". Floriane believes her cousin. She opens the container and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "vanilla ice cream, just as her cousin had told her. The creamy white swirls glisten under the kitchen light, and Floriane can't help but smile at the mix-up. She wonders why the container was mislabeled in the first place. It's a small mystery in her otherwise routine day.\n\nFloriane decides to take a",
+                    "vanilla ice cream, just as her cousin had told her. The creamy white swirls glisten under the light of the freezer, and Floriane can't help but smile at the oddity of the situation. She wonders why someone would mislabel a container so clearly, but then she remembers a family gathering from a few months back.\n\nAt that"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In the freezer, there is a container filled with vanilla ice cream. There is no strawberry jam in it. Yet, the label says \"strawberry jam\" and not \"vanilla ice cream\". The label is wrong. One day, Floriane finds the container and realizes that she has never seen it before. Floriane does not open the container and does not look inside. Floriane reads the label. A cousin calls Floriane and tells her that the container has vanilla ice cream in it, and that she should ignore the label that says \"strawberry jam\". Floriane believes her cousin. Floriane calls a friend to tell them that she has just found a container full of",
+                "answers": [
+                    "vanilla ice cream in the freezer, despite the label saying \"strawberry jam.\" Her friend, amused by the mix-up, asks how she can be so sure without looking inside. Floriane explains that her cousin had mistakenly labeled the container but confirmed its true contents over the phone. They share a laugh over the situation, and Floriane invites",
+                    "vanilla ice cream in the freezer, despite the label saying \"strawberry jam.\" Her friend laughs at the mix-up and asks how that could have happened. Floriane explains that her cousin, who had stayed with her a few weeks ago, must have mislabeled it by mistake. They both agree that it's a harmless error, but"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: In the freezer, there is a container filled with vanilla ice cream. There is no strawberry jam in it. The label says \"vanilla ice cream\" and not \"strawberry jam\". The label is correct. One day, Floriane finds the container and realizes that she has never seen it before. Floriane does not open the container and does not look inside. Floriane reads the label. She opens the container and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "vanilla ice cream, just as the label had accurately indicated. The creamy white color and the familiar sweet scent confirm its contents without a doubt. Floriane smiles, amused by her earlier fleeting thought that there might have been something else inside, like strawberry jam, despite the clear label. It's a hot day outside, and the discovery of the ice",
+                    "strawberry jam. Floriane is puzzled, her eyebrows knitting together in confusion. The label had clearly stated \"vanilla ice cream,\" and yet, the vibrant red hue and the fruity aroma wafting from the container could not be mistaken. She wondered how the jam could have gotten into the container, especially since the label was correct when it"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In the freezer, there is a container filled with vanilla ice cream. There is no strawberry jam in it. The label says \"vanilla ice cream\" and not \"strawberry jam\". The label is correct. One day, Floriane finds the container and realizes that she has never seen it before. Floriane does not open the container and does not look inside. Floriane reads the label. Floriane calls a friend to tell them that she has just found a container full of",
+                "answers": [
+                    "vanilla ice cream in the freezer. Her friend, intrigued by the discovery, asks Floriane why she's so surprised about finding ice cream in the freezer. Floriane explains that she lives alone and she didn't buy any vanilla ice cream recently, nor does she remember anyone else bringing it over. The mystery of the unclaimed dessert piques both",
+                    "strawberry jam in the freezer. Her friend is puzzled and asks, \"But didn't you say the label reads 'vanilla ice cream'?\" Floriane laughs and says, \"Yes, that's what the label says, but I have a hunch. You know how sometimes people reuse containers and don't change the labels? My roommate"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

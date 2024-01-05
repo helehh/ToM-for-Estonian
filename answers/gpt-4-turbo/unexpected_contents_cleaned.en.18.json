@@ -1,0 +1,74 @@
+{
+    "nr": 18,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains soap but the label on its lid says \"cream\". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "soap, just as she had expected despite the misleading label. The creamy white bars are neatly stacked on top of each other, their edges sharp and precise, a testament to their unused state. Megan chuckles to herself, wondering if the label was a simple mistake or a quirky choice by the hotel management to add a touch of whimsy to the guest",
+                    "soap. The creamy white bars are neatly stacked atop one another, their edges sharp and precise, a testament to their unused state. Megan is momentarily puzzled by the discrepancy between the label and the contents. She wonders if perhaps the hotel staff made a mistake when stocking the room, or if the box was a repurposed container simply used to hold the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains soap but the label on its lid says \"cream\". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label. Megan calls a friend to tell them that she has just found a box full of",
+                "answers": [
+                    "cream in her hotel bathroom, despite it actually containing soap. Her friend, confused by the mix-up, laughs on the other end of the line. \"That's odd,\" her friend says, \"Maybe it's a mistake, or perhaps the hotel is trying to be quirky?\"\n\nMegan chuckles, \"Yeah, maybe. It's one of",
+                    "cream in her hotel bathroom, despite it actually containing soap. Her friend, confused by the mix-up, laughs on the other end of the line. \"That's odd,\" her friend says, \"Maybe it's a mistake, or perhaps it's one of those fancy hotels that like to surprise their guests with quirky touches.\"\n\nMegan chuckles,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains soap but the label on its lid says \"cream\". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan opens the box and looks inside. Megan reads the label. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "soap, despite the label on the lid proclaiming \"cream\". Megan is momentarily puzzled by the discrepancy. She wonders if perhaps the hotel staff made a mistake when stocking the room or if the box was a repurposed container simply used to hold the soap. The contents are artisanal, small-batch soap bars, each intricately embossed with",
+                    "soap, just as she had expected despite the confusing label. The soap is shaped into small, delicate roses, their petals intricately carved and dusted with a shimmering powder that catches the light. Megan is momentarily taken aback by the beauty of the contents, which seem too ornate to use for something as mundane as washing hands.\n\nCurious"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains soap but the label on its lid says \"cream\". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan opens the box and looks inside. Megan reads the label. Megan calls a friend to tell them that she has just found a box full of",
+                "answers": [
+                    "soap in her hotel bathroom, but the label on the lid confusingly says \"cream.\" Her friend, Alex, answers the phone with his usual cheery tone.\n\n\"Hey Megan, what's up?\" Alex greets her.\n\n\"You won't believe what I just found in my hotel bathroom,\" Megan says, a mix of amusement and confusion in her",
+                    "soap in her hotel bathroom, but the label on it says \"cream.\" Her friend, Alex, answers the phone with a chuckle, already amused by the excitement in Megan's voice.\n\n\"Hey, Megan! What's up?\" Alex asks.\n\n\"You won't believe this,\" Megan starts, her voice a mixture of amusement and confusion. \"I"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains soap but the label on its lid says \"cream\". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label. A cousin calls Megan and tells her that the box has soap in it, and that she should ignore the label that says \"cream\". Megan believes her cousin. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "soap, just as her cousin had told her. The creamy white bars are neatly stacked on top of each other, their fresh scent filling the small space of the bathroom. Megan is puzzled by the mislabeling but shrugs it off as one of those small, odd mistakes that sometimes happen in hotels.\n\nShe takes one of the bars of soap out",
+                    "soap, just as her cousin had told her. The creamy white bars are neatly stacked on top of each other, their fresh scent filling the small space of the bathroom. Megan is puzzled by the mislabeling but shrugs it off as one of those small, odd mistakes that sometimes happen in hotels.\n\nShe takes one of the bars of soap out"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains soap but the label on its lid says \"cream\". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label. A cousin calls Megan and tells her that the box has soap in it, and that she should ignore the label that says \"cream\". Megan believes her cousin. Megan calls a friend to tell them that she has just found a box full of",
+                "answers": [
+                    "soap in her hotel bathroom, despite the label on it saying \"cream.\" Her friend laughs on the other end of the line, finding the mix-up amusing and a bit odd. \"That's strange,\" her friend says, \"Why would they label it as cream if it's just soap?\"\n\nMegan shrugs, even though her friend can't",
+                    "soap in her hotel bathroom, despite the label on it saying \"cream.\" Her friend laughs on the other end of the line, finding the mix-up amusing and a bit odd. \"That's strange,\" her friend says, \"Why would they label it as cream if it's just soap?\"\n\nMegan shrugs, even though her friend can't"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains soap and the label on its lid says \"soap\". There is no cream in it. Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "soap. The small, neatly wrapped bars glisten slightly under the bright bathroom lights. Each one is embossed with the hotel's elegant logo, a testament to the establishment's attention to detail. Megan smiles, appreciating the simple luxury. She selects a bar, unwraps it, and places it beside the sink, ready for her to wash",
+                    "soap. The small, neatly wrapped bars glisten under the bright bathroom lights, each embossed with the hotel's elegant logo. Megan smiles, appreciating the simplicity and cleanliness of the presentation. It's a small detail, but to her, it's a sign that the hotel cares about the little things, which could mean a comfortable stay.\n\nShe"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains soap and the label on its lid says \"soap\". There is no cream in it. Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label. Megan calls a friend to tell them that she has just found a box full of",
+                "answers": [
+                    "cream in her hotel bathroom. Her friend, confused, asks, \"But didn't the label say 'soap'?\" Megan laughs and says, \"Yes, it does! But I just wanted to see if you were paying attention. It's actually just a soapbox, but it's so fancy and metallic, I almost expected something more exciting inside",
+                    "cream in her hotel bathroom. Her friend, confused, asks, \"But didn't the label say 'soap'?\" Megan laughs and says, \"Yes, it does! But I just wanted to see if you were paying attention. It's actually just a soapbox, but it's so fancy and metallic, I almost expected something more exciting than"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

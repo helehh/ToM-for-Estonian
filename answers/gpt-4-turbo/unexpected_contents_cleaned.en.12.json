@@ -1,0 +1,74 @@
+{
+    "nr": 12,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Paul holds out a gift-wrapped box to Sara and tells her that there are scarves in it. In reality, though, the box contains only socks. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "socks. A mixture of surprise and confusion crosses her face as she lifts one pair out, examining the colorful patterns. She looks up at Paul, her eyes searching for an explanation.\n\nPaul chuckles nervously, scratching the back of his head. \"I'm sorry, Sara. I wanted to surprise you with something I thought you'd like,",
+                    "socks. A mixture of surprise and confusion crosses her face as she lifts one pair out, examining the colorful patterns. She looks up at Paul, her eyes searching for an explanation.\n\nPaul chuckles nervously, scratching the back of his head. \"I'm sorry, Sara. I wanted to surprise you with something I thought you'd like,"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Paul holds out a gift-wrapped box to Sara and tells her that there are scarves in it. In reality, though, the box contains only socks. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label. Sara calls a friend to tell them that she has just received a box full of",
+                "answers": [
+                    "scarves from Paul. Her voice is filled with excitement as she describes the patterns and colors she imagines are inside, based on Paul's description. She tells her friend how thoughtful Paul is for remembering that she loves to accessorize her outfits with scarves. Sara's friend shares in her excitement, and they chat about the different ways Sara can wear",
+                    "scarves from Paul. Her voice is filled with excitement as she describes the patterns and colors she imagines are inside, based on Paul's description. She tells her friend how thoughtful Paul is, always remembering how much she loves to accessorize her outfits with a vibrant scarf.\n\nMeanwhile, Paul is feeling a mix of amusement and guilt. He had only"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Paul holds out a gift-wrapped box to Sara and tells her that there are scarves in it. In reality, though, the box contains only socks. Sara takes the box from him. Sara opens the box and looks inside. Sara reads the label. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "socks, each pair neatly rolled and arranged in a colorful array. For a moment, Sara's expression is one of confusion, her eyebrows knitting together as she tries to reconcile Paul's words with the contents of the box. She lifts her gaze to meet his, a playful smirk dancing on her lips.\n\n\"Scarves, huh?\" she teases",
+                    "socks, each pair neatly rolled and arranged in a colorful array. For a moment, Sara's expression is one of confusion, her eyebrows knitting together as she tries to reconcile Paul's words with the contents of the box. She lifts her gaze to meet his, a playful smirk dancing on her lips.\n\n\"Scarves, huh?\" she teases"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Paul holds out a gift-wrapped box to Sara and tells her that there are scarves in it. In reality, though, the box contains only socks. Sara takes the box from him. Sara opens the box and looks inside. Sara reads the label. Sara calls a friend to tell them that she has just received a box full of",
+                "answers": [
+                    "scarves, her voice tinged with confusion. \"But they're not scarves at all,\" she chuckles into the phone, \"they're actually socks! Can you believe it?\" Her friend laughs on the other end, asking if perhaps Paul had made a mistake. Sara glances at Paul, who is trying to suppress a mischievous",
+                    "scarves, her voice tinged with confusion. \"But they're not scarves at all,\" she says, a chuckle escaping her lips. \"They're actually socks. A whole box of them!\"\n\nHer friend, amused by the mix-up, asks, \"Socks? How did that happen?\"\n\nSara glances at Paul, who"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Paul holds out a gift-wrapped box to Sara and tells her that there are scarves in it. In reality, though, the box contains only socks. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label. A cousin calls Sara and tells her that the box has socks in it, and that she should ignore the label that says \"scarves\". Sara believes her cousin. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "socks. Despite the initial surprise, Sara can't help but smile at the mix-up. She wonders why Paul would tell her there were scarves inside when it was actually socks. Perhaps it was a simple mistake, or maybe he had a playful reason for the misdirection. Sara decides to call Paul to thank him for the gift and to play",
+                    "socks. Despite the initial surprise, Sara can't help but smile at the mix-up. She wonders why Paul would tell her there were scarves inside when it was actually socks. Perhaps it was a simple mistake, or maybe he was playing a little joke on her. Either way, the socks are colorful and cozy, and she appreciates the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Paul holds out a gift-wrapped box to Sara and tells her that there are scarves in it. In reality, though, the box contains only socks. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label. A cousin calls Sara and tells her that the box has socks in it, and that she should ignore the label that says \"scarves\". Sara believes her cousin. Sara calls a friend to tell them that she has just received a box full of",
+                "answers": [
+                    "socks from Paul. She chuckles as she recounts the story, explaining how Paul tried to trick her by labeling the box as containing scarves. Her friend laughs along, finding the situation amusing and slightly odd.\n\n\"Why would he tell you it's scarves when it's actually socks?\" her friend asks, puzzled by Paul's intentions.\n\nSara",
+                    "socks from Paul. She chuckles as she recounts the story, explaining how Paul tried to trick her by labeling the box as containing scarves. Her friend laughs along, finding the situation amusing and slightly odd. Sara, still on the phone, shakes the box next to the receiver, letting the muffled sounds of the contents confirm her belief."
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Paul holds out a gift-wrapped box to Sara and tells her that there are socks in it. The box contains only socks and no scarves. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "scarves. Confused, Sara looks up at Paul, her expression a mix of surprise and curiosity. \"But you said there were socks in here,\" she says, holding up a brightly colored scarf for him to see.\n\nPaul grins sheepishly, rubbing the back of his neck. \"I guess I wanted to surprise you,\" he admits.",
+                    "scarves. Confused, Sara looks up at Paul, her expression a mix of surprise and curiosity. \"But you said there were socks in here,\" she says, holding up a brightly colored scarf for him to see.\n\nPaul grins sheepishly and scratches the back of his head. \"I guess I wanted to surprise you,\" he admits."
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Paul holds out a gift-wrapped box to Sara and tells her that there are socks in it. The box contains only socks and no scarves. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label. Sara calls a friend to tell them that she has just received a box full of",
+                "answers": [
+                    "scarves from Paul. Despite Paul's words and the fact that the box contains only socks, Sara's statement to her friend is a result of a misunderstanding or a playful joke, as she has not verified the contents of the box herself. Her assumption contradicts the reality of the gift, creating a humorous or confusing situation for anyone aware of the actual",
+                    "scarves from Paul. Despite Paul's words and the fact that the box contains only socks, Sara's statement to her friend is based on a misunderstanding or a playful joke. Without opening the box or looking inside, Sara has no direct knowledge of the contents, and her claim about the scarves contradicts the actual contents of the box as well as"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

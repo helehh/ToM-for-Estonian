@@ -1,0 +1,74 @@
+{
+    "nr": 14,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: On Thursday, Daniel orders some sneakers on the internet. There is a mistake at the logistics center. They ship a parcel full of wallets but label it as \"sneakers\". The label does not mention \"wallets\" at all. The parcel arrives on Saturday morning. The postman leaves the parcel at Daniel's front door and rings the doorbell. Daniel opens the door, looks down, and sees the parcel. Daniel does not open the parcel and does not look inside. Daniel reads the label. He opens the parcel and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "wallets, not the sneakers he was expecting. Daniel is puzzled and double-checks the label to ensure there wasn't a mix-up with the delivery address, but everything seems correct. The label has his name and address, and it clearly states that the contents should be sneakers.\n\nScratching his head, Daniel wonders how such a mistake could have happened",
+                    "wallets, not the sneakers he was expecting. Daniel is puzzled and double-checks the label to see if there was any indication of the mix-up, but it clearly states \"sneakers.\" He scratches his head, wondering how a box of wallets ended up on his doorstep when he had ordered a pair of sneakers.\n\nAfter a moment of contempl"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On Thursday, Daniel orders some sneakers on the internet. There is a mistake at the logistics center. They ship a parcel full of wallets but label it as \"sneakers\". The label does not mention \"wallets\" at all. The parcel arrives on Saturday morning. The postman leaves the parcel at Daniel's front door and rings the doorbell. Daniel opens the door, looks down, and sees the parcel. Daniel does not open the parcel and does not look inside. Daniel reads the label. Daniel calls a friend to tell them that he has just received a parcel full of",
+                "answers": [
+                    "sneakers. Excitedly, he tells his friend about the great deal he got and how he's been tracking the parcel's journey across the country. His friend shares in his excitement, curious about the brand and style he chose. Daniel, still oblivious to the mix-up, plans to open the parcel later as he has some errands to",
+                    "sneakers. Excited to show off his new purchase, Daniel tells his friend about the style and the deal he got on them. He plans to open the parcel later as he's currently busy with some chores around the house. His friend, equally enthusiastic, suggests they meet up later so Daniel can flaunt his new kicks.\n\nHours pass,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: On Thursday, Daniel orders some sneakers on the internet. There is a mistake at the logistics center. They ship a parcel full of wallets but label it as \"sneakers\". The label does not mention \"wallets\" at all. The parcel arrives on Saturday morning. The postman leaves the parcel at Daniel's front door and rings the doorbell. Daniel opens the door, looks down, and sees the parcel. Daniel opens the parcel and looks inside. Daniel reads the label. He opens the parcel and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "wallets instead of the sneakers he was expecting. For a moment, Daniel is puzzled, wondering if there was some mix-up with his order or if this was a strange promotional stunt. He checks the label again to confirm that it was indeed addressed to him, and it was supposed to contain sneakers, not wallets.\n\nWith a sigh, Daniel realizes that",
+                    "wallets instead of the sneakers he was expecting. For a moment, Daniel is puzzled, wondering if there was some mix-up with his order or if this was a strange promotional stunt by the sneaker company. He checks the label again to confirm that it was indeed addressed to him, and it was supposed to contain sneakers, not wallets.\n\nWith a"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On Thursday, Daniel orders some sneakers on the internet. There is a mistake at the logistics center. They ship a parcel full of wallets but label it as \"sneakers\". The label does not mention \"wallets\" at all. The parcel arrives on Saturday morning. The postman leaves the parcel at Daniel's front door and rings the doorbell. Daniel opens the door, looks down, and sees the parcel. Daniel opens the parcel and looks inside. Daniel reads the label. Daniel calls a friend to tell them that he has just received a parcel full of",
+                "answers": [
+                    "wallets instead of the sneakers he ordered. His friend, equally surprised and amused by the mix-up, asks what kind of wallets they are. Daniel examines them and finds that they are high-quality leather wallets, various styles and colors neatly packed inside the box. Each one is individually wrapped, giving the impression of a carefully curated collection rather than a simple",
+                    "wallets instead of the sneakers he ordered. His friend, surprised, asks him to double-check the label to see if there was any mistake on his end. Daniel confirms that the label clearly states \"sneakers\" and there's no mention of wallets anywhere. They both laugh at the absurdity of the situation.\n\nDaniel's friend suggests that he"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: On Thursday, Daniel orders some sneakers on the internet. There is a mistake at the logistics center. They ship a parcel full of wallets but label it as \"sneakers\". The label does not mention \"wallets\" at all. The parcel arrives on Saturday morning. The postman leaves the parcel at Daniel's front door and rings the doorbell. Daniel opens the door, looks down, and sees the parcel. Daniel does not open the parcel and does not look inside. Daniel reads the label. A cousin calls Daniel and tells him that the parcel has wallets in it, and that he should ignore the label that says \"sneakers\". Daniel believes him cousin. He opens the parcel and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "wallets. Daniel is puzzled and a bit disappointed, as he was looking forward to wearing his new sneakers over the weekend. He inspects the wallets, finding an assortment of designs and sizes, all neatly packed but not what he ordered.\n\nHe picks up his phone and calls the customer service number for the online store where he purchased the sneakers. After",
+                    "wallets. Despite the initial confusion, Daniel is now faced with a decision. He could keep the wallets, which he didn't order, or he could contact the company to inform them of the mistake. Being an honest person, Daniel decides to reach out to the customer service of the online store where he ordered the sneakers.\n\nHe explains the situation,"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On Thursday, Daniel orders some sneakers on the internet. There is a mistake at the logistics center. They ship a parcel full of wallets but label it as \"sneakers\". The label does not mention \"wallets\" at all. The parcel arrives on Saturday morning. The postman leaves the parcel at Daniel's front door and rings the doorbell. Daniel opens the door, looks down, and sees the parcel. Daniel does not open the parcel and does not look inside. Daniel reads the label. A cousin calls Daniel and tells him that the parcel has wallets in it, and that he should ignore the label that says \"sneakers\". Daniel believes him cousin. Daniel calls a friend to tell them that he has just received a parcel full of",
+                "answers": [
+                    "wallets instead of the sneakers he ordered. His friend is surprised and asks how he knows what's inside without opening the package. Daniel explains the situation about the mix-up at the logistics center and how his cousin, who works there, gave him the heads-up about the mistake.\n\nCurious and a bit amused by the situation, Daniel's friend suggests",
+                    "wallets instead of the sneakers he ordered. His friend is surprised and asks how he knows what's inside without opening the package. Daniel explains the situation about the mix-up at the logistics center and how his cousin, who works there, gave him the heads-up about the mistake.\n\nDaniel's friend laughs at the absurdity of the situation and suggests that"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: On Thursday, Daniel orders some sneakers on the internet. Unfortunately, there is a mistake at the logistics center. They ship a parcel full of wallets and label it as \"wallets\". The label does not mention \"sneakers\" at all. The parcel arrives on Saturday in the morning. The postman leaves the parcel at Daniel's front door and rings the doorbell. Daniel opens the door, looks down, and sees the parcel. Daniel does not open the parcel and does not look inside. Daniel reads the label. He opens the parcel and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "wallets, not the sneakers he was expecting. Confused and a bit disappointed, Daniel checks the order confirmation email he received on Thursday to ensure he hadn't made a mistake when placing the order. It clearly states that he purchased sneakers, not wallets. He then examines the shipping label more closely and sees that his name and address are correct, but",
+                    "wallets, not the sneakers he was expecting. Confused and a bit disappointed, Daniel checks the order confirmation email he received on Thursday to make sure he hadn't made a mistake when placing the order. It clearly states that he purchased sneakers, not wallets.\n\nRealizing there must have been a mix-up at the logistics center, Daniel retrieves the packing"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On Thursday, Daniel orders some sneakers on the internet. Unfortunately, there is a mistake at the logistics center. They ship a parcel full of wallets and label it as \"wallets\". The label does not mention \"sneakers\" at all. The parcel arrives on Saturday in the morning. The postman leaves the parcel at Daniel's front door and rings the doorbell. Daniel opens the door, looks down, and sees the parcel. Daniel does not open the parcel and does not look inside. Daniel reads the label. Daniel calls a friend to tell them that he has just received a parcel full of",
+                "answers": [
+                    "wallets instead of the sneakers he ordered. His friend, surprised, asks him how he knows what's inside without opening the package. Daniel explains about the label mistake and they both share a laugh over the situation. After the call, Daniel contacts the customer service of the company he ordered the sneakers from to inform them about the mix-up.\n\nThe customer",
+                    "wallets instead of the sneakers he ordered. His friend is surprised and asks what Daniel plans to do about the mix-up. Daniel explains that he's going to contact the customer service of the company he ordered from to report the mistake and arrange for the correct item to be sent.\n\nAfter ending the call with his friend, Daniel picks up the parcel and"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

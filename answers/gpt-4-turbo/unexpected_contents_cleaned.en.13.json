@@ -1,0 +1,74 @@
+{
+    "nr": 13,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: A deceased person's laptop contains an encrypted folder labeled \"photos\". However, in reality, the folder only contains videos. A digital forensics expert has been hired to retrieve and back up the contents of this folder. As she switches on the machine for the first time, the home screen appears. She locates the encrypted folder. The forensics expert does not open the folder and does not look inside. The forensics expert reads the label. She opens the folder and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "videos, not photos as the label had suggested. The digital forensics expert, whose name is Elise, raises an eyebrow in mild surprise but remains unfazed. She's seen her fair share of misleading labels and decoys in her line of work. The videos could be anything from innocuous family gatherings to crucial evidence for an ongoing investigation.",
+                    "videos, not photos as the label suggested. The digital forensics expert, whose name is Elise, raises an eyebrow in mild surprise but remains unfazed. She's seen her fair share of misleading labels and decoys in her line of work. The videos are of various lengths and formats, but they all seem to be personal in nature."
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A deceased person's laptop contains an encrypted folder labeled \"photos\". However, in reality, the folder only contains videos. A digital forensics expert has been hired to retrieve and back up the contents of this folder. As she switches on the machine for the first time, the home screen appears. She locates the encrypted folder. The forensics expert does not open the folder and does not look inside. The forensics expert reads the label. The forensics expert calls a friend to tell them that she has just found a folder full of",
+                "answers": [
+                    "videos, despite the misleading label that reads \"photos\". Her friend, who is also in the field of digital forensics, is intrigued by the discovery and asks if she has any idea what the videos might contain. The forensics expert explains that she hasn't opened the folder yet because she needs to ensure that the process of accessing the content",
+                    "videos, despite the misleading label that reads \"photos\". Her friend, who is also in the field of digital forensics, is intrigued by the discovery and asks if she has any idea what might be on the videos. The expert explains that she hasn't opened the folder yet because she needs to maintain the integrity of the data for evidentiary"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: A deceased person's laptop contains an encrypted folder labeled \"photos\". However, in reality, the folder only contains videos. A digital forensics expert has been hired to retrieve and back up the contents of this folder. As she switches on the machine for the first time, the home screen appears. She locates the encrypted folder. The forensics expert opens the folder and looks inside. The forensics expert reads the label. She opens the folder and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "videos, not photos as the label had suggested. Each file has a cryptic name, a string of numbers and letters that seems to follow no discernible pattern. The digital forensics expert, whose name is Elise, is not surprised by the mislabeling. In her experience, people often named folders misleadingly, either to deter others",
+                    "videos, each meticulously named with a date and a short, cryptic title. The digital forensics expert, whose name is Elise, raises an eyebrow in curiosity. She knows that encrypted folders often hold secrets, sometimes innocuous, sometimes critical, and occasionally, dangerous.\n\nElise's job is to retrieve and back up the contents, not"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A deceased person's laptop contains an encrypted folder labeled \"photos\". However, in reality, the folder only contains videos. A digital forensics expert has been hired to retrieve and back up the contents of this folder. As she switches on the machine for the first time, the home screen appears. She locates the encrypted folder. The forensics expert opens the folder and looks inside. The forensics expert reads the label. The forensics expert calls a friend to tell them that she has just found a folder full of",
+                "answers": [
+                    "videos that could potentially hold the key to understanding the deceased person's life in a way no one expected. The label on the folder was misleading, but as the digital forensics expert delved into the contents, she realized that these were not just any videos. They were meticulously organized recordings of various places, events, and possibly even clandestine meetings",
+                    "videos that could potentially hold the key to understanding the deceased person's life in the days leading up to their untimely demise. The label on the folder was misleading, suggesting a simple collection of photographs, but the content was far more dynamic and perhaps telling.\n\nThe digital forensics expert, whose name is Elise, had seen many things in"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: A deceased person's laptop contains an encrypted folder labeled \"photos\". However, in reality, the folder only contains videos. A digital forensics expert has been hired to retrieve and back up the contents of this folder. As she switches on the machine for the first time, the home screen appears. She locates the encrypted folder. The forensics expert does not open the folder and does not look inside. The forensics expert reads the label. A cousin calls The forensics expert and tells her that the folder has videos in it, and that she should ignore the label that says \"photos\". The forensics expert believes her cousin. She opens the folder and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "videos, just as her cousin had mentioned. The thumbnails show a variety of scenes and moments, some of which appear to be family gatherings, vacations, and possibly some important personal events of the deceased. The digital forensics expert, respecting the privacy of the deceased and their family, does not play any of the videos. Instead, she focuses on",
+                    "videos, just as her cousin had mentioned. The thumbnails give away the nature of the files, and she wonders why the folder was mislabeled. Was it a simple mistake, or was it an attempt to disguise the contents?\n\nThe digital forensics expert, whose name is Elise, is no stranger to the secrets that people keep on their"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A deceased person's laptop contains an encrypted folder labeled \"photos\". However, in reality, the folder only contains videos. A digital forensics expert has been hired to retrieve and back up the contents of this folder. As she switches on the machine for the first time, the home screen appears. She locates the encrypted folder. The forensics expert does not open the folder and does not look inside. The forensics expert reads the label. A cousin calls The forensics expert and tells her that the folder has videos in it, and that she should ignore the label that says \"photos\". The forensics expert believes her cousin. The forensics expert calls a friend to tell them that she has just found a folder full of",
+                "answers": [
+                    "videos on the deceased person's laptop, despite the misleading label that reads \"photos.\" Her friend, who is also in the field of digital forensics, expresses curiosity about the content of the videos and wonders why they were encrypted under such a nondescript name.\n\nThe forensics expert explains that she hasn't viewed the contents yet, as",
+                    "videos on the deceased person's laptop, despite the folder being misleadingly labeled \"photos\". Her friend, who is also in the field of digital forensics, expresses surprise and curiosity about the content of the videos. They speculate on why the folder was mislabeled and whether it was an intentional act to disguise the true nature of its contents or"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: A deceased person's laptop contains an encrypted folder labeled \"videos\". The folder only contains videos. A digital forensics expert has been hired to retrieve and back up the contents of this folder. As she switches on the machine for the first time, the home screen appears. She locates the encrypted folder. The forensics expert does not open the folder and does not look inside. The forensics expert reads the label. She opens the folder and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "videos, just as the label had indicated. The thumbnails provide a glimpse into the life of the deceased, showing moments of joy, family gatherings, and various personal adventures. The forensics expert, maintaining her professionalism, does not watch the videos. Her task is to back up the contents, not to scrutinize or judge the life that flickers",
+                    "videos, just as the label had indicated. The thumbnails provide a glimpse into the life of the deceased, showing everything from family gatherings and vacations to what appear to be important personal milestones. The forensics expert, however, maintains her professionalism. She knows that her job is not to scrutinize the content but to ensure its preservation and security.\n\nShe"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A deceased person's laptop contains an encrypted folder labeled \"videos\". The folder only contains videos. A digital forensics expert has been hired to retrieve and back up the contents of this folder. As she switches on the machine for the first time, the home screen appears. She locates the encrypted folder. The forensics expert does not open the folder and does not look inside. The forensics expert reads the label. The forensics expert calls a friend to tell them that she has just found a folder full of",
+                "answers": [
+                    "videos on the deceased person's laptop. Her voice is a mix of excitement and professional restraint as she speaks into the phone.\n\n\"Hey, Alex,\" she says, her eyes still on the screen. \"You won't believe what I've just come across. There's an encrypted folder here labeled 'videos'. It's intriguing, to say the least",
+                    "videos on the deceased person's laptop. Her voice is a mix of excitement and apprehension, as she knows that the contents could be anything from innocuous personal memories to crucial evidence that might shed light on the person's untimely demise.\n\n\"I've just found a folder full of videos,\" she tells her friend, a fellow forensics analyst"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

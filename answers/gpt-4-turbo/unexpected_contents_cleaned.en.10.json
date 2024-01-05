@@ -1,0 +1,74 @@
+{
+    "nr": 10,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Julia prepares a gift box for her son, Steven, under the Christmas tree. She wants to prank Steven. She fills the gift box with tea leaves but labels it coffee beans, written in clear large letters. A few hours later, Steven comes down the stairs and finds the gift box under the Christmas tree. Steven does not open the gift box and does not look inside. Steven reads the label. He opens the gift box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "tea leaves. Steven raises an eyebrow, a smirk playing on his lips. He knows his mother all too well and her penchant for playful pranks during the holiday season. He looks up at Julia, who is trying to stifle her laughter, her eyes twinkling with mirth.\n\n\"Really, Mom? Coffee beans?\" Steven chuckles, shaking",
+                    "tea leaves. Steven raises an eyebrow, a smirk playing on his lips. He knows his mother all too well and her penchant for playful pranks. \"Nice try, Mom,\" he says, chuckling as he looks over at Julia, who is trying to suppress her laughter from the kitchen doorway.\n\nJulia walks over, her laughter now bubbling"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Julia prepares a gift box for her son, Steven, under the Christmas tree. She wants to prank Steven. She fills the gift box with tea leaves but labels it coffee beans, written in clear large letters. A few hours later, Steven comes down the stairs and finds the gift box under the Christmas tree. Steven does not open the gift box and does not look inside. Steven reads the label. Steven calls a friend to tell them that he has just found a gift box full of",
+                "answers": [
+                    "coffee beans under the Christmas tree. His friend laughs on the other end of the phone, knowing how much Steven loves his morning brew and how he's been talking about trying different coffee beans for weeks. Steven is excited and tells his friend that he can't wait to grind the beans and enjoy the fresh aroma of coffee throughout the house.\n\nLittle does he",
+                    "coffee beans under the Christmas tree. His friend, who is quite the coffee aficionado, gets excited and starts chatting with Steven about the different types of coffee beans and which ones might be in the box. Steven plays along, speculating about the origins and flavors of the beans based on the label, all the while knowing his mother's sense of humor"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Julia prepares a gift box for her son, Steven, under the Christmas tree. She wants to prank Steven. She fills the gift box with tea leaves but labels it coffee beans, written in clear large letters. A few hours later, Steven comes down the stairs and finds the gift box under the Christmas tree. Steven opens the gift box and looks inside. Steven reads the label. He opens the gift box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "tea leaves. At first, he's puzzled, his brow furrowing in confusion. He picks up the bag, inspecting it closer, and then he lets out a hearty laugh. \"Oh, Mom, you got me!\" he exclaims, shaking his head with amusement. Julia emerges from the kitchen, a mischievous smile playing on her",
+                    "tea leaves. For a moment, Steven is puzzled, his brow furrowing as he tries to reconcile the label with the contents. He picks up a handful of the leaves, letting them fall through his fingers back into the box, the distinct aroma of tea filling the air. A smile slowly spreads across his face as he realizes what his mother has done"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Julia prepares a gift box for her son, Steven, under the Christmas tree. She wants to prank Steven. She fills the gift box with tea leaves but labels it coffee beans, written in clear large letters. A few hours later, Steven comes down the stairs and finds the gift box under the Christmas tree. Steven opens the gift box and looks inside. Steven reads the label. Steven calls a friend to tell them that he has just found a gift box full of",
+                "answers": [
+                    "coffee beans, or so he thought. His friend, Alex, who is known for being a coffee aficionado, immediately perks up at the news. \"No way, that's awesome! What brand? Any special blend?\" Alex inquires with genuine interest.\n\nSteven, still holding the box, chuckles and decides to play along with the prank for",
+                    "coffee beans under the Christmas tree. His voice is filled with excitement as he describes the size of the box and how it's labeled in clear, large letters. \"You know how much I love my morning brew,\" he tells his friend, chuckling. \"Mom really knows how to pick a gift.\"\n\nHis friend, in on the prank, plays"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Julia prepares a gift box for her son, Steven, under the Christmas tree. She wants to prank Steven. She fills the gift box with tea leaves but labels it coffee beans, written in clear large letters. A few hours later, Steven comes down the stairs and finds the gift box under the Christmas tree. Steven does not open the gift box and does not look inside. Steven reads the label. A cousin calls Steven and tells him that the gift box has tea leaves in it, and that he should ignore the label that says \"coffee beans\". Steven believes him cousin. He opens the gift box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "tea leaves, just as his cousin had told him. Steven chuckles, shaking his head at his mother's playful sense of humor. He calls out to Julia, \"Nice try, Mom! But I'm onto your tricks!\"\n\nJulia emerges from the kitchen with a smile on her face, \"Oh, you got me! I thought I could",
+                    "tea leaves, just as his cousin had told him. Steven chuckles, shaking his head at his mother's playful attempt to fool him. He calls out to Julia, \"Nice try, Mom! But I'm onto your pranks!\"\n\nJulia emerges from the kitchen with a smile on her face, amused that her little joke had been uncovered so"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Julia prepares a gift box for her son, Steven, under the Christmas tree. She wants to prank Steven. She fills the gift box with tea leaves but labels it coffee beans, written in clear large letters. A few hours later, Steven comes down the stairs and finds the gift box under the Christmas tree. Steven does not open the gift box and does not look inside. Steven reads the label. A cousin calls Steven and tells him that the gift box has tea leaves in it, and that he should ignore the label that says \"coffee beans\". Steven believes him cousin. Steven calls a friend to tell them that he has just found a gift box full of",
+                "answers": [
+                    "tea leaves under the Christmas tree, even though the label says \"coffee beans.\" His friend laughs at the story, finding the prank quite amusing. Steven, who is a good sport, decides to play along with the joke. He thanks his cousin for the heads-up and starts thinking about how he can use the tea leaves creatively.\n\nLater that day,",
+                    "tea leaves under the Christmas tree, even though the label says \"coffee beans.\" His friend laughs at the story, finding the prank quite amusing. Steven, who is a good sport, decides to play along with the joke. He thanks his cousin for the heads-up and starts thinking about how he can turn this prank around to surprise his mom, Julia"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Julia prepares a gift box for her son, Steven, under the Christmas tree. She wants to prank Steven. She fills the gift box with tea leaves and labels it tea leaves, written in clear large letters. A few hours later, Steven comes down the stairs and finds the gift box under the Christmas tree. Steven does not open the gift box and does not look inside. Steven reads the label. He opens the gift box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "tea leaves, just as the label had indicated. However, Steven, knowing his mother's playful nature, suspects there might be more to this gift than meets the eye. He carefully sifts through the tea leaves, and to his delight, he finds a small, wrapped box hidden among them. His eyes light up as he unwraps the box",
+                    "tea leaves, just as the label had indicated. However, Steven, knowing his mother's playful nature, suspects there might be more to this gift than meets the eye. He carefully sifts through the tea leaves, and to his delight, he finds a small, wrapped box hidden among them. His eyes light up as he unwraps the box"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Julia prepares a gift box for her son, Steven, under the Christmas tree. She wants to prank Steven. She fills the gift box with tea leaves and labels it tea leaves, written in clear large letters. A few hours later, Steven comes down the stairs and finds the gift box under the Christmas tree. Steven does not open the gift box and does not look inside. Steven reads the label. Steven calls a friend to tell them that he has just found a gift box full of",
+                "answers": [
+                    "tea leaves under the Christmas tree. His friend laughs on the other end of the line, finding the situation amusing and a bit odd. \"Why would your mom give you tea leaves for Christmas?\" his friend asks, still chuckling.\n\nSteven, who has a good sense of humor and knows his mother's penchant for playful pranks, replies with a",
+                    "money. Steven's friend is puzzled and asks why he thinks it's full of money when the box is clearly labeled tea leaves. Steven laughs and explains that his mom is notorious for her pranks, especially around Christmas. He tells his friend that last year, she gave him a box labeled \"socks,\" and it turned out to be a new"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

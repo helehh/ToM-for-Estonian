@@ -1,0 +1,74 @@
+{
+    "nr": 3,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "arvuteid, mitte mootorrattaid. Mary on segaduses, sest m\u00e4rgistus ei vasta sisule. Ta kontrollib saatedokumente ja avastab, et konteineri number ja saatedokumendid ei \u00fchti. On ilmne, et on toim",
+                    "arvuteid, mitte mootorrattaid. Mary on segaduses, sest m\u00e4rgistus ei vasta sisule. Ta kontrollib saatedokumente ja avastab, et konteineri number ja m\u00e4rgistus ei \u00fchti. On ilmne, et on toim"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. Mary helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud konteineri t\u00e4is",
+                "answers": [
+                    "mootorrattaid, kuid ta on skeptiline. \"See ei klapi,\" \u00fctleb ta s\u00f5brale. \"M\u00e4rgistus \u00fctleb, et siin peaksid olema mootorrattad, aga meie saateleht n\u00e4itab, et peaksime saama arvut",
+                    "arvuteid, kuid m\u00e4rgistus v\u00e4idab ekslikult, et seal on mootorrattaid. Ta on segaduses ja tahab aru saada, miks m\u00e4rgistus ei vasta sisule. Mary s\u00f5ber, kes on logistikaekspert, soovit"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary avab konteineri ja vaatab sisse. Mary loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "arvuteid, mitte mootorrattaid, nagu m\u00e4rgistus v\u00e4itis. Mary on segaduses, sest selline vastuolu on haruldane ja v\u00f5ib viidata pettusele. Ta v\u00f5tab oma raadiosaatja ja kutsub \u00fclema, et teavitada t",
+                    "arvuteid, mitte mootorrattaid. Mary on segaduses, sest m\u00e4rgistus ei vasta sisule. Ta kontrollib saatmisega seotud dokumente ja avastab, et on toimunud viga laadimisdokumentides. Tegelikult oli"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary avab konteineri ja vaatab sisse. Mary loeb silti. Mary helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud konteineri t\u00e4is",
+                "answers": [
+                    "arvuteid, kuigi m\u00e4rgistus v\u00e4idab teisiti. \"See on t\u00f5eline peavalu,\" \u00fctleb ta oma s\u00f5brale. \"M\u00e4rgistusel on selgelt kirjas, et peaks olema mootorrattaid, aga siin sees pole \u00fcht",
+                    "arvuteid, kuigi m\u00e4rgistus v\u00e4idab teisiti. \"Ma ei saa aru,\" \u00fctleb Mary oma s\u00f5brale, \"miks keegi peaks saatma konteineri t\u00e4is arvuteid, aga m\u00e4rgistab selle kui mootorr"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. \u00dcks sugulane helistab Maryle ja \u00fctleb talle, et konteineris on arvutid ja ta peaks eirama silti, mis \u00fctleb \"mootorrattad\". Mary usub oma sugulast. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "arvuteid, just nagu tema sugulane oli \u00f6elnud. Mary on segaduses, sest m\u00e4rgistus konteineril ei vasta selle sisule. Ta m\u00f5istab, et tegemist v\u00f5ib olla tollipettusega v\u00f5i veaga saatmisel. Mary",
+                    "arvuteid, just nagu tema sugulane oli \u00f6elnud. Mary on segaduses, sest m\u00e4rgistus konteineril ei vasta selle sisule. Ta m\u00f5istab, et tegemist v\u00f5ib olla pettuse v\u00f5i veaga saatmisel. Mary sulgeb"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. Siiski v\u00e4idab m\u00e4rgistus, et selles on mootorrattad ja arvuteid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. \u00dcks sugulane helistab Maryle ja \u00fctleb talle, et konteineris on arvutid ja ta peaks eirama silti, mis \u00fctleb \"mootorrattad\". Mary usub oma sugulast. Mary helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud konteineri t\u00e4is",
+                "answers": [
+                    "arvuteid, mis on ekslikult m\u00e4rgistatud kui mootorrattad. Mary s\u00f5ber, kes on kogenud tolliametnik, soovitab tal siiski j\u00e4rgida protseduure ja kontrollida konteineri sisu, et veenduda kauba",
+                    "arvuteid, mis on ekslikult m\u00e4rgistatud kui mootorrattad. Mary s\u00f5ber, kes t\u00f6\u00f6tab sadama logistikaosakonnas, on \u00fcllatunud. Ta teab, et sellised vead v\u00f5ivad viidata pettusele v\u00f5i sm"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. M\u00e4rgistusel on kirjas, et see sisaldab arvuteid ja mootorrattaid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "arvuteid, just nagu m\u00e4rgistusel kirjas oli. Ei \u00fchtegi mootorratast, ei midagi muud, mis ei kuuluks sinna. Mary on kogenud tolliametnik ja teab, et sageli kasutatakse selliseid kaupu nag",
+                    "arvuteid, just nagu m\u00e4rgistusel kirjas oli. Konteineri sisu vastab t\u00e4pselt saatedokumentides toodule \u2013 riiulid on t\u00e4is hoolikalt pakitud arvutikarpe, millest iga\u00fcks on m\u00f5eldud er"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Amsterdami sadamasse saabub konteiner t\u00e4is arvuteid. Seal sees ei ole mootorrattaid. See on pitseeritud. M\u00e4rgistusel on kirjas, et see sisaldab arvuteid ja mootorrattaid ei mainita. Mary, tolliametnik, l\u00e4heneb konteinerile. Mary ei ava konteinerit ega vaata sisse. Mary loeb silti. Mary helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud konteineri t\u00e4is",
+                "answers": [
+                    "arvuteid. Ta on elevil, sest see on suur saadetis ja t\u00e4hendab palju t\u00f6\u00f6d tema jaoks, kuid samas ka suurt vastutust. Mary s\u00f5ber, kes on samuti tolliametnik, jagab tema elevust ja soovitab tal",
+                    "arvuteid. Tema s\u00f5ber, kes on tehnoloogiahuviline, on kohe elevil. \"See on uskumatu leid,\" \u00fctleb ta. \"Kas sa tead, mis marki v\u00f5i mudelit need on?\"\n\nMary naeratab ja vastab: \"E"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

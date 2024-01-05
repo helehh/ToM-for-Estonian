@@ -1,0 +1,74 @@
+{
+    "nr": 19,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Siin on kott, mis on t\u00e4is \u0161okolaadi. Selles kotis pole popkorni. Ometi \u00fctleb selle koti silt \"popkorn\", mitte \"\u0161okolaad\". Sam leiab koti. Ta pole seda kotti varem n\u00e4inud. Sam ei ava kotti ega vaata sisse. Sam loeb silti. Ta avab koti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "\u0161okolaadi. Sam on segaduses, sest silt ja sisu ei \u00fchti. Ta m\u00f5tleb hetke ja siis saab aru, et v\u00f5ib-olla on tegemist kellegi naljaga v\u00f5i eksitusega. V\u00f5ib-olla on keegi kog",
+                    "\u0161okolaadi. Sam on segaduses, sest silt ja koti sisu ei \u00fchti. Ta m\u00f5tleb hetke ja siis saab aru, et v\u00f5ib-olla on tegemist kellegi naljaga v\u00f5i eksitusega. V\u00f5ib-olla on keegi"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Siin on kott, mis on t\u00e4is \u0161okolaadi. Selles kotis pole popkorni. Ometi \u00fctleb selle koti silt \"popkorn\", mitte \"\u0161okolaad\". Sam leiab koti. Ta pole seda kotti varem n\u00e4inud. Sam ei ava kotti ega vaata sisse. Sam loeb silti. Sam helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud koti t\u00e4is",
+                "answers": [
+                    "popkorni. S\u00f5ber on segaduses, sest ta teab, et Sam armastab \u0161okolaadi palju rohkem kui popkorni. \"Miks sa siis nii elevil oled popkorni leidmise \u00fcle?\" k\u00fcsib s\u00f5ber. Sam",
+                    "popkorni. S\u00f5ber on segaduses, sest ta teab, et Sam armastab \u0161okolaadi palju rohkem kui popkorni. \"Miks sa siis nii elevil oled popkorni leidmise \u00fcle?\" k\u00fcsib s\u00f5ber. Sam"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Siin on kott, mis on t\u00e4is \u0161okolaadi. Selles kotis pole popkorni. Ometi \u00fctleb selle koti silt \"popkorn\", mitte \"\u0161okolaad\". Sam leiab koti. Ta pole seda kotti varem n\u00e4inud. Sam avab koti ja vaatab sisse. Sam loeb silti. Ta avab koti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "\u0161okolaadi, mitte popkorni. Sam on segaduses, sest silt ja sisu ei \u00fchti. Ta m\u00f5tleb hetke ja otsustab uurida l\u00e4hemalt. V\u00f5ib-olla on see mingi nali v\u00f5i eksitus. Sam vaatab \u00fcmber",
+                    "\u0161okolaadi, mitte popkorni. Sam on segaduses, miks kott valesti sildistatud on. Ta m\u00f5tleb, kas see v\u00f5ib olla mingi nali v\u00f5i eksitus. Sam otsustab uurida l\u00e4hemalt, et teada saada,"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Siin on kott, mis on t\u00e4is \u0161okolaadi. Selles kotis pole popkorni. Ometi \u00fctleb selle koti silt \"popkorn\", mitte \"\u0161okolaad\". Sam leiab koti. Ta pole seda kotti varem n\u00e4inud. Sam avab koti ja vaatab sisse. Sam loeb silti. Sam helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud koti t\u00e4is",
+                "answers": [
+                    "\u0161okolaadi, millel on popkorni silt. S\u00f5ber on segaduses ja k\u00fcsib, kas Sam on kindel, et kott on t\u00e4is \u0161okolaadi. Sam kinnitab, et kott on t\u00f5epoolest t\u00e4is erinevaid \u0161okolaad",
+                    "\u0161okolaadi, millel on popkorni silt. S\u00f5ber on segaduses ja k\u00fcsib, kuidas see v\u00f5imalik on. Sam selgitab, et ta leidis koti \u00fchest vanast, mahaj\u00e4etud laost, kus ta tihti seiklemas"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Siin on kott, mis on t\u00e4is \u0161okolaadi. Selles kotis pole popkorni. Ometi \u00fctleb selle koti silt \"popkorn\", mitte \"\u0161okolaad\". Sam leiab koti. Ta pole seda kotti varem n\u00e4inud. Sam ei ava kotti ega vaata sisse. Sam loeb silti. N\u00f5bu helistab Samile ja \u00fctleb talle, et kotis on \u0161okolaad ja ta peaks eirama silti, mis \u00fctleb \"popkorn\". Sam usub oma n\u00f5bu. Ta avab koti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "\u0161okolaadi. Sam on \u00fcllatunud, kuid meeldivalt, sest ta armastab \u0161okolaadi palju rohkem kui popkorni. Ta m\u00f5tleb, miks kott vale sildiga m\u00e4rgistatud on. V\u00f5ib-olla oli",
+                    "\u0161okolaadi, just nagu n\u00f5bu oli \u00f6elnud. Sam on \u00fcllatunud, kuid meeldivalt, sest ta armastab \u0161okolaadi palju rohkem kui popkorni. Ta m\u00f5tleb, miks kott vale sildiga m\u00e4rg"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Siin on kott, mis on t\u00e4is \u0161okolaadi. Selles kotis pole popkorni. Ometi \u00fctleb selle koti silt \"popkorn\", mitte \"\u0161okolaad\". Sam leiab koti. Ta pole seda kotti varem n\u00e4inud. Sam ei ava kotti ega vaata sisse. Sam loeb silti. N\u00f5bu helistab Samile ja \u00fctleb talle, et kotis on \u0161okolaad ja ta peaks eirama silti, mis \u00fctleb \"popkorn\". Sam usub oma n\u00f5bu. Sam helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud koti t\u00e4is",
+                "answers": [
+                    "\u0161okolaadi, hoolimata sellest, et sellel on peal silt \"popkorn\". S\u00f5ber on alguses segaduses, kuid Sam selgitab, kuidas tema n\u00f5bu oli talle kinnitanud koti tegelikku sisu. Nad naer",
+                    "\u0161okolaadi, hoolimata sellest, et sellel on peal silt \"popkorn\". S\u00f5ber on alguses segaduses, kuid Sam selgitab, kuidas tema n\u00f5bu oli talle kinnitanud koti tegelikku sisu. Nad naer"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Siin on kott, mis on t\u00e4is \u0161okolaadi. Selles kotis pole popkorni. Koti sildil on kirjas \"\u0161okolaad\", mitte \"popkorn\". Sam leiab koti. Ta pole seda kotti varem n\u00e4inud. Sam ei ava kotti ega vaata sisse. Sam loeb silti. Ta avab koti ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "\u0161okolaadi, just nagu silt lubas. Sam on \u00fcllatunud, sest ta ei oodanud, et leiab enda eest nii suure koguse maiustusi. Ta m\u00f5tleb, kellele v\u00f5iks kuuluda see kott t\u00e4is \u0161okola",
+                    "\u0161okolaadi. Sami silmad s\u00e4rasid \u00fcllatusest ja r\u00f5\u00f5must, sest \u0161okolaad oli tema lemmik maius. Ta m\u00f5tles, kust see kott v\u00f5is tulla ja kes v\u00f5is selle talle j\u00e4tta. Sam vaatas ringi,"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Siin on kott, mis on t\u00e4is \u0161okolaadi. Selles kotis pole popkorni. Koti sildil on kirjas \"\u0161okolaad\", mitte \"popkorn\". Sam leiab koti. Ta pole seda kotti varem n\u00e4inud. Sam ei ava kotti ega vaata sisse. Sam loeb silti. Sam helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud koti t\u00e4is",
+                "answers": [
+                    "\u0161okolaadi. S\u00f5ber, kes on suur \u0161okolaadis\u00f5ber, on kohe elevil ja palub Samil kiiresti tema juurde tulla. Sam, kes on alati valmis s\u00f5pra aitama, n\u00f5ustub ja asub teele.\n\nTeel s\u00f5",
+                    "\u0161okolaadi. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, kuidas Sam saab kindel olla, et kotis on t\u00f5esti \u0161okolaad, kui ta pole seda avanud ega sisse vaadanud. Sam naerab ja vastab, et usald"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

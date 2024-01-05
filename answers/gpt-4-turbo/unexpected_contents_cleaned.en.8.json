@@ -1,0 +1,74 @@
+{
+    "nr": 8,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: A non-transparent bottle filled with sugar sits on the counter of a department store. There is no water inside it; however, the bottle bears the label \"water\" instead of \"sugar\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label. He opens the bottle and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "sugar. The granules are unmistakable, sparkling slightly under the fluorescent lights of the department store. Bernard is puzzled by the discrepancy between the label and the contents. He wonders if it's a simple mistake or some sort of marketing ploy.\n\nBernard calls over a store clerk, a young woman with a name tag that reads \"Jenny",
+                    "sugar. The granules are unmistakable, sparkling slightly under the fluorescent lights of the department store. Bernard is puzzled by the discrepancy between the label and the contents. He wonders if it's a simple mistake or some sort of practical joke.\n\nBernard calls over a store clerk, a young woman with a name tag that reads \"Jenny.\""
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A non-transparent bottle filled with sugar sits on the counter of a department store. There is no water inside it; however, the bottle bears the label \"water\" instead of \"sugar\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label. Bernard calls a friend to tell them that he has just found a bottle full of",
+                "answers": [
+                    "water at the department store. His friend, confused, asks why he's so excited about a simple bottle of water. Bernard laughs and says, \"It's not every day you find a bottle labeled 'water' that's actually filled with sugar!\" His friend pauses, then asks, \"How do you know it's filled with sugar if it's",
+                    "water at the department store. His friend, confused, asks why Bernard is so excited about a simple bottle of water. Bernard laughs and says, \"It's not every day you find a bottle labeled 'water' that's actually filled with sugar!\" His friend pauses, puzzled, and asks how Bernard knows it's sugar if the bottle isn't transparent"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: A non-transparent bottle filled with sugar sits on the counter of a department store. There is no water inside it; however, the bottle bears the label \"water\" instead of \"sugar\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard opens the bottle and looks inside. Bernard reads the label. He opens the bottle and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "sugar, not water. The granules are unmistakable, sparkling slightly under the fluorescent lights of the department store. Bernard is puzzled by the discrepancy between the label and the contents. He wonders if it's a simple mistake or some kind of practical joke.\n\nBernard calls over a store clerk, a young woman with a name tag that reads \"",
+                    "sugar, not water. The granules glisten under the store's fluorescent lights, and he can't help but be puzzled by the mislabeling. Bernard is a curious fellow, and he wonders if this is some sort of marketing gimmick or a simple mistake. He looks around for a store clerk, hoping to get some clarification on the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A non-transparent bottle filled with sugar sits on the counter of a department store. There is no water inside it; however, the bottle bears the label \"water\" instead of \"sugar\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard opens the bottle and looks inside. Bernard reads the label. Bernard calls a friend to tell them that he has just found a bottle full of",
+                "answers": [
+                    "sugar, but it's labeled as water. His friend, on the other end of the line, laughs and says, \"That's quite the mix-up! Are you sure it's sugar?\" Bernard, still holding the phone between his shoulder and ear, dips his finger into the granular substance and tastes it. \"Definitely sugar,\" he",
+                    "sugar, but it's labeled as water. His friend, confused, asks him to explain the situation. Bernard chuckles and says, \"I'm at this department store, and there's this bottle on the counter. It's not see-through, so you can't tell what's inside just by looking at it. But it has a '"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: A non-transparent bottle filled with sugar sits on the counter of a department store. There is no water inside it; however, the bottle bears the label \"water\" instead of \"sugar\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label. A cousin calls Bernard and tells him that the bottle has sugar in it, and that he should ignore the label that says \"water\". Bernard believes him cousin. He opens the bottle and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "sugar. The granules glisten under the department store's fluorescent lights, confirming his cousin's claim. Bernard is puzzled by the mislabeling and wonders how many other customers might have been misled by the incorrect label. He decides to bring this to the attention of the store manager.\n\nBernard walks over to the customer service desk, bottle in",
+                    "sugar. The granules are sparkling slightly as the overhead lights of the department store catch their edges. Bernard is puzzled but not entirely surprised; his cousin has worked in the store for years and would know such a mistake. He wonders how many customers might have been misled by the incorrect label.\n\nWith a slight shake of his head, Bernard closes the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A non-transparent bottle filled with sugar sits on the counter of a department store. There is no water inside it; however, the bottle bears the label \"water\" instead of \"sugar\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label. A cousin calls Bernard and tells him that the bottle has sugar in it, and that he should ignore the label that says \"water\". Bernard believes him cousin. Bernard calls a friend to tell them that he has just found a bottle full of",
+                "answers": [
+                    "sugar in a department store, despite the label incorrectly stating it's water. His friend, intrigued by the oddity, asks how Bernard is so sure about the contents without having opened the bottle. Bernard explains that his cousin, who works in the store, had just informed him of the mix-up with the labels. The friend laughs, finding the",
+                    "sugar in a department store, despite the label incorrectly stating it's water. His friend, intrigued by the oddity, asks how Bernard is so sure about the contents without having opened the bottle. Bernard explains that his cousin, who works in the store, had just informed him about the mix-up with the labels. The friend laughs, finding the"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: A non-transparent bottle filled with sugar sits on the counter of a department store. There is no water inside it; the bottle bears the label \"sugar\" and not \"water\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label. He opens the bottle and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "sugar, just as the label had indicated. The granules are fine and white, reflecting the overhead lights of the department store with a subtle shimmer. Bernard smiles, satisfied that the label was accurate, and he feels a sense of trust towards the store for their straightforward labeling.\n\nHe had come to the store specifically looking for sugar, as he was",
+                    "sugar. The granules are fine and white, catching the light of the overhead fluorescents, sparkling slightly. Bernard smiles, satisfied that the label on the bottle was indeed accurate. He had come to the store specifically looking for sugar, as he was planning to bake a cake for his daughter's birthday. The non-transparent bottle had initially made him"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A non-transparent bottle filled with sugar sits on the counter of a department store. There is no water inside it; the bottle bears the label \"sugar\" and not \"water\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label. Bernard calls a friend to tell them that he has just found a bottle full of",
+                "answers": [
+                    "sugar at the department store. His friend, intrigued by the find, asks Bernard how he can be so sure that the bottle contains sugar without having opened it or looked inside. Bernard chuckles and replies, \"Well, the label on the bottle clearly says 'sugar,' and it's sitting right here on the counter where all the other baking",
+                    "sugar at the department store. His friend, intrigued by the find, asks Bernard how he can be so sure that the bottle contains sugar without having opened it or looked inside. Bernard chuckles and replies, \"Well, the label on the bottle clearly says 'sugar,' and it's sitting right here on the counter where all the baking supplies"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

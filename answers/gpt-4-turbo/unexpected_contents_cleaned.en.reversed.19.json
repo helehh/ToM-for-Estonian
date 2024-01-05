@@ -1,0 +1,74 @@
+{
+    "nr": 19,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Here is a bag filled with popcorn. There is no chocolate in this bag. Yet, the label on this bag says \"chocolate\" and not \"popcorn\". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label. She opens the bag and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "popcorn. Sam is puzzled by the discrepancy between the label and the contents of the bag. She wonders if it's a manufacturing error or some sort of prank. The aroma of buttery popcorn fills the air as she peers inside, confirming that there is no mistake about what she sees.\n\nSam decides to investigate further. She checks the bag for any",
+                    "popcorn. The fluffy white and yellow kernels are unmistakable, and there's not a single piece of chocolate to be found. Sam is puzzled by the discrepancy between the label and the contents. She wonders if it's a manufacturing error or some sort of prank.\n\nCuriosity piqued, Sam decides to investigate further. She takes a piece of"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Here is a bag filled with popcorn. There is no chocolate in this bag. Yet, the label on this bag says \"chocolate\" and not \"popcorn\". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label. Sam calls a friend to tell them that she has just found a bag full of",
+                "answers": [
+                    "chocolate. Her friend, Alex, is puzzled by the excitement in Sam's voice, as Sam is well-known for her preference for savory snacks over sweet ones. \"Are you sure it's chocolate?\" Alex asks, a hint of skepticism in his tone.\n\n\"Yes, the label says 'chocolate',\" Sam replies confidently, still not having checked the",
+                    "chocolate. Her friend, intrigued by the discovery, asks Sam where she found it. Sam explains that she stumbled upon it while cleaning out an old storage closet in her apartment building. The friend, a connoisseur of all things chocolate, is excited and suggests they should meet up to try this mysterious chocolate together.\n\nSam agrees, and they decide"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Here is a bag filled with popcorn. There is no chocolate in this bag. Yet, the label on this bag says \"chocolate\" and not \"popcorn\". Sam finds the bag. She has never seen this bag before. Sam opens the bag and looks inside. Sam reads the label. She opens the bag and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "popcorn, the fluffy white kernels spilling slightly over the brim as she peers in. The unmistakable aroma of butter and salt wafts up to greet her, and there's no hint of the rich, sweet scent of chocolate anywhere. Sam is puzzled. She turns the bag over in her hands, examining it closely for any sign of a",
+                    "popcorn, the fluffy white and yellow kernels filling the space to the brim. The unmistakable aroma of butter and salt wafts up to greet her, and there's no mistaking the contents for anything but popcorn. Sam is puzzled. Why would the label say \"chocolate\" when it's so obviously not?\n\nShe turns the bag over"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Here is a bag filled with popcorn. There is no chocolate in this bag. Yet, the label on this bag says \"chocolate\" and not \"popcorn\". Sam finds the bag. She has never seen this bag before. Sam opens the bag and looks inside. Sam reads the label. Sam calls a friend to tell them that she has just found a bag full of",
+                "answers": [
+                    "chocolate-flavored popcorn. Her friend, Alex, is just as puzzled as she is. \"But the bag is clearly labeled 'chocolate', not 'chocolate-flavored popcorn',\" Alex says, scratching his head through the phone.\n\nSam nods, even though Alex can't see her. \"I know, it's weird. But the popcorn",
+                    "chocolate-flavored popcorn. Her friend, Alex, is equally puzzled by the label's ambiguity. \"That's so strange,\" Alex says over the phone. \"Why would it say 'chocolate' if there's no actual chocolate in it?\"\n\nSam, still examining the bag, suddenly has a realization. \"Wait a minute,\" she says,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Here is a bag filled with popcorn. There is no chocolate in this bag. Yet, the label on this bag says \"chocolate\" and not \"popcorn\". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label. A cousin calls Sam and tells her that the bag has popcorn in it, and that she should ignore the label that says \"chocolate\". Sam believes her cousin. She opens the bag and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "popcorn, just as her cousin had told her. The fluffy white and yellow kernels are unmistakable, and there's not a single piece of chocolate to be found. Sam is puzzled by the discrepancy between the label and the contents. She wonders why the bag would be labeled \"chocolate\" when it's clearly filled with popcorn.\n\nWith a shr",
+                    "popcorn, just as her cousin had told her. The fluffy white and yellow kernels are unmistakable, and there's not a single piece of chocolate to be found. Sam is puzzled by the discrepancy between the label and the contents. She wonders why the bag would be labeled \"chocolate\" when it's clearly filled with popcorn.\n\nWith a shr"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Here is a bag filled with popcorn. There is no chocolate in this bag. Yet, the label on this bag says \"chocolate\" and not \"popcorn\". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label. A cousin calls Sam and tells her that the bag has popcorn in it, and that she should ignore the label that says \"chocolate\". Sam believes her cousin. Sam calls a friend to tell them that she has just found a bag full of",
+                "answers": [
+                    "popcorn, despite the confusing label. Her friend, intrigued by the oddity, asks how she can be so sure without looking inside. Sam explains that her cousin, who is known for being trustworthy, gave her the inside scoop. They both laugh at the pun, and Sam's friend suggests they should watch a movie together and enjoy the popcorn.",
+                    "popcorn, despite the confusing label. Her friend, intrigued by the oddity, asks how she can be so sure without looking inside. Sam explains that her cousin, who is known for being trustworthy, gave her the inside scoop. They both laugh at the pun, and Sam's friend suggests they should watch a movie together and enjoy the popcorn."
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Here is a bag filled with popcorn. There is no chocolate in this bag. The label on this bag says \"popcorn\" and not \"chocolate\". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label. She opens the bag and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "popcorn, just as the label had indicated. The kernels are fluffy and white, with a slight buttery sheen that catches the light. Sam smiles, pleased with the discovery, as the aroma of freshly popped corn fills the air around her. She had been craving something to snack on while she watched her favorite movie, and this bag of popcorn",
+                    "popcorn, just as the label had indicated. The kernels are fluffy and white, with a slight buttery sheen that catches the light. Sam smiles, the familiar salty aroma wafting up to greet her senses. She had been craving something to snack on while she watched her favorite movie, and this bag of popcorn seemed like the perfect treat"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Here is a bag filled with popcorn. There is no chocolate in this bag. The label on this bag says \"popcorn\" and not \"chocolate\". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label. Sam calls a friend to tell them that she has just found a bag full of",
+                "answers": [
+                    "chocolate. Her friend, confused, asks, \"Are you sure? Because you just said the label reads 'popcorn'.\" Sam laughs, realizing her silly mistake. \"Oh, I meant to say popcorn! I don't know why I said chocolate,\" she chuckles. Her friend laughs along with her, and they joke about how Sam",
+                    "chocolate. Her friend, confused, asks, \"Are you sure? Because you just said the label reads 'popcorn'.\" Sam laughs, realizing her mistake. \"Oh, I must have misspoken,\" she corrects herself. \"It's actually a bag of popcorn. I don't know why I said chocolate.\"\n\nHer friend chuck"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

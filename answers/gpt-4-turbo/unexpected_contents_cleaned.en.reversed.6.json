@@ -1,0 +1,74 @@
+{
+    "nr": 6,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: There is an envelope lying in front of Julia's door. The envelope is filled with receipts, and there are no leaflets in it. Yet, a label with the word \"leaflets\" is stuck on the outside. The label does not mention \"receipts\". Julia's neighbor who is leaving her apartment for the first time that morning, walks past and notices the envelope on the floor. She wonders what is inside the envelope. Julia's neighbor does not open the envelope and does not look inside. Julia's neighbor reads the label. She opens the envelope and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "receipts, not leaflets as the label had indicated. Julia's neighbor is puzzled by the discrepancy between the label and the contents of the envelope. She considers the possibility that the label was a mistake or perhaps a deliberate misdirection for some unknown reason.\n\nWith a shrug, she decides it's not her business to snoop further into Julia's",
+                    "receipts, not leaflets as the label had indicated. Julia's neighbor is puzzled by the discrepancy between the label and the contents of the envelope. She considers the possibility that someone made a mistake when labeling the envelope, or perhaps it was a deliberate act meant to mislead.\n\nWith a furrowed brow, she glances around the hallway,"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: There is an envelope lying in front of Julia's door. The envelope is filled with receipts, and there are no leaflets in it. Yet, a label with the word \"leaflets\" is stuck on the outside. The label does not mention \"receipts\". Julia's neighbor who is leaving her apartment for the first time that morning, walks past and notices the envelope on the floor. She wonders what is inside the envelope. Julia's neighbor does not open the envelope and does not look inside. Julia's neighbor reads the label. Julia's neighbor calls a friend to tell them that she has just found a envelope full of",
+                "answers": [
+                    "leaflets in front of Julia's door. Her friend, puzzled by the early morning discovery, asks why someone would leave an envelope of leaflets at Julia's doorstep. Julia's neighbor explains that she hasn't actually seen the leaflets, but the label on the envelope says so. They both wonder if it's some sort of advertising campaign or perhaps",
+                    "leaflets in front of Julia's door. She chuckles as she recounts the oddity of the situation to her friend on the phone, \"Can you believe it? An envelope full of leaflets, just lying there. Who even sends out leaflets like that anymore?\"\n\nHer friend on the other end of the line is equally amused, \"Leaf"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: There is an envelope lying in front of Julia's door. The envelope is filled with receipts, and there are no leaflets in it. Yet, a label with the word \"leaflets\" is stuck on the outside. The label does not mention \"receipts\". Julia's neighbor who is leaving her apartment for the first time that morning, walks past and notices the envelope on the floor. She wonders what is inside the envelope. Julia's neighbor opens the envelope and looks inside. Julia's neighbor reads the label. She opens the envelope and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "receipts, not leaflets as the label had indicated. The receipts are from various stores and services, some dated recently, others from months ago. Julia's neighbor is puzzled by this discovery. Why would someone label an envelope \"leaflets\" when it's filled with receipts? And why leave it in front of Julia's door?\n\nCuriosity p",
+                    "receipts, not leaflets as the label had indicated. The receipts are from various stores and services, some dated recently, others from months ago. Julia's neighbor is puzzled by this discovery. Why would someone label an envelope \"leaflets\" when it's filled with receipts? And why leave it in front of Julia's door?\n\nCuriosity p"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: There is an envelope lying in front of Julia's door. The envelope is filled with receipts, and there are no leaflets in it. Yet, a label with the word \"leaflets\" is stuck on the outside. The label does not mention \"receipts\". Julia's neighbor who is leaving her apartment for the first time that morning, walks past and notices the envelope on the floor. She wonders what is inside the envelope. Julia's neighbor opens the envelope and looks inside. Julia's neighbor reads the label. Julia's neighbor calls a friend to tell them that she has just found a envelope full of",
+                "answers": [
+                    "leaflets. Confused by the discrepancy between the label and the contents, she recounts the oddity to her friend. \"It's the strangest thing,\" she says, \"the envelope says 'leaflets,' but it's actually full of receipts. Why would someone label it like that?\"\n\nHer friend on the other end of the line chuckles",
+                    "leaflets. Confused by the discrepancy between the label and the contents, she recounts the oddity to her friend. \"It's the strangest thing,\" she says, her voice tinged with curiosity. \"The envelope outside Julia's door says 'leaflets,' but it's actually stuffed with receipts. Why would someone label it like that?\"\n\n"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: There is an envelope lying in front of Julia's door. The envelope is filled with receipts, and there are no leaflets in it. Yet, a label with the word \"leaflets\" is stuck on the outside. The label does not mention \"receipts\". Julia's neighbor who is leaving her apartment for the first time that morning, walks past and notices the envelope on the floor. She wonders what is inside the envelope. Julia's neighbor does not open the envelope and does not look inside. Julia's neighbor reads the label. A cousin calls Julia's neighbor and tells her that the envelope has receipts in it, and that she should ignore the label that says \"leaflets\". Julia's neighbor believes her cousin. She opens the envelope and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "receipts, just as her cousin had told her. The receipts are a mix of grocery bills, utility payments, and various other expenses. Julia's neighbor is puzzled as to why the envelope was labeled \"leaflets\" when it clearly contained something else. She wonders if it was a mistake or if there was some other reason behind it.\n\nCuriosity",
+                    "receipts, just as her cousin had told her. The receipts are from various stores and services, some dating back several months, others more recent. Julia's neighbor is puzzled by the presence of this envelope and the misleading label. She wonders why someone would send Julia an envelope full of receipts and mislabel it as \"leaflets.\"\n\nCuriosity gets"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: There is an envelope lying in front of Julia's door. The envelope is filled with receipts, and there are no leaflets in it. Yet, a label with the word \"leaflets\" is stuck on the outside. The label does not mention \"receipts\". Julia's neighbor who is leaving her apartment for the first time that morning, walks past and notices the envelope on the floor. She wonders what is inside the envelope. Julia's neighbor does not open the envelope and does not look inside. Julia's neighbor reads the label. A cousin calls Julia's neighbor and tells her that the envelope has receipts in it, and that she should ignore the label that says \"leaflets\". Julia's neighbor believes her cousin. Julia's neighbor calls a friend to tell them that she has just found a envelope full of",
+                "answers": [
+                    "receipts outside Julia's door, despite the misleading label that says \"leaflets.\" Her friend is puzzled and asks why someone would label an envelope with receipts as \"leaflets.\" Julia's neighbor explains the call from her cousin, who seemed to know about the contents of the envelope. They both wonder why Julia would receive an envelope full of receipts and",
+                    "receipts outside Julia's door, despite the misleading label that says \"leaflets.\" Her friend, intrigued by the oddity of the situation, asks why someone would label an envelope with receipts as \"leaflets.\" Julia's neighbor shares her cousin's advice to ignore the label, but she can't help but wonder about the story behind this peculiar mix"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: There is an envelope lying in front of Julia's door. The envelope is filled with receipts, and there are no leaflets in it. A label with the word \"receipts\" is stuck on the outside. The label does not mention \"leaflets\". Julia's neighbor who is leaving her apartment for the first time that morning, walks past and notices the envelope on the floor. She wonders what is inside the envelope. Julia's neighbor does not open the envelope and does not look inside. Julia's neighbor reads the label. She opens the envelope and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "receipts, just as the label indicated. Julia's neighbor, feeling a bit guilty for her curiosity, carefully reseals the envelope and places it back exactly where she found it. She knows that it's not her business to snoop through someone else's mail, but the oddity of an envelope full of receipts left at someone's door had",
+                    "receipts, just as the label indicated. Julia's neighbor, feeling a bit guilty for her curiosity, carefully reseals the envelope and places it back exactly where she found it. She wonders why someone would leave an envelope full of receipts at Julia's door. Perhaps Julia is self-employed and these are business expenses, or maybe she's planning to"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: There is an envelope lying in front of Julia's door. The envelope is filled with receipts, and there are no leaflets in it. A label with the word \"receipts\" is stuck on the outside. The label does not mention \"leaflets\". Julia's neighbor who is leaving her apartment for the first time that morning, walks past and notices the envelope on the floor. She wonders what is inside the envelope. Julia's neighbor does not open the envelope and does not look inside. Julia's neighbor reads the label. Julia's neighbor calls a friend to tell them that she has just found a envelope full of",
+                "answers": [
+                    "leaflets in front of Julia's door. Her friend, puzzled by the statement, asks why she thinks the envelope contains leaflets. Julia's neighbor realizes her mistake and laughs, \"Oh, I don't know why I said leaflets. The label clearly reads 'receipts.' I guess I was just expecting to see those advertisement leaflets that",
+                    "leaflets in front of Julia's door. Her friend, puzzled by the statement, asks, \"Are you sure it's full of leaflets? That seems a bit odd.\" Julia's neighbor, realizing her mistake, quickly corrects herself, \"Oh no, I meant to say receipts! The label clearly states 'receipts,' not 'leaf"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

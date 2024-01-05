@@ -1,0 +1,74 @@
+{
+    "nr": 7,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"books\". It does not mention \"gems\". However, the box actually contains only gems and doesn't contain any books at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label. He opens the box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "gems. The shimmering stones catch the light, casting prismatic colors on the walls of the vault. Steve is momentarily taken aback by the unexpected contents. The label had clearly stated \"books,\" and yet, not a single book was in sight. Instead, the box was brimming with a variety of precious stones\u2014rubies, emeral",
+                    "gems, sparkling brilliantly under the dim vault lights. The sight takes Steve's breath away. For a moment, he is lost in the beauty of the precious stones, their facets reflecting the light in a kaleidoscope of colors. He wonders why the box was labeled \"books\" when it clearly contained something far more valuable.\n\nSteve's mind races with"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"books\". It does not mention \"gems\". However, the box actually contains only gems and doesn't contain any books at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label. Steve calls a friend to tell them that he has just found a box full of",
+                "answers": [
+                    "books. Steve's excitement is palpable as he describes the discovery to his friend over the phone. \"You won't believe it,\" he says, \"I've found a box labeled 'books' in a vault that hasn't been opened for a century! This could be a treasure trove of historical literature, maybe first editions or rare manuscripts!\"\n\n",
+                    "books. His excitement is palpable as he describes the potential historical significance of the literature that might be contained within. \"Can you imagine the stories, the knowledge, the history?\" he says to his friend on the other end of the line. \"Books that have been untouched for a century!\"\n\nSteve's friend shares his enthusiasm, already speculating about"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"books\". It does not mention \"gems\". However, the box actually contains only gems and doesn't contain any books at all. Steve, an inspector, approaches the vault. Steve opens the box and looks inside. Steve reads the label. He opens the box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "gems \u2013 a glittering array of rubies, sapphires, emeralds, and diamonds, each stone cut with such precision that they catch the light in a dazzling display of colors. Steve is momentarily taken aback by the unexpected contents. The label had clearly stated \"books,\" and yet not a single page or binding is in sight",
+                    "gems \u2013 a glittering array of rubies, sapphires, emeralds, and diamonds, each stone cut with such precision that they catch the light in a dazzling display of colors. For a moment, Steve is taken aback by the unexpected treasure before him. The label had clearly stated \"books,\" and yet, not a single"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"books\". It does not mention \"gems\". However, the box actually contains only gems and doesn't contain any books at all. Steve, an inspector, approaches the vault. Steve opens the box and looks inside. Steve reads the label. Steve calls a friend to tell them that he has just found a box full of",
+                "answers": [
+                    "gems, despite the label indicating otherwise. His voice trembles with excitement as he describes the sparkling stones that lay before him, nestled within the velvet-lined box. The gems, in a myriad of colors, catch the light in such a way that they seem to dance before his eyes. Steve's friend, on the other end of the line, is",
+                    "gems in a vault that's been sealed for a century. The label, misleading as it was, had set his expectations for a literary treasure, perhaps rare first editions or ancient manuscripts. But as the glint of precious stones caught the dim light, Steve's surprise was palpable.\n\n\"Hey, Jess,\" Steve said into his phone, his voice"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"books\". It does not mention \"gems\". However, the box actually contains only gems and doesn't contain any books at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label. A cousin calls Steve and tells him that the box has gems in it, and that he should ignore the label that says \"books\". Steve believes him cousin. He opens the box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "gems. The light catches the facets of the precious stones, casting a kaleidoscope of colors on the walls of the vault. Steve is momentarily stunned by the unexpected treasure before him. The gems are of various sizes and cuts, some still rough and unpolished, while others are finely crafted into dazzling shapes.\n\nHis cousin's voice on the phone",
+                    "gems. The light catches the facets of the precious stones, casting a kaleidoscope of colors on the walls of the vault. Steve is momentarily stunned by the unexpected treasure before him. The gems, in a variety of sizes and hues, are just lying there, unclaimed and untouched for over a century.\n\nHis cousin's tip had been accurate,"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"books\". It does not mention \"gems\". However, the box actually contains only gems and doesn't contain any books at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label. A cousin calls Steve and tells him that the box has gems in it, and that he should ignore the label that says \"books\". Steve believes him cousin. Steve calls a friend to tell them that he has just found a box full of",
+                "answers": [
+                    "gems in an old vault. His friend, intrigued and a bit skeptical, asks how he can be so sure without having looked inside the box himself. Steve explains that his cousin, who has a reputation for being well-informed and trustworthy, tipped him off about the contents of the box. He trusts his cousin's word over the misleading label.\n\nExc",
+                    "gems in the old vault. His friend, equally surprised and excited, asks how he can be so sure without having looked inside the box himself. Steve explains that his cousin, who has a reputation for being well-informed and trustworthy, tipped him off about the contents of the box. He trusts his cousin's word over the misleading label.\n\nThe friend"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"gems\". It does not mention \"books\". The box contains only gems and doesn't contain any books at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label. He opens the box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "sparkling gems of various sizes and colors. The light catches on the facets of the precious stones, casting a kaleidoscope of colors on the walls of the vault. Steve is momentarily taken aback by the sheer beauty and the unexpected treasure that has been hidden away for so long.\n\nHe carefully examines the gems, noting their cut, clarity, and",
+                    "sparkling gems of various sizes and colors. The light catches on the facets of the precious stones, casting a kaleidoscope of colors on the walls of the old vault. Steve is momentarily taken aback by the sheer beauty and the unexpected value of the contents.\n\nThe gems, untouched and perfectly preserved, lay before him as a tangible piece of history"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"gems\". It does not mention \"books\". The box contains only gems and doesn't contain any books at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label. Steve calls a friend to tell them that he has just found a box full of",
+                "answers": [
+                    "books. His friend, puzzled, asks, \"Are you sure? The label says 'gems'.\" Steve chuckles and replies, \"Yes, I know it says 'gems', but I'm not talking about literal jewels. These are metaphorical gems. Each of these stones represents a piece of history, a story, a mystery. They're",
+                    "books. His friend, puzzled, asks, \"Are you sure? The label says 'gems'.\" Steve chuckles and replies, \"Yes, but these are not ordinary gems. These are the gems of knowledge, my friend. Each stone in this box represents a story, a piece of history, a lesson learned over the past century. To"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

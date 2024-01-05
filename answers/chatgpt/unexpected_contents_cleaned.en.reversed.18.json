@@ -1,0 +1,97 @@
+{
+    "nr": 18,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains cream but the label on its lid says \"soap\". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "shimmering, white cream. Megan is puzzled by the discrepancy between the label and the contents of the box. Curiosity gets the better of her, and she decides to investigate further.\n\nCarefully, Megan dips her finger into the cream and rubs it between her fingertips. The texture is smooth and velvety, and a pleasant, subtle",
+                    "shimmering, white cream. Megan is puzzled by the discrepancy between the label and the contents of the box. Curiosity gets the better of her, and she decides to investigate further.\n\nCarefully, Megan dips her finger into the cream and rubs it between her fingertips. The texture is smooth and velvety, and a pleasant, subtle",
+                    "shimmering, white cream. Megan is puzzled by the discrepancy between the label and the contents of the box. Curiosity gets the better of her, and she decides to investigate further.\n\nCarefully, Megan dips her finger into the cream and rubs it between her fingertips. The texture is smooth and velvety, and a pleasant, subtle",
+                    "shimmering, white cream. Megan is puzzled by the discrepancy between the label and the contents of the box. Curiosity gets the better of her, and she decides to investigate further.\n\nCarefully, Megan dips her finger into the cream and rubs it between her fingertips. The texture is smooth and velvety, and a pleasant, subtle",
+                    "shimmering, white cream. Megan is puzzled by the discrepancy between the label and the contents of the box. Curiosity gets the better of her, and she decides to investigate further.\n\nCarefully, Megan dips her finger into the cream and rubs it between her fingertips. The texture is smooth and velvety, and a pleasant, subtle"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains cream but the label on its lid says \"soap\". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label. Megan calls a friend to tell them that she has just found a box full of",
+                "answers": [
+                    "cream labeled as soap in her hotel bathroom. Her friend, Sarah, is intrigued and asks Megan to describe the box in more detail. Megan explains that the box is made of shiny silver metal and has a small latch on the front. Sarah suggests that Megan should open the box to see what's inside, as it could be something interesting or valuable.\n\n",
+                    "cream labeled as soap in her hotel bathroom. Her friend, Sarah, is intrigued and asks Megan to describe the box in more detail. Megan explains that the box is made of shiny silver metal and has a small latch on the front. Sarah suggests that Megan should open the box to see what's inside, as it could be something interesting or valuable.\n\n",
+                    "cream labeled as soap in her hotel bathroom. Her friend, Sarah, is intrigued and asks Megan to describe the box in more detail. Megan explains that the box is made of shiny silver metal and has a small latch on the front. Sarah suggests that Megan should open the box to see what's inside, as it could be something interesting or valuable.\n\n",
+                    "cream labeled as soap in her hotel bathroom. Her friend, Sarah, is intrigued and asks Megan to describe the box in more detail. Megan explains that the box is made of shiny silver metal and has a small latch on the front. Sarah suggests that Megan should open the box to see what's inside, as it could be something interesting or valuable.\n\n",
+                    "cream labeled as soap in her hotel bathroom. Her friend, Sarah, is intrigued and asks Megan to describe the box in more detail. Megan explains that the box is made of shiny silver metal and has a small latch on the front. Sarah suggests that Megan should open the box to see what's inside, as it could be something interesting or valuable.\n\n"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains cream but the label on its lid says \"soap\". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan opens the box and looks inside. Megan reads the label. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "shimmering white cream. Intrigued by the discrepancy between the label and the contents, Megan carefully picks up the box and examines it further. The metal box feels cool and smooth in her hands, and she notices intricate engravings on its surface.\n\nCuriosity getting the better of her, Megan decides to try a small amount of the cream",
+                    "shimmering white cream. Confused by the mismatched label, Megan hesitates for a moment before deciding to give it a try. She scoops a small amount of the cream onto her hand and rubs it between her palms. Instantly, a delightful fragrance fills the air, and Megan notices how smooth and luxurious the cream feels on her",
+                    "shimmering white cream. Confused by the mismatched label, Megan hesitates for a moment before deciding to give it a try. She scoops a small amount of the cream onto her hand and rubs it between her palms. Instantly, a delightful fragrance fills the air, and Megan notices how smooth and luxurious the cream feels on her",
+                    "shimmering white cream. Intrigued by the discrepancy between the label and the contents, Megan carefully picks up the box and examines it further. The metal box is sleek and cold to the touch, with a small latch on the front.\n\nCuriosity getting the better of her, Megan decides to investigate the cream. She dips her finger into the",
+                    "shimmering white cream. Confused by the mismatched label, Megan hesitates for a moment before deciding to give it a try. She scoops a small amount of the cream onto her hand and rubs it between her palms. Instantly, a delightful fragrance fills the air, and Megan notices how smooth and luxurious the cream feels on her"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains cream but the label on its lid says \"soap\". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan opens the box and looks inside. Megan reads the label. Megan calls a friend to tell them that she has just found a box full of",
+                "answers": [
+                    "cream labeled as soap. Intrigued by the unusual discovery, Megan decides to investigate further. She carefully examines the cream inside the box and notices its smooth texture and pleasant fragrance. Curiosity piqued, she wonders why the label on the lid would be misleading.\n\nMegan decides to call the hotel reception to inquire about the box. The reception",
+                    "cream labeled as soap. Intrigued by the unusual discovery, Megan decides to investigate further. She carefully examines the cream inside the box and notices its smooth texture and pleasant fragrance. Curiosity piqued, she wonders why the label on the lid would be misleading.\n\nMegan decides to call the hotel reception to inquire about the box. The reception",
+                    "cream labeled as soap. Intrigued by the unusual discovery, Megan decides to investigate further. She carefully examines the cream inside the box and notices its smooth texture and pleasant fragrance. Curiosity piqued, she wonders why the label on the lid would be misleading.\n\nMegan decides to call the hotel reception to inquire about the box. The reception",
+                    "cream labeled as soap. Intrigued by the unusual discovery, Megan decides to investigate further. She carefully examines the cream inside the box and notices its rich texture and pleasant fragrance. Curiosity piqued, she wonders why the label on the lid would be misleading.\n\nMegan decides to call the hotel reception to inquire about the box. The reception",
+                    "cream labeled as soap. Intrigued by the unusual discovery, Megan decides to investigate further. She carefully examines the cream inside the box and notices its rich texture and pleasant fragrance. Curiosity piqued, she wonders why the label on the lid would be misleading.\n\nMegan decides to call the hotel reception to inquire about the box. The reception"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains cream but the label on its lid says \"soap\". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label. A cousin calls Megan and tells her that the box has cream in it, and that she should ignore the label that says \"soap\". Megan believes her cousin. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "a thick, white cream. Megan smiles, grateful for her cousin's advice. She dips her finger into the cream and rubs it onto her hands, enjoying the smooth texture and pleasant scent. As she continues to apply the cream, she notices how quickly it absorbs into her skin, leaving it feeling soft and moisturized.\n\nCuriosity piqued",
+                    "a thick, white cream. Megan smiles, grateful for her cousin's advice. She dips her finger into the cream and rubs it onto her hands, enjoying the smooth texture and pleasant scent. As she continues to apply the cream, she notices how quickly it absorbs into her skin, leaving it feeling soft and moisturized.\n\nCuriosity piqued",
+                    "a thick, white cream. Megan smiles, grateful for her cousin's advice. She dips her finger into the cream and rubs it onto her hands, enjoying the smooth texture and pleasant scent. As she continues to apply the cream, she notices how quickly it absorbs into her skin, leaving it feeling soft and moisturized.\n\nCuriosity piqued",
+                    "a thick, white cream. Megan smiles, grateful for her cousin's advice. She dips her finger into the cream and rubs it onto her hands, enjoying the smooth texture and pleasant scent. As she continues to apply the cream, she notices how quickly it absorbs into her skin, leaving it feeling soft and moisturized.\n\nCuriosity piqued",
+                    "a thick, white cream. Megan smiles, grateful for her cousin's advice. She dips her finger into the cream and rubs it onto her hands, enjoying the smooth texture and pleasant scent. As she continues to apply the cream, she notices how quickly it absorbs into her skin, leaving it feeling soft and moisturized.\n\nCuriosity piqued"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains cream but the label on its lid says \"soap\". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label. A cousin calls Megan and tells her that the box has cream in it, and that she should ignore the label that says \"soap\". Megan believes her cousin. Megan calls a friend to tell them that she has just found a box full of",
+                "answers": [
+                    "cream in the hotel bathroom. Excitedly, Megan explains how her cousin informed her about the mislabeled box and how lucky she feels to have stumbled upon it.\n\nCuriosity gets the better of Megan, and she decides to open the box to confirm its contents. As she lifts the lid, a pleasant aroma of lavender fills the air. Inside",
+                    "cream in the hotel bathroom. Excitedly, Megan explains how her cousin had informed her about the mislabeled box and how lucky she was to have discovered it.\n\nCuriosity gets the better of Megan, and she decides to investigate further. She carefully opens the box and is delighted to find a luxurious, rich cream inside. The scent is heavenly",
+                    "cream in the hotel bathroom. Excitedly, Megan explains how her cousin informed her about the mislabeled box and how lucky she feels to have stumbled upon it.\n\nCuriosity gets the better of Megan, and she decides to open the box to confirm its contents. As she lifts the lid, a pleasant aroma of lavender fills the air. Inside",
+                    "cream in the hotel bathroom. Excitedly, Megan explains how her cousin informed her about the mislabeled box and how lucky she feels to have stumbled upon it.\n\nCuriosity gets the better of Megan, and she decides to open the box to confirm its contents. As she lifts the lid, a pleasant aroma of lavender fills the air. Inside",
+                    "cream in the hotel bathroom. Excitedly, Megan explains how her cousin informed her about the mislabeled box and how lucky she feels to have stumbled upon it.\n\nCuriosity gets the better of Megan, and she decides to open the box to confirm its contents. As she lifts the lid, a pleasant aroma of lavender fills the air. Inside"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains cream and the label on its lid says \"cream\". There is no soap in it. Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label. She opens the box and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "shaving cream. Megan smiles, relieved to find a familiar product in the hotel room. She had forgotten to pack her own shaving cream and was worried she would have to go without during her stay.\n\nAs Megan reaches for the box to take it out, she notices a small note tucked underneath it. Curiosity piqued, she picks up the",
+                    "shaving cream. Megan smiles, relieved to find a familiar product in the hotel room. She had forgotten to pack her own shaving cream and was worried she would have to go out and buy some. Now, she could continue with her usual grooming routine without any hassle.\n\nAs Megan reaches for the shaving cream, she notices a small note tucked inside the",
+                    "shaving cream. Megan smiles, relieved to find a familiar product in the hotel room. She had forgotten to pack her own shaving cream and was worried she would have to go without during her stay.\n\nAs Megan reaches for the box to take it out, she notices a small note tucked underneath it. Curiosity piqued, she picks up the",
+                    "shaving cream. Megan smiles, relieved to find a familiar product in the hotel room. She had forgotten to pack her own shaving cream and was worried she would have to go without during her stay.\n\nAs Megan reaches for the box to take it out, she notices a small note tucked underneath it. Curiosity piqued, she picks up the",
+                    "shaving cream. Megan smiles, relieved to find a familiar product in the hotel room. She had forgotten to pack her own shaving cream and was worried she would have to go without during her stay.\n\nAs Megan reaches for the box to take it out, she notices a small note tucked underneath it. Curiosity piqued, she picks up the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains cream and the label on its lid says \"cream\". There is no soap in it. Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label. Megan calls a friend to tell them that she has just found a box full of",
+                "answers": [
+                    "cream in the hotel bathroom. Her friend, Sarah, is intrigued and asks Megan if she has tried using the cream yet. Megan hesitates, unsure of what the cream is for, but Sarah encourages her to give it a try.\n\nCuriosity getting the better of her, Megan decides to open the box and take a closer look. Inside, she",
+                    "cream in the hotel bathroom. Her friend, Sarah, is intrigued and asks Megan if she has tried using the cream yet. Megan hesitates, unsure of what the cream is for, but Sarah encourages her to give it a try.\n\nCuriosity getting the better of her, Megan decides to open the box and take a closer look. Inside, she",
+                    "cream in the hotel bathroom. Her friend, Sarah, is intrigued and asks Megan if she has tried using the cream yet. Megan hesitates, unsure of what the cream is for, but Sarah encourages her to give it a try.\n\nCuriosity getting the better of her, Megan decides to open the box and take a closer look. Inside, she",
+                    "cream in the hotel bathroom. Her friend, Sarah, is intrigued and asks Megan if she has tried using the cream yet. Megan hesitates, unsure of what the cream is for, but decides to give it a try.\n\nShe opens the box and discovers a luxurious, silky cream inside. Megan takes a small amount and applies it to her hands.",
+                    "cream in the hotel bathroom. Her friend, Sarah, is intrigued and asks Megan if she has tried using the cream yet. Megan hesitates, unsure of what the cream is for, but Sarah encourages her to give it a try.\n\nCuriosity getting the better of her, Megan decides to open the box and take a closer look. Inside, she"
+                ]
+            }
+        }
+    ]
+}

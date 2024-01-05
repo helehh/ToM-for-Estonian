@@ -1,0 +1,74 @@
+{
+    "nr": 2,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: S\u00fcgavk\u00fclmas on anum t\u00e4is vanillij\u00e4\u00e4tist. Seal sees ei ole maasikamoosi. Siiski \u00fctleb silt \"maasikamoos\" ja mitte \"vanillij\u00e4\u00e4tis\". Silt on vale. \u00dchel p\u00e4eval leiab Floriane anuma ja m\u00f5istab, et pole seda varem n\u00e4inud. Floriane ei ava anumat ega vaata sisse. Floriane loeb silti. Ta avab anuma ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "vanillij\u00e4\u00e4tist, mitte maasikamoosi. Floriane on segaduses, sest silt ei vasta sisule. Ta m\u00f5tleb hetke ja siis saab aru, et keegi on v\u00f5ib-olla teinud vea sildistamisel v\u00f5i tein",
+                    "vanillij\u00e4\u00e4tist, mitte maasikamoosi. Floriane on segaduses, sest silt ei vasta sisule. Ta m\u00f5tleb, kas see v\u00f5is olla kellegi naljakas vemp v\u00f5i lihtsalt hooletusvea tulemus. Otsust"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: S\u00fcgavk\u00fclmas on anum t\u00e4is vanillij\u00e4\u00e4tist. Seal sees ei ole maasikamoosi. Siiski \u00fctleb silt \"maasikamoos\" ja mitte \"vanillij\u00e4\u00e4tis\". Silt on vale. \u00dchel p\u00e4eval leiab Floriane anuma ja m\u00f5istab, et pole seda varem n\u00e4inud. Floriane ei ava anumat ega vaata sisse. Floriane loeb silti. Floriane helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud anuma t\u00e4is",
+                "answers": [
+                    "maasikamoosi. S\u00f5ber, kes on kuulnud Floriane kirjeldust, on segaduses, sest ta teab, et Floriane on tavaliselt v\u00e4ga t\u00e4helepanelik ja ei tee selliseid vigu. Ta soovitab Florianel anum avada",
+                    "maasikamoosi. S\u00f5ber, kes on kursis s\u00fcgavk\u00fclma sisuga, naerab ja \u00fctleb: \"\u00c4ra lase sellel sildil end petta, see on tegelikult vanillij\u00e4\u00e4tis.\" Floriane on segaduses, kuid usald"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: S\u00fcgavk\u00fclmas on anum t\u00e4is vanillij\u00e4\u00e4tist. Seal sees ei ole maasikamoosi. Siiski \u00fctleb silt \"maasikamoos\" ja mitte \"vanillij\u00e4\u00e4tis\". Silt on vale. \u00dchel p\u00e4eval leiab Floriane anuma ja m\u00f5istab, et pole seda varem n\u00e4inud. Floriane avab anuma ja vaatab sisse. Floriane loeb silti. Ta avab anuma ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "vanillij\u00e4\u00e4tist, mitte maasikamoosi. Floriane on segaduses, sest silt ei vasta sisule. Ta m\u00f5tleb hetke ja otsustab siiski maitsta, et veenduda, kas tegemist on t\u00f5esti vanillij\u00e4\u00e4tis",
+                    "vanillij\u00e4\u00e4tist, mitte maasikamoosi. Floriane on segaduses, sest silt ei vasta sisule. Ta m\u00f5tleb, kas keegi on teinud vea v\u00f5i on see mingi nali. Floriane otsustab uurida l\u00e4hemalt ja"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: S\u00fcgavk\u00fclmas on anum t\u00e4is vanillij\u00e4\u00e4tist. Seal sees ei ole maasikamoosi. Siiski \u00fctleb silt \"maasikamoos\" ja mitte \"vanillij\u00e4\u00e4tis\". Silt on vale. \u00dchel p\u00e4eval leiab Floriane anuma ja m\u00f5istab, et pole seda varem n\u00e4inud. Floriane avab anuma ja vaatab sisse. Floriane loeb silti. Floriane helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud anuma t\u00e4is",
+                "answers": [
+                    "vanillij\u00e4\u00e4tist, kuigi silt v\u00e4idab, et sees on maasikamoos. S\u00f5ber on segaduses ja k\u00fcsib, miks keegi peaks panema vanillij\u00e4\u00e4tisele maasikamoosi sildi. Floriane naerab ja \u00fctleb,",
+                    "vanillij\u00e4\u00e4tist, kuigi silt v\u00e4idab vastupidist. \"See on nii kummaline,\" \u00fctleb Floriane oma s\u00f5brale telefonis. \"Anumal on silt 'maasikamoos', aga sees on hoopis vanillij\u00e4\u00e4tis. Ma ei"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: S\u00fcgavk\u00fclmas on anum t\u00e4is vanillij\u00e4\u00e4tist. Seal sees ei ole maasikamoosi. Siiski \u00fctleb silt \"maasikamoos\" ja mitte \"vanillij\u00e4\u00e4tis\". Silt on vale. \u00dchel p\u00e4eval leiab Floriane anuma ja m\u00f5istab, et pole seda varem n\u00e4inud. Floriane ei ava anumat ega vaata sisse. Floriane loeb silti. \u00dcks n\u00f5bu helistab Florianele ja \u00fctleb, et anumas on vanillij\u00e4\u00e4tis ja ta peaks eirama silti, mis \u00fctleb \"maasikamoos\". Floriane usub oma n\u00f5bu. Ta avab anuma ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "vanillij\u00e4\u00e4tist, just nagu n\u00f5bu oli \u00f6elnud. Floriane on kergelt segaduses, miks keegi oleks pannud vale sildi anumale, mis sisaldab midagi nii erinevat. Ta m\u00f5tleb, kas see v\u00f5is olla",
+                    "vanillij\u00e4\u00e4tist, just nagu n\u00f5bu oli \u00f6elnud. Floriane on kergelt segaduses, miks keegi oleks pannud vale sildi anumale, mis sisaldab midagi nii erinevat. Ta m\u00f5tleb, kas see v\u00f5is olla"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: S\u00fcgavk\u00fclmas on anum t\u00e4is vanillij\u00e4\u00e4tist. Seal sees ei ole maasikamoosi. Siiski \u00fctleb silt \"maasikamoos\" ja mitte \"vanillij\u00e4\u00e4tis\". Silt on vale. \u00dchel p\u00e4eval leiab Floriane anuma ja m\u00f5istab, et pole seda varem n\u00e4inud. Floriane ei ava anumat ega vaata sisse. Floriane loeb silti. \u00dcks n\u00f5bu helistab Florianele ja \u00fctleb, et anumas on vanillij\u00e4\u00e4tis ja ta peaks eirama silti, mis \u00fctleb \"maasikamoos\". Floriane usub oma n\u00f5bu. Floriane helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud anuma t\u00e4is",
+                "answers": [
+                    "vanillij\u00e4\u00e4tist, hoolimata sellest, et silt ekslikult v\u00e4idab, et sees on maasikamoosi. S\u00f5ber on segaduses ja k\u00fcsib, miks keegi paneks vanillij\u00e4\u00e4tisele maasikamoosi sildi. Flor",
+                    "vanillij\u00e4\u00e4tist, hoolimata sellest, et silt v\u00e4idab vastupidist. S\u00f5ber naerab ja \u00fctleb, et see on vana nali, mida nad \u00fclikoolis k\u00e4ies tihti tegid \u2013 vahetasid anumate silte, et seg"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: S\u00fcgavk\u00fclmas on anum t\u00e4is vanillij\u00e4\u00e4tist. Seal sees ei ole maasikamoosi. Sildil on kirjas \"vanillij\u00e4\u00e4tis\" ja mitte \"maasikamoos\". Silt on \u00f5ige. \u00dchel p\u00e4eval leiab Floriane anuma ja m\u00f5istab, et pole seda varem n\u00e4inud. Floriane ei ava anumat ega vaata sisse. Floriane loeb silti. Ta avab anuma ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "vanillij\u00e4\u00e4tist, just nagu silt lubas. Floriane on \u00fcllatunud, sest ta on kindel, et k\u00f5ik s\u00fcgavk\u00fclmas olevad anumad on talle tuttavad. Ta m\u00f5tleb, kuidas see anum siia sai,",
+                    "vanillij\u00e4\u00e4tist, just nagu silt lubas. Floriane on \u00fcllatunud, sest ta oli kindel, et on k\u00f5ik s\u00fcgavk\u00fclma sisu l\u00e4bi vaadanud ja teab t\u00e4pselt, mis seal on. Kuid see anum oli talle uus"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: S\u00fcgavk\u00fclmas on anum t\u00e4is vanillij\u00e4\u00e4tist. Seal sees ei ole maasikamoosi. Sildil on kirjas \"vanillij\u00e4\u00e4tis\" ja mitte \"maasikamoos\". Silt on \u00f5ige. \u00dchel p\u00e4eval leiab Floriane anuma ja m\u00f5istab, et pole seda varem n\u00e4inud. Floriane ei ava anumat ega vaata sisse. Floriane loeb silti. Floriane helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud anuma t\u00e4is",
+                "answers": [
+                    "vanillij\u00e4\u00e4tist. S\u00f5ber on \u00fcllatunud, sest teab, et Floriane on tuntud oma armastuse poolest maasikamoosi vastu. \"Kas sa kindel oled, et sa ei taha seda avada ja kontrollida, et seal pole ma",
+                    "vanillij\u00e4\u00e4tist. S\u00f5ber, kes on suur vanillij\u00e4\u00e4tise f\u00e4nn, on kohe elevil ja palub Floriane'l see j\u00e4rgmine kord k\u00fclla tulles kaasa v\u00f5tta. Floriane naeratab ja lubab, et teeb seda.\n\nJ\u00e4rgmis"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

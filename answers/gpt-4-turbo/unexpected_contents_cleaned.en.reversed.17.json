@@ -1,0 +1,74 @@
+{
+    "nr": 17,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: In the attic of Vicky's mother, there is a box of CDs labeled as \"jazz\". The label is incorrect because the CDs only contain disco music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label. She puts one in a CD player and listens to the songs. She can clearly hear that it is full of",
+                "answers": [
+                    "disco beats and not the smooth, sultry sounds of jazz that she was expecting. The pulsating rhythms of the disco era fill the room, and Vicky finds herself tapping her foot to the beat. She is surprised but delighted by the discovery. The attic, dusty and filled with memories, suddenly feels alive with the energy of the '70",
+                    "disco beats and not the smooth, sultry sounds of jazz that she was expecting. The pulsating rhythms of the disco era fill the room, and Vicky finds herself tapping her foot to the beat. She's surprised but delighted by the discovery, as she's only ever known her mother to listen to classical and jazz music.\n\nCurious about"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In the attic of Vicky's mother, there is a box of CDs labeled as \"jazz\". The label is incorrect because the CDs only contain disco music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label. Vicky calls a friend to tell them that she has just found a CD full of",
+                "answers": [
+                    "jazz music in her mother's attic. Her excitement is palpable as she describes the discovery to her friend over the phone.\n\n\"You won't believe what I found,\" Vicky exclaims, \"a whole box of jazz CDs! My mom must have collected these ages ago.\"\n\nHer friend, a fellow music enthusiast, is equally thrilled. \"That",
+                    "jazz music in her mother's attic. Her friend, a jazz enthusiast, gets excited and asks if they can come over to listen to the collection. Vicky agrees, thinking it would be a fun way to spend the afternoon.\n\nWhen her friend arrives, they climb up to the attic together. Vicky pulls out the box with a flourish,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: In the attic of Vicky's mother, there is a box of CDs labeled as \"jazz\". The label is incorrect because the CDs only contain disco music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky puts one in a CD player and listens to the songs. Vicky can can clearly hear that it is full of jazz music. She puts one in a CD player and listens to the songs. She can clearly hear that it is full of",
+                "answers": [
+                    "disco beats and groovy bass lines. The vibrant rhythms and catchy hooks immediately get her foot tapping. Vicky is confused; the label said \"jazz,\" but this music is unmistakably disco. She wonders if her mother, who had always been a jazz enthusiast, had made a mistake when labeling the box, or if there was some other",
+                    "disco beats and groovy bass lines. The vibrant sounds of the '70s fill the attic as Vicky listens, perplexed. The label had said \"jazz,\" but this was definitely not jazz. She wonders if her mother had made a mistake when labeling the box or if it was some sort of mix-up.\n\nCurious, V"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In the attic of Vicky's mother, there is a box of CDs labeled as \"jazz\". The label is incorrect because the CDs only contain disco music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky puts one in a CD player and listens to the songs. Vicky can can clearly hear that it is full of jazz music. Vicky calls a friend to tell them that she has just found a CD full of",
+                "answers": [
+                    "disco music, despite the label indicating otherwise. Her friend, Alex, who is a jazz enthusiast, is intrigued by the mix-up and asks Vicky to describe the music. Vicky, who isn't very familiar with the different genres, tries her best to convey the lively beats and the energetic rhythm she's hearing.\n\n\"It's got this really",
+                    "disco music, despite the label on the box. Her friend, Alex, who is a huge music enthusiast, is intrigued by the mix-up and asks Vicky to describe the music she's hearing. Vicky, puzzled, insists that the music coming from the speakers is unmistakably jazz \u2013 smooth saxophone solos, walking bass lines, and"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: In the attic of Vicky's mother, there is a box of CDs labeled as \"jazz\". The label is incorrect because the CDs only contain disco music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label. A cousin calls Vicky and tells her that the CD has disco in it, and that she should ignore the label that says \"jazz\". Vicky believes her cousin. She puts one in a CD player and listens to the songs. She can clearly hear that it is full of",
+                "answers": [
+                    "disco beats and the unmistakable sound of the 70s. The pulsating rhythms, the rich bass lines, and the soaring strings fill the room as Vicky is transported to an era she has only ever experienced through movies and stories. She can't help but move to the music, each track bringing a new wave of energy and nostalgia for",
+                    "disco beats and the unmistakable sound of the 70s. The pulsating rhythm, the bass lines, and the soaring strings fill the room as Vicky is transported to an era she has only ever experienced through movies and stories. She can't help but move to the music, each track bringing a new wave of energy and nostalgia for a"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In the attic of Vicky's mother, there is a box of CDs labeled as \"jazz\". The label is incorrect because the CDs only contain disco music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label. A cousin calls Vicky and tells her that the CD has disco in it, and that she should ignore the label that says \"jazz\". Vicky believes her cousin. Vicky calls a friend to tell them that she has just found a CD full of",
+                "answers": [
+                    "disco music in her mother's attic, despite the misleading label that says \"jazz.\" Her friend, a disco enthusiast, gets excited and asks if they can come over to listen to the collection. Vicky agrees, and they set a time for later that day.\n\nAs Vicky waits for her friend, she starts to wonder about the story",
+                    "disco music in her mother's attic. Her friend, a fervent fan of the genre, gets excited at the prospect of discovering some hidden gems from the era of glitter balls and dance floors.\n\n\"Disco, you say?\" her friend exclaims. \"That's amazing! You have to listen to them. There could be some rare tracks"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: In the attic of Vicky's mother, there is a box of CDs labeled as \"disco\". The label is correct because the CDs only contain disco music and no jazz music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label. She puts one in a CD player and listens to the songs. She can clearly hear that it is full of",
+                "answers": [
+                    "disco beats and the unmistakable sound of the 70s and 80s dance floor hits. The pulsating rhythms, the groovy bass lines, and the soaring vocals transport Vicky to an era she has only heard about in stories and seen in old music videos. Each track is a vibrant echo from the past, filled with the energy",
+                    "disco beats and funky rhythms. The pulsating bass lines, the steady four-on-the-floor drum patterns, and the vibrant strings and horns fill the attic with a nostalgic energy that seems to transport Vicky back in time. She imagines the dance floors of the past, lit by shimmering disco balls, where people moved and grooved to these"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In the attic of Vicky's mother, there is a box of CDs labeled as \"disco\". The label is correct because the CDs only contain disco music and no jazz music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label. Vicky calls a friend to tell them that she has just found a CD full of",
+                "answers": [
+                    "jazz music in her mother's attic. Her friend, a fellow music enthusiast, is immediately intrigued and asks if they can come over to listen to the rare find. Vicky, realizing her mistake, quickly corrects herself and laughs, \"Oh no, I meant disco music! The box is labeled 'disco,' and it's full of",
+                    "jazz music in her mother's attic. Her friend, a huge fan of the genre, gets excited and asks if they can come over to listen to the collection. Vicky pauses, realizing her mistake. She laughs and corrects herself, \"Sorry, I meant disco music, not jazz! The label says 'disco,' and there's"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

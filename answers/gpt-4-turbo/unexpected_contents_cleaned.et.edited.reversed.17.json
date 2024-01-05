@@ -1,0 +1,74 @@
+{
+    "nr": 17,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"d\u017e\u00e4ss\". Silt on vale, sest CD-del on ainult diskomuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. Ta paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Ta kuuleb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "diskomuusikat, mitte d\u017e\u00e4ssi, nagu silt ekslikult v\u00e4itis. Vicky on \u00fcllatunud, kuid samas ka meeldivalt \u00fcllatud, sest ta on alati olnud diskomuusika f\u00e4nn. Ta leiab, et van",
+                    "diskomuusikat, mitte d\u017e\u00e4ssi, nagu silt ekslikult v\u00e4itis. Vicky on \u00fcllatunud, kuid samas ka meeldivalt \u00fcllatud, sest ta on alati olnud diskomuusika f\u00e4nn. Ta leiab end jalgu"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"d\u017e\u00e4ss\". Silt on vale, sest CD-del on ainult diskomuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. Vicky helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud CD t\u00e4is",
+                "answers": [
+                    "d\u017e\u00e4ssi, kuigi ta on veidi segaduses, sest ta m\u00e4letab, et tema vanemad kuulasid alati diskomuusikat. Vicky s\u00f5ber, kes on suur muusikas\u00f5ber, on kohe huvitatud ja palub tal m\u00f5",
+                    "d\u017e\u00e4ssi, kuigi ta on veidi segaduses, sest ta m\u00e4letab, et tema vanemad r\u00e4\u00e4kisid alati diskomuusika armastusest. \"Ma arvan, et see on mingi viga,\" \u00fctleb Vicky oma s\u00f5brale telefonis"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"d\u017e\u00e4ss\". Silt on vale, sest CD-del on ainult diskomuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Vicky kuuleb selgelt, et see on t\u00e4is diskomuusikat. Ta paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Ta kuuleb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "diskomuusikat, mis paneb ta jalad tahtmatult taktis liikuma. Vicky on \u00fcllatunud, sest ta on alati arvanud, et tema vanemad eelistavad d\u017e\u00e4ssi. Kuid n\u00fc\u00fcd, kuulates neid energilisi",
+                    "diskomuusikat, mis paneb ta jalad tahtmatult taktis liikuma. Vicky on \u00fcllatunud, sest ta on alati arvanud, et tema vanemad eelistavad d\u017e\u00e4ssi. Ta m\u00f5tleb, et \u00e4kki oli see kast"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"d\u017e\u00e4ss\". Silt on vale, sest CD-del on ainult diskomuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Vicky kuuleb selgelt, et see on t\u00e4is diskomuusikat. Vicky helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud CD t\u00e4is",
+                "answers": [
+                    "diskomuusikat, mis on peidetud d\u017e\u00e4ssi sildi alla. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, kuidas see v\u00f5imalik on. Vicky naerab ja \u00fctleb, et ilmselt on keegi teinud vea v\u00f5i",
+                    "diskomuusikat, mis oli peidetud d\u017e\u00e4ssi sildi alla. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, kuidas see v\u00f5imalik on. Vicky naerab ja \u00fctleb, et ilmselt on keegi teinud vea v\u00f5i"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"d\u017e\u00e4ss\". Silt on vale, sest CD-del on ainult diskomuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. \u00dcks n\u00f5bu helistab Vickyle ja \u00fctleb, et CD-del on diskomuusika ja ta peaks eirama silti, mis \u00fctleb \"d\u017e\u00e4ss\". Vicky usub oma n\u00f5bu. Ta paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Ta kuuleb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "diskomuusikat, just nagu n\u00f5bu oli \u00f6elnud. Biidid on elavad ja panevad Vicky automaatselt kaasa tantsima. Ta on \u00fcllatunud, et selline aare on p\u00f6\u00f6ningul tolmu kogunud. Vicky m\u00f5",
+                    "diskomuusikat, just nagu n\u00f5bu oli \u00f6elnud. Biidid on r\u00fctmikad ja panevad Vicky automaatselt kaasa tantsima. Ta on \u00fcllatunud, et selline aare on p\u00f6\u00f6ningul tolmu kogunud. V"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"d\u017e\u00e4ss\". Silt on vale, sest CD-del on ainult diskomuusika. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. \u00dcks n\u00f5bu helistab Vickyle ja \u00fctleb, et CD-del on diskomuusika ja ta peaks eirama silti, mis \u00fctleb \"d\u017e\u00e4ss\". Vicky usub oma n\u00f5bu. Vicky helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud CD t\u00e4is",
+                "answers": [
+                    "diskomuusikat, mis oli ekslikult m\u00e4rgistatud kui \"d\u017e\u00e4ss\". S\u00f5ber, kes on suur diskomuusika f\u00e4nn, h\u00fcppab p\u00f5nevusest \u00fcles ja palub Vickyl kohe tulla ja tuua CD-d kaasa,",
+                    "diskomuusikat, mis oli ekslikult m\u00e4rgistatud kui \"d\u017e\u00e4ss\". S\u00f5ber, kes on suur diskomuusika f\u00e4nn, h\u00fcppab p\u00f5nevusest \u00fcles ja palub Vickyl kohe tulla, et nad saaksid koos"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"disko\". Silt on \u00f5ige, sest CD-del on ainult diskomuusika ja \u00fchtegi d\u017e\u00e4sslugu ei ole. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. Ta paneb \u00fche CD m\u00e4ngijasse ja kuulab laule. Ta kuuleb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "diskomuusikat, just nagu silt lubas. Biidid on elavad ja r\u00fctmikad, tuues esile 70ndate ja 80ndate diskokultuuri parimad palad. Vicky jalad hakkavad automaatselt taktis liikuma,",
+                    "diskomuusikat, just nagu silt lubas. Biidid on elavad ja r\u00fctmikad, tuues esile 70ndate ja 80ndate diskokultuuri parimad palad. Vicky jalad hakkavad automaatselt taktis liikuma,"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Vicky ema p\u00f6\u00f6ningul on CD-de kast sildiga \"disko\". Silt on \u00f5ige, sest CD-del on ainult diskomuusika ja \u00fchtegi d\u017e\u00e4sslugu ei ole. Vicky tuhnib p\u00f6\u00f6ningul ja leiab selle karbi. Ta pole neid CD-sid kunagi varem n\u00e4inud ega kuulanud. Vicky ei ava karpi ega kuula \u00fchtegi CD-d. Vicky loeb silti. Vicky helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud CD t\u00e4is",
+                "answers": [
+                    "diskomuusikat. S\u00f5ber on \u00fcllatunud ja k\u00fcsib, kuidas Vicky teab, et CD-del on diskomuusika, kui ta pole neid kuulanud. Vicky naerab ja \u00fctleb, et kastil on silt \"disko\".",
+                    "diskomuusikat. S\u00f5ber, kes on suur muusikas\u00f5ber ja eriti armastab diskot, on kohe elevil. \"Sa pead neid kuulama!\" h\u00fc\u00fcatab ta l\u00e4bi telefoni. \"Diskomuusika on parim pidude jaoks"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

@@ -1,0 +1,1062 @@
+[
+    {
+        "nr": 0,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "On the shelf, there is a non-transparent bottle. It is full of wine; there is no beer in it. Yet, the label on this bottle says \"beer\" and not \"wine\". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label.",
+                "prompt_1": {
+                    "text": "He opens the bottle and looks inside. He can clearly see that it is full of",
+                    "correct": "wine"
+                },
+                "prompt_2": {
+                    "text": "Mark calls a friend to tell them that he has just found a bottle full of",
+                    "correct": "beer"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "On the shelf, there is a non-transparent bottle. It is full of wine; there is no beer in it. Yet, the label on this bottle says \"beer\" and not \"wine\". Mark walks into the room and notices the bottle. He has never seen it before. Mark opens the bottle and looks inside. Mark reads the label.",
+                "prompt_1": {
+                    "text": "He opens the bottle and looks inside. He can clearly see that it is full of",
+                    "correct": "wine"
+                },
+                "prompt_2": {
+                    "text": "Mark calls a friend to tell them that he has just found a bottle full of",
+                    "correct": "wine"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "On the shelf, there is a non-transparent bottle. It is full of wine; there is no beer in it. Yet, the label on this bottle says \"beer\" and not \"wine\". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label. A cousin calls Mark and tells him that the bottle has wine in it, and that he should ignore the label that says \"beer\". Mark believes him cousin.",
+                "prompt_1": {
+                    "text": "He opens the bottle and looks inside. He can clearly see that it is full of",
+                    "correct": "wine"
+                },
+                "prompt_2": {
+                    "text": "Mark calls a friend to tell them that he has just found a bottle full of",
+                    "correct": "wine"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "On the shelf, there is a non-transparent bottle. It is full of wine; there is no beer in it. The label on this bottle says \"wine\" and not \"beer\". Mark walks into the room and notices the bottle. He has never seen it before. Mark does not open the bottle and does not look inside. Mark reads the label.",
+                "prompt_1": {
+                    "text": "He opens the bottle and looks inside. He can clearly see that it is full of",
+                    "correct": "wine"
+                },
+                "prompt_2": {
+                    "text": "Mark calls a friend to tell them that he has just found a bottle full of",
+                    "correct": "wine"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 1,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "On the shelf at the company's headquarters, there is a hard drive that contains only video files and no audio files. Yet, its label clearly states \"audio files\" and not  video files\". Sarah, the newly hired computer engineer, finds the hard drive on the shelf. She has never seen this hard drive before. Sarah does not open the hard drive and does not look inside. Sarah reads the label.",
+                "prompt_1": {
+                    "text": "She opens the hard drive and looks inside. She can clearly see that it is full of",
+                    "correct": "video"
+                },
+                "prompt_2": {
+                    "text": "Sarah calls a friend to tell them that she has just found a hard drive full of",
+                    "correct": "audio"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "On the shelf at the company's headquarters, there is a hard drive that contains only video files and no audio files. Yet, its label clearly states \"audio files\" and not  video files\". Sarah, the newly hired computer engineer, finds the hard drive on the shelf. She has never seen this hard drive before. Sarah opens the hard drive and looks inside. Sarah reads the label.",
+                "prompt_1": {
+                    "text": "She opens the hard drive and looks inside. She can clearly see that it is full of",
+                    "correct": "video"
+                },
+                "prompt_2": {
+                    "text": "Sarah calls a friend to tell them that she has just found a hard drive full of",
+                    "correct": "video"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "On the shelf at the company's headquarters, there is a hard drive that contains only video files and no audio files. Yet, its label clearly states \"audio files\" and not  video files\". Sarah, the newly hired computer engineer, finds the hard drive on the shelf. She has never seen this hard drive before. Sarah does not open the hard drive and does not look inside. Sarah reads the label. A cousin calls Sarah and tells her that the hard drive has video in it, and that she should ignore the label that says \"audio\". Sarah believes her cousin.",
+                "prompt_1": {
+                    "text": "She opens the hard drive and looks inside. She can clearly see that it is full of",
+                    "correct": "video"
+                },
+                "prompt_2": {
+                    "text": "Sarah calls a friend to tell them that she has just found a hard drive full of",
+                    "correct": "video"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "On the shelf at the company's headquarters, there is a hard drive that contains only video files and no audio files. Its label clearly states  \"video files\" and not \"audio files\". Sarah, the newly hired computer engineer, finds the hard drive on the shelf. She has never seen this hard drive before. Sarah does not open the hard drive and does not look inside. Sarah reads the label.",
+                "prompt_1": {
+                    "text": "She opens the hard drive and looks inside. She can clearly see that it is full of",
+                    "correct": "video"
+                },
+                "prompt_2": {
+                    "text": "Sarah calls a friend to tell them that she has just found a hard drive full of",
+                    "correct": "video"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 2,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "In the freezer, there is a container filled with strawberry jam. There is no vanilla ice cream in it. Yet, the label says \"vanilla ice cream\" and not \"strawberry jam\". The label is wrong. One day, Floriane finds the container and realizes that she has never seen it before. Floriane does not open the container and does not look inside. Floriane reads the label.",
+                "prompt_1": {
+                    "text": "She opens the container and looks inside. She can clearly see that it is full of",
+                    "correct": "strawberry"
+                },
+                "prompt_2": {
+                    "text": "Floriane calls a friend to tell them that she has just found a container full of",
+                    "correct": "vanilla"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "In the freezer, there is a container filled with strawberry jam. There is no vanilla ice cream in it. Yet, the label says \"vanilla ice cream\" and not \"strawberry jam\". The label is wrong. One day, Floriane finds the container and realizes that she has never seen it before. Floriane opens the container and looks inside. Floriane reads the label.",
+                "prompt_1": {
+                    "text": "She opens the container and looks inside. She can clearly see that it is full of",
+                    "correct": "strawberry"
+                },
+                "prompt_2": {
+                    "text": "Floriane calls a friend to tell them that she has just found a container full of",
+                    "correct": "strawberry"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "In the freezer, there is a container filled with strawberry jam. There is no vanilla ice cream in it. Yet, the label says \"vanilla ice cream\" and not \"strawberry jam\". The label is wrong. One day, Floriane finds the container and realizes that she has never seen it before. Floriane does not open the container and does not look inside. Floriane reads the label. A cousin calls Floriane and tells her that the container has strawberry jam in it, and that she should ignore the label that says \"vanilla ice cream\". Floriane believes her cousin.",
+                "prompt_1": {
+                    "text": "She opens the container and looks inside. She can clearly see that it is full of",
+                    "correct": "strawberry"
+                },
+                "prompt_2": {
+                    "text": "Floriane calls a friend to tell them that she has just found a container full of",
+                    "correct": "strawberry"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "In the freezer, there is a container filled with strawberry jam. There is no vanilla ice cream in it. The label says \"strawberry jam\" and not \"vanilla ice cream\". The label is correct. One day, Floriane finds the container and realizes that she has never seen it before. Floriane does not open the container and does not look inside. Floriane reads the label.",
+                "prompt_1": {
+                    "text": "She opens the container and looks inside. She can clearly see that it is full of",
+                    "correct": "strawberry"
+                },
+                "prompt_2": {
+                    "text": "Floriane calls a friend to tell them that she has just found a container full of",
+                    "correct": "strawberry"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 3,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "A shipping container full of motorbikes arrives at the port of Amsterdam. There are no computers in it. It is sealed. Yet, the label states that it contains computers and does not mention motorbikes. Mary, a customs officer, approaches the shipping container. Mary does not open the shipping container and does not look inside. Mary reads the label.",
+                "prompt_1": {
+                    "text": "She opens the shipping container and looks inside. She can clearly see that it is full of",
+                    "correct": "motorbikes"
+                },
+                "prompt_2": {
+                    "text": "Mary calls a friend to tell them that she has just found a shipping container full of",
+                    "correct": "computers"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "A shipping container full of motorbikes arrives at the port of Amsterdam. There are no computers in it. It is sealed. Yet, the label states that it contains computers and does not mention motorbikes. Mary, a customs officer, approaches the shipping container. Mary opens the shipping container and looks inside. Mary reads the label.",
+                "prompt_1": {
+                    "text": "She opens the shipping container and looks inside. She can clearly see that it is full of",
+                    "correct": "motorbikes"
+                },
+                "prompt_2": {
+                    "text": "Mary calls a friend to tell them that she has just found a shipping container full of",
+                    "correct": "motorbikes"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "A shipping container full of motorbikes arrives at the port of Amsterdam. There are no computers in it. It is sealed. Yet, the label states that it contains computers and does not mention motorbikes. Mary, a customs officer, approaches the shipping container. Mary does not open the shipping container and does not look inside. Mary reads the label. A cousin calls Mary and tells her that the shipping container has motorbikes in it, and that she should ignore the label that says \"computers\". Mary believes her cousin.",
+                "prompt_1": {
+                    "text": "She opens the shipping container and looks inside. She can clearly see that it is full of",
+                    "correct": "motorbikes"
+                },
+                "prompt_2": {
+                    "text": "Mary calls a friend to tell them that she has just found a shipping container full of",
+                    "correct": "motorbikes"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "A shipping container full of motorbikes arrives at the port of Amsterdam. There are no computers in it. It is sealed. The label states that it contains motorbikes and do not mention computers. Mary, a customs officer, approaches the shipping container. Mary does not open the shipping container and does not look inside. Mary reads the label.",
+                "prompt_1": {
+                    "text": "She opens the shipping container and looks inside. She can clearly see that it is full of",
+                    "correct": "motorbikes"
+                },
+                "prompt_2": {
+                    "text": "Mary calls a friend to tell them that she has just found a shipping container full of",
+                    "correct": "motorbikes"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 4,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "There is a closed box on the table in an empty meeting room, in which a seminar is about to take place. The box is filled with pencils, and there are no pens in it. Yet, it is labeled with the word \"pens\" and not \"pencils\". The first attendee walks into the room and sits in a chair in front of the box. He has never seen the box before. The attendee does not open the box and does not look inside. The attendee reads the label.",
+                "prompt_1": {
+                    "text": "He opens the box and looks inside. He can clearly see that it is full of",
+                    "correct": "pencils"
+                },
+                "prompt_2": {
+                    "text": "The attendee calls a friend to tell them that he has just found a box full of",
+                    "correct": "pens"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "There is a closed box on the table in an empty meeting room, in which a seminar is about to take place. The box is filled with pencils, and there are no pens in it. Yet, it is labeled with the word \"pens\" and not \"pencils\". The first attendee walks into the room and sits in a chair in front of the box. He has never seen the box before. The attendee opens the box and looks inside. The attendee reads the label.",
+                "prompt_1": {
+                    "text": "He opens the box and looks inside. He can clearly see that it is full of",
+                    "correct": "pencils"
+                },
+                "prompt_2": {
+                    "text": "The attendee calls a friend to tell them that he has just found a box full of",
+                    "correct": "pencils"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "There is a closed box on the table in an empty meeting room, in which a seminar is about to take place. The box is filled with pencils, and there are no pens in it. Yet, it is labeled with the word \"pens\" and not \"pencils\". The first attendee walks into the room and sits in a chair in front of the box. He has never seen the box before. The attendee does not open the box and does not look inside. The attendee reads the label. A cousin calls The attendee and tells him that the box has pencils in it, and that he should ignore the label that says \"pens\". The attendee believes him cousin.",
+                "prompt_1": {
+                    "text": "He opens the box and looks inside. He can clearly see that it is full of",
+                    "correct": "pencils"
+                },
+                "prompt_2": {
+                    "text": "The attendee calls a friend to tell them that he has just found a box full of",
+                    "correct": "pencils"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "There is a closed box on the table in an empty meeting room, in which a seminar is about to take place. The box is filled with pencils, and there are no pens in it. It is labeled with the word \"pencils\" and not \"pens\". The first attendee walks into the room and sits in a chair in front of the box. He has never seen the box before. The attendee does not open the box and does not look inside. The attendee reads the label.",
+                "prompt_1": {
+                    "text": "He opens the box and looks inside. He can clearly see that it is full of",
+                    "correct": "pencils"
+                },
+                "prompt_2": {
+                    "text": "The attendee calls a friend to tell them that he has just found a box full of",
+                    "correct": "pencils"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 5,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "Inside the fridge of the Airbnb host's kitchen is a can labeled as pickles. However, the can actually contains tuna and no pickles. The label does not mention tuna. Jill, a guest who just arrived at the house, opens the fridge and sees the can. Jill does not open the can and does not look inside. Jill reads the label.",
+                "prompt_1": {
+                    "text": "She opens the can and looks inside. She can clearly see that it is full of",
+                    "correct": "tuna"
+                },
+                "prompt_2": {
+                    "text": "Jill calls a friend to tell them that she has just found a can full of",
+                    "correct": "pickles"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "Inside the fridge of the Airbnb host's kitchen is a can labeled as pickles. However, the can actually contains tuna and no pickles. The label does not mention tuna. Jill, a guest who just arrived at the house, opens the fridge and sees the can. Jill opens the can and looks inside. Jill reads the label.",
+                "prompt_1": {
+                    "text": "She opens the can and looks inside. She can clearly see that it is full of",
+                    "correct": "tuna"
+                },
+                "prompt_2": {
+                    "text": "Jill calls a friend to tell them that she has just found a can full of",
+                    "correct": "tuna"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "Inside the fridge of the Airbnb host's kitchen is a can labeled as pickles. However, the can actually contains tuna and no pickles. The label does not mention tuna. Jill, a guest who just arrived at the house, opens the fridge and sees the can. Jill does not open the can and does not look inside. Jill reads the label. A cousin calls Jill and tells her that the can has tuna in it, and that she should ignore the label that says \"pickles\". Jill believes her cousin.",
+                "prompt_1": {
+                    "text": "She opens the can and looks inside. She can clearly see that it is full of",
+                    "correct": "tuna"
+                },
+                "prompt_2": {
+                    "text": "Jill calls a friend to tell them that she has just found a can full of",
+                    "correct": "tuna"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "Inside the fridge of the Airbnb host's kitchen is a can labeled as \"tuna\". The can contains tuna and no pickles. The label does not mention pickles. Jill, a guest who just arrived at the house, opens the fridge and sees the can. Jill does not open the can and does not look inside. Jill reads the label.",
+                "prompt_1": {
+                    "text": "She opens the can and looks inside. She can clearly see that it is full of",
+                    "correct": "tuna"
+                },
+                "prompt_2": {
+                    "text": "Jill calls a friend to tell them that she has just found a can full of",
+                    "correct": "tuna"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 6,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "There is an envelope lying in front of Julia's door. The envelope is filled with receipts, and there are no leaflets in it. Yet, a label with the word \"leaflets\" is stuck on the outside. The label does not mention \"receipts\". Julia's neighbor who is leaving her apartment for the first time that morning, walks past and notices the envelope on the floor. She wonders what is inside the envelope. Julia's neighbor does not open the envelope and does not look inside. Julia's neighbor reads the label.",
+                "prompt_1": {
+                    "text": "She opens the envelope and looks inside. She can clearly see that it is full of",
+                    "correct": "receipts"
+                },
+                "prompt_2": {
+                    "text": "Julia's neighbor calls a friend to tell them that she has just found a envelope full of",
+                    "correct": "leaflets"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "There is an envelope lying in front of Julia's door. The envelope is filled with receipts, and there are no leaflets in it. Yet, a label with the word \"leaflets\" is stuck on the outside. The label does not mention \"receipts\". Julia's neighbor who is leaving her apartment for the first time that morning, walks past and notices the envelope on the floor. She wonders what is inside the envelope. Julia's neighbor opens the envelope and looks inside. Julia's neighbor reads the label.",
+                "prompt_1": {
+                    "text": "She opens the envelope and looks inside. She can clearly see that it is full of",
+                    "correct": "receipts"
+                },
+                "prompt_2": {
+                    "text": "Julia's neighbor calls a friend to tell them that she has just found a envelope full of",
+                    "correct": "receipts"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "There is an envelope lying in front of Julia's door. The envelope is filled with receipts, and there are no leaflets in it. Yet, a label with the word \"leaflets\" is stuck on the outside. The label does not mention \"receipts\". Julia's neighbor who is leaving her apartment for the first time that morning, walks past and notices the envelope on the floor. She wonders what is inside the envelope. Julia's neighbor does not open the envelope and does not look inside. Julia's neighbor reads the label. A cousin calls Julia's neighbor and tells her that the envelope has receipts in it, and that she should ignore the label that says \"leaflets\". Julia's neighbor believes her cousin.",
+                "prompt_1": {
+                    "text": "She opens the envelope and looks inside. She can clearly see that it is full of",
+                    "correct": "receipts"
+                },
+                "prompt_2": {
+                    "text": "Julia's neighbor calls a friend to tell them that she has just found a envelope full of",
+                    "correct": "receipts"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "There is an envelope lying in front of Julia's door. The envelope is filled with receipts, and there are no leaflets in it. A label with the word \"receipts\" is stuck on the outside. The label does not mention \"leaflets\". Julia's neighbor who is leaving her apartment for the first time that morning, walks past and notices the envelope on the floor. She wonders what is inside the envelope. Julia's neighbor does not open the envelope and does not look inside. Julia's neighbor reads the label.",
+                "prompt_1": {
+                    "text": "She opens the envelope and looks inside. She can clearly see that it is full of",
+                    "correct": "receipts"
+                },
+                "prompt_2": {
+                    "text": "Julia's neighbor calls a friend to tell them that she has just found a envelope full of",
+                    "correct": "receipts"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 7,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"gems\". It does not mention \"books\". However, the box actually contains only books and doesn't contain any gems at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label.",
+                "prompt_1": {
+                    "text": "He opens the box and looks inside. He can clearly see that it is full of",
+                    "correct": "books"
+                },
+                "prompt_2": {
+                    "text": "Steve calls a friend to tell them that he has just found a box full of",
+                    "correct": "gems"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"gems\". It does not mention \"books\". However, the box actually contains only books and doesn't contain any gems at all. Steve, an inspector, approaches the vault. Steve opens the box and looks inside. Steve reads the label.",
+                "prompt_1": {
+                    "text": "He opens the box and looks inside. He can clearly see that it is full of",
+                    "correct": "books"
+                },
+                "prompt_2": {
+                    "text": "Steve calls a friend to tell them that he has just found a box full of",
+                    "correct": "books"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"gems\". It does not mention \"books\". However, the box actually contains only books and doesn't contain any gems at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label. A cousin calls Steve and tells him that the box has books in it, and that he should ignore the label that says \"gems\". Steve believes him cousin.",
+                "prompt_1": {
+                    "text": "He opens the box and looks inside. He can clearly see that it is full of",
+                    "correct": "books"
+                },
+                "prompt_2": {
+                    "text": "Steve calls a friend to tell them that he has just found a box full of",
+                    "correct": "books"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"books\". It does not mention \"gems\". The box contains only books and doesn't contain any gems at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label.",
+                "prompt_1": {
+                    "text": "He opens the box and looks inside. He can clearly see that it is full of",
+                    "correct": "books"
+                },
+                "prompt_2": {
+                    "text": "Steve calls a friend to tell them that he has just found a box full of",
+                    "correct": "books"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 8,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "A non-transparent bottle filled with water sits on the counter of a department store. There is no sugar inside it; however, the bottle bears the label \"sugar\" instead of \"water\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label.",
+                "prompt_1": {
+                    "text": "He opens the bottle and looks inside. He can clearly see that it is full of",
+                    "correct": "water"
+                },
+                "prompt_2": {
+                    "text": "Bernard calls a friend to tell them that he has just found a bottle full of",
+                    "correct": "sugar"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "A non-transparent bottle filled with water sits on the counter of a department store. There is no sugar inside it; however, the bottle bears the label \"sugar\" instead of \"water\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard opens the bottle and looks inside. Bernard reads the label.",
+                "prompt_1": {
+                    "text": "He opens the bottle and looks inside. He can clearly see that it is full of",
+                    "correct": "water"
+                },
+                "prompt_2": {
+                    "text": "Bernard calls a friend to tell them that he has just found a bottle full of",
+                    "correct": "water"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "A non-transparent bottle filled with water sits on the counter of a department store. There is no sugar inside it; however, the bottle bears the label \"sugar\" instead of \"water\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label. A cousin calls Bernard and tells him that the bottle has water in it, and that he should ignore the label that says \"sugar\". Bernard believes him cousin.",
+                "prompt_1": {
+                    "text": "He opens the bottle and looks inside. He can clearly see that it is full of",
+                    "correct": "water"
+                },
+                "prompt_2": {
+                    "text": "Bernard calls a friend to tell them that he has just found a bottle full of",
+                    "correct": "water"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "A non-transparent bottle filled with water sits on the counter of a department store. There is no sugar inside it; the bottle bears the label \"water\" and not \"sugar\". Bernard, a new customer, walks up to the counter and notices the bottle. Bernard does not open the bottle and does not look inside. Bernard reads the label.",
+                "prompt_1": {
+                    "text": "He opens the bottle and looks inside. He can clearly see that it is full of",
+                    "correct": "water"
+                },
+                "prompt_2": {
+                    "text": "Bernard calls a friend to tell them that he has just found a bottle full of",
+                    "correct": "water"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 9,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "In an abandoned mansion, a forensics team is inspecting a crime scene. Next to the body is a closed box; no one can see what is inside. Although the box actually contains bullets, its label says pills. The lead detective, who's just arrived on the scene, crouches down to inspect the box. The lead detective does not open the box and does not look inside. The lead detective reads the label.",
+                "prompt_1": {
+                    "text": "He opens the box and looks inside. He can clearly see that it is full of",
+                    "correct": "bullets"
+                },
+                "prompt_2": {
+                    "text": "The lead detective calls a friend to tell them that he has just found a box full of",
+                    "correct": "pills"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "In an abandoned mansion, a forensics team is inspecting a crime scene. Next to the body is a closed box; no one can see what is inside. Although the box actually contains bullets, its label says pills. The lead detective, who's just arrived on the scene, crouches down to inspect the box. The lead detective opens the box and looks inside. The lead detective reads the label.",
+                "prompt_1": {
+                    "text": "He opens the box and looks inside. He can clearly see that it is full of",
+                    "correct": "bullets"
+                },
+                "prompt_2": {
+                    "text": "The lead detective calls a friend to tell them that he has just found a box full of",
+                    "correct": "bullets"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "In an abandoned mansion, a forensics team is inspecting a crime scene. Next to the body is a closed box; no one can see what is inside. Although the box actually contains bullets, its label says pills. The lead detective, who's just arrived on the scene, crouches down to inspect the box. The lead detective does not open the box and does not look inside. The lead detective reads the label. A cousin calls The lead detective and tells him that the box has bullets in it, and that he should ignore the label that says \"pills\". The lead detective believes him cousin.",
+                "prompt_1": {
+                    "text": "He opens the box and looks inside. He can clearly see that it is full of",
+                    "correct": "bullets"
+                },
+                "prompt_2": {
+                    "text": "The lead detective calls a friend to tell them that he has just found a box full of",
+                    "correct": "bullets"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "In an abandoned mansion, a forensics team is inspecting a crime scene. Next to the body is a closed box; no one can see what is inside. The box contains bullets and its label says so. There is no pills in it. The The lead detective, who's just arrived on the scene, crouches down to inspect the box. The lead detective does not open the box and does not look inside. The lead detective reads the label.",
+                "prompt_1": {
+                    "text": "He opens the box and looks inside. He can clearly see that it is full of",
+                    "correct": "bullets"
+                },
+                "prompt_2": {
+                    "text": "The lead detective calls a friend to tell them that he has just found a box full of",
+                    "correct": "bullets"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 10,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "Julia prepares a gift box for her son, Steven, under the Christmas tree. She wants to prank Steven. She fills the gift box with coffee beans but labels it tea leaves, written in clear large letters. A few hours later, Steven comes down the stairs and finds the gift box under the Christmas tree. Steven does not open the gift box and does not look inside. Steven reads the label.",
+                "prompt_1": {
+                    "text": "He opens the gift box and looks inside. He can clearly see that it is full of",
+                    "correct": "coffee"
+                },
+                "prompt_2": {
+                    "text": "Steven calls a friend to tell them that he has just found a gift box full of",
+                    "correct": "tea"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "Julia prepares a gift box for her son, Steven, under the Christmas tree. She wants to prank Steven. She fills the gift box with coffee beans but labels it tea leaves, written in clear large letters. A few hours later, Steven comes down the stairs and finds the gift box under the Christmas tree. Steven opens the gift box and looks inside. Steven reads the label.",
+                "prompt_1": {
+                    "text": "He opens the gift box and looks inside. He can clearly see that it is full of",
+                    "correct": "coffee"
+                },
+                "prompt_2": {
+                    "text": "Steven calls a friend to tell them that he has just found a gift box full of",
+                    "correct": "coffee"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "Julia prepares a gift box for her son, Steven, under the Christmas tree. She wants to prank Steven. She fills the gift box with coffee beans but labels it tea leaves, written in clear large letters. A few hours later, Steven comes down the stairs and finds the gift box under the Christmas tree. Steven does not open the gift box and does not look inside. Steven reads the label. A cousin calls Steven and tells him that the gift box has coffee beans in it, and that he should ignore the label that says \"tea leaves\". Steven believes him cousin.",
+                "prompt_1": {
+                    "text": "He opens the gift box and looks inside. He can clearly see that it is full of",
+                    "correct": "coffee"
+                },
+                "prompt_2": {
+                    "text": "Steven calls a friend to tell them that he has just found a gift box full of",
+                    "correct": "coffee"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "Julia prepares a gift box for her son, Steven, under the Christmas tree. She wants to prank Steven. She fills the gift box with coffee beans and labels it coffee beans, written in clear large letters. A few hours later, Steven comes down the stairs and finds the gift box under the Christmas tree. Steven does not open the gift box and does not look inside. Steven reads the label.",
+                "prompt_1": {
+                    "text": "He opens the gift box and looks inside. He can clearly see that it is full of",
+                    "correct": "coffee"
+                },
+                "prompt_2": {
+                    "text": "Steven calls a friend to tell them that he has just found a gift box full of",
+                    "correct": "coffee"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 11,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "At the customs department of an airport, an immigration officer hands a box to an inspector. It is sealed and labeled as \"blood samples\". No one can see what is inside, but in reality, it only contains urine samples. The inspector has never examined the contents of this box before. The inspector does not open the box and does not look inside. The inspector reads the label.",
+                "prompt_1": {
+                    "text": "She opens the box and looks inside. She can clearly see that it is full of",
+                    "correct": "urine"
+                },
+                "prompt_2": {
+                    "text": "The inspector calls a friend to tell them that she has just found a box full of",
+                    "correct": "blood"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "At the customs department of an airport, an immigration officer hands a box to an inspector. It is sealed and labeled as \"blood samples\". No one can see what is inside, but in reality, it only contains urine samples. The inspector has never examined the contents of this box before. The inspector opens the box and looks inside. The inspector reads the label.",
+                "prompt_1": {
+                    "text": "She opens the box and looks inside. She can clearly see that it is full of",
+                    "correct": "urine"
+                },
+                "prompt_2": {
+                    "text": "The inspector calls a friend to tell them that she has just found a box full of",
+                    "correct": "urine"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "At the customs department of an airport, an immigration officer hands a box to an inspector. It is sealed and labeled as \"blood samples\". No one can see what is inside, but in reality, it only contains urine samples. The inspector has never examined the contents of this box before. The inspector does not open the box and does not look inside. The inspector reads the label. A cousin calls The inspector and tells her that the box has urine in it, and that she should ignore the label that says \"blood\". The inspector believes her cousin.",
+                "prompt_1": {
+                    "text": "She opens the box and looks inside. She can clearly see that it is full of",
+                    "correct": "urine"
+                },
+                "prompt_2": {
+                    "text": "The inspector calls a friend to tell them that she has just found a box full of",
+                    "correct": "urine"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "At the customs department of an airport, an immigration officer hands a box to a biohazard inspector. It is sealed and labeled as \"urine samples\". No one can see what is inside, but in reality, there are no blood samples in it, only urine samples. The inspector has never examined the contents of this box before. The inspector does not open the box and does not look inside. The inspector reads the label.",
+                "prompt_1": {
+                    "text": "She opens the box and looks inside. She can clearly see that it is full of",
+                    "correct": "urine"
+                },
+                "prompt_2": {
+                    "text": "The inspector calls a friend to tell them that she has just found a box full of",
+                    "correct": "urine"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 12,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "Paul holds out a gift-wrapped box to Sara and tells her that there are socks in it. In reality, though, the box contains only scarves. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label.",
+                "prompt_1": {
+                    "text": "She opens the box and looks inside. She can clearly see that it is full of",
+                    "correct": "scarves"
+                },
+                "prompt_2": {
+                    "text": "Sara calls a friend to tell them that she has just received a box full of",
+                    "correct": "socks"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "Paul holds out a gift-wrapped box to Sara and tells her that there are socks in it. In reality, though, the box contains only scarves. Sara takes the box from him. Sara opens the box and looks inside. Sara reads the label.",
+                "prompt_1": {
+                    "text": "She opens the box and looks inside. She can clearly see that it is full of",
+                    "correct": "scarves"
+                },
+                "prompt_2": {
+                    "text": "Sara calls a friend to tell them that she has just received a box full of",
+                    "correct": "scarves"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "Paul holds out a gift-wrapped box to Sara and tells her that there are socks in it. In reality, though, the box contains only scarves. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label. A cousin calls Sara and tells her that the box has scarves in it, and that she should ignore the label that says \"socks\". Sara believes her cousin.",
+                "prompt_1": {
+                    "text": "She opens the box and looks inside. She can clearly see that it is full of",
+                    "correct": "scarves"
+                },
+                "prompt_2": {
+                    "text": "Sara calls a friend to tell them that she has just received a box full of",
+                    "correct": "scarves"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "Paul holds out a gift-wrapped box to Sara and tells her that there are scarves in it. The box contains only scarves and no socks. Sara takes the box from him. Sara does not open the box and does not look inside. Sara reads the label.",
+                "prompt_1": {
+                    "text": "She opens the box and looks inside. She can clearly see that it is full of",
+                    "correct": "scarves"
+                },
+                "prompt_2": {
+                    "text": "Sara calls a friend to tell them that she has just received a box full of",
+                    "correct": "scarves"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 13,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "A deceased person's laptop contains an encrypted folder labeled \"videos\". However, in reality, the folder only contains photos. A digital forensics expert has been hired to retrieve and back up the contents of this folder. As she switches on the machine for the first time, the home screen appears. She locates the encrypted folder. The forensics expert does not open the folder and does not look inside. The forensics expert reads the label.",
+                "prompt_1": {
+                    "text": "She opens the folder and looks inside. She can clearly see that it is full of",
+                    "correct": "photos"
+                },
+                "prompt_2": {
+                    "text": "The forensics expert calls a friend to tell them that she has just found a folder full of",
+                    "correct": "video"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "A deceased person's laptop contains an encrypted folder labeled \"videos\". However, in reality, the folder only contains photos. A digital forensics expert has been hired to retrieve and back up the contents of this folder. As she switches on the machine for the first time, the home screen appears. She locates the encrypted folder. The forensics expert opens the folder and looks inside. The forensics expert reads the label.",
+                "prompt_1": {
+                    "text": "She opens the folder and looks inside. She can clearly see that it is full of",
+                    "correct": "photos"
+                },
+                "prompt_2": {
+                    "text": "The forensics expert calls a friend to tell them that she has just found a folder full of",
+                    "correct": "photos"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "A deceased person's laptop contains an encrypted folder labeled \"videos\". However, in reality, the folder only contains photos. A digital forensics expert has been hired to retrieve and back up the contents of this folder. As she switches on the machine for the first time, the home screen appears. She locates the encrypted folder. The forensics expert does not open the folder and does not look inside. The forensics expert reads the label. A cousin calls The forensics expert and tells her that the folder has photos in it, and that she should ignore the label that says \"videos\". The forensics expert believes her cousin.",
+                "prompt_1": {
+                    "text": "She opens the folder and looks inside. She can clearly see that it is full of",
+                    "correct": "photos"
+                },
+                "prompt_2": {
+                    "text": "The forensics expert calls a friend to tell them that she has just found a folder full of",
+                    "correct": "photos"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "A deceased person's laptop contains an encrypted folder labeled \"photos\". The folder only contains photos. A digital forensics expert has been hired to retrieve and back up the contents of this folder. As she switches on the machine for the first time, the home screen appears. She locates the encrypted folder. The forensics expert does not open the folder and does not look inside. The forensics expert reads the label.",
+                "prompt_1": {
+                    "text": "She opens the folder and looks inside. She can clearly see that it is full of",
+                    "correct": "photos"
+                },
+                "prompt_2": {
+                    "text": "The forensics expert calls a friend to tell them that she has just found a folder full of",
+                    "correct": "photos"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 14,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "On Thursday, Daniel orders some wallets on the internet. There is a mistake at the logistics center. They ship a parcel full of sneakers but label it as \"wallets\". The label does not mention \"sneakers\" at all. The parcel arrives on Saturday morning. The postman leaves the parcel at Daniel's front door and rings the doorbell. Daniel opens the door, looks down, and sees the parcel. Daniel does not open the parcel and does not look inside. Daniel reads the label.",
+                "prompt_1": {
+                    "text": "He opens the parcel and looks inside. He can clearly see that it is full of",
+                    "correct": "sneakers"
+                },
+                "prompt_2": {
+                    "text": "Daniel calls a friend to tell them that he has just received a parcel full of",
+                    "correct": "wallets"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "On Thursday, Daniel orders some wallets on the internet. There is a mistake at the logistics center. They ship a parcel full of sneakers but label it as \"wallets\". The label does not mention \"sneakers\" at all. The parcel arrives on Saturday morning. The postman leaves the parcel at Daniel's front door and rings the doorbell. Daniel opens the door, looks down, and sees the parcel. Daniel opens the parcel and looks inside. Daniel reads the label.",
+                "prompt_1": {
+                    "text": "He opens the parcel and looks inside. He can clearly see that it is full of",
+                    "correct": "sneakers"
+                },
+                "prompt_2": {
+                    "text": "Daniel calls a friend to tell them that he has just received a parcel full of",
+                    "correct": "sneakers"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "On Thursday, Daniel orders some wallets on the internet. There is a mistake at the logistics center. They ship a parcel full of sneakers but label it as \"wallets\". The label does not mention \"sneakers\" at all. The parcel arrives on Saturday morning. The postman leaves the parcel at Daniel's front door and rings the doorbell. Daniel opens the door, looks down, and sees the parcel. Daniel does not open the parcel and does not look inside. Daniel reads the label. A cousin calls Daniel and tells him that the parcel has sneakers in it, and that he should ignore the label that says \"wallets\". Daniel believes him cousin.",
+                "prompt_1": {
+                    "text": "He opens the parcel and looks inside. He can clearly see that it is full of",
+                    "correct": "sneakers"
+                },
+                "prompt_2": {
+                    "text": "Daniel calls a friend to tell them that he has just received a parcel full of",
+                    "correct": "sneakers"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "On Thursday, Daniel orders some wallets on the internet. Unforpicklestely, there is a mistake at the logistics center. They ship a parcel full of sneakers and label it as \"sneakers\". The label does not mention \"wallets\" at all. The parcel arrives on Saturday in the morning. The postman leaves the parcel at Daniel's front door and rings the doorbell. Daniel opens the door, looks down, and sees the parcel. Daniel does not open the parcel and does not look inside. Daniel reads the label.",
+                "prompt_1": {
+                    "text": "He opens the parcel and looks inside. He can clearly see that it is full of",
+                    "correct": "sneakers"
+                },
+                "prompt_2": {
+                    "text": "Daniel calls a friend to tell them that he has just received a parcel full of",
+                    "correct": "sneakers"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 15,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "A cooler box has been left behind at the park after a school picnic day event. The cooler box has only beer in it, but a label on the outside says \"sandwitches\". Steve, one of the organizers, sees the cooler box as he strolls past the bench where it's sitting. He has never seen it before. Steve does not open the cooler box and does not look inside. Steve reads the label.",
+                "prompt_1": {
+                    "text": "He opens the cooler box and looks inside. He can clearly see that it is full of",
+                    "correct": "beer"
+                },
+                "prompt_2": {
+                    "text": "Steve calls a friend to tell them that he has just found a cooler box full of",
+                    "correct": "sandwitches"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "A cooler box has been left behind at the park after a school picnic day event. The cooler box has only beer in it, but a label on the outside says \"sandwitches\". Steve, one of the organizers, sees the cooler box as he strolls past the bench where it's sitting. He has never seen it before. Steve opens the cooler box and looks inside. Steve reads the label.",
+                "prompt_1": {
+                    "text": "He opens the cooler box and looks inside. He can clearly see that it is full of",
+                    "correct": "beer"
+                },
+                "prompt_2": {
+                    "text": "Steve calls a friend to tell them that he has just found a cooler box full of",
+                    "correct": "beer"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "A cooler box has been left behind at the park after a school picnic day event. The cooler box has only beer in it, but a label on the outside says \"sandwitches\". Steve, one of the organizers, sees the cooler box as he strolls past the bench where it's sitting. He has never seen it before. Steve does not open the cooler box and does not look inside. Steve reads the label. A cousin calls Steve and tells him that the cooler box has beer in it, and that he should ignore the label that says \"sandwitches\". Steve believes him cousin.",
+                "prompt_1": {
+                    "text": "He opens the cooler box and looks inside. He can clearly see that it is full of",
+                    "correct": "beer"
+                },
+                "prompt_2": {
+                    "text": "Steve calls a friend to tell them that he has just found a cooler box full of",
+                    "correct": "beer"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "A cooler box has been left behind at the park after a school picnic day event. The cooler box has only beer in it, and no sandwitches. Also, the label on the outside says \"beer\". Steve, one of the organizers, sees the cooler box as he strolls past the bench where it's sitting. He has never seen it before. Steve does not open the cooler box and does not look inside. Steve reads the label.",
+                "prompt_1": {
+                    "text": "He opens the cooler box and looks inside. He can clearly see that it is full of",
+                    "correct": "beer"
+                },
+                "prompt_2": {
+                    "text": "Steve calls a friend to tell them that he has just found a cooler box full of",
+                    "correct": "beer"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 16,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "The packers at a freight forwarding company are notified of a container that has just arrived at their headquarters. The container's label lists its contents as clothes and does not mention vegetables. One of the packers, Daniel, is sent to collect the container. However, no one informs he that the container actually contains vegetables and there are no clothes in it. Daniel does not open the container and does not look inside. Daniel reads the label.",
+                "prompt_1": {
+                    "text": "He opens the container and looks inside. He can clearly see that it is full of",
+                    "correct": "vegetables"
+                },
+                "prompt_2": {
+                    "text": "Daniel calls a friend to tell them that he has just found a container full of",
+                    "correct": "clothes"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "The packers at a freight forwarding company are notified of a container that has just arrived at their headquarters. The container's label lists its contents as clothes and does not mention vegetables. One of the packers, Daniel, is sent to collect the container. However, no one informs he that the container actually contains vegetables and there are no clothes in it. Daniel opens the container and looks inside. Daniel reads the label.",
+                "prompt_1": {
+                    "text": "He opens the container and looks inside. He can clearly see that it is full of",
+                    "correct": "vegetables"
+                },
+                "prompt_2": {
+                    "text": "Daniel calls a friend to tell them that he has just found a container full of",
+                    "correct": "vegetables"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "The packers at a freight forwarding company are notified of a container that has just arrived at their headquarters. The container's label lists its contents as clothes and does not mention vegetables. One of the packers, Daniel, is sent to collect the container. However, no one informs he that the container actually contains vegetables and there are no clothes in it. Daniel does not open the container and does not look inside. Daniel reads the label. A cousin calls Daniel and tells him that the container has vegetables in it, and that he should ignore the label that says \"clothes\". Daniel believes him cousin.",
+                "prompt_1": {
+                    "text": "He opens the container and looks inside. He can clearly see that it is full of",
+                    "correct": "vegetables"
+                },
+                "prompt_2": {
+                    "text": "Daniel calls a friend to tell them that he has just found a container full of",
+                    "correct": "vegetables"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "The packers at a freight forwarding company are notified of a container that has just arrived at their headquarters. The container's label lists the contents of this container as vegetables and does not mention clothes. One of the packers, Daniel, is sent to collect the container. However, no one informs him that the container contains vegetables and there are no clothes in it. Daniel does not open the container and does not look inside. Daniel reads the label.",
+                "prompt_1": {
+                    "text": "He opens the container and looks inside. He can clearly see that it is full of",
+                    "correct": "vegetables"
+                },
+                "prompt_2": {
+                    "text": "Daniel calls a friend to tell them that he has just found a container full of",
+                    "correct": "vegetables"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 17,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "In the attic of Vicky's mother, there is a box of CDs labeled as \"jazz\". The label is incorrect because the CDs only contain disco music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label.",
+                "prompt_1": {
+                    "text": "She puts one in a CD player and listens to the songs. She can clearly hear that it is full of",
+                    "correct": "disco"
+                },
+                "prompt_2": {
+                    "text": "Vicky calls a friend to tell them that she has just found a CD full of",
+                    "correct": "jazz"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "In the attic of Vicky's mother, there is a box of CDs labeled as \"jazz\". The label is incorrect because the CDs only contain disco music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky puts one in a CD player and listens to the songs. Vicky can can clearly hear that it is full of jazz music.",
+                "prompt_1": {
+                    "text": "She puts one in a CD player and listens to the songs. She can clearly hear that it is full of",
+                    "correct": "disco"
+                },
+                "prompt_2": {
+                    "text": "Vicky calls a friend to tell them that she has just found a CD full of",
+                    "correct": "disco"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "In the attic of Vicky's mother, there is a box of CDs labeled as \"jazz\". The label is incorrect because the CDs only contain disco music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label. A cousin calls Vicky and tells her that the CD has disco in it, and that she should ignore the label that says \"jazz\". Vicky believes her cousin.",
+                "prompt_1": {
+                    "text": "She puts one in a CD player and listens to the songs. She can clearly hear that it is full of",
+                    "correct": "disco"
+                },
+                "prompt_2": {
+                    "text": "Vicky calls a friend to tell them that she has just found a CD full of",
+                    "correct": "disco"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "In the attic of Vicky's mother, there is a box of CDs labeled as \"disco\". The label is correct because the CDs only contain disco music and no jazz music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label.",
+                "prompt_1": {
+                    "text": "She puts one in a CD player and listens to the songs. She can clearly hear that it is full of",
+                    "correct": "disco"
+                },
+                "prompt_2": {
+                    "text": "Vicky calls a friend to tell them that she has just found a CD full of",
+                    "correct": "disco"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 18,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains cream but the label on its lid says \"soap\". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label.",
+                "prompt_1": {
+                    "text": "She opens the box and looks inside. She can clearly see that it is full of",
+                    "correct": "cream"
+                },
+                "prompt_2": {
+                    "text": "Megan calls a friend to tell them that she has just found a box full of",
+                    "correct": "soap"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains cream but the label on its lid says \"soap\". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan opens the box and looks inside. Megan reads the label.",
+                "prompt_1": {
+                    "text": "She opens the box and looks inside. She can clearly see that it is full of",
+                    "correct": "cream"
+                },
+                "prompt_2": {
+                    "text": "Megan calls a friend to tell them that she has just found a box full of",
+                    "correct": "cream"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains cream but the label on its lid says \"soap\". Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label. A cousin calls Megan and tells her that the box has cream in it, and that she should ignore the label that says \"soap\". Megan believes her cousin.",
+                "prompt_1": {
+                    "text": "She opens the box and looks inside. She can clearly see that it is full of",
+                    "correct": "cream"
+                },
+                "prompt_2": {
+                    "text": "Megan calls a friend to tell them that she has just found a box full of",
+                    "correct": "cream"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "In a bathroom of a hotel room there is a metal box, standing next to the sink. It contains cream and the label on its lid says \"cream\". There is no soap in it. Megan has just checked into this hotel room and goes to the bathroom. Megan spots the box. Megan does not open the box and does not look inside. Megan reads the label.",
+                "prompt_1": {
+                    "text": "She opens the box and looks inside. She can clearly see that it is full of",
+                    "correct": "cream"
+                },
+                "prompt_2": {
+                    "text": "Megan calls a friend to tell them that she has just found a box full of",
+                    "correct": "cream"
+                }
+            }
+        ]
+    },
+    {
+        "nr": 19,
+        "subtasks": [
+            {
+                "type": "False-belief task",
+                "task": "Here is a bag filled with popcorn. There is no chocolate in this bag. Yet, the label on this bag says \"chocolate\" and not \"popcorn\". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label.",
+                "prompt_1": {
+                    "text": "She opens the bag and looks inside. She can clearly see that it is full of",
+                    "correct": "popcorn"
+                },
+                "prompt_2": {
+                    "text": "Sam calls a friend to tell them that she has just found a bag full of",
+                    "correct": "chocolate"
+                }
+            },
+            {
+                "type": "True-belief control: Open container",
+                "task": "Here is a bag filled with popcorn. There is no chocolate in this bag. Yet, the label on this bag says \"chocolate\" and not \"popcorn\". Sam finds the bag. She has never seen this bag before. Sam opens the bag and looks inside. Sam reads the label.",
+                "prompt_1": {
+                    "text": "She opens the bag and looks inside. She can clearly see that it is full of",
+                    "correct": "popcorn"
+                },
+                "prompt_2": {
+                    "text": "Sam calls a friend to tell them that she has just found a bag full of",
+                    "correct": "popcorn"
+                }
+            },
+            {
+                "type": "True-belief control: Informed protagonist",
+                "task": "Here is a bag filled with popcorn. There is no chocolate in this bag. Yet, the label on this bag says \"chocolate\" and not \"popcorn\". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label. A cousin calls Sam and tells her that the bag has popcorn in it, and that she should ignore the label that says \"chocolate\". Sam believes her cousin.",
+                "prompt_1": {
+                    "text": "She opens the bag and looks inside. She can clearly see that it is full of",
+                    "correct": "popcorn"
+                },
+                "prompt_2": {
+                    "text": "Sam calls a friend to tell them that she has just found a bag full of",
+                    "correct": "popcorn"
+                }
+            },
+            {
+                "type": "True-belief control: Correct label",
+                "task": "Here is a bag filled with popcorn. There is no chocolate in this bag. The label on this bag says \"popcorn\" and not \"chocolate\". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label.",
+                "prompt_1": {
+                    "text": "She opens the bag and looks inside. She can clearly see that it is full of",
+                    "correct": "popcorn"
+                },
+                "prompt_2": {
+                    "text": "Sam calls a friend to tell them that she has just found a bag full of",
+                    "correct": "popcorn"
+                }
+            }
+        ]
+    }
+]

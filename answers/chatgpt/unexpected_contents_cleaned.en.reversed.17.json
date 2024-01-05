@@ -1,0 +1,97 @@
+{
+    "nr": 17,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: In the attic of Vicky's mother, there is a box of CDs labeled as \"jazz\". The label is incorrect because the CDs only contain disco music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label. She puts one in a CD player and listens to the songs. She can clearly hear that it is full of",
+                "answers": [
+                    "upbeat disco music. The catchy beats and groovy melodies instantly transport Vicky back to a time she had only heard about through stories and movies. The music fills the attic, making it impossible for her to resist the urge to dance.\n\nAs Vicky lets the music guide her movements, she imagines herself in a vibrant disco club, surrounded by",
+                    "upbeat disco music. The catchy beats and groovy melodies instantly transport Vicky back to a time she had only heard about through stories and movies. The music fills the attic, making it impossible for her to resist the urge to dance.\n\nAs Vicky lets the music guide her movements, she imagines herself in a vibrant disco club, surrounded by",
+                    "upbeat disco music. The catchy beats and groovy melodies instantly transport Vicky back to a time she had only heard about through stories and movies. The music fills the attic, making it impossible for her to resist the urge to dance.\n\nAs Vicky lets the music guide her movements, she imagines herself in a vibrant disco club, surrounded by",
+                    "upbeat disco music. The catchy beats and groovy melodies instantly transport Vicky back to a time she had only heard about through stories and movies. The music fills the attic, making it impossible for her to resist the urge to dance.\n\nAs Vicky lets the music guide her movements, she imagines herself in a vibrant disco club, surrounded by",
+                    "upbeat disco music. The catchy beats and groovy melodies instantly transport Vicky back to a time she had only heard about through stories and movies. The music fills the attic, making it impossible for her to resist the urge to dance.\n\nAs Vicky lets the music guide her movements, she imagines herself in a vibrant disco club, surrounded by"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In the attic of Vicky's mother, there is a box of CDs labeled as \"jazz\". The label is incorrect because the CDs only contain disco music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label. Vicky calls a friend to tell them that she has just found a CD full of",
+                "answers": [
+                    "disco music in her mother's attic. Her friend, Alex, is a huge fan of disco and gets excited at the news. They agree to meet up at Vicky's house later that day to listen to the CDs together.\n\nAs Vicky waits for Alex to arrive, she starts to wonder why her mother had labeled the box as \"j",
+                    "disco music in her mother's attic. Her friend, Alex, is a huge fan of disco and gets excited at the news. They agree to meet up at Vicky's house later that day to listen to the CDs together.\n\nAs Vicky waits for Alex to arrive, she starts to wonder why her mother had labeled the box as \"j",
+                    "disco music in her mother's attic. Her friend, Alex, is a huge fan of disco and gets excited at the news. They agree to meet up at Vicky's house later that day to listen to the CDs together.\n\nAs Vicky waits for Alex to arrive, she starts to wonder why her mother had labeled the box as \"j",
+                    "disco music in her mother's attic. Her friend, Alex, is a huge fan of disco and gets excited at the news. They agree to meet up at Vicky's house later that day to listen to the CDs together.\n\nAs Vicky waits for Alex to arrive, she starts to wonder why her mother had labeled the box as \"j",
+                    "disco music in her mother's attic. Her friend, Alex, is a huge fan of disco and gets excited at the news. They agree to meet up at Vicky's house later that day to listen to the CDs together.\n\nAs Vicky waits for Alex to arrive, she starts to wonder why her mother had labeled the box as \"j"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: In the attic of Vicky's mother, there is a box of CDs labeled as \"jazz\". The label is incorrect because the CDs only contain disco music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky puts one in a CD player and listens to the songs. Vicky can can clearly hear that it is full of jazz music. She puts one in a CD player and listens to the songs. She can clearly hear that it is full of",
+                "answers": [
+                    "disco music. Confused by the mismatch between the label and the actual content, Vicky decides to investigate further. She takes out all the CDs from the box and starts examining them one by one.\n\nAs she flips through the collection, Vicky notices that some of the CDs have handwritten notes on them. Curiosity piqued, she reads",
+                    "disco music. Confused by the mismatch between the label and the actual content, Vicky decides to investigate further. She takes out all the CDs from the box and starts examining them one by one.\n\nAs she flips through the collection, Vicky notices that some of the CDs have handwritten notes on them. Curiosity piqued, she reads",
+                    "disco music. Confused by the mismatch between the label and the actual content, Vicky decides to investigate further. She takes out all the CDs from the box and starts examining them one by one.\n\nAs she flips through the collection, Vicky notices that some of the CDs have handwritten notes on them. Curiosity piqued, she reads",
+                    "disco music. Confused by the mismatch between the label and the actual content, Vicky decides to investigate further. She takes out all the CDs from the box and starts examining them one by one.\n\nAs she flips through the collection, Vicky notices that some of the CDs have handwritten notes on them. Curiosity piqued, she reads",
+                    "disco music. Confused by the mismatch between the label and the actual content, Vicky decides to investigate further. She takes out all the CDs from the box and starts examining them one by one.\n\nAs she flips through the collection, Vicky notices that some of the CDs have handwritten notes on them. Curiosity piqued, she reads"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In the attic of Vicky's mother, there is a box of CDs labeled as \"jazz\". The label is incorrect because the CDs only contain disco music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky puts one in a CD player and listens to the songs. Vicky can can clearly hear that it is full of jazz music. Vicky calls a friend to tell them that she has just found a CD full of",
+                "answers": [
+                    "disco music labeled as jazz. Her friend, Alex, is a music enthusiast and is intrigued by Vicky's discovery. They agree to meet at Vicky's house to listen to the CD together.\n\nAs Alex arrives, Vicky excitedly shows them the box of CDs and explains the mix-up with the labels. They both find it amusing and",
+                    "disco music labeled as jazz. Her friend, Alex, is a music enthusiast and is intrigued by Vicky's discovery. They agree to meet at Vicky's house to listen to the CD together.\n\nAs Alex arrives, Vicky excitedly shows them the box of CDs and explains the mix-up with the labels. They both find it amusing and",
+                    "disco music labeled as jazz. Her friend, Alex, is a music enthusiast and is intrigued by Vicky's discovery. They agree to meet at Vicky's house to listen to the CD together.\n\nAs Alex arrives, Vicky excitedly shows them the box of CDs and explains the mix-up with the labels. They both find it amusing and",
+                    "disco music labeled as jazz. Her friend, Alex, is a music enthusiast and is intrigued by Vicky's discovery. They agree to meet at Vicky's house to listen to the CD together.\n\nAs Alex arrives, Vicky excitedly shows them the box of CDs and explains the mix-up with the labels. They both find it amusing and",
+                    "disco music labeled as jazz. Her friend, Alex, is a music enthusiast and is intrigued by Vicky's discovery. They agree to meet at Vicky's house to listen to the CD together.\n\nAs Alex arrives, Vicky excitedly shows them the box of CDs and explains the mix-up with the labels. They both find it amusing and"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: In the attic of Vicky's mother, there is a box of CDs labeled as \"jazz\". The label is incorrect because the CDs only contain disco music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label. A cousin calls Vicky and tells her that the CD has disco in it, and that she should ignore the label that says \"jazz\". Vicky believes her cousin. She puts one in a CD player and listens to the songs. She can clearly hear that it is full of",
+                "answers": [
+                    "upbeat and groovy disco music. The catchy beats and infectious melodies instantly make Vicky want to dance. She finds herself moving to the rhythm, unable to resist the urge to let loose and enjoy the music.\n\nAs the songs play one after another, Vicky's excitement grows. She starts imagining herself in a disco club, surrounded by flashing lights",
+                    "upbeat and groovy disco music. The catchy beats and infectious melodies instantly make Vicky want to dance. She finds herself moving to the rhythm, unable to resist the urge to let loose and enjoy the music.\n\nAs the songs play one after another, Vicky's excitement grows. She starts imagining herself in a disco club, surrounded by flashing lights",
+                    "upbeat and groovy disco music. The catchy beats and infectious melodies instantly make Vicky want to dance. She starts moving her feet to the rhythm, feeling the music flow through her body.\n\nAs the music plays, Vicky's imagination takes her back to the vibrant disco era. She envisions herself in a glittering disco ball-lit dance",
+                    "upbeat and groovy disco music. The catchy beats and infectious melodies instantly make Vicky want to dance. She starts moving her feet to the rhythm, feeling the music flow through her body.\n\nAs the music plays, Vicky's imagination takes her back to the vibrant disco era. She envisions herself in a glittering disco ball-lit dance",
+                    "upbeat and groovy disco music. The catchy beats and infectious melodies instantly make Vicky want to dance. She finds herself moving to the rhythm, unable to resist the urge to let loose and enjoy the music.\n\nAs the songs play one after another, Vicky's excitement grows. She starts imagining herself in a disco club, surrounded by flashing lights"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In the attic of Vicky's mother, there is a box of CDs labeled as \"jazz\". The label is incorrect because the CDs only contain disco music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label. A cousin calls Vicky and tells her that the CD has disco in it, and that she should ignore the label that says \"jazz\". Vicky believes her cousin. Vicky calls a friend to tell them that she has just found a CD full of",
+                "answers": [
+                    "disco music in her mother's attic. Excitedly, she explains how the label on the box was incorrect, and that she had initially thought it contained jazz music. Her friend, Lisa, is intrigued and suggests they have a disco-themed listening party to enjoy the newfound treasure.\n\nVicky agrees, and they plan to meet at Lisa's house",
+                    "disco music in her mother's attic. Excitedly, she explains how the label on the box was incorrect, and that she had initially thought it contained jazz music. Her friend, Lisa, is intrigued and suggests they have a disco-themed listening party to enjoy the newfound treasure.\n\nVicky agrees, and they plan to meet at Lisa's house",
+                    "disco music in her mother's attic. Excitedly, she explains how the label on the box was incorrect, and that she had initially thought it contained jazz music. Her friend, Lisa, is intrigued and suggests they have a disco-themed listening party to enjoy the newfound treasure.\n\nVicky agrees, and they plan to meet at her house the",
+                    "disco music in her mother's attic. Excitedly, she explains how the label on the box was incorrect, and that she had initially thought it contained jazz music. Her friend, Lisa, is intrigued and suggests they have a disco-themed listening party to enjoy the newfound treasure.\n\nVicky agrees, and they plan to meet at Lisa's house",
+                    "disco music in her mother's attic. Excitedly, she explains how the label on the box was incorrect, and that she had initially thought it contained jazz music. Her friend, Lisa, is intrigued and suggests they have a disco-themed listening party to enjoy the newfound treasure.\n\nVicky agrees, and they plan to meet at Lisa's house"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: In the attic of Vicky's mother, there is a box of CDs labeled as \"disco\". The label is correct because the CDs only contain disco music and no jazz music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label. She puts one in a CD player and listens to the songs. She can clearly hear that it is full of",
+                "answers": [
+                    "energetic beats, funky basslines, and catchy melodies. The disco music transports Vicky back in time, evoking images of glittering dance floors, colorful disco balls, and people grooving to the rhythm. The infectious tunes make her want to dance along, but she resists the urge and continues to explore the rest of the box.\n\nCur",
+                    "energetic beats, funky basslines, and catchy melodies. The disco music transports Vicky back in time, evoking images of glittering dance floors, colorful disco balls, and people grooving to the rhythm. The infectious tunes make her want to dance along, but she resists the urge and continues to explore the rest of the box.\n\nCur",
+                    "energetic beats, funky basslines, and catchy melodies. The disco music transports Vicky back in time, evoking images of glittering dance floors, colorful disco balls, and people grooving to the rhythm. The infectious tunes make her want to dance along, but she resists the urge and continues to explore the rest of the box.\n\nCur",
+                    "energetic beats, funky basslines, and catchy melodies. The disco music transports Vicky back in time, evoking images of glittering dance floors, colorful disco balls, and people grooving to the rhythm. The infectious tunes make her want to dance along, but she resists the urge and continues to explore the rest of the box.\n\nCur",
+                    "energetic beats, funky basslines, and catchy melodies. The disco music transports Vicky back in time, evoking images of glittering dance floors, colorful disco balls, and people grooving to the rhythm. The infectious tunes make her want to dance along, but she resists the urge and continues to explore the rest of the box.\n\nCur"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In the attic of Vicky's mother, there is a box of CDs labeled as \"disco\". The label is correct because the CDs only contain disco music and no jazz music. Vicky is rummaging around the attic and finds this box. She has never seen or listened to these CDs before. Vicky does not open the box and does not listen to any of the CDs. Vicky reads the label. Vicky calls a friend to tell them that she has just found a CD full of",
+                "answers": [
+                    "disco music in her mother's attic. Her friend, Alex, is a huge fan of disco and gets excited at the news. They agree to meet up at Vicky's house later that day to listen to the CDs together.\n\nAs Vicky waits for Alex to arrive, she can't help but wonder why her mother had a box of disco",
+                    "disco music in her mother's attic. Her friend, Alex, is a huge fan of disco and gets excited at the news. They agree to meet up at Vicky's house later that day to listen to the CDs together.\n\nAs Vicky waits for Alex to arrive, she can't help but wonder why her mother had a box of disco",
+                    "disco music in her mother's attic. Her friend, Alex, is a huge fan of disco and gets excited at the news. They agree to meet up at Vicky's house later that day to listen to the CDs together.\n\nAs Vicky waits for Alex to arrive, she can't help but wonder why her mother had a box of disco",
+                    "disco music in her mother's attic. Her friend, Alex, is a huge fan of disco and gets excited at the news. They agree to meet up at Vicky's house later that day to listen to the CDs together.\n\nAs Vicky waits for Alex to arrive, she can't help but wonder why her mother had a box of disco",
+                    "disco music in her mother's attic. Her friend, Alex, is a huge fan of disco and gets excited at the news. They agree to meet up at Vicky's house later that day to listen to the CDs together.\n\nAs Vicky waits for Alex to arrive, she can't help but wonder why her mother had a box of disco"
+                ]
+            }
+        }
+    ]
+}

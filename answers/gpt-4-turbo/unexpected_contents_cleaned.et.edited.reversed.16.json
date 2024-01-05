@@ -1,0 +1,74 @@
+{
+    "nr": 16,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on r\u00f5ivad ning k\u00f6\u00f6givilju ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult k\u00f6\u00f6giviljad ja r\u00f5ivaid seal ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "k\u00f6\u00f6givilju. K\u00f5ikjal, kuhu ta vaatab, on kastid tomatite, kurkide, paprikate ja muude v\u00e4rske k\u00f6\u00f6giviljaga. Hetkeks on ta segaduses, sest see ei vasta \u00fcldse tema ootustele. Ta kont",
+                    "k\u00f6\u00f6givilju. Erinevad tomatid, kurgid, paprikad ja muud v\u00e4rske kraam on virnastatud kastidesse, mis on paigutatud konteineri p\u00f5randale hoolikalt, et v\u00e4ltida transpordi ajal te"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on r\u00f5ivad ning k\u00f6\u00f6givilju ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult k\u00f6\u00f6giviljad ja r\u00f5ivaid seal ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida talle, et ta on just leidnud konteineri t\u00e4is",
+                "answers": [
+                    "r\u00f5ivaid, nagu sildil kirjas. Ta on elevil, sest ettev\u00f5te on hiljuti laiendanud oma tegevust ja hakanud tegelema ka moekaupade logistikaga. Danieli s\u00f5ber, kes on moehuviline, on",
+                    "r\u00f5ivaid, mis on saabunud peakontorisse. Ta on elevil, sest see t\u00e4hendab palju t\u00f6\u00f6d pakendamise osakonnale ja v\u00f5imalust \u00fcletunde teha. Danieli s\u00f5ber, kes on samuti logistikavaldkonnas t\u00f6\u00f6t"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on r\u00f5ivad ning k\u00f6\u00f6givilju ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult k\u00f6\u00f6giviljad ja r\u00f5ivaid seal ei ole. Daniel avab konteineri ja vaatab sisse. Daniel loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "k\u00f6\u00f6givilju. Erinevad k\u00f5rvitsad, tomatid, paprikad ja kurgid on virnastatud kastidesse, mis on paigutatud konteineri p\u00f5randale t\u00e4pselt ja hoolikalt, et v\u00e4ltida transpordi aj",
+                    "k\u00f6\u00f6givilju. Erinevad k\u00f5rvitsad, tomatid, paprikad ja kurgid on virnastatud kastidesse, mis on paigutatud konteineri p\u00f5randale t\u00e4pselt ja efektiivselt, et maksimeerida ruumi"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on r\u00f5ivad ning k\u00f6\u00f6givilju ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult k\u00f6\u00f6giviljad ja r\u00f5ivaid seal ei ole. Daniel avab konteineri ja vaatab sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida talle, et ta on just leidnud konteineri t\u00e4is",
+                "answers": [
+                    "k\u00f6\u00f6givilju, kui ta oli oodanud r\u00f5ivaid. \"Sa ei usuks, mis siin on,\" \u00fctleb Daniel oma s\u00f5brale, hoides telefoni \u00f5la ja k\u00f5rva vahel, samal ajal kui ta silmadega kiiresti",
+                    "k\u00f6\u00f6givilju, kus peaksid olema r\u00f5ivad. Ta on segaduses ja veidi \u00e4rritunud, sest see t\u00e4hendab lisat\u00f6\u00f6d ja ajakulu. Danieli s\u00f5ber, kes on samuti logistikavaldkonnas t\u00f6\u00f6tav, soov"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on r\u00f5ivad ning k\u00f6\u00f6givilju ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult k\u00f6\u00f6giviljad ja r\u00f5ivaid seal ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Danieli n\u00f5bu helistab talle ja \u00fctleb, et konteineris on k\u00f6\u00f6giviljad ja ta peaks eirama silti, mis \u00fctleb \"r\u00f5ivad\". Daniel usub oma n\u00f5bu. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "k\u00f6\u00f6givilju. Erinevad k\u00f5rvitsad, tomatid, paprikad ja kurgid on hoolikalt pakitud kastidesse, mis on virnastatud konteineri p\u00f5randale. Daniel on segaduses, sest silt konteineri v\u00e4lisk",
+                    "k\u00f6\u00f6givilju. Erinevad k\u00f5rvitsad, tomatid, paprikad ja kurgid on hoolikalt kastidesse pakitud, moodustades v\u00e4rvikireva mosaiigi. Daniel on segaduses, sest silt konteineri peal ei vasta s"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on r\u00f5ivad ning k\u00f6\u00f6givilju ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on tegelikult k\u00f6\u00f6giviljad ja r\u00f5ivaid seal ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Danieli n\u00f5bu helistab talle ja \u00fctleb, et konteineris on k\u00f6\u00f6giviljad ja ta peaks eirama silti, mis \u00fctleb \"r\u00f5ivad\". Daniel usub oma n\u00f5bu. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida talle, et ta on just leidnud konteineri t\u00e4is",
+                "answers": [
+                    "k\u00f6\u00f6givilju, kuigi silt v\u00e4idab vastupidist. Ta on segaduses ja ei tea, mida teha. S\u00f5ber soovitab tal konteiner avada ja oma silmaga \u00fcle vaadata, mis seal sees on. Daniel, olles ettevaatlik, ots",
+                    "k\u00f6\u00f6givilju, kuigi silt v\u00e4idab vastupidist. Ta on segaduses ja ei tea, mida teha. S\u00f5ber soovitab tal konteiner avada ja sisu oma silmaga \u00fcle vaadata, et veenduda, kas n\u00f5bu jutt peab paika"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on k\u00f6\u00f6giviljad ning r\u00f5ivaid ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on k\u00f6\u00f6giviljad ja r\u00f5ivaid selles ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Ta avab konteineri ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "k\u00f6\u00f6givilju \u2013 erinevaid sorte kartuleid, porgandeid, sibulaid ja muid hooajalisi aedvilju, mis on hoolikalt kastidesse pakitud. Daniel on segaduses, sest ta oli eeldanud, et konteineris v\u00f5",
+                    "k\u00f6\u00f6givilju, just nagu sildil kirjas oli. Erinevad k\u00f5rvitsad, tomatid, paprikad ja muud v\u00e4rvikirevad viljad on korralikult kastidesse pakitud. Daniel on kergelt segaduses, sest ta oli kuul"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Kaubavedude ettev\u00f5tte pakendajaid teavitatakse konteinerist, mis on just saabunud nende peakontorisse. Konteineri sildil on kirjas, et selle sisuks on k\u00f6\u00f6giviljad ning r\u00f5ivaid ei mainita. \u00dcks pakendajatest, Daniel, saadetakse konteinerit tooma. Kuid keegi ei teavita teda, et konteineris on k\u00f6\u00f6giviljad ja r\u00f5ivaid selles ei ole. Daniel ei ava konteinerit ega vaata sisse. Daniel loeb silti. Daniel helistab s\u00f5brale, et r\u00e4\u00e4kida talle, et ta on just leidnud konteineri t\u00e4is",
+                "answers": [
+                    "k\u00f6\u00f6givilju. Ta on veidi segaduses, sest tavaliselt tegeleb nende ettev\u00f5te erinevate kaupade, sealhulgas r\u00f5ivaste saatmisega. Danieli s\u00f5ber, kes on samuti logistikavaldkonnas t\u00f6\u00f6tav",
+                    "k\u00f6\u00f6givilju. Ta on veidi pettunud, sest oli lootnud, et konteineris v\u00f5ib olla midagi p\u00f5nevamat kui lihtsalt k\u00f6\u00f6giviljad. Danieli s\u00f5ber naerab telefoni teises otsas ja \u00fctleb, et v\u00e4h"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

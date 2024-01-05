@@ -1,0 +1,74 @@
+{
+    "nr": 5,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Inside the fridge of the Airbnb host's kitchen is a can labeled as tuna. However, the can actually contains pickles and no tuna. The label does not mention pickles. Jill, a guest who just arrived at the house, opens the fridge and sees the can. Jill does not open the can and does not look inside. Jill reads the label. She opens the can and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "pickles. Jill is puzzled, her eyebrows knitting together in confusion. She had been craving a tuna salad after her long journey and the sight of the can had initially filled her with relief. Now, staring at the briny cucumbers, she feels a mix of disappointment and curiosity.\n\n\"Why would someone label a can of pickles as tuna?\"",
+                    "pickles. Jill is puzzled by the sight, as the label had clearly stated \"tuna.\" She wonders if this is some sort of practical joke or a simple mistake. She picks up a pickle, inspects it, and shrugs before closing the can. Jill decides to bring it up with the Airbnb host later, but for now, she"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Inside the fridge of the Airbnb host's kitchen is a can labeled as tuna. However, the can actually contains pickles and no tuna. The label does not mention pickles. Jill, a guest who just arrived at the house, opens the fridge and sees the can. Jill does not open the can and does not look inside. Jill reads the label. Jill calls a friend to tell them that she has just found a can full of",
+                "answers": [
+                    "tuna in the fridge. She laughs about the oddity of finding just a single can of tuna in the otherwise sparsely stocked fridge. Her friend, who is quite the foodie, suggests making a tuna salad if there's mayo and some fresh veggies available. Jill agrees that it's a good idea and decides to go to the local market",
+                    "tuna in the fridge. She chuckles as she tells her friend about the oddity of finding just a single can of tuna in the fridge, wondering if the host left it there as a welcome snack or simply forgot about it. Her friend, amused by the situation, suggests that maybe the host is a tuna enthusiast or perhaps it's a quirky"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Inside the fridge of the Airbnb host's kitchen is a can labeled as tuna. However, the can actually contains pickles and no tuna. The label does not mention pickles. Jill, a guest who just arrived at the house, opens the fridge and sees the can. Jill opens the can and looks inside. Jill reads the label. She opens the can and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "pickles, not the expected tuna. The briny scent wafts up to greet her, and she can't help but wrinkle her nose in confusion. The pickles are neatly packed, their greenish hue and bumpy texture unmistakable. Jill tilts the can, inspecting the contents more closely, ensuring that her eyes aren't dece",
+                    "pickles, not the expected tuna. The briny scent wafts up to her nose, confirming the contents without a doubt. Jill is puzzled by the discrepancy between the label and the actual contents. She wonders if this is some sort of practical joke or perhaps a simple mistake by the host.\n\nWith a shrug, Jill decides not to let this"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Inside the fridge of the Airbnb host's kitchen is a can labeled as tuna. However, the can actually contains pickles and no tuna. The label does not mention pickles. Jill, a guest who just arrived at the house, opens the fridge and sees the can. Jill opens the can and looks inside. Jill reads the label. Jill calls a friend to tell them that she has just found a can full of",
+                "answers": [
+                    "pickles in the most unexpected place. Her voice is a mix of amusement and confusion as she recounts the story to her friend on the phone.\n\n\"Hey, you're not going to believe what I just found in the Airbnb fridge,\" Jill says, trying to suppress a chuckle. \"A can labeled as tuna, but it's actually stuffed with",
+                    "pickles in the fridge. Her friend, Alex, who is known for their love of quirky mysteries, laughs on the other end of the line.\n\n\"Are you sure it's not some kind of local delicacy? Maybe pickled tuna?\" Alex jokes.\n\nJill chuckles, \"No, it's definitely not tuna. Just regular old pick"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Inside the fridge of the Airbnb host's kitchen is a can labeled as tuna. However, the can actually contains pickles and no tuna. The label does not mention pickles. Jill, a guest who just arrived at the house, opens the fridge and sees the can. Jill does not open the can and does not look inside. Jill reads the label. A cousin calls Jill and tells her that the can has pickles in it, and that she should ignore the label that says \"tuna\". Jill believes her cousin. She opens the can and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "pickles. The briny scent wafts up to greet her, and she can't help but wrinkle her nose at the unexpected but not unpleasant surprise. The pickles are neatly packed, their greenish hue and bumpy texture unmistakable. Jill chuckles to herself, wondering why anyone would mislabel a can like this. She picks one",
+                    "pickles. The briny scent wafts up to greet her, confirming her cousin's claim. The pickles are packed tightly, their greenish hue and irregular shapes unmistakable amidst the clear liquid. Jill is puzzled by the mislabeling but shrugs it off, considering the quirky nature of Airbnb accommodations. She wonders if the host is playing"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Inside the fridge of the Airbnb host's kitchen is a can labeled as tuna. However, the can actually contains pickles and no tuna. The label does not mention pickles. Jill, a guest who just arrived at the house, opens the fridge and sees the can. Jill does not open the can and does not look inside. Jill reads the label. A cousin calls Jill and tells her that the can has pickles in it, and that she should ignore the label that says \"tuna\". Jill believes her cousin. Jill calls a friend to tell them that she has just found a can full of",
+                "answers": [
+                    "pickles in the fridge, despite the label saying it's tuna. Her friend, amused by the mix-up, asks how she knows what's inside without opening it. Jill explains that her cousin, who had stayed at the same Airbnb before, had discovered the quirky mislabeling and warned her about it. They both laugh at the oddity and",
+                    "pickles in the fridge, despite it being labeled as tuna. Her friend, amused by the mix-up, asks how she knows it's pickles if she hasn't opened the can. Jill explains that her cousin, who had stayed at the same Airbnb before, had encountered the same can and had actually opened it, expecting tuna, only to find"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Inside the fridge of the Airbnb host's kitchen is a can labeled as \"pickles\". The can contains pickles and no tuna. The label does not mention tuna. Jill, a guest who just arrived at the house, opens the fridge and sees the can. Jill does not open the can and does not look inside. Jill reads the label. She opens the can and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "pickles, just as the label had indicated. The briny scent wafts up to greet her, and she smiles, pleased to find that the contents match her expectations. Jill had been craving something tangy and crunchy to accompany the sandwich she was planning to make for lunch. She selects a plump, green pickle from the can, its surface",
+                    "pickles, just as the label had indicated. The briny scent of vinegar and dill wafts up to greet her as she peers inside. The pickles are neatly packed, their bumpy, green surfaces glistening under the fridge light. Jill smiles, satisfied with the confirmation that the contents match the label. She had been craving something tang"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Inside the fridge of the Airbnb host's kitchen is a can labeled as \"pickles\". The can contains pickles and no tuna. The label does not mention tuna. Jill, a guest who just arrived at the house, opens the fridge and sees the can. Jill does not open the can and does not look inside. Jill reads the label. Jill calls a friend to tell them that she has just found a can full of",
+                "answers": [
+                    "pickles in the fridge of her Airbnb. She chuckles as she tells her friend about the quirky, vintage-looking label that simply reads \"pickles\" in a bold, retro font. Her friend, who is quite the pickle aficionado, asks Jill if she plans to try one. Jill, who isn't particularly fond of pickles, says",
+                    "pickles in the fridge of her Airbnb host's kitchen. She chuckles as she tells her friend about the quirky, vintage-looking can with its bold, green lettering and the image of a cucumber on the front. \"It's so retro,\" she says, \"like something out of a 1950s commercial.\" Her friend on the other"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

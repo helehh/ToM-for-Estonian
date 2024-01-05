@@ -1,0 +1,74 @@
+{
+    "nr": 15,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: A cooler box has been left behind at the park after a school picnic day event. The cooler box has only beer in it, but a label on the outside says \"sandwitches\". Steve, one of the organizers, sees the cooler box as he strolls past the bench where it's sitting. He has never seen it before. Steve does not open the cooler box and does not look inside. Steve reads the label. He opens the cooler box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "sandwiches. The label on the outside was indeed accurate. The initial assumption that the cooler box contained only beer was a misunderstanding. Steve, feeling relieved that it wasn't something potentially problematic left behind, closes the cooler box and decides to take it back to the school. He figures someone must have forgotten it in the hustle and bustle of cleaning",
+                    "sandwiches. The label on the outside was indeed accurate. Steve chuckles to himself, realizing that someone must have made a typo or an innocent joke when labeling the cooler. He closes the lid, considering what to do next. The park is quiet now, the laughter and chatter of the school children a distant memory.\n\nSteve knows that the sandwiches"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A cooler box has been left behind at the park after a school picnic day event. The cooler box has only beer in it, but a label on the outside says \"sandwitches\". Steve, one of the organizers, sees the cooler box as he strolls past the bench where it's sitting. He has never seen it before. Steve does not open the cooler box and does not look inside. Steve reads the label. Steve calls a friend to tell them that he has just found a cooler box full of",
+                "answers": [
+                    "sandwiches at the park. His friend, curious and a bit amused, asks Steve if he's sure it's full of sandwiches without having looked inside. Steve laughs and says that he's just going by the label, but he assumes someone must have made a mistake when packing for the picnic. They joke about the mysterious cooler box for a bit",
+                    "sandwiches at the park. His friend, who is quite hungry after a long day, perks up at the mention of food. \"Really? That's a lucky find! Are you going to see what kind of sandwiches are inside?\" his friend asks with curiosity.\n\nSteve, however, is a responsible organizer and knows that taking the cooler without trying"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: A cooler box has been left behind at the park after a school picnic day event. The cooler box has only beer in it, but a label on the outside says \"sandwitches\". Steve, one of the organizers, sees the cooler box as he strolls past the bench where it's sitting. He has never seen it before. Steve opens the cooler box and looks inside. Steve reads the label. He opens the cooler box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "cans of beer, each one glistening with condensation in the warm afternoon sun. Steve frowns, puzzled by the discrepancy between the label and the contents. He knows that alcohol is strictly prohibited at school events, especially those involving children. The label, with its innocent claim of \"sandwiches,\" now seems like a poorly executed r",
+                    "cans of beer, neatly stacked on top of one another. The mismatch between the label and the contents puzzles Steve. He scratches his head, wondering if this was some sort of practical joke or a mix-up. The park is empty now, the laughter and chatter of the school children a distant memory. Steve looks around, hoping to spot someone who"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A cooler box has been left behind at the park after a school picnic day event. The cooler box has only beer in it, but a label on the outside says \"sandwitches\". Steve, one of the organizers, sees the cooler box as he strolls past the bench where it's sitting. He has never seen it before. Steve opens the cooler box and looks inside. Steve reads the label. Steve calls a friend to tell them that he has just found a cooler box full of",
+                "answers": [
+                    "sandwiches, according to the label, but to his surprise, it's actually full of beer. His friend, who is also one of the organizers, laughs on the other end of the line. \"That's a new one,\" his friend says. \"Someone must have mixed up their cooler boxes, or maybe it's a prank by some",
+                    "sandwiches, according to the label, but he's in for a surprise. \"Hey, Mike,\" Steve says into his phone, chuckling, \"you won't believe this. I just found a cooler box here at the park, and it's supposed to be full of sandwiches, but someone's made a big mistake.\"\n\nMike, on"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: A cooler box has been left behind at the park after a school picnic day event. The cooler box has only beer in it, but a label on the outside says \"sandwitches\". Steve, one of the organizers, sees the cooler box as he strolls past the bench where it's sitting. He has never seen it before. Steve does not open the cooler box and does not look inside. Steve reads the label. A cousin calls Steve and tells him that the cooler box has beer in it, and that he should ignore the label that says \"sandwitches\". Steve believes him cousin. He opens the cooler box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "beer cans, just as his cousin had told him. The shiny aluminum cans are neatly arranged in rows, their colorful labels reflecting the late afternoon sun. Steve scratches his head, wondering why someone would mislabel a cooler full of beer as \"sandwiches.\" He considers the possibility that it was an attempt to prevent underage students from getting into the alcohol",
+                    "beer cans, just as his cousin had told him. The shiny aluminum cans are neatly arranged, their colorful labels reflecting the late afternoon sun. Steve scratches his head, wondering why someone would mislabel a cooler full of beer as \"sandwiches.\" He considers the implications of leaving the cooler in the park, especially since it's a place frequented"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A cooler box has been left behind at the park after a school picnic day event. The cooler box has only beer in it, but a label on the outside says \"sandwitches\". Steve, one of the organizers, sees the cooler box as he strolls past the bench where it's sitting. He has never seen it before. Steve does not open the cooler box and does not look inside. Steve reads the label. A cousin calls Steve and tells him that the cooler box has beer in it, and that he should ignore the label that says \"sandwitches\". Steve believes him cousin. Steve calls a friend to tell them that he has just found a cooler box full of",
+                "answers": [
+                    "beer at the park, despite the misleading label that says \"sandwiches.\" His friend, intrigued by the discovery, asks what Steve plans to do with it. Steve, knowing that the beer was likely left behind from the school event, realizes that it wouldn't be right to keep it. He decides to take the cooler box to the lost and",
+                    "beer at the park, despite the misleading label that says \"sandwiches.\" His friend, intrigued by the discovery, asks what Steve plans to do with it. Steve, knowing that the beer was likely left behind from the school event, decides that the responsible thing to do would be to try and find the owner of the cooler box.\n\nHe tells"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: A cooler box has been left behind at the park after a school picnic day event. The cooler box has only beer in it, and no sandwitches. Also, the label on the outside says \"beer\". Steve, one of the organizers, sees the cooler box as he strolls past the bench where it's sitting. He has never seen it before. Steve does not open the cooler box and does not look inside. Steve reads the label. He opens the cooler box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "sandwiches. Steve is puzzled. The label on the outside clearly says \"beer,\" but there isn't a single can or bottle in sight, just a neat stack of sandwiches. He scratches his head, wondering if this is some sort of practical joke. The sandwiches look fresh, with various fillings peeking out from the bread slices. Steve",
+                    "sandwiches. Steve is puzzled. The label on the outside clearly says \"beer,\" but there isn't a single can or bottle in sight, just an assortment of sandwiches neatly packed and still chilled. He scratches his head, wondering if this is some sort of practical joke or a mix-up.\n\nSteve remembers that during the picnic, some of the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A cooler box has been left behind at the park after a school picnic day event. The cooler box has only beer in it, and no sandwitches. Also, the label on the outside says \"beer\". Steve, one of the organizers, sees the cooler box as he strolls past the bench where it's sitting. He has never seen it before. Steve does not open the cooler box and does not look inside. Steve reads the label. Steve calls a friend to tell them that he has just found a cooler box full of",
+                "answers": [
+                    "sandwiches at the park. His friend, confused, asks why he thinks it's full of sandwiches when the label clearly says \"beer.\" Steve chuckles and admits that he didn't actually look inside but assumed it was a mix-up since it was left behind from a school event. They both agree that it would be highly inappropriate for it to",
+                    "sandwiches at the park. His friend, confused, asks why he thinks it's full of sandwiches when the label clearly says \"beer.\" Steve chuckles and admits that he didn't actually look inside, but assumed it was a mix-up since it was left behind from a school event. They both laugh at the situation, and Steve decides to"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

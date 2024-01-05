@@ -1,0 +1,74 @@
+{
+    "nr": 4,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Laua peal t\u00fchjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte \u00fchtegi pliiatsit. Ometi on karp m\u00e4rgistatud s\u00f5naga \"pliiatsid\", mitte \"pastakad\". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem n\u00e4inud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "pastakaid, mitte pliiatseid. Hetkeks on ta segaduses, sest silt ja sisu ei klapi. Ta m\u00f5tleb, et ehk oli see lihtsalt inimlik eksitus v\u00f5i naljakas kokkusattumus. Osaleja v\u00f5tab \u00fche past",
+                    "pastakaid, mitte pliiatseid. Hetkeks on ta segaduses, sest silt ja sisu ei klapi. Ta m\u00f5tleb, et ehk on tegemist lihtsalt veaga v\u00f5i kellegi hajameelsusega. Osaleja v\u00f5tab \u00fche past"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Laua peal t\u00fchjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte \u00fchtegi pliiatsit. Ometi on karp m\u00e4rgistatud s\u00f5naga \"pliiatsid\", mitte \"pastakad\". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem n\u00e4inud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti. Osaleja helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is",
+                "answers": [
+                    "pliiatseid, kuid ei ole kindel, miks see on koosolekuruumis. S\u00f5ber naerab telefoni teises otsas ja \u00fctleb, et see peab olema mingi eksitus. Osaleja, kes on loomult uudishimulik,",
+                    "pliiatseid, kuid ta ei ole kindel, miks karp on m\u00e4rgistatud nii, kui ta ei ole seda avanud, et kontrollida. S\u00f5ber naerab telefoni teises otsas ja \u00fctleb: \"\u00c4ra ole nii kind"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Laua peal t\u00fchjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte \u00fchtegi pliiatsit. Ometi on karp m\u00e4rgistatud s\u00f5naga \"pliiatsid\", mitte \"pastakad\". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem n\u00e4inud. Osaleja avab kasti ja vaatab sisse. Osaleja loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "pastakaid, mitte pliiatseid. Hetkeks on ta segaduses, sest silt ja sisu ei klapi. Ta m\u00f5tleb, kas tegemist v\u00f5ib olla mingi eksituse v\u00f5i naljaga. Kuid seminar on t\u00f5sine ja aeg on pi",
+                    "pastakaid, mitte pliiatseid. Hetkeks on ta segaduses, sest silt ja sisu ei klapi. Ta m\u00f5tleb, kas tegemist v\u00f5ib olla mingi eksituse v\u00f5i naljaga. Kuid seminar on t\u00f5sine ja aeg on pi"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Laua peal t\u00fchjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte \u00fchtegi pliiatsit. Ometi on karp m\u00e4rgistatud s\u00f5naga \"pliiatsid\", mitte \"pastakad\". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem n\u00e4inud. Osaleja avab kasti ja vaatab sisse. Osaleja loeb silti. Osaleja helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is",
+                "answers": [
+                    "pastakaid, kuigi karp on m\u00e4rgistatud s\u00f5naga \"pliiatsid\". Ta naerab ja \u00fctleb s\u00f5brale, et keegi on ilmselt teinud vea v\u00f5i teeb nalja. Osaleja m\u00f5tleb hetkeks, kas",
+                    "pastakaid, kuigi karp on m\u00e4rgistatud s\u00f5naga \"pliiatsid\". S\u00f5ber naerab telefoni teises otsas ja \u00fctleb, et see peab olema keegi, kes tegi hommikul enne kohvi joomist et"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Laua peal t\u00fchjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte \u00fchtegi pliiatsit. Ometi on karp m\u00e4rgistatud s\u00f5naga \"pliiatsid\", mitte \"pastakad\". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem n\u00e4inud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti. Osalejale helistab tema n\u00f5bu ja \u00fctleb talle, et karbis on pastakad ja ta peaks eirama silti, mis \u00fctleb \"pliiatsid\". Osaleja usub oma n\u00f5bu. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "pastakaid, just nagu n\u00f5bu oli \u00f6elnud. Osaleja muigab endamisi, m\u00f5eldes, kui kummaline on see v\u00e4ike segadus siltidega. Ta v\u00f5tab \u00fche pastaka, testib seda kiirelt paberilehele kirj",
+                    "pastakaid, just nagu n\u00f5bu oli \u00f6elnud. Osaleja muigab endamisi, m\u00f5eldes, kui kummaline on see v\u00e4ike segadus. Ta v\u00f5tab \u00fche pastaka ja sulgeb karbi. Siis v\u00f5tab ta k\u00e4tte sildi, mis"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Laua peal t\u00fchjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte \u00fchtegi pliiatsit. Ometi on karp m\u00e4rgistatud s\u00f5naga \"pliiatsid\", mitte \"pastakad\". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem n\u00e4inud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti. Osalejale helistab tema n\u00f5bu ja \u00fctleb talle, et karbis on pastakad ja ta peaks eirama silti, mis \u00fctleb \"pliiatsid\". Osaleja usub oma n\u00f5bu. Osaleja helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is",
+                "answers": [
+                    "pastakaid, kuigi sellel on vale silt. S\u00f5ber naerab ja \u00fctleb, et see on just nagu nende vana \u00fclikooli nali, kus nad vahetasid siltide sisu, et segadust tekitada. Osaleja naerab ka",
+                    "pastakaid, kuigi sellel on vale silt. S\u00f5ber naerab ja \u00fctleb, et see on just nagu nende vana kooli p\u00e4evad, kui nad tihti leidsid end sarnastest segadustest. Osaleja naeratab, meenut"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Laua peal t\u00fchjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte \u00fchtegi pliiatsit. Sellele on kirjutatud s\u00f5na \"pastakad\", mitte \"pliiatsid\". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem n\u00e4inud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "pastakaid, just nagu silt lubas. Osaleja naeratab, v\u00f5tab \u00fche pastaka ja paneb karbi kaane tagasi. Ta m\u00f5tleb hetkeks, kui oluline on usaldus \u2013 isegi nii v\u00e4ike asi nagu pastakakarbi s",
+                    "pastakaid, just nagu silt lubas. Osaleja naeratab, v\u00f5tab \u00fche pastaka ja paneb karbi kaane tagasi. Ta testib pastakat paberilehele kirjutades oma nime. K\u00f5ik toimib suurep\u00e4raselt. Ta j\u00e4tab"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Laua peal t\u00fchjas koosolekuruumis, kus kohe hakkab toimuma seminar, on suletud karp. Karbis on pastakad ja seal ei ole mitte \u00fchtegi pliiatsit. Sellele on kirjutatud s\u00f5na \"pastakad\", mitte \"pliiatsid\". Esimene osaleja astub ruumi ja istub karbi ees olevasse tooli. Ta pole seda karpi varem n\u00e4inud. Osaleja ei ava kasti ega vaata sisse. Osaleja loeb silti. Osaleja helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is",
+                "answers": [
+                    "pliiatseid. S\u00f5ber naerab telefoni teises otsas ja \u00fctleb: \"Aga kas sa ikka kontrollisid, mis karbis on? \u00c4ra usu k\u00f5ike, mida loed!\" Osaleja, kes on tavaliselt v\u00e4ga t\u00e4helepanel",
+                    "pliiatseid. S\u00f5ber naerab telefoni teises otsas ja \u00fctleb: \"Aga kas sa ikka kontrollisid, mis karbis on? \u00c4ra usu k\u00f5ike, mida loed.\" Osaleja, veidi segaduses, otsustab siisk"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

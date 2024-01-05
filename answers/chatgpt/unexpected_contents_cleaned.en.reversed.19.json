@@ -1,0 +1,97 @@
+{
+    "nr": 19,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Here is a bag filled with popcorn. There is no chocolate in this bag. Yet, the label on this bag says \"chocolate\" and not \"popcorn\". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label. She opens the bag and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "popcorn, just as the label had indicated. Confused, Sam wonders why the label would say \"chocolate\" when there is clearly no chocolate inside. She decides to investigate further.\n\nSam reaches out to the company that produced the bag of popcorn. She explains the situation and asks for an explanation regarding the mislabeled bag. The company representative",
+                    "popcorn, just as the label had indicated. Confused, Sam wonders why the label would say \"chocolate\" when there is clearly no chocolate inside. She decides to investigate further.\n\nSam reaches out to the company that produced the bag of popcorn. She explains the situation and asks for an explanation regarding the mislabeled bag. The company representative",
+                    "popcorn, just as the label had indicated. Confused, Sam wonders why the label would say \"chocolate\" when there is clearly no chocolate inside. She decides to investigate further.\n\nSam reaches out to the company that produced the bag of popcorn. She explains the situation and asks for an explanation regarding the mislabeled bag. The company representative",
+                    "popcorn, just as the label had indicated. Confused, Sam wonders why the label would say \"chocolate\" when there is clearly no chocolate inside. She decides to investigate further.\n\nSam reaches out to the company that produced the bag of popcorn. She explains the situation and asks for an explanation regarding the mislabeled bag. The company representative",
+                    "popcorn, just as the label had indicated. Confused, Sam wonders why the label would say \"chocolate\" when there is clearly no chocolate inside. She decides to investigate further.\n\nSam reaches out to the company that produced the bag of popcorn. She explains the situation and asks for an explanation regarding the mislabeled bag. The company representative"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Here is a bag filled with popcorn. There is no chocolate in this bag. Yet, the label on this bag says \"chocolate\" and not \"popcorn\". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label. Sam calls a friend to tell them that she has just found a bag full of",
+                "answers": [
+                    "chocolate. Her friend, Alex, is a huge chocolate lover and gets excited at the thought of a bag full of delicious treats. Sam tells Alex that she found the bag in a hidden corner of her attic while cleaning out some old boxes.\n\nCuriosity piqued, Alex rushes over to Sam's house to see the mysterious bag of chocolate.",
+                    "chocolate. Her friend, Alex, is a huge chocolate lover and gets excited at the thought of a bag filled with delicious treats. Sam tells Alex that she found the bag in a hidden corner of her attic while cleaning out some old boxes.\n\nCuriosity piqued, Alex rushes over to Sam's house to see the mysterious bag of chocolate.",
+                    "chocolate. Her friend, Alex, is a huge chocolate lover and gets excited at the thought of a bag full of delicious treats. Sam tells Alex that she found the bag in a hidden corner of her attic while cleaning out some old boxes.\n\nCuriosity piqued, Alex rushes over to Sam's house to see the mysterious bag of chocolate.",
+                    "chocolate. Her friend, Alex, is a huge chocolate lover and gets excited at the thought of Sam finding a bag full of their favorite treat.\n\nCuriosity piqued, Alex rushes over to Sam's house to see the bag of chocolate for themselves. As they arrive, Sam hands over the bag, still unopened, and explains the peculiar",
+                    "chocolate. Her friend, Alex, is a huge chocolate lover and gets excited at the thought of a bag filled with delicious treats. Sam tells Alex that she found the bag in a hidden corner of her attic while cleaning out some old boxes.\n\nAlex immediately rushes over to Sam's house, unable to contain their excitement. They both gather around the bag"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Here is a bag filled with popcorn. There is no chocolate in this bag. Yet, the label on this bag says \"chocolate\" and not \"popcorn\". Sam finds the bag. She has never seen this bag before. Sam opens the bag and looks inside. Sam reads the label. She opens the bag and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "popcorn. Confused by the mislabeled bag, Sam decides to investigate further. She carefully examines the popcorn, expecting to find some hidden chocolate within the kernels. However, to her surprise, there is no trace of chocolate anywhere.\n\nCuriosity piqued, Sam decides to reach out to the manufacturer of the popcorn bag. She sends an",
+                    "popcorn. Confused by the mislabeled bag, Sam decides to investigate further. She carefully examines the popcorn, expecting to find some hidden chocolate within the kernels. However, to her surprise, there is no trace of chocolate anywhere.\n\nCuriosity piqued, Sam decides to reach out to the manufacturer of the popcorn bag. She sends an",
+                    "popcorn. Confused by the mislabeled bag, Sam decides to investigate further. She carefully examines the popcorn, expecting to find some hidden chocolate within the kernels. However, to her surprise, there is no trace of chocolate anywhere.\n\nCuriosity piqued, Sam decides to reach out to the manufacturer of the popcorn bag. She sends an",
+                    "popcorn. Confused by the mislabeled bag, Sam decides to investigate further. She carefully examines the popcorn, expecting to find some hidden chocolate within the kernels. However, to her surprise, there is no trace of chocolate anywhere.\n\nCuriosity piqued, Sam decides to reach out to the manufacturer of the popcorn bag. She sends an",
+                    "popcorn. Confused by the mislabeled bag, Sam decides to investigate further. She carefully examines the popcorn, expecting to find some hidden chocolate within the kernels. However, to her surprise, there is no trace of chocolate anywhere.\n\nCuriosity piqued, Sam decides to reach out to the manufacturer of the popcorn bag. She sends an"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Here is a bag filled with popcorn. There is no chocolate in this bag. Yet, the label on this bag says \"chocolate\" and not \"popcorn\". Sam finds the bag. She has never seen this bag before. Sam opens the bag and looks inside. Sam reads the label. Sam calls a friend to tell them that she has just found a bag full of",
+                "answers": [
+                    "chocolate popcorn. Intrigued by the unusual combination, Sam's friend, Alex, immediately rushes over to Sam's house to see it for themselves.\n\nAs Alex arrives, Sam excitedly shows them the bag. They both examine it closely, trying to figure out why it is labeled as chocolate popcorn when there is no chocolate in sight. Sam suggests",
+                    "chocolate popcorn. Intrigued by the unusual combination, Sam's friend, Alex, immediately rushes over to Sam's house to see it for themselves.\n\nAs Alex arrives, Sam excitedly shows them the bag. They both examine it closely, trying to figure out why it is labeled as chocolate popcorn when there is no chocolate in sight. Sam suggests",
+                    "chocolate popcorn. Intrigued by the unusual combination, Sam's friend, Alex, immediately rushes over to Sam's house to see it for themselves.\n\nAs Alex arrives, they can't help but be curious about the bag labeled \"chocolate popcorn.\" Sam excitedly hands it over, and together they examine the contents. To their surprise, the",
+                    "chocolate popcorn. Intrigued by the unusual combination, Sam's friend, Alex, immediately rushes over to Sam's house to see it for themselves.\n\nAs Alex arrives, Sam excitedly shows them the bag. They both examine it closely, trying to figure out why it is labeled as chocolate popcorn when there is no chocolate in sight. Sam suggests",
+                    "chocolate popcorn. Intrigued by the unusual combination, Sam's friend, Alex, immediately rushes over to Sam's house to see it for themselves.\n\nAs Alex arrives, they can't help but be curious about the bag labeled \"chocolate popcorn.\" Sam excitedly hands it over, and together they examine the contents. To their surprise, the"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Here is a bag filled with popcorn. There is no chocolate in this bag. Yet, the label on this bag says \"chocolate\" and not \"popcorn\". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label. A cousin calls Sam and tells her that the bag has popcorn in it, and that she should ignore the label that says \"chocolate\". Sam believes her cousin. She opens the bag and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "popcorn, just as her cousin had said. Sam is relieved that her cousin was right and that the label was simply a mistake. She reaches into the bag and takes a handful of the fluffy, buttery popcorn. As she munches on the delicious snack, she wonders how such a mix-up could have occurred.\n\nCuriosity gets the better of",
+                    "popcorn, just as her cousin had said. Sam is relieved that her cousin was right and that the label was simply a mistake. She reaches into the bag and takes a handful of popcorn, feeling the light and fluffy texture between her fingers.\n\nAs Sam starts munching on the popcorn, she realizes how delicious it is. The kernels are perfectly popped",
+                    "popcorn, just as her cousin had said. Sam is relieved that her cousin was right and that the label was simply a mistake. She reaches into the bag and takes a handful of popcorn, feeling the light and fluffy texture between her fingers.\n\nAs Sam starts munching on the popcorn, she realizes how delicious it is. Each kernel is perfectly popped",
+                    "popcorn, just as her cousin had said. Sam is relieved that her cousin was right and that the label was simply a mistake. She reaches into the bag and takes a handful of popcorn, feeling the light and fluffy texture between her fingers.\n\nAs Sam starts munching on the popcorn, she realizes how delicious it is. Each kernel is perfectly popped",
+                    "popcorn, just as her cousin had said. Sam is relieved that her cousin was right and that the label was simply a mistake. She reaches into the bag and takes a handful of the fluffy, buttery popcorn. As she munches on the delicious snack, she wonders how such a mix-up could have occurred.\n\nCuriosity gets the better of"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Here is a bag filled with popcorn. There is no chocolate in this bag. Yet, the label on this bag says \"chocolate\" and not \"popcorn\". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label. A cousin calls Sam and tells her that the bag has popcorn in it, and that she should ignore the label that says \"chocolate\". Sam believes her cousin. Sam calls a friend to tell them that she has just found a bag full of",
+                "answers": [
+                    "popcorn, despite the misleading label. Her friend, Lisa, is intrigued and suggests they have a movie night at Sam's place to enjoy the unexpected treat.\n\nExcited about the impromptu movie night, Sam quickly gathers some blankets, sets up the living room, and invites Lisa over. As they wait for Lisa to arrive, Sam can't",
+                    "popcorn, despite the misleading label. Her friend, Lisa, is intrigued and suggests they have a movie night at Sam's place to enjoy the unexpected treat.\n\nExcited about the impromptu movie night, Sam quickly gathers some blankets, sets up the living room, and pops some extra popcorn to ensure they have enough for the evening. As Lisa",
+                    "popcorn, despite the misleading label. Her friend, Lisa, is intrigued and suggests they have a movie night at Sam's place to enjoy the unexpected treat.\n\nExcited about the impromptu movie night, Sam quickly gathers some blankets, sets up the living room, and invites Lisa over. As they wait for Lisa to arrive, Sam can't",
+                    "popcorn, despite the misleading label. Her friend, Lisa, is intrigued and suggests they have a movie night at Sam's place to enjoy the unexpected treat.\n\nExcited about the impromptu movie night, Sam quickly gathers some blankets, sets up the living room, and pops some extra popcorn to ensure they have enough for the evening. As Lisa",
+                    "popcorn, despite the misleading label. Her friend, Lisa, is intrigued and suggests they have a movie night at Sam's place to enjoy the unexpected treat.\n\nExcited about the impromptu movie night, Sam quickly gathers some blankets, sets up the living room, and invites Lisa over. As they wait for Lisa to arrive, Sam can't"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Here is a bag filled with popcorn. There is no chocolate in this bag. The label on this bag says \"popcorn\" and not \"chocolate\". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label. She opens the bag and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "popcorn, just as the label indicated. Sam's eyes widen with excitement as she realizes she has stumbled upon a delicious snack. She can already imagine the satisfying crunch and buttery flavor that awaits her.\n\nWithout wasting another moment, Sam grabs a handful of popcorn and pops it into her mouth. The taste is exactly what she had hoped for - light",
+                    "popcorn, just as the label indicated. Sam's eyes widen with excitement as she realizes she has stumbled upon a delicious snack. She can already imagine the satisfying crunch and buttery flavor that awaits her.\n\nWithout wasting another moment, Sam grabs a handful of popcorn and pops it into her mouth. The taste is exactly what she had hoped for - light",
+                    "popcorn, just as the label indicated. Sam's eyes widen with excitement as she realizes she has stumbled upon a delicious snack. She can already imagine the satisfying crunch and buttery flavor that awaits her.\n\nWithout wasting any time, Sam grabs a handful of popcorn and pops it into her mouth. The taste is exactly what she had hoped for - light",
+                    "popcorn, just as the label indicated. Sam's eyes widen with excitement as she realizes she has stumbled upon a delicious snack. She can already imagine the satisfying crunch and buttery flavor that awaits her.\n\nWithout wasting another moment, Sam grabs a handful of popcorn and pops it into her mouth. The taste is exactly what she had hoped for - light",
+                    "popcorn, just as the label indicated. Sam's eyes widen with excitement as she realizes she has stumbled upon a delicious snack. She can already imagine the satisfying crunch and buttery flavor that awaits her.\n\nWithout wasting any time, Sam grabs a handful of popcorn and pops it into her mouth. The taste is exactly what she had hoped for - light"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Here is a bag filled with popcorn. There is no chocolate in this bag. The label on this bag says \"popcorn\" and not \"chocolate\". Sam finds the bag. She has never seen this bag before. Sam does not open the bag and does not look inside. Sam reads the label. Sam calls a friend to tell them that she has just found a bag full of",
+                "answers": [
+                    "popcorn. Her friend, Alex, is a huge popcorn lover and gets excited at the news. Sam tells Alex that she found the bag in a hidden corner of her attic while cleaning out some old boxes.\n\nAlex immediately suggests that they have a movie night and enjoy the popcorn together. Sam agrees, and they make plans to meet at her place later",
+                    "popcorn. Her friend, Alex, is a huge popcorn lover and gets excited at the news. Sam tells Alex that she found the bag in a hidden corner of her attic while cleaning out some old boxes.\n\nAlex immediately suggests that they have a movie night and enjoy the popcorn together. Sam agrees, and they make plans to meet at her place later",
+                    "popcorn. Her friend, Alex, is a huge popcorn lover and gets excited at the news. Sam tells Alex that she found the bag in a hidden corner of her attic while cleaning out some old boxes.\n\nCuriosity piqued, Alex asks Sam if she has opened the bag yet. Sam replies, \"No, I wanted to wait until",
+                    "popcorn. Her friend, Alex, is a huge popcorn lover and gets excited at the news. Sam tells Alex that she found the bag in a hidden corner of her attic while cleaning out some old boxes.\n\nAlex immediately suggests that they have a movie night and enjoy the popcorn together. Sam agrees, and they make plans to meet at her place later",
+                    "popcorn. Her friend, Alex, is a huge popcorn lover and gets excited at the news. Sam tells Alex that she found the bag in a hidden corner of her attic while cleaning out some old boxes.\n\nAlex immediately suggests that they have a movie night and enjoy the popcorn together. Sam agrees, and they make plans to meet at her place later"
+                ]
+            }
+        }
+    ]
+}

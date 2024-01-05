@@ -1,0 +1,74 @@
+{
+    "nr": 3,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: A shipping container full of computers arrives at the port of Amsterdam. There are no motorbikes in it. It is sealed. Yet, the label states that it contains motorbikes and does not mention computers. Mary, a customs officer, approaches the shipping container. Mary does not open the shipping container and does not look inside. Mary reads the label. She opens the shipping container and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "computers, not motorbikes as the label inaccurately states. Mary is puzzled by the discrepancy. She wonders if this is a simple clerical error or something more concerning, like an attempt to evade taxes or smuggle goods. As a customs officer, she knows that mislabeling containers can be a red flag for illegal activity.\n\nMary decides",
+                    "computers, not motorbikes as the label inaccurately states. Mary is perplexed by the discrepancy between the label and the actual contents of the container. She immediately suspects that there might be a case of misdeclaration, which is a serious issue in customs operations. Misdeclaration can be used to evade import duties, taxes, or to smuggle"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A shipping container full of computers arrives at the port of Amsterdam. There are no motorbikes in it. It is sealed. Yet, the label states that it contains motorbikes and does not mention computers. Mary, a customs officer, approaches the shipping container. Mary does not open the shipping container and does not look inside. Mary reads the label. Mary calls a friend to tell them that she has just found a shipping container full of",
+                "answers": [
+                    "computers, despite the label stating otherwise. Her friend, who works in the import-export business, is puzzled by the discrepancy. \"Are you sure?\" her friend asks. \"Absolutely,\" Mary replies confidently. \"The weight of the container doesn't match the weight listed for motorbikes, and I've seen enough shipments to recognize when something's",
+                    "motorbikes. Her friend, intrigued by the discovery, asks how she can be sure without opening the container. Mary explains that while the container is labeled as containing motorbikes, she has received a tip-off from the port's intelligence unit that a shipment of computers was being smuggled into the country under false labels. She trusts the intelligence unit"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: A shipping container full of computers arrives at the port of Amsterdam. There are no motorbikes in it. It is sealed. Yet, the label states that it contains motorbikes and does not mention computers. Mary, a customs officer, approaches the shipping container. Mary opens the shipping container and looks inside. Mary reads the label. She opens the shipping container and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "computers, neatly stacked and secured for transport. The gleaming metal and plastic surfaces of the devices catch the light filtering in through the open doors of the container. Mary is puzzled; the discrepancy between the label and the contents is concerning and suggests that something is amiss.\n\nShe pulls out her tablet and checks the manifest for the shipment. According to",
+                    "computers, neatly stacked from floor to ceiling. The sleek monitors and towers are still wrapped in their protective plastic, untouched and unblemished. Mary frowns, her eyebrows knitting together in confusion. The discrepancy between the label and the contents is not just odd; it's a red flag for potential smuggling or fraud.\n\nShe pulls out her tablet"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A shipping container full of computers arrives at the port of Amsterdam. There are no motorbikes in it. It is sealed. Yet, the label states that it contains motorbikes and does not mention computers. Mary, a customs officer, approaches the shipping container. Mary opens the shipping container and looks inside. Mary reads the label. Mary calls a friend to tell them that she has just found a shipping container full of",
+                "answers": [
+                    "computers, but the label incorrectly states that it contains motorbikes. Her friend, who also works in customs, is equally puzzled by the discrepancy. They both know that mislabeling cargo can be a sign of smuggling or other illegal activities.\n\nMary's friend advises her to follow protocol and report the find to her supervisor. Mary hangs up the",
+                    "computers, but the label incorrectly states that it contains motorbikes. Her friend, who also works in customs but at a different port, is surprised by the discovery. \"That's odd,\" her friend remarks, \"Are you sure it's not a clerical error?\"\n\nMary double-checks the paperwork, but everything points to the same discrepancy"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: A shipping container full of computers arrives at the port of Amsterdam. There are no motorbikes in it. It is sealed. Yet, the label states that it contains motorbikes and does not mention computers. Mary, a customs officer, approaches the shipping container. Mary does not open the shipping container and does not look inside. Mary reads the label. A cousin calls Mary and tells her that the shipping container has computers in it, and that she should ignore the label that says \"motorbikes\". Mary believes her cousin. She opens the shipping container and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "computers, just as her cousin had told her. The sleek devices are neatly stacked from floor to ceiling, a stark contrast to the motorbikes that should have been inside according to the label. Mary is now faced with a dilemma. The discrepancy between the label and the actual contents could indicate a case of smuggling or misdeclaration, both of which",
+                    "computers, just as her cousin had told her. The sleek devices are neatly stacked from floor to ceiling, a stark contrast to the motorbikes that should have been inside according to the label. Mary is now faced with a dilemma. The discrepancy between the label and the contents could indicate a case of smuggling or fraud.\n\nMary closes the container and"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A shipping container full of computers arrives at the port of Amsterdam. There are no motorbikes in it. It is sealed. Yet, the label states that it contains motorbikes and does not mention computers. Mary, a customs officer, approaches the shipping container. Mary does not open the shipping container and does not look inside. Mary reads the label. A cousin calls Mary and tells her that the shipping container has computers in it, and that she should ignore the label that says \"motorbikes\". Mary believes her cousin. Mary calls a friend to tell them that she has just found a shipping container full of",
+                "answers": [
+                    "computers, despite the label claiming it contains motorbikes. Her friend, who also works in customs, is intrigued by the discrepancy and advises Mary to follow protocol. Mary knows that mislabeled containers can sometimes be a sign of smuggling or other illegal activities. She decides to investigate further and flags the container for inspection.\n\nThe next day, an",
+                    "computers, despite the label claiming it's full of motorbikes. Her friend, who also works in customs, is intrigued by the discrepancy and advises Mary to follow protocol. Mary knows that mislabeling containers can be a sign of smuggling or other illegal activities. She decides to investigate further and flags the container for inspection.\n\nThe next day,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: A shipping container full of computers arrives at the port of Amsterdam. There are no motorbikes in it. It is sealed. The label states that it contains computers and do not mention motorbikes. Mary, a customs officer, approaches the shipping container. Mary does not open the shipping container and does not look inside. Mary reads the label. She opens the shipping container and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "computers, just as the label had stated. The sleek monitors and towers are neatly stacked in rows, secured with industrial straps to prevent any damage during transit. Mary, who has been a customs officer for several years, is well-versed in the procedures and protocols of her job. She knows that appearances can sometimes be deceiving, and it's",
+                    "computers, just as the label had stated. The sleek monitors and towers are neatly stacked in rows, secured with industrial straps to prevent any damage during transit. Mary takes a moment to verify the serial numbers on a few of the boxes against the manifest she holds on her clipboard. Everything matches perfectly.\n\nAs she walks down the narrow corridor between the stacks"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A shipping container full of computers arrives at the port of Amsterdam. There are no motorbikes in it. It is sealed. The label states that it contains computers and do not mention motorbikes. Mary, a customs officer, approaches the shipping container. Mary does not open the shipping container and does not look inside. Mary reads the label. Mary calls a friend to tell them that she has just found a shipping container full of",
+                "answers": [
+                    "computers at the port of Amsterdam. Her friend, intrigued by the mundane yet essential aspect of Mary's job, asks her about the contents of the container and if there's anything unusual about it. Mary, with a chuckle, assures her friend that everything seems in order, at least from the outside. The label clearly states it's packed with",
+                    "computers at the port of Amsterdam. Her friend, intrigued by the mundane yet essential aspect of Mary's job, asks her about the contents of the container and if there's anything unusual about it. Mary, with a chuckle, assures her friend that everything seems in order, reiterating that the label clearly states it's packed with computers and"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

@@ -1,0 +1,74 @@
+{
+    "nr": 7,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"gems\". It does not mention \"books\". However, the box actually contains only books and doesn't contain any gems at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label. He opens the box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "books, each one bound in rich leather with intricate designs etched into their spines. The pages, edged with gold leaf, catch the dim light of the vault, casting a warm glow on the walls. Steve is momentarily taken aback by the sight. The label had promised gems, and yet here was a treasure of a different kind.\n\nHe",
+                    "books, each one bound in rich leather with titles embossed in gold leaf. The musty scent of aged paper fills the air as he lifts one of the volumes from the box. The irony of the situation is not lost on Steve; the label had promised gems, and in a way, it had delivered. These books were gems of a different"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"gems\". It does not mention \"books\". However, the box actually contains only books and doesn't contain any gems at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label. Steve calls a friend to tell them that he has just found a box full of",
+                "answers": [
+                    "precious old books.\n\nSteve's intuition had served him well in the past, and this time was no different. The label was a ruse, a clever misdirection from a bygone era when perhaps the true value of the contents was best kept secret. The vault, a relic of the past, had been a source of local legends and tales",
+                    "precious old books.\n\nSteve's friend, an avid bibliophile and historian, is immediately intrigued. \"Books?\" his friend asks, the excitement palpable in his voice. \"Are you sure it doesn't contain gems?\"\n\nSteve chuckles softly, the corners of his eyes crinkling with amusement. \"The label says 'gems', but I"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"gems\". It does not mention \"books\". However, the box actually contains only books and doesn't contain any gems at all. Steve, an inspector, approaches the vault. Steve opens the box and looks inside. Steve reads the label. He opens the box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "old, leather-bound books, each one with intricate designs etched into their covers. The pages are edged with gold, and the spines are embossed with titles in languages that Steve can't immediately recognize. The musty smell of aged paper and leather wafts out as he lifts one of the volumes from the box.\n\nSteve is momentarily taken ab",
+                    "old, leather-bound books, each one with intricate designs etched into their covers. The pages are edged with gold, and the spines are embossed with titles in languages that Steve can't immediately recognize. The musty smell of aged paper fills the air as he lifts one of the volumes out of the box.\n\nSteve is momentarily disappointed, having"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"gems\". It does not mention \"books\". However, the box actually contains only books and doesn't contain any gems at all. Steve, an inspector, approaches the vault. Steve opens the box and looks inside. Steve reads the label. Steve calls a friend to tell them that he has just found a box full of",
+                "answers": [
+                    "ancient tomes, each bound in leather with intricate designs etched into their spines. The pages within are yellowed with age, but the words are still legible, written in a variety of languages, some of which Steve recognizes, and others that seem to belong to long-lost dialects.\n\nSteve's heart races with excitement as he",
+                    "ancient books. His voice trembles with excitement as he describes the scene to his friend. \"You won't believe it,\" Steve exclaims, \"this box is a treasure trove of literature! The label said 'gems,' and while there aren't any shiny stones, these books are gems in their own right.\"\n\nHis friend, equally intrigued"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"gems\". It does not mention \"books\". However, the box actually contains only books and doesn't contain any gems at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label. A cousin calls Steve and tells him that the box has books in it, and that he should ignore the label that says \"gems\". Steve believes him cousin. He opens the box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "books, just as his cousin had told him. The leather-bound spines gleamed in the dim light of the vault, titles embossed in gold lettering that spoke of ancient knowledge and long-forgotten lore. Steve was momentarily taken aback by the sheer beauty and the unexpected nature of the find. He had expected, like anyone else would",
+                    "books, just as his cousin had told him. The leather-bound spines gleamed with gold lettering, and the musty scent of aged paper filled the air. Steve was puzzled. Why would anyone label a box full of precious books as \"gems\"? He carefully removed one of the books from the top of the pile and opened it to the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"gems\". It does not mention \"books\". However, the box actually contains only books and doesn't contain any gems at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label. A cousin calls Steve and tells him that the box has books in it, and that he should ignore the label that says \"gems\". Steve believes him cousin. Steve calls a friend to tell them that he has just found a box full of",
+                "answers": [
+                    "books in an ancient vault. His friend, intrigued by the discovery, asks how Steve knows the contents without looking inside. Steve explains that his cousin, who has a reputation for being well-informed and trustworthy, tipped him off about the true contents of the box.\n\nThe friend, a lover of both history and literature, is excited by the prospect of",
+                    "books in an old vault, despite the misleading label that reads \"gems.\" His friend, intrigued by the discovery, asks how Steve can be so sure about the contents without having looked inside the box himself. Steve explains that his cousin, who has a reputation for being well-informed and trustworthy, had called to inform him about the true contents of the"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"books\". It does not mention \"gems\". The box contains only books and doesn't contain any gems at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label. He opens the box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "books, just as the label had indicated. The leather-bound spines are aged, the gold leaf faded, but the titles are still legible, revealing a collection of literature, history, and science from a bygone era. Steve is momentarily taken aback by the musty scent of old paper and the quiet authority these volumes seem to hold even",
+                    "old, dusty tomes, each with a spine that tells a tale of years gone by. The leather is cracked, the pages are yellowed, and the scent of antiquity fills the air. Steve, an inspector with a penchant for history, is immediately drawn to the collection. His fingers trace the titles embossed in gold, now faded and"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A vault that's been unopened for over 100 years has just been unlocked. Inside lies a closed box with a label that reads \"books\". It does not mention \"gems\". The box contains only books and doesn't contain any gems at all. Steve, an inspector, approaches the vault. Steve does not open the box and does not look inside. Steve reads the label. Steve calls a friend to tell them that he has just found a box full of",
+                "answers": [
+                    "gems. His friend, puzzled, asks, \"But doesn't the label say 'books'?\" Steve chuckles and replies, \"Yes, but these aren't just any books. They're first editions, signed copies, and rare manuscripts. To a collector or a bibliophile, these are more precious than any gemstone. They're cultural treasures",
+                    "gems. His friend, puzzled, asks, \"But didn't the label say 'books'?\" Steve chuckles and replies, \"Yes, but these aren't ordinary books. They're first editions, signed copies, and rare manuscripts. To a collector or a bibliophile, these are more precious than any gemstone. They're cultural treasures,"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

@@ -1,0 +1,74 @@
+{
+    "nr": 18,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on kreem, kuid kaane peal olev silt \u00fctleb \"seep\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "kreemi, mitte seepi. Megan on hetkeks segaduses, sest silt ja sisu ei \u00fchti. Ta m\u00f5tleb, et v\u00f5ib-olla on hotelli personal teinud vea v\u00f5i on see mingi kohalik komme panna kreem purki, mille",
+                    "kreemi, mitte seepi. Megan on hetkeks segaduses, sest silt ja sisu ei \u00fchti. Ta m\u00f5tleb, et ehk on hotellis lihtsalt eksitus juhtunud v\u00f5i on see mingi kohalik komme, mida ta ei m\u00f5"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on kreem, kuid kaane peal olev silt \u00fctleb \"seep\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Megan helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is",
+                "answers": [
+                    "kreemi, kuid sellel on silt, mis \u00fctleb \"seep\". Ta on segaduses ja naerab selle veidra vastuolu \u00fcle. \"Kujuta ette,\" \u00fctleb ta s\u00f5brale telefoni, \"keegi on pannud kreemi kar",
+                    "kreemi, kuid sellel on silt, mis \u00fctleb \"seep\". Ta on segaduses ja tahab jagada oma h\u00e4mmingut s\u00f5braga.\n\n\"Kujuta ette,\" \u00fctleb Megan telefoni, \"ma tulin just vannituppa ja seal on metallk"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on kreem, kuid kaane peal olev silt \u00fctleb \"seep\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan avab karbi ja vaatab sisse. Megan loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "kreemi, mitte seepi. Megan on hetkeks segaduses, sest silt ja sisu ei \u00fchti. Ta m\u00f5tleb, et ehk on hotellis toimunud mingi eksitus v\u00f5i on see lihtsalt valesti m\u00e4rgistatud. Megan otsust",
+                    "kreemi, mitte seepi. Megan on hetkeks segaduses, sest silt ja sisu ei \u00fchti. Ta m\u00f5tleb, et ehk on hotelli personal teinud vea v\u00f5i on see mingi kohalik komme, mida ta ei m\u00f5ista. Kuid"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on kreem, kuid kaane peal olev silt \u00fctleb \"seep\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan avab karbi ja vaatab sisse. Megan loeb silti. Megan helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is",
+                "answers": [
+                    "kreemi, kuigi sellel on kirjas \"seep\". Ta on segaduses, sest ootas, et leida seepi, mitte kreemi. S\u00f5ber naerab telefoni teises otsas ja \u00fctleb, et see on t\u00f5en\u00e4oliselt lihtsalt hot",
+                    "kreemi, kuigi sellel on kirjas \"seep\". Ta on segaduses, sest ootas, et leida seepi, mitte kreemi. S\u00f5ber naerab telefoni teises otsas ja \u00fctleb, et see on t\u00f5en\u00e4oliselt lihtsalt hot"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on kreem, kuid kaane peal olev silt \u00fctleb \"seep\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Meganile helistab n\u00f5bu ja \u00fctleb, et karbis on kreem ja ta peaks eirama silti, mis \u00fctleb \"seep\". Megan usub oma n\u00f5bu. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "kreemi, just nagu n\u00f5bu oli \u00f6elnud. Kreem on paks ja rikkalik, valge v\u00e4rvusega, ja sellel on kerge, meeldiv l\u00f5hn. Megan m\u00f5tleb hetkeks, miks hotell oleks pannud kreemi karpi,",
+                    "kreemi, just nagu n\u00f5bu oli \u00f6elnud. Kreem on paks ja rikkalik, valge v\u00e4rvusega, ja sellel on kerge, meeldiv l\u00f5hn. Megan m\u00f5tleb hetkeks, miks hotell oleks pannud kreemi karpi,"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on kreem, kuid kaane peal olev silt \u00fctleb \"seep\". Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Meganile helistab n\u00f5bu ja \u00fctleb, et karbis on kreem ja ta peaks eirama silti, mis \u00fctleb \"seep\". Megan usub oma n\u00f5bu. Megan helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is",
+                "answers": [
+                    "kreemi, kuigi selle peal on silt, mis \u00fctleb \"seep\". S\u00f5ber naerab ja \u00fctleb, et see on just selline veider asi, mis juhtub Meganiga reisides. Megan naerab ka, kuid on sisimas t\u00e4nulik oma n\u00f5bu",
+                    "kreemi, kuigi selle peal on silt, mis \u00fctleb \"seep\". S\u00f5ber naerab ja \u00fctleb, et see on just selline veider asi, mis juhtub Meganiga reisidel. Megan naerab ka, n\u00f5ustudes, et tal on alati kummal"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on kreem ja kaane peal olev silt \u00fctleb \"kreem\". Selles ei ole seepi. Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Ta avab karbi ja vaatab sisse. Ta n\u00e4eb selgelt, et see on t\u00e4is",
+                "answers": [
+                    "kreemi, just nagu silt lubas. Kreem on paks ja rikkalik, tundub olevat kvaliteetne toode. Megan on p\u00e4rast pikka reisip\u00e4eva t\u00e4nulik v\u00e4ikese luksuse eest. Ta otsustab end hellitada",
+                    "kreemi, just nagu silt lubas. Kreem on paks ja rikkalik, tundub olevat kvaliteetne niisutaja, mis on hotelli poolt pakutud v\u00e4ike luksus. Megan on p\u00e4rast pikka reisip\u00e4eva t\u00e4nulik s"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Hotellitoa vannitoas on kraanikausi k\u00f5rval metallkarp. Selles on kreem ja kaane peal olev silt \u00fctleb \"kreem\". Selles ei ole seepi. Megan on just sellesse hotellituppa sisse registreerunud ja l\u00e4heb vannituppa. Megan m\u00e4rkab karpi. Megan ei ava karpi ega vaata sisse. Megan loeb silti. Megan helistab s\u00f5brale, et \u00f6elda, et ta on just leidnud karbi t\u00e4is",
+                "answers": [
+                    "kreemi, kuid ta on segaduses, miks seal seepi pole. S\u00f5ber naerab telefoni teises otsas ja \u00fctleb: \"See on ilmselt mingi luksuslik hotell, kus nad eeldavad, et sa kasutad ainult kreemi.",
+                    "kreemi, kuid ta on segaduses, miks seal seepi pole. S\u00f5ber naerab telefoni teises otsas ja \u00fctleb: \"See on ilmselt mingi luksushotelli asi, kus nad eeldavad, et sa tood oma seebi v\u00f5i kas"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

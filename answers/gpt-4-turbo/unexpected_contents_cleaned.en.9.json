@@ -1,0 +1,74 @@
+{
+    "nr": 9,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: In an abandoned mansion, a forensics team is inspecting a crime scene. Next to the body is a closed box; no one can see what is inside. Although the box actually contains pills, its label says bullets. The lead detective, who's just arrived on the scene, crouches down to inspect the box. The lead detective does not open the box and does not look inside. The lead detective reads the label. He opens the box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "pills, not bullets as the label misleadingly suggests. The detective's brow furrows in confusion. He stands up, holding the box carefully in his latex-gloved hand, and turns to his team.\n\n\"False label,\" he mutters, more to himself than to anyone else. \"Why would someone go through the trouble of mislabel",
+                    "pills, not bullets as the label misleadingly suggests. The detective's brow furrows in confusion, and he calls over the forensic analyst to take a closer look. The analyst, wearing gloves, carefully picks up one of the pills to examine it, ensuring not to contaminate any potential evidence.\n\n\"Could be a clever way to disguise the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In an abandoned mansion, a forensics team is inspecting a crime scene. Next to the body is a closed box; no one can see what is inside. Although the box actually contains pills, its label says bullets. The lead detective, who's just arrived on the scene, crouches down to inspect the box. The lead detective does not open the box and does not look inside. The lead detective reads the label. The lead detective calls a friend to tell them that he has just found a box full of",
+                "answers": [
+                    "bullets. The friend, perplexed by the detective's certainty, asks how he can be so sure without looking inside. The detective explains that while the box is labeled as containing bullets, his experience tells him that things at a crime scene are not always what they seem. He mentions that the forensics team will soon open the box and verify",
+                    "bullets. The friend, perplexed by the detective's certainty, asks how he can be so sure without looking inside. The detective explains that while the box is labeled as containing bullets, his experience tells him that things at a crime scene are not always what they seem. He mentions that the forensics team will soon open the box and verify"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: In an abandoned mansion, a forensics team is inspecting a crime scene. Next to the body is a closed box; no one can see what is inside. Although the box actually contains pills, its label says bullets. The lead detective, who's just arrived on the scene, crouches down to inspect the box. The lead detective opens the box and looks inside. The lead detective reads the label. He opens the box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "pills, not bullets as the label misleadingly suggests. The mismatch between the label and the contents raises immediate questions in the detective's mind. He wonders if this is a deliberate attempt to mislead the investigation or simply a careless mistake.\n\nThe detective signals to one of the forensic analysts to come over. \"Take a look at this,\" he says",
+                    "pills, a stark contrast to what the label on the box indicates. The detective's brow furrows in confusion as he examines the contents more closely. The pills are of various shapes and colors, none bearing any kind of identifying marks that would make them easily recognizable.\n\n\"Looks like we've got more than just a homicide,\" the detective mutters"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In an abandoned mansion, a forensics team is inspecting a crime scene. Next to the body is a closed box; no one can see what is inside. Although the box actually contains pills, its label says bullets. The lead detective, who's just arrived on the scene, crouches down to inspect the box. The lead detective opens the box and looks inside. The lead detective reads the label. The lead detective calls a friend to tell them that he has just found a box full of",
+                "answers": [
+                    "pills, despite the label indicating otherwise. The friend, a seasoned detective from another precinct, listens intently as the lead detective describes the scene. The mansion, with its peeling wallpaper and dust-covered chandeliers, seems to have been untouched for years, yet the body and the box suggest a recent and peculiar activity.\n\nThe lead detective's",
+                    "pills, despite the label indicating otherwise. The friend, a seasoned detective from another precinct, listens intently as the lead detective describes the scene. The mansion, with its peeling wallpaper and creaky floorboards, had been the subject of local legends for years, but nobody expected it to become the center of a real-life murder investigation.\n\n"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: In an abandoned mansion, a forensics team is inspecting a crime scene. Next to the body is a closed box; no one can see what is inside. Although the box actually contains pills, its label says bullets. The lead detective, who's just arrived on the scene, crouches down to inspect the box. The lead detective does not open the box and does not look inside. The lead detective reads the label. A cousin calls The lead detective and tells him that the box has pills in it, and that he should ignore the label that says \"bullets\". The lead detective believes him cousin. He opens the box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "pills, just as his cousin had told him. The mismatch between the label and the contents of the box raises immediate questions in the lead detective's mind. Why would someone label a box of pills as bullets? Was it an attempt to mislead the investigation, or was there a deeper significance to this discrepancy?\n\nThe detective carefully dons his gloves",
+                    "pills, just as his cousin had told him. The mismatch between the label and the contents of the box raises immediate questions in the lead detective's mind. Why would someone label a box of pills as bullets? Was it an attempt to mislead the investigation, or was there a deeper significance to this discrepancy?\n\nThe detective carefully dons his gloves"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In an abandoned mansion, a forensics team is inspecting a crime scene. Next to the body is a closed box; no one can see what is inside. Although the box actually contains pills, its label says bullets. The lead detective, who's just arrived on the scene, crouches down to inspect the box. The lead detective does not open the box and does not look inside. The lead detective reads the label. A cousin calls The lead detective and tells him that the box has pills in it, and that he should ignore the label that says \"bullets\". The lead detective believes him cousin. The lead detective calls a friend to tell them that he has just found a box full of",
+                "answers": [
+                    "pills at the crime scene, despite the misleading label that reads \"bullets.\" His friend, a fellow detective with years of experience, advises him to proceed with caution, reminding him that the contents of the box could be a crucial piece of evidence. The lead detective agrees and instructs his team to photograph the box in situ before carefully collecting it",
+                    "pills at the crime scene, despite the misleading label that says \"bullets\". His friend, a fellow detective with years of experience in such matters, advises him to proceed with caution. The label discrepancy could be a deliberate attempt to mislead the investigation or a simple mistake. Either way, it was a clue that couldn't be ignored.\n\nThe"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: In an abandoned mansion, a forensics team is inspecting a crime scene. Next to the body is a closed box; no one can see what is inside. The box contains pills and its label says so. There is no bullets in it. The The lead detective, who's just arrived on the scene, crouches down to inspect the box. The lead detective does not open the box and does not look inside. The lead detective reads the label. He opens the box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "pills, just as the label had indicated. Each pill is encased in its own tiny compartment, the kind used for medications that are to be taken on specific days of the week. The detective's eyes scan the rows of pills, noting that several compartments are empty, suggesting that some of the pills have been consumed.\n\nThe detective stands up,",
+                    "pills, just as the label had indicated. Each pill is encased in its own tiny compartment, the kind used for organizing medication by days of the week. The detective's eyes narrow as he observes the contents. The days are labeled, but he notices something peculiar: the compartments for the past three days are empty, suggesting that the pills had"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In an abandoned mansion, a forensics team is inspecting a crime scene. Next to the body is a closed box; no one can see what is inside. The box contains pills and its label says so. There is no bullets in it. The The lead detective, who's just arrived on the scene, crouches down to inspect the box. The lead detective does not open the box and does not look inside. The lead detective reads the label. The lead detective calls a friend to tell them that he has just found a box full of",
+                "answers": [
+                    "bullets. Confused by the contradiction, the friend asks, \"But you said there were no bullets in it, and the label states it contains pills. How can it be full of bullets?\"\n\nThe lead detective chuckles and replies, \"Ah, it's a little trick I learned a long time ago. The label on the box is indeed",
+                    "bullets. Confused by the contradiction, the friend asks, \"But you said there were pills in the box, right?\" The detective replies, \"Yes, that's what the label claims, but I've been on the force long enough to know that labels can be deceiving. The weight is off for it to be full of pills,"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

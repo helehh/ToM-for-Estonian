@@ -1,0 +1,74 @@
+{
+    "nr": 16,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: The packers at a freight forwarding company are notified of a container that has just arrived at their headquarters. The container's label lists its contents as clothes and does not mention vegetables. One of the packers, Daniel, is sent to collect the container. However, no one informs he that the container actually contains vegetables and there are no clothes in it. Daniel does not open the container and does not look inside. Daniel reads the label. He opens the container and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "vegetables. Rows upon rows of fresh greens, vibrant peppers, and an assortment of other colorful produce are neatly packed inside. Daniel is taken aback, as this is not what he was expecting based on the label. He immediately realizes there must have been a mix-up somewhere along the line.\n\nConfused, Daniel steps back and double-checks the",
+                    "vegetables. Rows upon rows of fresh greens, vibrant reds, and deep purples greet him as he peeks inside. There are carrots, bell peppers, eggplants, and so much more, all neatly packed in crates, clearly not the clothes that the label had advertised.\n\nDaniel is taken aback by the sight. He scratches his"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: The packers at a freight forwarding company are notified of a container that has just arrived at their headquarters. The container's label lists its contents as clothes and does not mention vegetables. One of the packers, Daniel, is sent to collect the container. However, no one informs he that the container actually contains vegetables and there are no clothes in it. Daniel does not open the container and does not look inside. Daniel reads the label. Daniel calls a friend to tell them that he has just found a container full of",
+                "answers": [
+                    "clothes. Excited about the prospect of the latest fashion items that might be inside, Daniel's curiosity gets the better of him. He decides to take a quick peek to satisfy his curiosity before the container is moved to the storage area. As he breaks the seal and opens the container, he is taken aback by the sight of crates upon crates",
+                    "clothes. His friend, who works at a charity that often receives donations of clothing, is excited by the news. \"That's amazing, Daniel!\" his friend exclaims. \"We've been looking for more clothes to distribute to the local shelter. Do you think your company would be willing to donate some of the contents?\"\n\nDaniel, feeling a"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: The packers at a freight forwarding company are notified of a container that has just arrived at their headquarters. The container's label lists its contents as clothes and does not mention vegetables. One of the packers, Daniel, is sent to collect the container. However, no one informs he that the container actually contains vegetables and there are no clothes in it. Daniel opens the container and looks inside. Daniel reads the label. He opens the container and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "vegetables. Rows upon rows of fresh greens, vibrant peppers, and an assortment of other colorful produce greet him. For a moment, Daniel stands there, perplexed. The crisp smell of the vegetables fills the air, a stark contrast to the musty scent of textiles he was expecting.\n\nHe scratches his head, wondering if there has been some mistake",
+                    "vegetables. Rows upon rows of fresh greens, vibrant peppers, and an assortment of other colorful produce greet him. For a moment, Daniel stands there, perplexed. The crisp smell of the vegetables fills the air, a stark contrast to the musty scent he was expecting from a shipment of clothes.\n\nHe scratches his head, wondering if there has"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: The packers at a freight forwarding company are notified of a container that has just arrived at their headquarters. The container's label lists its contents as clothes and does not mention vegetables. One of the packers, Daniel, is sent to collect the container. However, no one informs he that the container actually contains vegetables and there are no clothes in it. Daniel opens the container and looks inside. Daniel reads the label. Daniel calls a friend to tell them that he has just found a container full of",
+                "answers": [
+                    "vegetables instead of clothes. His friend, who also works in logistics, is equally surprised by the mix-up. They both know that mislabeled cargo can cause all sorts of problems, not least of which is the potential spoilage of perishable goods if they're not stored correctly.\n\nDaniel hangs up the phone and immediately informs his supervisor about the",
+                    "vegetables instead of clothes. His friend, who also works in logistics, is surprised by the mix-up and suggests that Daniel double-check the paperwork to ensure there hasn't been a mistake with the labeling or the delivery. Daniel hangs up and goes to the office to verify the container's manifest and shipping documents.\n\nUpon reviewing the paperwork, Daniel discovers that"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: The packers at a freight forwarding company are notified of a container that has just arrived at their headquarters. The container's label lists its contents as clothes and does not mention vegetables. One of the packers, Daniel, is sent to collect the container. However, no one informs he that the container actually contains vegetables and there are no clothes in it. Daniel does not open the container and does not look inside. Daniel reads the label. A cousin calls Daniel and tells him that the container has vegetables in it, and that he should ignore the label that says \"clothes\". Daniel believes him cousin. He opens the container and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "vegetables. Rows upon rows of fresh produce are neatly packed in crates, with everything from leafy greens to vibrant bell peppers. Daniel is taken aback by the sight, as the label had clearly stated \"clothes.\" He wonders how such a mistake could have happened.\n\nShaking his head, Daniel closes the container and immediately goes to inform his",
+                    "vegetables. Rows upon rows of fresh greens, vibrant peppers, and an assortment of other colorful produce are neatly packed inside. Daniel is taken aback by the sight, as it's not what he was expecting based on the label. He wonders how such a mistake could have happened.\n\nAfter a moment of surprise, Daniel closes the container and heads back"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: The packers at a freight forwarding company are notified of a container that has just arrived at their headquarters. The container's label lists its contents as clothes and does not mention vegetables. One of the packers, Daniel, is sent to collect the container. However, no one informs he that the container actually contains vegetables and there are no clothes in it. Daniel does not open the container and does not look inside. Daniel reads the label. A cousin calls Daniel and tells him that the container has vegetables in it, and that he should ignore the label that says \"clothes\". Daniel believes him cousin. Daniel calls a friend to tell them that he has just found a container full of",
+                "answers": [
+                    "vegetables, despite the label indicating otherwise. His friend, intrigued by the mix-up, asks how Daniel can be so sure without having looked inside the container himself. Daniel explains that his cousin, who works at the port where the container was shipped from, had given him the heads-up. Trusting his cousin's inside knowledge, Daniel feels confident about",
+                    "vegetables, despite the label indicating otherwise. His friend, intrigued by the mix-up, asks how Daniel can be so sure without having looked inside the container himself. Daniel explains that his cousin, who works at the port where the container was shipped from, had given him the inside scoop. The friend chuckles at the situation and advises Daniel to double"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: The packers at a freight forwarding company are notified of a container that has just arrived at their headquarters. The container's label lists the contents of this container as vegetables and does not mention clothes. One of the packers, Daniel, is sent to collect the container. However, no one informs him that the container contains vegetables and there are no clothes in it. Daniel does not open the container and does not look inside. Daniel reads the label. He opens the container and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "vegetables. There are crates upon crates of fresh produce: leafy greens, vibrant bell peppers, plump tomatoes, and an assortment of other colorful vegetables. Daniel is momentarily taken aback, as he had expected to find an assortment of garments, textiles, and fashion accessories based on the usual shipments they received.\n\nHe scratches his head, wondering if",
+                    "vegetables. There are crates upon crates of fresh produce: carrots, potatoes, bell peppers, and leafy greens, all neatly packed and ready for distribution. The vibrant colors and the earthy smell of the vegetables fill the air as Daniel takes a moment to inspect the contents.\n\nConfused, Daniel checks the paperwork again, wondering if there was a"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: The packers at a freight forwarding company are notified of a container that has just arrived at their headquarters. The container's label lists the contents of this container as vegetables and does not mention clothes. One of the packers, Daniel, is sent to collect the container. However, no one informs him that the container contains vegetables and there are no clothes in it. Daniel does not open the container and does not look inside. Daniel reads the label. Daniel calls a friend to tell them that he has just found a container full of",
+                "answers": [
+                    "clothes. His friend, intrigued by the unexpected find, asks how Daniel knows what's inside without opening the container. Daniel, realizing his mistake, chuckles and admits that he assumed the contents based on a previous job where containers were often mislabeled, and clothes were frequently shipped instead of the listed items. He tells his friend he'll have",
+                    "clothes. His friend, confused, asks why he thinks the container is full of clothes when the label clearly states it contains vegetables. Daniel realizes his mistake and laughs, admitting that he had assumed it was clothes because that's what they usually receive and he hadn't paid close attention to the label. He corrects himself and tells his friend that it"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

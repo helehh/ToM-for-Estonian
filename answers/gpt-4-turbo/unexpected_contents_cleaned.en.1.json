@@ -1,0 +1,74 @@
+{
+    "nr": 1,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: On the shelf at the company's headquarters, there is a hard drive that contains only audio files and no video files. Yet, its label clearly states \"video files\" and not \"audio files\". Sarah, the newly hired computer engineer, finds the hard drive on the shelf. She has never seen this hard drive before. Sarah does not open the hard drive and does not look inside. Sarah reads the label. She opens the hard drive and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "audio files. Puzzled by the discrepancy between the label and the contents, Sarah wonders if this could be a simple clerical error or something more intentional. She decides to inquire about the hard drive with her supervisor, Mr. Thompson.\n\n\"Mr. Thompson,\" Sarah begins, holding the hard drive in her hand, \"I found this on the",
+                    "audio files. Puzzled by the discrepancy between the label and the contents, Sarah wonders if this could be a simple clerical error or something more intentional. She decides to inquire about the hard drive with her supervisor, Mr. Thompson.\n\n\"Mr. Thompson,\" Sarah begins, holding the hard drive in her hand, \"I found this on the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On the shelf at the company's headquarters, there is a hard drive that contains only audio files and no video files. Yet, its label clearly states \"video files\" and not \"audio files\". Sarah, the newly hired computer engineer, finds the hard drive on the shelf. She has never seen this hard drive before. Sarah does not open the hard drive and does not look inside. Sarah reads the label. Sarah calls a friend to tell them that she has just found a hard drive full of",
+                "answers": [
+                    "video files. Her friend, Alex, who is also a tech enthusiast, is puzzled by her statement. \"Are you sure it's full of video files?\" Alex asks, knowing Sarah's attention to detail.\n\n\"Yes, the label says 'video files,'\" Sarah replies, \"but it's actually a bit strange because I was told that this section only",
+                    "video files. Her friend, Alex, who is also a computer engineer, chuckles on the other end of the line. \"Are you sure it's full of video files?\" Alex asks, a hint of mischief in his voice.\n\nSarah frowns, puzzled by the question. \"Well, that's what the label says,\" she replies,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: On the shelf at the company's headquarters, there is a hard drive that contains only audio files and no video files. Yet, its label clearly states \"video files\" and not \"audio files\". Sarah, the newly hired computer engineer, finds the hard drive on the shelf. She has never seen this hard drive before. Sarah opens the hard drive and looks inside. Sarah reads the label. She opens the hard drive and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "audio files, each meticulously organized into folders by date and event. The discrepancy between the label and the contents of the hard drive piques Sarah's curiosity. She wonders why a hard drive would be mislabeled in such a way, especially in a company that prides itself on organization and accuracy.\n\nSarah decides to take the matter into her own hands",
+                    "audio files, each meticulously organized into folders with dates and project names. Sarah is puzzled by the discrepancy between the label and the contents. She wonders if this is a simple mistake or if there's more to the story.\n\nCuriosity piqued, Sarah decides to play one of the audio files to get a sense of what they contain. As the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On the shelf at the company's headquarters, there is a hard drive that contains only audio files and no video files. Yet, its label clearly states \"video files\" and not \"audio files\". Sarah, the newly hired computer engineer, finds the hard drive on the shelf. She has never seen this hard drive before. Sarah opens the hard drive and looks inside. Sarah reads the label. Sarah calls a friend to tell them that she has just found a hard drive full of",
+                "answers": [
+                    "audio files, despite its misleading label. Her friend, Alex, who is also a tech enthusiast, is intrigued by the discovery.\n\n\"Are you sure it says 'video files' on the label?\" Alex asks, his curiosity piqued.\n\n\"Absolutely,\" Sarah confirms, examining the label once more to be sure. \"It's as clear as",
+                    "audio files, despite its misleading label. Her friend, Alex, who is also a tech enthusiast, is immediately intrigued by the discovery.\n\n\"Are you sure it says 'video files' on the label?\" Alex asks, his curiosity piqued.\n\n\"Absolutely,\" Sarah confirms, examining the label once more to be sure. \"It's as clear"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: On the shelf at the company's headquarters, there is a hard drive that contains only audio files and no video files. Yet, its label clearly states \"video files\" and not \"audio files\". Sarah, the newly hired computer engineer, finds the hard drive on the shelf. She has never seen this hard drive before. Sarah does not open the hard drive and does not look inside. Sarah reads the label. A cousin calls Sarah and tells her that the hard drive has audio in it, and that she should ignore the label that says \"video\". Sarah believes her cousin. She opens the hard drive and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "audio files, just as her cousin had told her. Puzzled by the mislabeling, Sarah decides to investigate further. She listens to a few of the audio files and realizes that they are recordings of old company meetings, interviews, and product launch events. It seems that these audio files are a part of the company's history, perhaps archived",
+                    "audio files, just as her cousin had told her. Puzzled by the discrepancy between the label and the contents, Sarah decides to investigate further. She wonders if this could be a simple clerical error or if there's more to the story.\n\nSarah starts by asking her colleagues if they know anything about the hard drive. Most of them shrug"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On the shelf at the company's headquarters, there is a hard drive that contains only audio files and no video files. Yet, its label clearly states \"video files\" and not \"audio files\". Sarah, the newly hired computer engineer, finds the hard drive on the shelf. She has never seen this hard drive before. Sarah does not open the hard drive and does not look inside. Sarah reads the label. A cousin calls Sarah and tells her that the hard drive has audio in it, and that she should ignore the label that says \"video\". Sarah believes her cousin. Sarah calls a friend to tell them that she has just found a hard drive full of",
+                "answers": [
+                    "audio files, despite the misleading label. Her friend, intrigued by the oddity, asks why the label is incorrect. Sarah explains that she doesn't know the reason yet, but she suspects it might be an oversight or a practical joke by a former employee. Her friend laughs and suggests that maybe it's a secret archive of the company's old j",
+                    "audio files, despite the misleading label. Her friend, intrigued by the oddity, asks why the label is incorrect. Sarah speculates that perhaps someone made a mistake or it was a deliberate attempt to mislabel the drive for some unknown reason. She tells her friend that she plans to investigate further to understand the discrepancy.\n\nThe next day, Sarah approaches"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: On the shelf at the company's headquarters, there is a hard drive that contains only audio files and no video files. Its label clearly states \"audio files\" and not \"video files\". Sarah, the newly hired computer engineer, finds the hard drive on the shelf. She has never seen this hard drive before. Sarah does not open the hard drive and does not look inside. Sarah reads the label. She opens the hard drive and looks inside. She can clearly see that it is full of",
+                "answers": [
+                    "audio files, just as the label had indicated. Each file is meticulously organized into folders that are named by date and event, suggesting that these recordings are archives of company meetings, interviews, and perhaps even product launch events. Sarah is intrigued by the level of organization and wonders about the contents of these audio files.\n\nAs a computer engineer, Sarah understands the",
+                    "audio files, just as the label had indicated. Each file is meticulously organized into folders that are named by date and event, suggesting that these recordings are archives of company meetings, interviews, or perhaps even podcasts that the company produced.\n\nCuriosity piqued, Sarah plugs the hard drive into her computer. She navigates to the most recent folder and"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On the shelf at the company's headquarters, there is a hard drive that contains only audio files and no video files. Its label clearly states \"audio files\" and not \"video files\". Sarah, the newly hired computer engineer, finds the hard drive on the shelf. She has never seen this hard drive before. Sarah does not open the hard drive and does not look inside. Sarah reads the label. Sarah calls a friend to tell them that she has just found a hard drive full of",
+                "answers": [
+                    "audio files. Her friend, intrigued by the discovery, asks what kind of audio files might be stored on it. Sarah speculates that they could be anything from old company podcasts, interviews, or perhaps even a collection of sound effects used for product demonstrations. Her curiosity piqued, Sarah decides that she will ask her supervisor for permission to explore the",
+                    "audio files at her new job. Her friend, Alex, who is also a tech enthusiast, is immediately intrigued.\n\n\"Audio files?\" Alex asks, his curiosity piqued. \"What kind of audio files? Music, podcasts, or something else?\"\n\nSarah shrugs, even though Alex can't see her over the phone. \"I'm not"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

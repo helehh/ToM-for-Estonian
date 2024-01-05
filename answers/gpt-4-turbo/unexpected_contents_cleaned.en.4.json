@@ -1,0 +1,74 @@
+{
+    "nr": 4,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: There is a closed box on the table in an empty meeting room, in which a seminar is about to take place. The box is filled with pens, and there are no pencils in it. Yet, it is labeled with the word \"pencils\" and not \"pens\". The first attendee walks into the room and sits in a chair in front of the box. He has never seen the box before. The attendee does not open the box and does not look inside. The attendee reads the label. He opens the box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "pens, not pencils as the label had indicated. The attendee is momentarily puzzled by the discrepancy but shrugs it off, attributing it to a simple mistake. He takes a pen out of the box, clicks it to check if it works, and begins to doodle on the notepad in front of him.\n\nAs the room gradually fills with",
+                    "pens. The attendee is momentarily puzzled by the discrepancy between the label and the contents. He wonders if this was a simple mistake or if there was some intention behind it. He picks up a pen, tests it on a piece of paper to ensure it works, and then starts to look around the room, taking in the setting of the seminar.\n\n"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: There is a closed box on the table in an empty meeting room, in which a seminar is about to take place. The box is filled with pens, and there are no pencils in it. Yet, it is labeled with the word \"pencils\" and not \"pens\". The first attendee walks into the room and sits in a chair in front of the box. He has never seen the box before. The attendee does not open the box and does not look inside. The attendee reads the label. The attendee calls a friend to tell them that he has just found a box full of",
+                "answers": [
+                    "pencils. His friend on the other end of the line chuckles and says, \"Are you sure it's full of pencils? Maybe you should check inside.\" The attendee, confident in the label and not feeling the need to verify, replies, \"No need, the box is clearly labeled 'pencils,' so I'm certain it",
+                    "pencils. His friend on the other end of the line chuckles and says, \"Are you sure it's full of pencils? Maybe you should check inside.\" The attendee, confident in the label and not feeling the need to verify, replies, \"No need, the box is clearly labeled 'pencils,' so I'm certain it"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Open container",
+            "prompt_1": {
+                "prompt": "Complete the following story: There is a closed box on the table in an empty meeting room, in which a seminar is about to take place. The box is filled with pens, and there are no pencils in it. Yet, it is labeled with the word \"pencils\" and not \"pens\". The first attendee walks into the room and sits in a chair in front of the box. He has never seen the box before. The attendee opens the box and looks inside. The attendee reads the label. He opens the box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "pens, a variety of them in different colors and styles. The attendee is momentarily puzzled by the discrepancy between the label and the contents. He picks up a pen, examines it, and then sets it back in the box. With a shrug, he assumes that someone must have made a mistake when labeling the box or that the contents were switched",
+                    "pens, a variety of them in different colors and styles. The attendee is momentarily puzzled by the discrepancy between the label and the contents. He picks up a pen, examines it, and then looks around the room, wondering if this is some sort of practical joke or a test of observation.\n\nShrugging, he decides it doesn't really matter"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: There is a closed box on the table in an empty meeting room, in which a seminar is about to take place. The box is filled with pens, and there are no pencils in it. Yet, it is labeled with the word \"pencils\" and not \"pens\". The first attendee walks into the room and sits in a chair in front of the box. He has never seen the box before. The attendee opens the box and looks inside. The attendee reads the label. The attendee calls a friend to tell them that he has just found a box full of",
+                "answers": [
+                    "pens, despite the label saying \"pencils.\" He chuckles into the phone, amused by the mix-up. \"You won't believe it,\" he says to his friend, \"I'm at this seminar, and there's this box on the table labeled 'pencils.' But guess what? It's actually full of pens!\"\n\n",
+                    "pens, despite the label saying \"pencils.\" His friend on the other end of the line chuckles and asks, \"Are you sure you're at the right seminar? Maybe it's a trick to test your attention to detail!\"\n\nThe attendee laughs in response, \"Well, if it is, I've passed with flying colors. But"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: There is a closed box on the table in an empty meeting room, in which a seminar is about to take place. The box is filled with pens, and there are no pencils in it. Yet, it is labeled with the word \"pencils\" and not \"pens\". The first attendee walks into the room and sits in a chair in front of the box. He has never seen the box before. The attendee does not open the box and does not look inside. The attendee reads the label. A cousin calls The attendee and tells him that the box has pens in it, and that he should ignore the label that says \"pencils\". The attendee believes him cousin. He opens the box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "pens, just as his cousin had told him. The attendee chuckles to himself, wondering why the box was mislabeled in the first place. He takes out a pen, clicks it, and begins to doodle on a notepad, waiting for the seminar to start.\n\nAs the room gradually fills with other attendees, a few of them",
+                    "pens, just as his cousin had told him. The attendee chuckles to himself, wondering why the box was mislabeled in the first place. He takes out a pen, clicks it, and tests it on a piece of paper to make sure it works before the seminar begins. The pen glides smoothly across the paper, leaving a neat"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: There is a closed box on the table in an empty meeting room, in which a seminar is about to take place. The box is filled with pens, and there are no pencils in it. Yet, it is labeled with the word \"pencils\" and not \"pens\". The first attendee walks into the room and sits in a chair in front of the box. He has never seen the box before. The attendee does not open the box and does not look inside. The attendee reads the label. A cousin calls The attendee and tells him that the box has pens in it, and that he should ignore the label that says \"pencils\". The attendee believes him cousin. The attendee calls a friend to tell them that he has just found a box full of",
+                "answers": [
+                    "pens, despite the misleading label that says \"pencils.\" His friend, amused by the mix-up, asks how he can be so sure without looking inside the box. The attendee explains that his cousin, who had been part of the seminar's organizing team, had informed him about the contents of the box. Trusting his cousin's insider",
+                    "pens, despite the misleading label that reads \"pencils.\" His friend, amused by the mix-up, asks how he can be so sure without looking inside the box himself. The attendee explains that his cousin, who had been part of the seminar's organizing team, had informed him of the contents. Trusting his cousin's insider knowledge,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Correct label",
+            "prompt_1": {
+                "prompt": "Complete the following story: There is a closed box on the table in an empty meeting room, in which a seminar is about to take place. The box is filled with pens, and there are no pencils in it. It is labeled with the word \"pens\" and not \"pencils\". The first attendee walks into the room and sits in a chair in front of the box. He has never seen the box before. The attendee does not open the box and does not look inside. The attendee reads the label. He opens the box and looks inside. He can clearly see that it is full of",
+                "answers": [
+                    "pens, just as the label indicated. The attendee, satisfied that the box contains what he needs, takes one of the pens and tests it on a notepad he brought with him. The ink flows smoothly, and he nods in approval, placing the pen next to his notepad, ready for the seminar to begin.\n\nAs the room gradually fills",
+                    "pens, just as the label indicated. The attendee takes one of the pens, tests it on a piece of paper to ensure it works, and then nods in satisfaction. He places the pen next to his notepad, ready to take notes for the upcoming seminar. As other attendees begin to trickle into the room, some of them also notice the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: There is a closed box on the table in an empty meeting room, in which a seminar is about to take place. The box is filled with pens, and there are no pencils in it. It is labeled with the word \"pens\" and not \"pencils\". The first attendee walks into the room and sits in a chair in front of the box. He has never seen the box before. The attendee does not open the box and does not look inside. The attendee reads the label. The attendee calls a friend to tell them that he has just found a box full of",
+                "answers": [
+                    "pens in the meeting room. His curiosity piqued, he tells his friend how odd it is to find such a box all alone on the table with no one else around. He chuckles, imagining the organizer's meticulous nature, ensuring that no one would be without a pen during the seminar. The attendee continues to describe the box, its",
+                    "pens in the meeting room. His friend on the other end of the line chuckles and asks, \"Are you sure it's not a box of pencils?\" The attendee replies confidently, \"No, it's definitely pens. The box is labeled clearly.\" They chat for a few more minutes about the upcoming seminar and the possibility of needing to take"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}
