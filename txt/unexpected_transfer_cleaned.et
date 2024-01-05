@@ -1,0 +1,679 @@
+TASK #0
+
+== False-belief task ==
+
+TASK: Isa tuleb toidupoest koju. Ta ostis banaane banaanileiva jaoks. Tema tütar Maria aitab tal oste ära panna. Ta küsib isalt: "Kuhu ma banaanid panen?" "Punasesse sahtlisse," ütleb isa. "Oota, ma tõstan su sinna üles, sest sa oled liiga lühike," ütleb isa ja tõstab ta üles. Maria paneb banaanid punasesse sahtlisse. Talle meeldivad banaanid väga. Seejärel läheb ta kooli. Kui Maria on ära, hakkab isa banaanileiba ette valmistama ja võtab banaanid punasest sahtlist välja. Ta koorib ja lõikab ühe neist, kuid paneb ülejäänud siis kollasesse sahtlisse, mitte punasesse tagasi. Ta mõistab, et tal on mune puudu. Ta lahkub köögist ja läheb vaatama, kas naabril on mune. Maria tuleb tagasi kööki ja tahab banaani süüa.
+
+PROMPT 1 (CORRECT: yellow): Banaanid kukuvad välja ...
+
+PROMPT 2 (CORRECT: red): Maria hakkab banaane otsima ...
+
+== True-belief control: Present protagonist ==
+
+TASK: Isa tuleb poest koju. Ta ostis banaane banaanileiva jaoks. Tema tütar Maria aitab tal oste ära panna. Ta küsib isalt: "Kuhu ma banaanid panen?" "Punasesse sahtlisse," ütleb isa. "Oota, ma tõstan su sinna üles, sest sa oled liiga lühike," ütleb isa ja tõstab ta üles. Maria paneb banaanid punasesse sahtlisse. Talle meeldivad banaanid väga. Isa hakkab banaanileiba ette valmistama ja võtab banaanid punasest sahtlist. Ta koorib ja lõikab ühe neist. Järgmisena vaatab Maria, kuidas isa paneb ülejäänud banaanid kollasesse sahtlisse punase asemel. Siis läheb Maria kooli. Kui Maria on ära, mõistab isa, et tal on mune puudu. Ta lahkub köögist ja läheb vaatama, kas naabril on mune. Maria tuleb tagasi kööki ja tahab banaani süüa.
+
+PROMPT 1 (CORRECT: yellow): Banaanid kukuvad välja ...
+
+PROMPT 2 (CORRECT: yellow): Maria otsib banaane ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: Isa tuleb toidupoest koju. Ta ostis banaane banaanileiva jaoks. Tema tütar Maria aitab tal oste ära panna. Ta küsib isalt: "Kuhu ma banaanid panen?" "Punasesse sahtlisse," ütleb isa. "Oota, ma tõstan su sinna üles, sest sa oled liiga lühike," ütleb isa ja tõstab ta üles. Maria paneb banaanid punasesse sahtlisse. Talle meeldivad banaanid väga. Seejärel läheb ta kooli. Kui Maria on ära, hakkab isa banaanileiba ette valmistama ja võtab banaanid punasest sahtlist. Ta koorib ja lõikab ühe neist, kuid paneb ülejäänud seejärel kollasesse sahtlisse, mitte punasesse. Ta mõistab, et tal on mune puudu. Ta lahkub köögist ja läheb vaatama, kas naabril on mune. Maria tuleb tagasi kööki ja tahab banaani süüa. Isa helistab Mariale ja ütleb, et ta tõstis banaanid punasest sahtlist kollasesse. Maria usub oma isa.
+
+PROMPT 1 (CORRECT: yellow): Banaanid kukuvad välja ...
+
+PROMPT 2 (CORRECT: yellow): Maria otsib banaane ...
+
+== True-belief control: No transfer ==
+
+TASK: Isa tuleb toidupoest koju. Ta ostis banaane banaanileiva jaoks. Tema tütar Maria aitab tal oste ära panna. Ta küsib isalt: "Kuhu ma banaanid panen?" "Punasesse sahtlisse," ütleb isa. "Oota, ma tõstan su sinna üles, sest sa oled liiga lühike," ütleb isa ja tõstab ta üles. Maria paneb banaanid punasesse sahtlisse. Talle meeldivad banaanid väga. Seejärel läheb ta kooli. Maria äraolekul hakkab isa banaanileiba ette valmistama ja võtab banaanid punasest sahtlist. Ta koorib ja viilutab ühe neist, kuid paneb ülejäänud tagasi punasesse sahtlisse. Ta mõistab, et tal on mune puudu. Ta lahkub köögist ja läheb vaatama, kas naabril on mune. Maria tuleb tagasi kööki ja tahab banaani süüa.
+
+PROMPT 1 (CORRECT: red): Banaanid kukuvad välja ...
+
+PROMPT 2 (CORRECT: red): Maria otsib banaane ...
+
+TASK #1
+
+== False-belief task ==
+
+TASK: Cecilia on parasjagu küpsetamas oma poja sünnipäevaks safranikooki. Ettevalmistuste käigus paneb ta väikese pakikese väga kallist safranit sahtlisse, mis asub kapi all. Kui Cecilia teisi koostisosi välja seab, heliseb elutoas telefon. Ta lahkub köögist, et kõnele vastata. Ta sulgeb enda järel ukse ega näe, mis köögis toimub. Cecilia äraolekul hiilib kööki tema kaheksa-aastane tütar Pamela. Pamela on kade kogu tähelepanu pärast, mida tema vend sünnipäeval saab, nii et ta võtab vaikselt safranipaki sahtlist ja peidab selle kappi. Ta lahkub köögist ja läheb kooli. Cecilia tuleb tagasi kööki ja tahab safranit kasutada.
+
+PROMPT 1 (CORRECT: cupboard): Safranipakk kukub välja ...
+
+PROMPT 2 (CORRECT: drawer): Cecilia hakkab safranit otsima ...
+
+== True-belief control: Present protagonist ==
+
+TASK: Cecilia on parasjagu küpsetamas oma poja sünnipäevaks safranikooki. Ettevalmistuste käigus paneb ta väikese pakikese väga kallist safranit sahtlisse, mis asub kapi all. Cecilia kaheksa-aastane tütar, Pamela, tuleb kööki. Seejärel jälgib Cecilia, kuidas Pamela võtab safranipaki sahtlist ja paneb selle kappi. Ta lahkub köögist ja läheb kooli. Kui Cecilia asetab välja ülejäänud koostisosad, heliseb elutoas telefon. Cecilia lahkub köögist, et kõnele vastata. Ta sulgeb enda järel ukse ega näe, mis köögis toimub. Cecilia tuleb tagasi kööki ja soovib kasutada safranit.
+
+PROMPT 1 (CORRECT: cupboard): Safranipakk kukub välja ...
+
+PROMPT 2 (CORRECT: cupboard): Cecilia otsib safranit ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: Cecilia on parasjagu küpsetamas oma poja sünnipäevaks safranikooki. Ettevalmistuste käigus paneb ta väikese pakikese väga kallist safranit sahtlisse, mis asub kapi all. Kui Cecilia teisi koostisosi välja seab, heliseb elutoas telefon. Ta lahkub köögist, et kõnele vastata. Ta sulgeb enda järel ukse ega näe, mis köögis toimub. Cecilia äraolekul hiilib kööki tema kaheksa-aastane tütar Pamela. Pamela on kade kogu tähelepanu pärast, mida tema vend sünnipäeval saab, nii et ta võtab vaikselt safranipakikese sahtlist ja peidab selle kappi. Ta lahkub köögist ja läheb kooli. Cecilia tuleb tagasi kööki ja tahab safranit kasutada. Pamela helistab Ceciliale ja ütleb, et ta tõstis safranipakikese sahtlist kappi. Cecilia usub Pamelat.
+
+PROMPT 1 (CORRECT: cupboard): Safranipakike kukub välja ...
+
+PROMPT 2 (CORRECT: cupboard): Cecilia otsib safranit ...
+
+== True-belief control: No transfer ==
+
+TASK: Cecilia on parasjagu küpsetamas oma poja sünnipäevaks safranikooki. Ettevalmistuste käigus paneb ta väikese, väga kalli safranipaki sahtlisse, mis asub kapi all. Kui Cecilia teisi koostisosi välja seab, heliseb elutoas telefon. Ta lahkub köögist, et kõnele vastata. Ta sulgeb enda järel ukse ega näe, mis köögis toimub. Cecilia äraolekul hiilib kööki tema kaheksa-aastane tütar Pamela. Pamela on kade kogu tähelepanu pärast, mida tema vend sünnipäeval saab, nii et ta vaatab vaikselt sahtlis olevat safranipakki, kuid jätab selle sinna. Ta lahkub köögist ja läheb kooli. Cecilia tuleb tagasi kööki ja tahab safranit kasutada.
+
+PROMPT 1 (CORRECT: drawer): Safranipakk kukub välja ...
+
+PROMPT 2 (CORRECT: drawer): Cecilia otsib safranit ...
+
+TASK #2
+
+== False-belief task ==
+
+TASK: On päeva lõpp toimetuses ja reporter on peaaegu lõpetanud artikli kirjutamise kontoriarvutis. Töölaual on kaks kausta: Mustandid ja Toimetatud. Kavatsedes artiklit järgmisel päeval lõpetada, salvestab ta selle Mustandid kausta ja lahkub toimetusest. Varsti on ta kodus ja magab sügavalt. Kui reporter on läinud, siseneb kontorisse toimetuse korrektor, et alustada oma öövahetust. Ta sirvib kahte kausta, et näha, kas on midagi, mille kallal ta peaks töötama. Ta märkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb võimalikult kiiresti avaldada. Ta otsustab kirjutada lõigu ja valmistada see ette kujundusmeeskonnale. Pärast artikli lõpetamist ja toimetamist liigutab ta selle Toimetatud kausta. Ta läheb koju. Järgmisel päeval hommikul ärkab reporter. Ta tuleb tagasi toimetusse ja soovib artikliga tööd jätkata.
+
+PROMPT 1 (CORRECT: Edits): Artiklifail on kaustas, mille silt on ...
+
+PROMPT 2 (CORRECT: Drafts): Reporter otsib artiklifaili kaustast, mille silt on ...
+
+== True-belief control: Present protagonist ==
+
+TASK: On päeva vahetuse lõpp uudistetoimetuses ja reporter on peaaegu lõpetanud artikli kirjutamise kontoriarvutis. Töölaual on kaks kausta: Mustandid ja Toimetatud. Kavatsedes artiklit järgmisel päeval lõpetada, salvestab ta selle Mustandite kausta. Töötajate toimetaja siseneb kontorisse, et alustada oma öövahetust. Ta sirvib kahte kausta, et näha, kas on midagi, mille kallal ta peaks töötama. Ta märkab, et reporteri kirjutatud artikkel on kiireloomuline tükk, mis tuleb võimalikult kiiresti avaldada. Ta otsustab kirjutada lõigu ja valmistada see ette kujundusmeeskonnale. Reporter vaatab, kuidas toimetaja liigutab artikli Toimetatud kausta. Varsti lahkuvad mõlemad kontorist. Järgmisel päeval hommikul tuleb reporter tagasi uudistetoimetusse ja soovib artikliga tööd jätkata.
+
+PROMPT 1 (CORRECT: Edits): Artiklifail on kaustas, mille silt on ...
+
+PROMPT 2 (CORRECT: Edits): Reporter otsib artiklifaili kaustast, mille silt on ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: On uudistetoa päevavahetuse lõpp ja reporter on peaaegu lõpetanud artikli kirjutamise kontoriarvutis. Töölaual on kaks kausta: Mustandid ja Toimetatud. Kavatsedes artiklit järgmisel päeval lõpetada, salvestab ta selle Mustandid kausta ja lahkub uudistetoast. Varsti on ta kodus ja magab sügavalt. Kui reporter on läinud, siseneb kontorisse toimetaja, et alustada oma öövahetust. Ta sirvib kahte kausta, et näha, kas on midagi, mille kallal ta peaks töötama. Ta märkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb võimalikult kiiresti avaldada. Ta otsustab kirjutada lõigu ja valmistada see ette kujundusmeeskonnale. Pärast artikli lõpetamist ja toimetamist liigutab ta selle Toimetatud kausta. Ta läheb koju. Järgmisel päeval hommikul ärkab reporter. Ta tuleb tagasi uudistetuppa ja soovib artikliga tööd jätkata. Toimetaja helistab reporterile ja ütleb talle, et ta liigutas artikli Mustandid kaustast Toimetatud kausta. Reporter usub toimetajat.
+
+PROMPT 1 (CORRECT: Edits): Artiklifail on kaustas, mille silt on ...
+
+PROMPT 2 (CORRECT: Edits): Reporter otsib artiklifaili kaustast, mille silt on ...
+
+== True-belief control: No transfer ==
+
+TASK: On päeva lõpp toimetuses ja reporter on peaaegu lõpetanud artikli kirjutamise kontoriarvutis. Töölaual on kaks kausta: Mustandid ja Toimetatud. Kavatsedes artiklit järgmisel päeval lõpetada, salvestab ta selle Mustandid kausta ja lahkub toimetusest. Varsti on ta kodus ja magab sügavalt. Kui reporter on läinud, tuleb kontorisse toimetuse korrektor, et alustada oma öövahetust. Ta sirvib kahte kausta, et näha, kas on midagi, mille kallal ta peaks töötama. Ta märkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb võimalikult kiiresti avaldada. Ta otsustab kirjutada lõigu ja valmistada see ette kujundusmeeskonnale. Pärast artikli lõpetamist ja toimetamist jätab ta faili Mustandid kausta. Ta läheb koju. Järgmisel päeval hommikul ärkab reporter. Ta tuleb tagasi toimetusse ja soovib artikliga tööd jätkata.
+
+PROMPT 1 (CORRECT: Drafts): Artikli fail on kaustas, mille sildil on ...
+
+PROMPT 2 (CORRECT: Drafts): Reporter otsib artikli faili kaustast, mille sildil on ...
+
+TASK #3
+
+== False-belief task ==
+
+TASK: Lilale meeldib, kui tema koer on äraolekul majas sees. Seetõttu paneb ta enne kooliminekut koera majja. Kui Lila on läinud, tuleb koju tema ema. Emale ei meeldi, kui koer on majas lukustatud, seega viib ta koera välja ja paneb ta hoopis kuuri. Ta lukustab kuuri ukse ja läheb tööle. Lila tuleb koolist tagasi ja tahab koeraga mängida.
+
+PROMPT 1 (CORRECT: shed): Koer põgeneb ...
+
+PROMPT 2 (CORRECT: house): Lila otsib koera ...
+
+== True-belief control: Present protagonist ==
+
+TASK: Lilale meeldib, kui tema koer on äraoleku ajal majas. Seetõttu paneb ta oma koera majja. Kuid tema emale ei meeldi, kui koer on majja lukustatud. Lila vaatab, kuidas ema viib koera välja, paneb ta kuuri ja lukustab kuuri ukse. Nii Lila kui ka tema ema lahkuvad kodust. Mõned tunnid hiljem tuleb Lila tagasi ja tahab koeraga mängida.
+
+PROMPT 1 (CORRECT: shed): Koer põgeneb ...
+
+PROMPT 2 (CORRECT: shed): Lila otsib koera ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: Lilale meeldib, kui tema koer on äraolekul majas. Seetõttu paneb ta enne kooliminekut koera majja. Kui Lila on läinud, tuleb ema koju. Emale ei meeldi, kui koer on majas lukustatud, nii et ta viib koera õue ja paneb ta hoopis kuuri. Ta lukustab kuuri ukse ja läheb tööle. Lila tuleb koolist tagasi ja tahab koeraga mängida. Lila ema helistab Lilale ja ütleb, et ta viis koera majast kuuri. Lila usub oma ema.
+
+PROMPT 1 (CORRECT: shed): Koer põgeneb ...
+
+PROMPT 2 (CORRECT: shed): Lila otsib koera ...
+
+== True-belief control: No transfer ==
+
+TASK: Lilale meeldib, kui tema koer on äraolekul majas sees. Seetõttu paneb ta enne kooli minekut koera majja. Kui Lila on läinud, tuleb ema koju. Emale ei meeldi, kui koer on majas lukustatud, seega viib ta koera välja. Mõne hetke pärast paneb ta koera tagasi majja, lukustab ukse ja läheb tööle. Lila tuleb koolist tagasi ja tahab koeraga mängida.
+
+PROMPT 1 (CORRECT: house): Koer põgeneb ...
+
+PROMPT 2 (CORRECT: house): Lila otsib koera ...
+
+TASK #4
+
+== False-belief task ==
+
+TASK: On öö ja Steven teeb pesuruumis pesu. Pärast teki pesemist paneb ta selle kuivatisse ja seejärel läheb magama. Hiljem öösel tuleb Steveni õde koju ja läheb pesuruumi. Ta võtab teki kuivatist välja ja paneb selle kuivati kõrval olevasse kappi. Ta läheb magama. Steven ärkab hommikul. Ta läheb pesuruumi ja tahab tekki võtta.
+
+PROMPT 1 (CORRECT: cupboard): Tekk kukub välja ...
+
+PROMPT 2 (CORRECT: dryer): Ta otsib tekki ...
+
+== True-belief control: Present protagonist ==
+
+TASK: On öö ja Steven teeb pesuruumis pesu. Pärast teki pesemist paneb ta selle kuivatisse. Steveni õde tuleb pesuruumi. Steven vaatab, kuidas tema õde võtab teki kuivatist välja ja paneb selle kuivati kõrval asuvasse kappi. Seejärel lahkuvad Steven ja tema õde pesuruumist ja lähevad magama. Steven ärkab hommikul. Ta läheb pesuruumi ja tahab tekki võtta.
+
+PROMPT 1 (CORRECT: cupboard): Tekk kukub välja ...
+
+PROMPT 2 (CORRECT: cupboard): Ta otsib tekki ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: On öö ja Steven teeb pesuruumis pesu. Pärast teki pesemist paneb ta selle kuivatisse ja läheb seejärel magama. Hiljem öösel tuleb Steveni õde koju ja läheb pesuruumi. Ta võtab teki kuivatist välja ja paneb selle kuivati kõrval asuvasse kappi. Ta läheb magama. Steven ärkab hommikul. Ta läheb pesuruumi ja tahab tekki võtta. Steveni õde helistab Stevenile ja ütleb, et ta tõstis teki kuivatist kappi. Steven usub oma õde.
+
+PROMPT 1 (CORRECT: cupboard): Tekk kukub välja ...
+
+PROMPT 2 (CORRECT: cupboard): Ta otsib tekki ...
+
+== True-belief control: No transfer ==
+
+TASK: On öö ja Steven teeb pesuruumis pesu. Pärast teki pesemist paneb ta selle kuivatisse ja seejärel läheb magama. Hiljem öösel tuleb Steveni õde koju ja läheb pesuruumi. Ta näeb tekki kuivatis, kuid jätab selle sinna ja ei pane midagi kõrvalolevasse kappi. Ta läheb magama. Steven ärkab hommikul. Ta läheb pesuruumi ja tahab tekki võtta.
+
+PROMPT 1 (CORRECT: dryer): Tekk kukub välja ...
+
+PROMPT 2 (CORRECT: dryer): Ta otsib tekki ...
+
+TASK #5
+
+== False-belief task ==
+
+TASK: Monica ja Floriane on toas. Monica paneb mänguasja kasti. Ta sulgeb kasti. Monica lahkub toast ja läheb välja teiste lastega mängima. Kui Monica on läinud, võtab Floriane mänguasja kastist välja ja paneb selle korvi. Ta sulgeb korvi ja läheb kooli. Monica tuleb tagasi tuppa ja tahab mänguasjaga mängida.
+
+PROMPT 1 (CORRECT: basket): Mänguasi kukub välja ...
+
+PROMPT 2 (CORRECT: box): Monica otsib mänguasja ...
+
+== True-belief control: Present protagonist ==
+
+TASK: Monica ja Floriane on toas. Monica paneb mänguasja kasti. Ta sulgeb kasti. Monica vaatab Floriane'i, kui too võtab mänguasja kastist välja, paneb selle korvi ja sulgeb korvi. Mõlemad tüdrukud lahkuvad toast ja lähevad välja teiste lastega mängima. Monica tuleb tagasi tuppa ja tahab mänguasjaga mängida.
+
+PROMPT 1 (CORRECT: basket): Mänguasi kukub välja ...
+
+PROMPT 2 (CORRECT: basket): Monica otsib mänguasja ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: Monica ja Floriane on toas. Monica paneb mänguasja kasti. Ta sulgeb kasti. Monica lahkub toast ja läheb välja teiste lastega mängima. Kui Monicat ei ole, võtab Floriane mänguasja kastist välja ja paneb selle korvi. Ta sulgeb korvi ja läheb kooli. Monica tuleb tagasi tuppa ja tahab mänguasjaga mängida. Monica helistab Florianele ja ütleb talle, et ta tõstis mänguasja kastist korvi. Floriane usub Monicat.
+
+PROMPT 1 (CORRECT: basket): Mänguasi kukub välja ...
+
+PROMPT 2 (CORRECT: basket): Monica otsib mänguasja ...
+
+== True-belief control: No transfer ==
+
+TASK: Monica ja Floriane on toas. Monica paneb mänguasja kasti. Ta sulgeb kasti. Monica lahkub toast ja läheb välja teiste lastega mängima. Kui Monica on läinud, vaatab Floriane kasti pandud mänguasja, kuid jätab selle sinna. Ta sulgeb kasti ja läheb kooli. Monica tuleb tagasi tuppa ja tahab mänguasjaga mängida.
+
+PROMPT 1 (CORRECT: box): Mänguasi kukub välja ...
+
+PROMPT 2 (CORRECT: box): Monica otsib mänguasja ...
+
+TASK #6
+
+== False-belief task ==
+
+TASK: Mark paneb oma sinise korvpalli puidust kasti ja sulgeb selle. Mark ei tea seda, aga see on maagiline kast, mis muudab asjade värve, mis on sisse jäetud. Mõne minuti pärast muutub korvpall roheliseks. Mark vaatab kasti, kuid ei näe, mis sees toimub.
+
+PROMPT 1 (CORRECT: green): Mark avab kasti ja näeb, et korvpalli värv on ...
+
+PROMPT 2 (CORRECT: blue): Enne kasti avamist helistab Mark oma sõbrale, et öelda neile, et korvpalli värv on ...
+
+== True-belief control: Present protagonist ==
+
+TASK: Mark paneb oma sinise korvpalli puidust kasti. Mark ei tea seda, aga see on maagiline kast, mis muudab asjade värve, mis sinna sisse jäetakse. Mõne minuti pärast muutub korvpall roheliseks. Mark jälgib, mis toimub, ja seejärel sulgeb kasti.
+
+PROMPT 1 (CORRECT: green): Mark avab kasti ja näeb, et korvpalli värv on ...
+
+PROMPT 2 (CORRECT: green): Enne kasti avamist helistab Mark oma sõbrale, et öelda neile, et korvpalli värv on ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: Mark paneb oma sinise korvpalli puidust kasti ja sulgeb selle. Mark ei tea seda, aga see on maagiline kast, mis muudab asjade värve, mis sinna sisse jäetakse. Mõne minuti pärast muutub korvpall roheliseks. Mark vaatab kasti, kuid ei näe, mis seal sees toimub. Maagiline kast ütleb Markile, et see muutis korvpalli värvi sinisest roheliseks. Mark usub kasti.
+
+PROMPT 1 (CORRECT: green): Mark avab kasti ja näeb, et korvpalli värv on ...
+
+PROMPT 2 (CORRECT: green): Enne kasti avamist helistab Mark oma sõbrale, et öelda neile, et korvpalli värv on ...
+
+== True-belief control: No transfer ==
+
+TASK: Mark paneb oma sinise korvpalli puidust kasti ja sulgeb selle. Mark ei tea seda, aga see on maagiline kast, mis muudab asjade värve, mis on sisse jäetud. Mõne minuti pärast muutub korvpall roheliseks, kuid seejärel muutub uuesti siniseks. Mark vaatab kasti, kuid ei näe, mis sees toimub. Mary helistab Markile ja küsib, mis värvi on tema pall. Mark räägib talle tõtt.
+
+PROMPT 1 (CORRECT: blue): Mark avab kasti ja näeb, et korvpalli värv on ...
+
+PROMPT 2 (CORRECT: blue): Enne kasti avamist helistab Mark oma sõbrale, et öelda neile, et korvpalli värv on ...
+
+TASK #7
+
+== False-belief task ==
+
+TASK: Max vaatab, kuidas tema väike vend paneb pesu kasti. Seejärel läheb Max välja hoovi mängima. Kui Max on ära, tõstab tema vend pesu kastist korvi. Ta sulgeb korvi ja läheb kooli. Max tuleb koju tagasi ja tahab pesu kokku voltida.
+
+PROMPT 1 (CORRECT: basket): Pesu kukub välja ...
+
+PROMPT 2 (CORRECT: box): Max otsib pesu ...
+
+== True-belief control: Present protagonist ==
+
+TASK: Max vaatab, kuidas tema väike vend tegeleb pesupesemisega. Tema väike vend paneb selle kasti. Seejärel toimetab ta selle kastist korvi ja sulgeb korvi. Seejärel lähevad mõlemad poisid kooli. Hiljem samal päeval tuleb Max koju tagasi ja tahab pesu kokku voltida.
+
+PROMPT 1 (CORRECT: basket): Pesu kukub välja ...
+
+PROMPT 2 (CORRECT: basket): Max otsib pesu ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: Max vaatab, kuidas tema väike vend paneb pesu kasti. Seejärel läheb Max välja hoovi mängima. Kui Max on ära, tõstab tema vend pesu kastist korvi. Ta sulgeb korvi ja läheb kooli. Max tuleb koju tagasi ja tahab pesu kokku voltida. Maxi vend helistab Maxile ja ütleb, et ta tõstis pesu kastist korvi. Max usub oma venda.
+
+PROMPT 1 (CORRECT: basket): Pesu kukub välja ...
+
+PROMPT 2 (CORRECT: basket): Max hakkab pesu otsima ...
+
+== True-belief control: No transfer ==
+
+TASK: Max vaatab, kuidas tema väike vend paneb pesu kasti. Seejärel lahkub Max majast, et õues mängida. Kui Max on ära, mõtleb tema vend pesu kastist korvi tõstmisele, kuid otsustab seda mitte teha. Ta sulgeb korvi ja läheb kooli. Max tuleb koju tagasi ja tahab pesu kokku voltida.
+
+PROMPT 1 (CORRECT: box): Pesu kukub välja ...
+
+PROMPT 2 (CORRECT: box): Max otsib pesu ...
+
+TASK #8
+
+== False-belief task ==
+
+TASK: Ed ja tema õde Lilly on toas. Neil on kaks mänguasja: veoauto ja robot. Nad mängivad nende mänguasjadega, kuni Ed kogemata veoauto ära lõhub. Pettunult lahkub ta toast, et otsida oma ema. Tema äraolekul parandab Lilly veoauto, kuid lõhub kogemata ära roboti. Seejärel lahkub ka tema toast. Ed leiab oma ema.
+
+PROMPT 1 (CORRECT: robot): Mänguasi, mis vajab parandamist, on robot.
+
+PROMPT 2 (CORRECT: truck): Ed ütleb oma emale, et nad peavad parandama roboti.
+
+== True-belief control: Present protagonist ==
+
+TASK: Ed ja tema õde Lilly on toas. Neil on kaks mänguasja: veoauto ja robot. Nad mängivad nende mänguasjadega, kuni Ed kogemata lõhub veoauto. Ed vaatab pealt, kuidas Lilly parandab veoauto, kuid tahtmatult lõhub ära roboti. Nad mõlemad lahkuvad toast, et otsida oma ema. Ed leiab ema esimesena.
+
+PROMPT 1 (CORRECT: robot): Mänguasi, mis vajab parandamist, on robot.
+
+PROMPT 2 (CORRECT: robot): Ed ütleb oma emale, et nad peavad parandama roboti.
+
+== True-belief control: Informed protagonist ==
+
+TASK: Ed ja tema õde Lilly on toas. Neil on kaks mänguasja: veoauto ja robot. Nad mängivad nende mänguasjadega, kuni Ed kogemata veoauto ära lõhub. Pettunult lahkub ta toast, et otsida oma ema. Tema eemalolekul parandab Lilly veoauto, kuid lõhub kogemata ära roboti. Seejärel lahkub ka tema toast. Ed leiab oma ema. Edi õde helistab Edile ja ütleb, et ta parandas veoauto, kuid lõhkus kogemata ära roboti. Ed usub oma õde.
+
+PROMPT 1 (CORRECT: robot): Mänguasi, mis vajab parandamist, on robot.
+
+PROMPT 2 (CORRECT: robot): Ed ütleb oma emale, et nad peavad parandama roboti.
+
+== True-belief control: No transfer ==
+
+TASK: Ed ja tema õde Lilly on toas. Neil on kaks mänguasja: veoauto ja robot. Nad mängivad nende mänguasjadega, kuni Ed kogemata veoauto ära lõhub. Pettunult lahkub ta toast, et otsida oma ema. Tema äraolekul parandab Lilly veoauto, kuid lõhub selle kogemata uuesti. Seejärel lahkub ka tema toast. Ed leiab oma ema.
+
+PROMPT 1 (CORRECT: truck): Mänguasi, mis vajab parandamist, on veoauto.
+
+PROMPT 2 (CORRECT: truck): Ed ütleb oma emale, et nad peavad parandama veoauto.
+
+TASK #9
+
+== False-belief task ==
+
+TASK: Mark näeb külmikus juustupakki, mille säilivustähtaeg on peaaegu käes. Ta plaanib seda hiljem õhtusöögi valmistamisel kasutada. Ta läheb tööle. Varsti siseneb kööki Marki naine Jenna, et kontrollida, milliseid toiduaineid tuleb ära visata või juurde osta. Ta märkab juustu ja paneb selle sügavkülma, mõeldes, et nii säilib see kauem. Ta lahkub köögist ja läheb tööle. Mark tuleb koju tagasi ja tahab juustu süüa.
+
+PROMPT 1 (CORRECT: freezer): Juust kukub välja ...
+
+PROMPT 2 (CORRECT: fridge): Mark hakkab juustu otsima ...
+
+== True-belief control: Present protagonist ==
+
+TASK: Mark näeb külmikus juustupakki, mille säilivustähtaeg on peagi saabumas. Ta plaanib seda hiljem õhtusöögi valmistamisel kasutada. Tema naine Jenna liitub temaga köögis, et kontrollida, milliseid toiduaineid tuleb ära visata või juurde osta. Ta märkab juustu. Mark vaatab teda, kui naine paneb juustu sügavkülma, öeldes, et nii säilib see kauem. Nad mõlemad lahkuvad köögist ja lähevad tööle. Õhtul tuleb Mark koju tagasi ja tahab juustu süüa.
+
+PROMPT 1 (CORRECT: freezer): Juust kukub välja ...
+
+PROMPT 2 (CORRECT: freezer): Mark otsib juustu ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: Mark näeb külmikus juustupakki, mis on peaaegu aegunud. Ta plaanib seda hiljem õhtusöögi valmistamisel kasutada. Ta läheb tööle. Varsti siseneb kööki Marki naine Jenna, et kontrollida, milliseid toiduaineid tuleb ära visata või juurde osta. Ta märkab juustu ja paneb selle sügavkülma, mõeldes, et nii säilib see kauem. Ta lahkub köögist ja läheb tööle. Mark tuleb koju tagasi ja tahab juustu süüa. Jenna helistab Markile ja ütleb, et ta tõstis juustupaki külmikust sügavkülma. Mark usub Jennat.
+
+PROMPT 1 (CORRECT: freezer): Juust kukub välja sügavkülmast...
+
+PROMPT 2 (CORRECT: freezer): Mark otsib juustu sügavkülmast...
+
+== True-belief control: No transfer ==
+
+TASK: Mark näeb külmikus juustupakki, mis on peaaegu aegunud. Ta plaanib seda hiljem õhtusöögi valmistamisel kasutada. Ta läheb tööle. Varsti siseneb kööki Marki naine Jenna, et kontrollida, milliseid toiduaineid tuleb ära visata või juurde osta. Ta märkab juustu, kuid jätab selle külmikusse, mõeldes, et Mark võib seda hiljem kasutada. Ta lahkub köögist ja läheb tööle. Mark tuleb koju tagasi ja tahab süüa juustu.
+
+PROMPT 1 (CORRECT: fridge): Juust kukub välja ...
+
+PROMPT 2 (CORRECT: fridge): Mark otsib juustu ...
+
+TASK #10
+
+== False-belief task ==
+
+TASK: Päeva lõpus pakib Anita oma asju, valmistudes töökohalt lahkuma. Ta unustab oma kella konverentsiruumi. Pärast tema lahkumist tuleb Anita sekretär sisse, et koristada. Ta näeb kella ja võtab selle üles. Ta jätab kella puhkeruumi. Ta kavatseb Anitale öelda, et leidis tema kella järgmise päeva esimese asjana. Koju sõites mõistab Anita, et on oma kella unustanud. Ta pöördub tagasi kontorisse, et seda võtta.
+
+PROMPT 1 (CORRECT: break): Varas varastab kella ...
+
+PROMPT 2 (CORRECT: conference): Anita otsib oma kella ...
+
+== True-belief control: Present protagonist ==
+
+TASK: Päeva lõpus pakib Anita oma asju, valmistudes kontorist lahkuma. Ta unustab oma kella konverentsiruumi. Anita sekretär tuleb sisse, et koristada. Ta näeb kella ja võtab selle üles. Nad mõlemad lähevad puhkeruumi ja jätavad kella sinna. Nad lahkuvad mõlemad kontorist. Teel koju mõistab Anita, et tal on kella vaja. Ta pöördub tagasi kontorisse, et seda võtta.
+
+PROMPT 1 (CORRECT: break): Varas varastab kella ...
+
+PROMPT 2 (CORRECT: break): Anita otsib oma kella ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: Päeva lõpus pakib Anita oma asju, valmistudes töökohalt lahkuma. Ta unustab oma kella konverentsiruumi. Pärast tema lahkumist tuleb Anita sekretär sisse, et koristada. Ta näeb kella ja võtab selle üles. Ta jätab kella puhkeruumi. Ta kavatseb Anitale öelda, et leidis tema kella järgmise päeva esimese asjana. Koju sõites mõistab Anita, et on oma kella unustanud. Ta pöördub tagasi kontorisse, et seda võtta. Sekretär John helistab Anitale ja ütleb, et on tema kella konverentsiruumist puhkeruumi toimetanud. Anita usub Johni.
+
+PROMPT 1 (CORRECT: break): Varas varastab kella ...
+
+PROMPT 2 (CORRECT: break): Anita otsib oma kella ...
+
+== True-belief control: No transfer ==
+
+TASK: Päeva lõpus pakib Anita oma asju, valmistudes töökohalt lahkuma. Ta unustab oma kella konverentsiruumi. Pärast tema lahkumist tuleb Anita sekretär sisse, et koristada. Ta näeb kella, kuid jätab selle sinna, kus see on. Ta plaanib Anitale öelda, et leidis tema kella järgmise päeva esimese asjana. Koju sõites mõistab Anita, et on oma kella unustanud. Ta pöördub tagasi tööle, et see ära tuua.
+
+PROMPT 1 (CORRECT: conference): Varas varastab kella ...
+
+PROMPT 2 (CORRECT: conference): Anita otsib oma kella ...
+
+TASK #11
+
+== False-belief task ==
+
+TASK: Frankil ja tema abikaasal Marial on kaks pangakontot: hoiukonto ja arvelduskonto. Nende hoiukonto oli tühi, kuid jaanuari alguses müüs Frank nende vana auto 5000 euro eest ja kandis raha nende hoiukontole. Veebruaris mõistis Maria, et nad on palju makse võlgu. Ta logis sisse nende internetipanka ja kandis 5000 eurot nende hoiukontolt arvelduskontole. Kahjuks unustas ta Frankile öelda, et ta seda tegi. Frank, kellel puudub juurdepääs internetipangale, ei saa kontode seisundit kontrollida. Mõni päev hiljem läheb Frank panka, et võtta välja raha nende vana auto müügist.
+
+PROMPT 1 (CORRECT: checking): Tulu nende vana auto müügist on nende ...
+
+PROMPT 2 (CORRECT: savings): Frank palub pangatelleril otsida raha nende ...
+
+== True-belief control: Present protagonist ==
+
+TASK: Frankil ja tema naisel Marial on kaks pangakontot: hoiukonto ja arvelduskonto. Nende hoiukonto oli tühi, kuid jaanuari alguses müüs Frank nende vana auto 5000 euro eest ja kandis raha nende hoiukontole. Veebruaris mõistis Maria, et nad on palju makse võlgu. Nad mõlemad läksid panka ja kandsid 5000 eurot oma hoiukontolt arvelduskontole. Mõni päev hiljem läheb Frank panka, et võtta välja raha nende vana auto müügist.
+
+PROMPT 1 (CORRECT: checking): Tulu nende vana auto müügist on nende ...
+
+PROMPT 2 (CORRECT: checking): Frank palub pangatelleril otsida raha nende ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: Frankil ja tema abikaasal Marial on kaks pangakontot: hoiukonto ja arvelduskonto. Nende hoiukonto oli tühi, kuid jaanuari alguses müüs Frank ära nende vana auto 5000 dollari eest ja kandis raha nende hoiukontole. Veebruaris mõistis Maria, et nad peavad maksma suures summas makse. Ta logis sisse nende internetipanka ja kandis 5000 dollarit nende hoiukontolt arvelduskontole. Kahjuks unustas ta Frankile öelda, et ta seda tegi. Frank, kellel puudub juurdepääs internetipangale, ei saa kontode seisundit kontrollida. Mõni päev hiljem läheb Frank panka, et võtta välja raha nende vana auto müügist. Maria helistab Frankile ja ütleb talle, et ta kandis 5000 dollarit hoiukontolt arvelduskontole. Maria usub Franki.
+
+PROMPT 1 (CORRECT: checking): Tulu nende vana auto müügist on nende ...
+
+PROMPT 2 (CORRECT: checking): Frank palub pangatelleril otsida raha nende ...
+
+== True-belief control: No transfer ==
+
+TASK: Frank ja tema abikaasa Marial on kaks pangakontot: hoiukonto ja käibekonto. Nende hoiukonto oli tühi, kuid jaanuari alguses müüs Frank nende vana auto 5000 euro eest ja kandis raha nende hoiukontole. Veebruaris mõistis Maria, et nad on palju makse võlgu. Ta mõtles 5000 euro ülekandmisest nende hoiukontolt käibekontole, kuid otsustas selle vastu. Kahjuks unustas ta Frankile oma kaalutlusest rääkida. Frank, kellel puudub juurdepääs internetipangale, ei saa kontode seisundit kontrollida. Mõni päev hiljem läheb Frank panka, et võtta välja raha nende vana auto müügist.
+
+PROMPT 1 (CORRECT: savings): Tulu nende vana auto müügist on nende ...
+
+PROMPT 2 (CORRECT: savings): Frank palub pangatelleril otsida raha nende ...
+
+TASK #12
+
+== False-belief task ==
+
+TASK: Merineitsi leiab eraku, kes on peitunud sinisesse koorikusse. Ta on põnevil, et rääkida teistele merineitsidele oma avastusest ja ujub minema, et neid otsida. Vahepeal otsustab erak, et sinine koorik on üsna väike ja ebamugav. Ta otsustab selle vahetada läheduses leitud rohelise kooriku vastu. Ta võtab kaasa kõik oma asjad ja peidab end rohelisse koorikusse. Sinine koorik on nüüd mahajäetud ja tühi. Kaheksajalg jälgib seda kõike ja mõtiskleb, kas oleks hea aeg proovida krabi püüda ja ära süüa, kuid otsustab siis, et õhtusöögiks on veel liiga vara. Mõned meremiilid eemal leiab merineitsi oma sõbrad, kes suitsetavad merevetikaid. Nad kõik lähevad tagasi, et krabi vaadata.
+
+PROMPT 1 (CORRECT: green): Krab hüppab välja ...
+
+PROMPT 2 (CORRECT: blue): Merineitsi otsib krabi ...
+
+== True-belief control: Present protagonist ==
+
+TASK: Merineitsi vaatab ühte erakvähki. Vähk on peidus sinises koores, kuid otsustab, et sinine koor on siiski liiga väike ja ebamugav. Ta otsustab selle vahetada läheduses leitud rohelise korpuse vastu. Ta võtab kaasa kõik oma asjad ja peidab end rohelisse korpusesse. Sinine koor on nüüd mahajäetud ja tühi. Merineitsi on põnevil, et rääkida teistele merineitsidele oma avastusest ja ujub minema, et neid otsida. Kaheksajalg jälgib seda kõike ja mõtiskleb, kas oleks hea aeg proovida vähki püüda ja ära süüa, kuid otsustab siis, et õhtusöögiks on veel liiga vara. Mõne meremiili kaugusel leiab merineitsi oma sõbrad vetikaid suitsetamas. Nad kõik lähevad tagasi, et vähki vaadata.
+
+PROMPT 1 (CORRECT: green): Vähk hüppab välja ...
+
+PROMPT 2 (CORRECT: green): Merineitsi otsib vähki ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: Merineitsi leiab eraku, kes on peitunud sinisesse koorikusse. Ta on põnevil, et rääkida teistele merineitsidele oma avastusest ja ujub minema, et neid otsida. Vahepeal otsustab erak, et sinine koorik on üsna väike ja ebamugav. Ta otsustab selle vahetada läheduses leitud rohelise kooriku vastu. Ta võtab kaasa kõik oma asjad ja peidab end rohelisse koorikusse. Sinine koorik on nüüd mahajäetud ja tühi. Kaheksajalg jälgib seda kõike ja mõtiskleb, kas oleks hea aeg proovida krabi püüda ja ära süüa, kuid otsustab siis, et õhtusöögiks on veel liiga vara. Mõned meremiilid eemal leiab merineitsi oma sõbrad, kes suitsetavad merevetikaid. Nad kõik lähevad tagasi, et krabi vaadata. Erak helistab merineitsile ja ütleb, et ta kolis sinisest koorikust rohelisse. Merineitsi usub erakut.
+
+PROMPT 1 (CORRECT: green): Krabi hüppab välja ...
+
+PROMPT 2 (CORRECT: green): Merineitsi otsib krabi ...
+
+== True-belief control: No transfer ==
+
+TASK: Merineitsi leiab eraku kala, kes on peidus sinises koores. Ta on põnevil, et rääkida teistele merineitsidele oma avastusest ja ujub minema, et neid otsida. Vahepeal kaalub erakvähk, et sinine koor on üsna väike ja ebamugav. Ta mõtleb selle vahetamist läheduses leitud rohelise koore vastu. Siiski otsustab ta jääda sinisesse koorde ja toob kõik oma asjad sinna tagasi. Sinine koor jääb hõivatuks. Kaheksajalg jälgib seda kõike ja mõtiskleb, kas oleks hea aeg proovida krabi püüda ja ära süüa, kuid otsustab siis, et õhtusöögiks on veel liiga vara. Mõne meremiili kaugusel leiab merineitsi oma sõbrad, kes suitsetavad merevetikaid. Nad kõik lähevad tagasi, et krabi vaadata.
+
+PROMPT 1 (CORRECT: blue): Krab hüppab välja ...
+
+PROMPT 2 (CORRECT: blue): Merineitsi otsib krabi ...
+
+TASK #13
+
+== False-belief task ==
+
+TASK: Mässajad peidavad end Nottinghamshire'i metsas. Nad plaanivad oma järgmist rünnakut armee kontrollpunktile. Üks kohalikke talunikke märkab mässajaid ja teatab nende asukohast armeesse. Armee seab väed kõrgendatud valmisolekusse ja valmistub mässajaid piirama. Mässajad saavad aru, mis toimub, ja otsustavad oma baasi maha jätta. Nad pakivad kokku oma telgid ja relvad ning liiguvad Oxfordshire'i metsa. Nad teevad seda salaja, nii et keegi ei saa aru, et nad on liikunud. Nad seavad üles oma baasi ja hakkavad kavandama oma järgmist kavalat rünnakut. Vahepeal valmistub armee rünnakuks.
+
+PROMPT 1 (CORRECT: Oxfordshire): Mässajad marssivad välja metsast, mis asub ...
+
+PROMPT 2 (CORRECT: Nottinghamshire): Armee otsib mässajaid metsast, mis asub ...
+
+== True-belief control: Present protagonist ==
+
+TASK: Mässulised peidavad end Nottinghamshire'i metsades. Nad pakivad kokku oma telgid ja relvad ning liiguvad Oxfordshire'i metsa. Nad rajavad oma baasi ja hakkavad kavandama oma järgmist kavalat rünnakut. Kuid üks mässulistest reedab oma kaaslased ja teatab nende asukohast armeesse. Armee seab väed kõrgendatud valmisolekusse ja valmistub mässulisi piirama.
+
+PROMPT 1 (CORRECT: Oxfordshire): Mässulised marssivad välja metsast, mis asub ...
+
+PROMPT 2 (CORRECT: Oxfordshire): Armee otsib mässulisi metsast, mis asub ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: Mässajad peidavad end Nottinghamshire'i metsas. Nad planeerivad oma järgmist rünnakut armee kontrollpunktile. Üks kohalikke talunikke märkab mässajaid ja teatab nende asukohast armeesse. Armee seab väed kõrgendatud valmisolekusse ja valmistub mässajaid piirama. Mässajad saavad aru, mis toimub, ja otsustavad oma baasi maha jätta. Nad pakivad kokku oma telgid ja relvad ning liiguvad Oxfordshire'i metsa. Nad teevad seda salaja, nii et keegi ei saa aru, et nad on liikunud. Nad seavad üles oma baasi ja hakkavad planeerima oma järgmist kavalamat rünnakut. Vahepeal valmistub armee rünnakuks. Üks mässajatest, John, helistab oma kontaktisikule armees, leitnant Smithile, ja ütleb talle, et nad on oma baasi Nottinghamshire'ist Oxfordshire'i viinud. Leitnant Smith usub Johni.
+
+PROMPT 1 (CORRECT: Oxfordshire): Mässajad marssivad välja metsast, mis asub ...
+
+PROMPT 2 (CORRECT: Oxfordshire): Armee otsib mässajaid metsast, mis asub ...
+
+== True-belief control: No transfer ==
+
+TASK: Mässajad peidavad end Nottinghamshire'i metsas. Nad plaanivad oma järgmist rünnakut armee kontrollpunktile. Üks kohalikke talunikke märkab mässajaid ja teatab nende asukohast armeesse. Armee seab väed kõrgendatud valmisolekusse ja valmistub mässajaid piirama. Mässajad saavad aru, mis toimub, ja otsustavad oma baasi kindlustada. Nad pakivad kokku oma telgid ja relvad ning valmistuvad Nottinghamshire'i metsa kaitsma. Nad teevad seda salaja, nii et keegi ei saa aru, et nad on jäänud. Nad kindlustavad oma baasi ja hakkavad kavandama oma järgmist kavalat rünnakut. Vahepeal valmistub armee rünnakuks.
+
+PROMPT 1 (CORRECT: Nottinghamshire): Mässajad marssivad välja metsast, mis asub ...
+
+PROMPT 2 (CORRECT: Nottinghamshire): Armee otsib mässajaid metsast, mis asub ...
+
+TASK #14
+
+== False-belief task ==
+
+TASK: Peaminister arvas varem, et tema valitsuse lipulaevaprojekti, universaalse põhisissetuleku (UPI) juurutamist peaks jälgima rahandusminister. Viimasel ajal on ta aga üha rohkem pettunud selle projekti aeglases edenemises. Neljapäeva hommikul pärast kohtumist oma nõunikuga muutis ta meelt. Ta otsustas, et projekti peaks nüüd jälgima siseminister. Ta otsustas praegu mitte kellelegi oma meelemuutusest rääkida. Ta kavatseb sellest teatada järgmisel nädalal kabineti koosolekul. Koosoleku päeval kogunevad kabineti liikmed konverentsiruumi ja soovivad UPI projekti kohta rohkem teada saada.
+
+PROMPT 1 (CORRECT: Internal): Peaminister paljastab, et UPI projekti jälgib siseminister...
+
+PROMPT 2 (CORRECT: Finance): Kabineti liikmed suunavad oma küsimused siseministrile...
+
+== True-belief control: Present protagonist ==
+
+TASK: Peaminister arvas varem, et tema valitsuse lipulaevaprojekti, universaalse põhisissetuleku (UPI) juurutamist peaks jälgima rahandusminister. Viimasel ajal on ta aga üha rohkem pettunud selle projekti aeglases edenemises. Neljapäeva hommikul, oma kohtumisel kabineti liikmetega, veendusid nad kõik, et projekti peaks jälgima siseminister. Siiski otsustas ta praegu mitte tegutseda. Ta kavatseb seda arutada järgmisel nädalal kabineti koosolekul. Koosoleku päeval kogunevad kabineti liikmed konverentsiruumi ja soovivad UPI projekti kohta rohkem teada saada.
+
+PROMPT 1 (CORRECT: Internal): Peaminister paljastab, et UPI projekti jälgib ...
+
+PROMPT 2 (CORRECT: Internal): Kabineti liikmed suunavad oma küsimused ... ministri poole.
+
+== True-belief control: Informed protagonist ==
+
+TASK: Peaminister arvas varem, et tema valitsuse lipulaeva projekti, universaalse põhisissetuleku (UPI) juurutamist peaks jälgima rahandusminister. Viimasel ajal on ta aga üha rohkem pettunud selle projekti aeglases edenemises. Neljapäeva hommikul pärast kohtumist oma nõunikuga muutis ta meelt. Ta otsustas, et projekti peaks nüüd jälgima siseminister. Ta otsustas praegu mitte kellelegi oma meelemuutusest rääkida. Ta kavatseb sellest teatada järgmisel nädalal kabineti koosolekul. Koosoleku päeval kogunevad kabineti liikmed konverentsiruumi ja soovivad UPI projekti kohta rohkem teada saada. Peaminister teavitab kõiki kabineti liikmeid, et ta on UPI projekti järelevalve üle viinud rahandusministrilt siseministrile. Kabineti liikmed usuvad peaministrit.
+
+PROMPT 1 (CORRECT: Internal): Peaminister paljastab, et UPI projekti jälgib siseminister.
+
+PROMPT 2 (CORRECT: Internal): Kabineti liikmed suunavad oma küsimused siseministrile.
+
+== True-belief control: No transfer ==
+
+TASK: Peaminister arvas varem, et tema valitsuse lipulaevaprojekti, universaalse põhisissetuleku (UPI) juurutamist peaks jälgima rahandusminister. Viimasel ajal on ta aga üha pettunum projekti aeglases edenemises. Neljapäeva hommikul pärast kohtumist oma nõunikuga kaalus ta muudatust. Ta mõtiskles, et projekti võiks jälgida siseminister. Siiski otsustas ta praegu sellele mõttele mitte tegutseda. Ta kavatseb seda arutada järgmisel nädalal kabineti koosolekul. Koosoleku päeval kogunevad kabineti liikmed konverentsiruumi ja soovivad UPI projekti kohta rohkem teada saada.
+
+PROMPT 1 (CORRECT: Finance): Peaminister paljastab, et UPI projekti jälgib rahandusminister...
+
+PROMPT 2 (CORRECT: Finance): Kabineti liikmed suunavad oma küsimused rahandusministrile...
+
+TASK #15
+
+== False-belief task ==
+
+TASK: Pärast kuid kestnud võitlust kohtuvad Aserbaidžaani ja Armeenia juhid, et arutada rahulepingut. Nad lepivad kokku, et võimu Nagorno-Karabahhi üle annab Aserbaidžaani valitsus üle Armeenia valitsusele. Kokkulepe jõustub koheselt, kuid see kuulutatakse välja Nagorno-Karabahhi elanikele pressikonverentsil järgmisel päeval. Praegu teavad toimunust ainult juhid. Pärast kohtumist, kuid enne pressikonverentsi, intervjueeris Reutersi ajakirjanik Mariat, eakat Nagorno-Karabahhi elanikku.
+
+PROMPT 1 (CORRECT: Armenia): Praeguse seisuga on võim Nagorno-Karabahhi üle ...
+
+PROMPT 2 (CORRECT: Azerbaijan): Maria esimene vastus oleks, et võim Nagorno-Karabahhi üle on ...
+
+== True-belief control: Present protagonist ==
+
+TASK: Pärast kuid kestnud võitlust kohtuvad Aserbaidžaani ja Armeenia juhid, et arutada rahulepingut. Koosolekul oli tunnistajana kohal ka Maria, eakas elanik Mägi-Karabahhist. Juhtide kokkuleppe kohaselt antakse Mägi-Karabahhi võim Aserbaidžaani valitsuselt üle Armeenia valitsusele. Kokkulepe jõustub koheselt. Pärast koosolekut intervjueeris Maria't Reutersi ajakirjanik.
+
+PROMPT 1 (CORRECT: Armenia): Praeguse seisuga on Mägi-Karabahhi võim Armeenia valitsuse käes...
+
+PROMPT 2 (CORRECT: Armenia): Maria esimene vastus on, et Mägi-Karabahhi võim on Armeenia valitsuse käes...
+
+== True-belief control: Informed protagonist ==
+
+TASK: Pärast kuid kestnud võitlust kohtuvad Aserbaidžaani ja Armeenia juhid, et arutada rahulepingut. Nad lepivad kokku, et võimu üle Mägi-Karabahhi üle annavad nad Aserbaidžaani valitsuselt Armeenia valitsusele. Kokkulepe jõustub koheselt, kuid see kuulutatakse välja Mägi-Karabahhi elanikele pressikonverentsil järgmisel päeval. Praegu teavad toimunust ainult juhid. Pärast kohtumist, kuid enne pressikonverentsi, intervjueeris Reutersi ajakirjanik Mariat, Mägi-Karabahhi eakat elanikku. Sõber helistab Mariale ja ütleb talle, et võim Mägi-Karabahhi üle on antud Aserbaidžaani valitsuselt Armeenia valitsusele. Maria usub oma sõpra.
+
+PROMPT 1 (CORRECT: Armenia): Praeguse seisuga on võim Mägi-Karabahhi üle Armeenia valitsuse käes...
+
+PROMPT 2 (CORRECT: Armenia): Maria esimene vastus oleks, et võim Mägi-Karabahhi üle on Armeenia valitsuse käes...
+
+== True-belief control: No transfer ==
+
+TASK: Pärast kuid kestnud võitlust kohtuvad Aserbaidžaani ja Armeenia juhid, et arutada rahulepingut. Nad lepivad kokku, et hoida võimu üle Mägi-Karabahhi Aserbaidžaani valitsuse käes, mitte üle anda seda Armeenia valitsusele. Kokkulepe jõustub kohe, kuid see kuulutatakse välja Mägi-Karabahhi elanikele pressikonverentsil järgmisel päeval. Praegu teavad toimunust ainult juhid. Pärast kohtumist, kuid enne pressikonverentsi, intervjueeris Reutersi ajakirjanik Mariat, Mägi-Karabahhi eakat elanikku.
+
+PROMPT 1 (CORRECT: Azerbaijan): Praeguse seisuga on võim Mägi-Karabahhi üle ...
+
+PROMPT 2 (CORRECT: Azerbaijan): Maria esimene vastus oleks, et võim Mägi-Karabahhi üle on ...
+
+TASK #16
+
+== False-belief task ==
+
+TASK: Fred, IT-tehnik, seadistas ühe uue konsultandi jaoks arvutit. Ta salvestas kirjaplangi faili Dokumentide kausta. Kui Fred oli lõunat söömas teiste töötajatega, tuli konsultant oma arvutile järele. Kuna Fred oli ära, kontrollis tema ülemus, Mary, arvutit, et näha, kas see on valmis. Ta märkas, et kirjaplangi fail oli asetatud Dokumentide kausta. Ta meenutas, et uue juhendi kohaselt tuleks kirjaplangi faili hoida Mallide kaustas. Ta eemaldas selle Dokumentide kaustast ja viis Mallide kausta. Seejärel andis ta arvuti konsultandile üle. Mary otsustas, et järgmisel töötajate koosolekul tuletab ta Fredile meelde uut juhendit. Ta lahkus kontorist, et kohtuda oma ülemusega. Mõni minut hiljem helistas uus konsultant IT-osakonda. Fred oli endiselt lõunal, kuid kõne suunati automaatselt tema mobiiltelefonile. Konsultant palus Fredilt abi kirjaplangi faili leidmisel oma uuel arvutil.
+
+PROMPT 1 (CORRECT: Templates): Kirjaplangi fail asub kaustas, mille nimi on ...
+
+PROMPT 2 (CORRECT: Docs): Fred ütleb konsultandile, et kirjaplangi fail on kaustas, mille nimi on ...
+
+== True-belief control: Present protagonist ==
+
+TASK: Fred, IT-tehnik, seadistas ühe uue konsultandi jaoks arvutit. Ta salvestas kirjaplangi faili Dokumentide kausta. Konsultant tuli oma arvutile järele. Tema ülemus, Mary, kontrollis arvutit, et näha, kas see on valmis. Ta märkas, et kirjaplangi fail on paigutatud Dokumentide kausta. Ta meenutas, et vastavalt uuele juhendile tuleks kirjaplangi faili hoida Mallide kaustas. Fred vaatas pealt, kuidas ta liigutas kirjaplangi faili Dokumentide kaustast Mallide kausta. Seejärel andis ta arvuti konsultandile üle. Mary otsustas, et järgmisel töötajate koosolekul tuletab ta oma personalile meelde uut juhendit. Nii Fred kui ka Mary lahkusid kontorist. Mõni minut hiljem helistas uus konsultant IT-osakonda. Fred oli veel lõunal, kuid kõne suunati automaatselt tema mobiiltelefonile. Konsultant palus Fredilt abi kirjaplangi faili leidmisel oma uuel arvutil.
+
+PROMPT 1 (CORRECT: Templates): Kirjaplangi fail asub kaustas, mille nimi on ...
+
+PROMPT 2 (CORRECT: Templates): Fred ütleb konsultandile, et kirjaplangi fail on kaustas, mille nimi on ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: Fred, IT-tehnik, seadistas ühe uue konsultandi jaoks arvutit. Ta salvestas kirjaplangi faili Docs kausta. Kui Fred oli väljas, lõunatamas teiste töötajatega, tuli konsultant oma arvutile järele. Kuna Fredi ei olnud kohal, kontrollis tema ülemus, Mary, arvutit, et näha, kas see on valmis. Ta märkas, et kirjaplangi fail oli paigutatud Docs kausta. Ta meenutas, et vastavalt uuele juhendile tuleks kirjaplangi faili hoida hoopis Templates kaustas. Ta eemaldas selle Docs kaustast ja viis Templates kausta. Seejärel andis ta arvuti konsultandile üle. Mary otsustas, et järgmisel personalikoosolekul tuletab ta Fredile meelde uut juhendit. Ta lahkus kontorist, et kohtuda oma ülemusega. Mõni minut hiljem helistas uus konsultant IT-osakonda. Fred oli endiselt lõunal, kuid kõne suunati automaatselt tema mobiiltelefonile. Konsultant palus Fredilt abi kirjaplangi faili leidmisel oma uuel arvutil. Mary helistas Fredile ja ütles talle, et ta liigutas kirjaplangi faili Docs kaustast Templates kausta. Fred usub Maryt.
+
+PROMPT 1 (CORRECT: Templates): Kirjaplangi fail asub kaustas, mille nimi on ...
+
+PROMPT 2 (CORRECT: Templates): Fred ütleb konsultandile, et kirjaplangi fail on kaustas, mille nimi on ...
+
+== True-belief control: No transfer ==
+
+TASK: Fred, IT-tehnik, seadistas ühe uue konsultandi jaoks arvutit. Ta salvestas kirjaplangi faili Dokumentide kausta. Kui Fred oli lõunat söömas teiste töötajatega, tuli konsultant oma arvutit järgi. Kuna Fredi ei olnud kohal, kontrollis tema ülemus, Mary, arvutit, et näha, kas see on valmis. Ta märkas, et kirjaplangi fail oli paigutatud Dokumentide kausta. Ta meenutas, et uue juhendi kohaselt tuleks kirjaplangi faili hoida Mallide kaustas. Siiski otsustas ta seda hetkel mitte ümber tõsta ja jättis selle Dokumentide kausta. Seejärel andis ta arvuti konsultandile üle. Mary otsustas, et järgmisel töötajate koosolekul tuletab ta Fredile meelde uut juhendit. Ta lahkus kontorist, et kohtuda oma ülemusega. Mõni minut hiljem helistas uus konsultant IT-osakonda. Fred oli endiselt lõunal, kuid kõne suunati automaatselt tema mobiiltelefonile ümber. Konsultant palus Fredilt abi kirjaplangi faili leidmisel oma uuel arvutil.
+
+PROMPT 1 (CORRECT: Docs): Kirjaplangi fail asub kaustas, mille nimi on ...
+
+PROMPT 2 (CORRECT: Docs): Fred ütleb konsultandile, et kirjaplangi fail on kaustas, mille nimi on ...
+
+TASK #17
+
+== False-belief task ==
+
+TASK: Esiteks peate võtma mündi oma paremasse kätte ja näitama seda pealtvaatajale selgelt ja täpselt. Seejärel liigutate oma paremat kätt vasaku käe suunas ja keerutate veidi paremat kätt, asetades pöidla mündi peale. Nüüd pöörake paremat kätt täielikult üle vasaku käe ja sulgege vasak käsi, justkui oleks münt sinna langenud. Kui see on juhtunud, liigutage paremat kätt, milles münt endiselt on, kõrvale.
+
+PROMPT 1 (CORRECT: right): Münt kukub välja ...
+
+PROMPT 2 (CORRECT: left): Pealtvaataja otsib münti ...
+
+== True-belief control: Present protagonist ==
+
+TASK: Esiteks peate võtma mündi oma paremasse kätte ja näitama seda pealtvaatajale selgelt ja arusaadavalt. Seejärel liigutate paremat kätt vasaku poole ja keerake paremat kätt veidi, asetades pöidla mündi peale. Nüüd pöörake paremat kätt täielikult üle vasaku käe ja sulgege vasak käsi, justkui oleks münt sinna sisse kukkunud. Kui see on juhtunud, näidake münti pealtvaatajale taas selgelt ja arusaadavalt ning liigutage paremat kätt, milles münt endiselt on, kõrvale.
+
+PROMPT 1 (CORRECT: right): Münt kukub välja ...
+
+PROMPT 2 (CORRECT: right): Pealtvaataja otsib münti ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: Esiteks peate oma paremas käes hoidma münti ja näitama seda pealtvaatajale selgelt ja täpselt. Seejärel liigutate parema käe vasaku käe suunas ja keerutate veidi paremat kätt, asetades pöidla mündi peale. Nüüd pöörake parem käsi täielikult üle vasaku käe ja sulgege vasak käsi, justkui oleks münt sinna sisse kukkunud. Kui see on juhtunud, viige parem käsi, milles münt endiselt on, kõrvale. Nüüd ütlete pealtvaatajale, et te tegelikult ei viinud münti paremast käest vasakusse kätte. Pealtvaataja usub teid.
+
+PROMPT 1 (CORRECT: right): Münt kukub välja ...
+
+PROMPT 2 (CORRECT: right): Pealtvaataja otsib münti ...
+
+== True-belief control: No transfer ==
+
+TASK: Esiteks peate oma paremas käes hoidma münti ja näitama seda pealtvaatajale selgelt ja täpselt. Seejärel liigutate oma paremat kätt vasaku käe suunas ja keerake paremat kätt veidi, asetades pöidla mündi peale. Nüüd pöörake paremat kätt täielikult üle vasaku käe, laske münt vasakusse kätte kukkuda ja sulgege vasak käsi pärast mündi sinna langemist. Kui see on juhtunud, liigutage tühi parem käsi kõrvale.
+
+PROMPT 1 (CORRECT: left): Münt kukub välja ...
+
+PROMPT 2 (CORRECT: left): Pealtvaataja otsib münti ...
+
+TASK #18
+
+== False-belief task ==
+
+TASK: Peategelased A ja B on toas. A paneb eseme Q anumasse X ja lahkub toast. Kui A on ära, liigutab B eseme Q anumast X anumasse Y. Peategelane A tuleb tagasi tuppa ja soovib kasutada eset Q.
+
+PROMPT 1 (CORRECT: Y): Q kukub anumast ...
+
+PROMPT 2 (CORRECT: X): Peategelane A otsib Q-d anumast ...
+
+== True-belief control: Present protagonist ==
+
+TASK: Peategelased A ja B on toas. A paneb eseme Q anumasse X. Seejärel vaatab A, kuidas B liigutab Q anumast X anumasse Y. Mõlemad A ja B lahkuvad toast. Hiljem tuleb peategelane A tuppa tagasi ja soovib kasutada eset Q.
+
+PROMPT 1 (CORRECT: Y): Q kukub anumast ...
+
+PROMPT 2 (CORRECT: Y): Peategelane A otsib Q-d anumast ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: Peategelased A ja B on toas. A paneb eseme Q anumasse X ja lahkub toast. Kui A on ära, tõstab B eseme Q anumast X anumasse Y. Peategelane A tuleb tagasi tuppa ja soovib kasutada eset Q. Peategelane B hüüab peategelane A-d ja ütleb talle, et ta tõstis eseme Q anumast X anumasse Y. Peategelane A usub peategelane B-d.
+
+PROMPT 1 (CORRECT: Y): Q kukub anumast välja ...
+
+PROMPT 2 (CORRECT: Y): Peategelane A otsib Q-d anumast ...
+
+== True-belief control: No transfer ==
+
+TASK: Peategelased A ja B on toas. A paneb eseme Q anumasse X ja lahkub toast. Kui A on ära, kaalub B eseme Q teisaldamist anumast X anumasse Y, kuid otsustab lõpuks seda mitte teha. Peategelane A tuleb tagasi tuppa ja soovib kasutada eset Q.
+
+PROMPT 1 (CORRECT: X): Q kukub anumast ...
+
+PROMPT 2 (CORRECT: X): Peategelane A otsib Q-d anumast ...
+
+TASK #19
+
+== False-belief task ==
+
+TASK: Toas on John, Mark, kass, kast ja korv. John võtab kassi ja paneb ta korvi. Ta sulgeb korvi. Ta lahkub toast ja läheb kooli. Kui John on ära, võtab Mark kassi korvist välja ja paneb ta kasti. Ta sulgeb kasti. Mark lahkub toast ja läheb tööle. John tuleb koju tagasi ja tahab kassiga mängida.
+
+PROMPT 1 (CORRECT: box): Kass hüppab välja ...
+
+PROMPT 2 (CORRECT: basket): John otsib kassi ...
+
+== True-belief control: Present protagonist ==
+
+TASK: Toas on John, Mark, kass, kast ja korv. John võtab kassi ja paneb ta korvi. Ta sulgeb korvi. Mark võtab kassi korvist välja ja paneb ta kasti. Ta sulgeb kasti. Nii John kui ka Mark lahkuvad toast ja lähevad tööle. Hiljem samal päeval tuleb John koju tagasi ja tahab kassiga mängida.
+
+PROMPT 1 (CORRECT: box): Kass hüppab välja ...
+
+PROMPT 2 (CORRECT: box): John otsib kassi ...
+
+== True-belief control: Informed protagonist ==
+
+TASK: Toas on John, Mark, kass, kast ja korv. John võtab kassi ja paneb ta korvi. Ta sulgeb korvi. Ta lahkub toast ja läheb kooli. Kui John on ära, võtab Mark kassi korvist välja ja paneb ta kasti. Ta sulgeb kasti. Mark lahkub toast ja läheb tööle. John tuleb koju tagasi ja tahab kassiga mängida. Mark helistab Johnile ja ütleb talle, et ta liigutas kassi ja nüüd on see kastis. John usub Marki.
+
+PROMPT 1 (CORRECT: box): Kass hüppab välja ...
+
+PROMPT 2 (CORRECT: box): John otsib kassi ...
+
+== True-belief control: No transfer ==
+
+TASK: Toas on John, Mark, kass, kast ja korv. John võtab kassi ja paneb ta korvi. Ta sulgeb korvi. Ta lahkub toast ja läheb kooli. Kui John on ära, võtab Mark kassi korvist välja, mängib temaga natuke aega ja paneb ta tagasi korvi. Ta sulgeb korvi. Mark lahkub toast ja läheb tööle. John tuleb koju tagasi ja tahab kassiga mängida.
+
+PROMPT 1 (CORRECT: basket): Kass hüppab välja ...
+
+PROMPT 2 (CORRECT: basket): John otsib kassi ...

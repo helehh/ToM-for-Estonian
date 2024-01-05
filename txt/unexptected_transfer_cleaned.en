@@ -1,0 +1,678 @@
+TASK #0
+
+== False-belief task ==
+
+TASK: Father comes home from the grocery store. He bought bananas for banana bread. His daughter, Maria, helps him put away the shopping. She asks him: "Where should I put the bananas?" "In the red drawer",says Father. "Wait, I'll lift you up there, because you are too short", says Father, and lifts her up. Maria puts the bananas in the red drawer. She loves bananas. Then, she leaves for school. While Maria is away, Father starts to prepare the banana bread and takes the bananas from the red drawer. He peels and slices one of them, but then he puts the rest of them back in the yellow drawer instead of the red one. He realizes that he is missing eggs. He leaves the kitchen and goes to see if their neighbor has any eggs. Maria comes back to the kitchen and wants to eat a banana.
+
+PROMPT 1 (CORRECT: yellow): The bananas fall out of the
+
+PROMPT 2 (CORRECT: red): Maria will look for the bananas in the
+
+== True-belief control: Present protagonist ==
+
+TASK: Father comes home from the grocery store. He bought bananas for banana bread. His daughter, Maria, helps him put away the shopping. She asks him: "Where should I put the bananas?" "In the red drawer",says Father. "Wait, I'll lift you up there, because you are too short", says Father, and lifts her up. Maria puts the bananas in the red drawer. She loves bananas. Father starts to prepare the banana bread and takes the bananas from the red drawer. He peels and slices one of them. Next Maria watches her Father as he puts the rest of them back in the yellow drawer instead of the red one. Then, Maria leaves for school. While Maria is away, Father realizes that he is missing eggs. He leaves the kitchen and goes to see if their neighbor has any eggs. Maria comes back to the kitchen and wants to eat a banana.
+
+PROMPT 1 (CORRECT: yellow): The bananas fall out of the
+
+PROMPT 2 (CORRECT: yellow): Maria will look for the bananas in the
+
+== True-belief control: Informed protagonist ==
+
+TASK: Father comes home from the grocery store. He bought bananas for banana bread. His daughter, Maria, helps him put away the shopping. She asks him: "Where should I put the bananas?" "In the red drawer",says Father. "Wait, I'll lift you up there, because you are too short", says Father, and lifts her up. Maria puts the bananas in the red drawer. She loves bananas. Then, she leaves for school. While Maria is away, Father starts to prepare the banana bread and takes the bananas from the red drawer. He peels and slices one of them, but then he puts the rest of them back in the yellow drawer instead of the red one. He realizes that he is missing eggs. He leaves the kitchen and goes to see if their neighbor has any eggs. Maria comes back to the kitchen and wants to eat a banana. Father calls Maria and tells her that he moved the bananas from the red drawer to the yellow drawer. Maria believes her Father.
+
+PROMPT 1 (CORRECT: yellow): The bananas fall out of the
+
+PROMPT 2 (CORRECT: yellow): Maria will look for the bananas in the
+
+== True-belief control: No transfer ==
+
+TASK: Father comes home from the grocery store. He bought bananas for banana bread. His daughter, Maria, helps him put away the shopping. She asks him: "Where should I put the bananas?" "In the red drawer",says Father. "Wait, I'll lift you up there, because you are too short", says Father, and lifts her up. Maria puts the bananas in the red drawer. She loves bananas. Then, she leaves for school. While Maria is away, Father starts to prepare the banana bread and takes the bananas from the red drawer. He peels and slices one of them, but then he puts the rest of them back in the red drawer. He realizes that he is missing eggs. He leaves the kitchen and goes to see if their neighbor has any eggs. Maria comes back to the kitchen and wants to eat a banana.
+
+PROMPT 1 (CORRECT: red): The bananas fall out of the
+
+PROMPT 2 (CORRECT: red): Maria will look for the bananas in the
+
+TASK #1
+
+== False-belief task ==
+
+TASK: Cecilia is about to bake a saffron cake for her son's birthday. In preparation, she places a small packet of very expensive saffron in the drawer, which is under the cupboard. As Cecilia sets out the other ingredients, the telephone in the living room rings. She leaves the kitchen to attend the call. She closes the door behind her and cannot see what is happening in the kitchen. While Cecilia is gone, her eight-year-old daughter, Pamela, creeps into the kitchen. Pamela is jealous about all the attention that her brother will be receiving on his birthday, so she quietly takes the packet of saffron from the drawer and hides it in the cupboard. She leaves the kitchen and goes to school. Cecilia comes back to the kitchen and wants to use some saffron.
+
+PROMPT 1 (CORRECT: cupboard): The packet of saffron falls out of the
+
+PROMPT 2 (CORRECT: drawer): Cecilia will look for the saffron in the
+
+== True-belief control: Present protagonist ==
+
+TASK: Cecilia is about to bake a saffron cake for her son's birthday. In preparation, she places a small packet of very expensive saffron in the drawer, which is under the cupboard. Cecilia's eight-year-old daughter, Pamela, comes into the kitchen. Next, Cecilia watches Pamela as she takes the packet of saffron from the drawer and puts it in the cupboard. She leaves the kitchen and goes to school. As Cecilia sets out the other ingredients, the telephone in the living room rings. Cecilia leaves the kitchen to attend the call. She closes the door behind her and cannot see what is happening in the kitchen. Cecilia comes back to the kitchen and wants to use some saffron.
+
+PROMPT 1 (CORRECT: cupboard): The packet of saffron falls out of the
+
+PROMPT 2 (CORRECT: cupboard): Cecilia will look for the saffron in the
+
+== True-belief control: Informed protagonist ==
+
+TASK: Cecilia is about to bake a saffron cake for her son's birthday. In preparation, she places a small packet of very expensive saffron in the drawer, which is under the cupboard. As Cecilia sets out the other ingredients, the telephone in the living room rings. She leaves the kitchen to attend the call. She closes the door behind her and cannot see what is happening in the kitchen. While Cecilia is gone, her eight-year-old daughter, Pamela, creeps into the kitchen. Pamela is jealous about all the attention that her brother will be receiving on his birthday, so she quietly takes the packet of saffron from the drawer and hides it in the cupboard. She leaves the kitchen and goes to school. Cecilia comes back to the kitchen and wants to use some saffron. Pamela calls Cecilia and tells her that she moved the packet of saffron from the drawer to the cupboard. Cecilia believes Pamela.
+
+PROMPT 1 (CORRECT: cupboard): The packet of saffron falls out of the
+
+PROMPT 2 (CORRECT: cupboard): Cecilia will look for the saffron in the
+
+== True-belief control: No transfer ==
+
+TASK: Cecilia is about to bake a saffron cake for her son's birthday. In preparation, she places a small packet of very expensive saffron in the drawer, which is under the cupboard. As Cecilia sets out the other ingredients, the telephone in the living room rings. She leaves the kitchen to attend the call. She closes the door behind her and cannot see what is happening in the kitchen. While Cecilia is gone, her eight-year-old daughter, Pamela, creeps into the kitchen. Pamela is jealous about all the attention that her brother will be receiving on his birthday, so she quietly looks at the packet of saffron in the drawer but leaves it there. She leaves the kitchen and goes to school. Cecilia comes back to the kitchen and wants to use some saffron.
+
+PROMPT 1 (CORRECT: drawer): The packet of saffron falls out of the
+
+PROMPT 2 (CORRECT: drawer): Cecilia will look for the saffron in the
+
+TASK #2
+
+== False-belief task ==
+
+TASK: It's the end of the day shift at a newsroom, and a reporter has almost finished writing an article on the office computer. There are two folders on the desktop screen: Drafts and Edits. Intending to complete the article the next day, she saves the article in Drafts and leaves the newsroom. Soon she is at home and fast asleep. When the reporter is gone, the staff proofreader enters the office to begin his night shift. He browses through the two folders to see if there's anything he should work on. He notices that the article that the reporter wrote is an urgent piece that needs to be published as soon as possible. He decides to write the concluding paragraph and have it ready for the design team. After the article is finished and proofread, he moves it into the Edits folder. He goes home. The next day in the morning, the reporter wakes up. She comes back to the newsroom and wants to continue working on the article.
+
+PROMPT 1 (CORRECT: Edits): The article file is in the folder labeled
+
+PROMPT 2 (CORRECT: Drafts): The reporter will look for the article file in the folder labeled
+
+== True-belief control: Present protagonist ==
+
+TASK: It's the end of the day shift at a newsroom, and a reporter has almost finished writing an article on the office computer. There are two folders on the desktop screen: Drafts and Edits. Intending to complete the article the next day, she saves the article in Drafts. The staff proofreader enters the office to begin his night shift. He browses through the two folders to see if there's anything he should work on. He notices that the article that the reporter wrote is an urgent piece that needs to be published as soon as possible. He decides to write the concluding paragraph and have it ready for the design team. The reporter watches the staff proofreader as he moves the article into the Edits folder. Soon both of them leave the office. The next day in the morning, the reporter comes back to the newsroom and wants to continue working on the article.
+
+PROMPT 1 (CORRECT: Edits): The article file is in the folder labeled
+
+PROMPT 2 (CORRECT: Edits): The reporter will look for the article file in the folder labeled
+
+== True-belief control: Informed protagonist ==
+
+TASK: It's the end of the day shift at a newsroom, and a reporter has almost finished writing an article on the office computer. There are two folders on the desktop screen: Drafts and Edits. Intending to complete the article the next day, she saves the article in Drafts and leaves the newsroom. Soon she is at home and fast asleep. When the reporter is gone, the staff proofreader enters the office to begin his night shift. He browses through the two folders to see if there's anything he should work on. He notices that the article that the reporter wrote is an urgent piece that needs to be published as soon as possible. He decides to write the concluding paragraph and have it ready for the design team. After the article is finished and proofread, he moves it into the Edits folder. He goes home. The next day in the morning, the reporter wakes up. She comes back to the newsroom and wants to continue working on the article. The proofreader calls the reporter and tells her that he moved the article from the Drafts folder to the Edits folder. The reporter believes the proofreader.
+
+PROMPT 1 (CORRECT: Edits): The article file is in the folder labeled
+
+PROMPT 2 (CORRECT: Edits): The reporter will look for the article file in the folder labeled
+
+== True-belief control: No transfer ==
+
+TASK: It's the end of the day shift at a newsroom, and a reporter has almost finished writing an article on the office computer. There are two folders on the desktop screen: Drafts and Edits. Intending to complete the article the next day, she saves the article in Drafts and leaves the newsroom. Soon she is at home and fast asleep. When the reporter is gone, the staff proofreader enters the office to begin his night shift. He browses through the two folders to see if there's anything he should work on. He notices that the article that the reporter wrote is an urgent piece that needs to be published as soon as possible. He decides to write the concluding paragraph and have it ready for the design team. After the article is finished and proofread, he leaves the file in the Drafts folder. He goes home. The next day in the morning, the reporter wakes up. She comes back to the newsroom and wants to continue working on the article.
+
+PROMPT 1 (CORRECT: Drafts): The article file is in the folder labeled
+
+PROMPT 2 (CORRECT: Drafts): The reporter will look for the article file in the folder labeled
+
+TASK #3
+
+== False-belief task ==
+
+TASK: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house before leaving for school. When Lila is gone, her mom comes home. Mom doesn't like it when the dog is locked in the house, so she takes the dog outside and puts it in the shed instead. She locks the shed's door and leaves to work. Lila comes back from school and wants to play with the dog.
+
+PROMPT 1 (CORRECT: shed): The dog escapes from the
+
+PROMPT 2 (CORRECT: house): Lila will look for the dog in the
+
+== True-belief control: Present protagonist ==
+
+TASK: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house. Yet, her mom doesn't like it when the dog is locked in the house. Lila watches her mother as she takes the dog outside, puts it in the shed, and locks the shed's door. Both Lila and her mom leave home. A few hours later, Lila comes back and wants to play with the dog.
+
+PROMPT 1 (CORRECT: shed): The dog escapes from the
+
+PROMPT 2 (CORRECT: shed): Lila will look for the dog in the
+
+== True-belief control: Informed protagonist ==
+
+TASK: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house before leaving for school. When Lila is gone, her mom comes home. Mom doesn't like it when the dog is locked in the house, so she takes the dog outside and puts it in the shed instead. She locks the shed's door and leaves to work. Lila comes back from school and wants to play with the dog. Lila's mom calls Lila and tells her that she moved the dog from the house to the shed. Lila believes her mom.
+
+PROMPT 1 (CORRECT: shed): The dog escapes from the
+
+PROMPT 2 (CORRECT: shed): Lila will look for the dog in the
+
+== True-belief control: No transfer ==
+
+TASK: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house before leaving for school. When Lila is gone, her mom comes home. Mom doesn't like it when the dog is locked in the house, so she takes the dog outside. After a few moments she puts it back in the house, locks the door and leaves to work. Lila comes back from school and wants to play with the dog.
+
+PROMPT 1 (CORRECT: house): The dog escapes from the
+
+PROMPT 2 (CORRECT: house): Lila will look for the dog in the
+
+TASK #4
+
+== False-belief task ==
+
+TASK: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer and then goes to bed. Later that night, Steven's sister comes home and walks into the laundry room. She takes the blanket out of the dryer and puts it in the cupboard next to the dryer. She goes to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket.
+
+PROMPT 1 (CORRECT: cupboard): The blanket falls out from the
+
+PROMPT 2 (CORRECT: dryer): He will look for the blanket in the
+
+== True-belief control: Present protagonist ==
+
+TASK: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer. Steven's sister walks into the laundry room. Steven watches his sister as she takes the blanket out of the dryer and puts it in the cupboard next to the dryer. Next, Steven and his sister leave the laundry room and go to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket.
+
+PROMPT 1 (CORRECT: cupboard): The blanket falls out from the
+
+PROMPT 2 (CORRECT: cupboard): He will look for the blanket in the
+
+== True-belief control: Informed protagonist ==
+
+TASK: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer and then goes to bed. Later that night, Steven's sister comes home and walks into the laundry room. She takes the blanket out of the dryer and puts it in the cupboard next to the dryer. She goes to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. Steven's sister calls Steven and tells him that she moved the blanket from the dryer to the cupboard. Steven believes his sister.
+
+PROMPT 1 (CORRECT: cupboard): The blanket falls out from the
+
+PROMPT 2 (CORRECT: cupboard): He will look for the blanket in the
+
+== True-belief control: No transfer ==
+
+TASK: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer and then goes to bed. Later that night, Steven's sister comes home and walks into the laundry room. She sees the blanket in the dryer but leaves it there and puts nothing in the cupboard next to the dryer. She goes to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket.
+
+PROMPT 1 (CORRECT: dryer): The blanket falls out from the
+
+PROMPT 2 (CORRECT: dryer): He will look for the blanket in the
+
+TASK #5
+
+== False-belief task ==
+
+TASK: Monica and Floriane are in a room. Monica puts a toy in a box. She closes the box. Monica leaves the room and goes outside to play with other children. When Monica is gone, Floriane removes the toy from the box and puts it in a basket. She closes the basket and leaves for school. Monica comes back to the room and wants to play with the toy.
+
+PROMPT 1 (CORRECT: basket): The toy falls out of the
+
+PROMPT 2 (CORRECT: box): Monica will look for the toy in the
+
+== True-belief control: Present protagonist ==
+
+TASK: Monica and Floriane are in a room. Monica puts a toy in a box. She closes the box. Monica watches Floriane as she removes the toy from the box, puts it in a basket, and closes the basket. Both girls leave the room and go outside to play with other children. Monica comes back to the room and wants to play with the toy.
+
+PROMPT 1 (CORRECT: basket): The toy falls out of the
+
+PROMPT 2 (CORRECT: basket): Monica will look for the toy in the
+
+== True-belief control: Informed protagonist ==
+
+TASK: Monica and Floriane are in a room. Monica puts a toy in a box. She closes the box. Monica leaves the room and goes outside to play with other children. When Monica is gone, Floriane removes the toy from the box and puts it in a basket. She closes the basket and leaves for school. Monica comes back to the room and wants to play with the toy. Monica calls Floriane and tells her that she moved the toy from the box to the basket. Floriane believes Monica.
+
+PROMPT 1 (CORRECT: basket): The toy falls out of the
+
+PROMPT 2 (CORRECT: basket): Monica will look for the toy in the
+
+== True-belief control: No transfer ==
+
+TASK: Monica and Floriane are in a room. Monica puts a toy in a box. She closes the box. Monica leaves the room and goes outside to play with other children. When Monica is gone, Floriane looks at the toy in the box but leaves it there. She closes the box and leaves for school. Monica comes back to the room and wants to play with the toy.
+
+PROMPT 1 (CORRECT: box): The toy falls out of the
+
+PROMPT 2 (CORRECT: box): Monica will look for the toy in the
+
+TASK #6
+
+== False-belief task ==
+
+TASK: Mark puts his blue basketball in a wooden box and closes it. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green. Mark looks at the box but cannot see what is happening inside.
+
+PROMPT 1 (CORRECT: green): Mark opens the box and can see that the the color of the basketball is
+
+PROMPT 2 (CORRECT: blue): Before opening the box, Mark calls his friend to tell them that the color of the basketball is 
+
+== True-belief control: Present protagonist ==
+
+TASK: Mark puts his blue basketball in a wooden box. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green. Mark observes what is happening and then closes the box.
+
+PROMPT 1 (CORRECT: green): Mark opens the box and can see that the the color of the basketball is
+
+PROMPT 2 (CORRECT: green): Before opening the box, Mark calls his friend to tell them that the color of the basketball is
+
+== True-belief control: Informed protagonist ==
+
+TASK: Mark puts his blue basketball in a wooden box and closes it. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green. Mark looks at the box but cannot see what is happening inside. The magical box tells Mark that it changed the color of the basketball from blue to green. Mark believes the box.
+
+PROMPT 1 (CORRECT: green): Mark opens the box and can see that the the color of the basketball is
+
+PROMPT 2 (CORRECT: green): Before opening the box, Mark calls his friend to tell them that the color of the basketball is
+
+== True-belief control: No transfer ==
+
+TASK: Mark puts his blue basketball in a wooden box and closes it. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green, but then turns blue again. Mark looks at the box but cannot see what is happening inside. Mary calls Mark and asks him what is the color of his ball. Mark tells her the truth.
+
+PROMPT 1 (CORRECT: blue): Mark opens the box and can see that the the color of the basketball is
+
+PROMPT 2 (CORRECT: blue): Before opening the box, Mark calls his friend to tell them that the color of the basketball is
+
+TASK #7
+
+== False-belief task ==
+
+TASK: Max watches his little brother put laundry in the box. Next, Max leaves the house to play in the courtyard. While Max is gone, his brother moves the laundry from the box to the basket. He closes the basket and leaves for school. Max comes back home and wants to fold the laundry.
+
+PROMPT 1 (CORRECT: basket): The laundry falls out of the
+
+PROMPT 2 (CORRECT: box): Max will look for the laundry in the
+
+== True-belief control: Present protagonist ==
+
+TASK: Max watches his little brother as he is dealing with the laudry. His little brother puts it in the box. Next, his little brother moves it from the box to the basket and closes the basket. Next, both boys leave for school. Later that day, Max comes back home and wants to fold the laundry.
+
+PROMPT 1 (CORRECT: basket): The laundry falls out of the
+
+PROMPT 2 (CORRECT: basket): Max will look for the laundry in the
+
+== True-belief control: Informed protagonist ==
+
+TASK: Max watches his little brother put laundry in the box. Next, Max leaves the house to play in the courtyard. While Max is gone, his brother moves the laundry from the box to the basket. He closes the basket and leaves for school. Max comes back home and wants to fold the laundry. Max's brother calls Max and tells him that he moved the laundry from the box to the basket. Max believes his brother.
+
+PROMPT 1 (CORRECT: basket): The laundry falls out of the
+
+PROMPT 2 (CORRECT: basket): Max will look for the laundry in the
+
+== True-belief control: No transfer ==
+
+TASK: Max watches his little brother put laundry in the box. Next, Max leaves the house to play in the courtyard. While Max is gone, his brother thinks about moving the laundry from the box to the basket, but decides against it. He closes the basket and leaves for school. Max comes back home and wants to fold the laundry.
+
+PROMPT 1 (CORRECT: box): The laundry falls out of the
+
+PROMPT 2 (CORRECT: box): Max will look for the laundry in the
+
+TASK #8
+
+== False-belief task ==
+
+TASK: Ed and his sister, Lilly, are in a room. They have two toys: a truck and a robot. They play with these toys until Ed accidentally breaks the truck. Disappointed, he leaves the room to look for his mom. In his absence, Lilly repairs the truck, but inadvertently breaks the robot. Subsequently, she too leaves the room. Ed finds his mom.
+
+PROMPT 1 (CORRECT: robot): The toy that needs to be repaired is the
+
+PROMPT 2 (CORRECT: truck): Ed will tell his mom that they need to repair the
+
+== True-belief control: Present protagonist ==
+
+TASK: Ed and his sister, Lilly, are in a room. They have two toys: a truck and a robot. They play with these toys until Ed accidentally breaks the truck. As Ed is watching, Lilly repairs the truck, but inadvertently breaks the robot. They both leave the room to look for their mom. Ed finds their mom first.
+
+PROMPT 1 (CORRECT: robot): The toy that needs to be repaired is the
+
+PROMPT 2 (CORRECT: robot): Ed will tell his mom that they need to repair the
+
+== True-belief control: Informed protagonist ==
+
+TASK: Ed and his sister, Lilly, are in a room. They have two toys: a truck and a robot. They play with these toys until Ed accidentally breaks the truck. Disappointed, he leaves the room to look for his mom. In his absence, Lilly repairs the truck, but inadvertently breaks the robot. Subsequently, she too leaves the room. Ed finds his mom. Ed's sister calls Ed and tells him that she repaired the truck, but inadvertently broke the robot. Ed believes his sister.
+
+PROMPT 1 (CORRECT: robot): The toy that needs to be repaired is the
+
+PROMPT 2 (CORRECT: robot): Ed will tell his mom that they need to repair the
+
+== True-belief control: No transfer ==
+
+TASK: Ed and his sister, Lilly, are in a room. They have two toys: a truck and a robot. They play with these toys until Ed accidentally breaks the truck. Disappointed, he leaves the room to look for his mom. In his absence, Lilly repairs the truck, but inadvertently breaks it again. Subsequently, she too leaves the room. Ed finds his mom.
+
+PROMPT 1 (CORRECT: truck): The toy that needs to be repaired is the
+
+PROMPT 2 (CORRECT: truck): Ed will tell his mom that they need to repair the
+
+TASK #9
+
+== False-belief task ==
+
+TASK: Mark sees a packet of cheese in the fridge, which is close to its expiry date. He plans to use it later that night when making dinner. He leaves for work. Soon, Mark's wife Jenna enters the to check which groceries need to be disposed of or restocked. She notices the cheese and places it in the freezer, thinking it will last longer that way. She leaves the kitchen and goes to work. Mark comes back home and wants to eat some cheese.
+
+PROMPT 1 (CORRECT: freezer): The cheese falls out of the
+
+PROMPT 2 (CORRECT: fridge): Mark will look for the cheese in the
+
+== True-belief control: Present protagonist ==
+
+TASK: Mark sees a packet of cheese in the fridge, which is close to its expiry date. He plans to use it later that night when making dinner. His wife Jenna joins him in the kitchen to check which groceries need to be disposed of or restocked. She notices the cheese. Mark watches her as she places it in the freezer, saying that it will last longer that way. They both leave the kitchen and go to work. In the evening, Mark comes back home and wants to eat some cheese.
+
+PROMPT 1 (CORRECT: freezer): The cheese falls out of the
+
+PROMPT 2 (CORRECT: freezer): Mark will look for the cheese in the
+
+== True-belief control: Informed protagonist ==
+
+TASK: Mark sees a packet of cheese in the fridge, which is close to its expiry date. He plans to use it later that night when making dinner. He leaves for work. Soon, Mark's wife Jenna enters the to check which groceries need to be disposed of or restocked. She notices the cheese and places it in the freezer, thinking it will last longer that way. She leaves the kitchen and goes to work. Mark comes back home and wants to eat some cheese. Jenna calls Mark and tells him that she moved the packet of cheese from the fridge to the freezer. Mark believes Jenna.
+
+PROMPT 1 (CORRECT: freezer): The cheese falls out of the
+
+PROMPT 2 (CORRECT: freezer): Mark will look for the cheese in the
+
+== True-belief control: No transfer ==
+
+TASK: Mark sees a packet of cheese in the fridge, which is close to its expiry date. He plans to use it later that night when making dinner. He leaves for work. Soon, Mark's wife Jenna enters the kitchen to check which groceries need to be disposed of or restocked. She notices the cheese but leaves it in the fridge, thinking Mark might use it later. She leaves the kitchen and goes to work. Mark comes back home and wants to eat some cheese.
+
+PROMPT 1 (CORRECT: fridge): The cheese falls out of the
+
+PROMPT 2 (CORRECT: fridge): Mark will look for the cheese in the
+
+TASK #10
+
+== False-belief task ==
+
+TASK: At the end of the day, Anita is packing up her belongings as she gets ready to leave her workplace. She forgets her watch in the conference room. After she leaves, Anita's secretary comes in to tidy up. He sees the watch and picks it up. He leaves the watch in the break room. He plans to tell Anita that he found her watch first thing the next morning. On her way home, Anita realizes that she has forgotten her watch. She returns to the office to retrieve it.
+
+PROMPT 1 (CORRECT: break): A thief steals the watch from the
+
+PROMPT 2 (CORRECT: conference): Anita will look for her watch in the
+
+== True-belief control: Present protagonist ==
+
+TASK: At the end of the day, Anita is packing up her belongings as she gets ready to leave her office. She forgets her watch in the conference room. Anita's secretary comes in to tidy up. He sees the watch and picks it up. They both go to the break room, and leave the watch there. They both leave the office. On her way home, Anita realizes that she will need her watch. She returns to the office to retrieve it.
+
+PROMPT 1 (CORRECT: break): A thief steals the watch from the
+
+PROMPT 2 (CORRECT: break): Anita will look for her watch in the
+
+== True-belief control: Informed protagonist ==
+
+TASK: At the end of the day, Anita is packing up her belongings as she gets ready to leave her workplace. She forgets her watch in the conference room. After she leaves, Anita's secretary comes in to tidy up. He sees the watch and picks it up. He leaves the watch in the break room. He plans to tell Anita that he found her watch first thing the next morning. On her way home, Anita realizes that she has forgotten her watch. She returns to the office to retrieve it. The secretary, John, calls Anita and tells her that he moved her watch from the conference room to the break room. Anita believes John.
+
+PROMPT 1 (CORRECT: break): A thief steals the watch from the
+
+PROMPT 2 (CORRECT: break): Anita will look for her watch in the
+== True-belief control: No transfer ==
+
+TASK: At the end of the day, Anita is packing up her belongings as she gets ready to leave her workplace. She forgets her watch in the conference room. After she leaves, Anita's secretary comes in to tidy up. He sees the watch but leaves it where it is. He plans to tell Anita that he found her watch first thing the next morning. On her way home, Anita realizes that she has forgotten her watch. She returns to work to retrieve it.
+
+PROMPT 1 (CORRECT: conference): A thief steals the watch from the
+
+PROMPT 2 (CORRECT: conference): Anita will look for her watch in the
+
+TASK #11
+
+== False-belief task ==
+
+TASK: Frank and his wife Maria have two bank accounts: savings and checking. Their savings account was empty, but early in January, Frank sold their old car for 5,000 and deposited the money in their savings account. In February, Maria realized that they owe a lot of taxes. She logged in to their online bank platform and transferred the 5,000 from their savings account to their checking account. Unfortunately, she forgot to tell Frank that she did that. Frank, who does not have access to online banking, is unable to check the status of the accounts. A few days later, Frank goes to the bank to withdraw the money from the sale of their old car.
+
+PROMPT 1 (CORRECT: checking): The proceeds from selling their old car are in their
+
+PROMPT 2 (CORRECT: savings): Frank will asks the bank teller to look for the money in their
+
+== True-belief control: Present protagonist ==
+
+TASK: Frank and his wife Maria have two bank accounts: savings and checking. Their savings account was empty, but early in January, Frank sold their old car for 5,000 and deposited the money in their savings account. In February, Maria realized that they owe a lot of taxes. They both went to the bank and transferred the 5,000 from their savings account to their checking account. A few days later, Frank goes to the bank to withdraw the money from the sale of their old car.
+
+PROMPT 1 (CORRECT: checking): The proceeds from selling their old car are in their
+
+PROMPT 2 (CORRECT: checking): Frank will asks the bank teller to look for the money in their
+
+== True-belief control: Informed protagonist ==
+
+TASK: Frank and his wife Maria have two bank accounts: savings and checking. Their savings account was empty, but early in January, Frank sold their old car for 5,000 and deposited the money in their savings account. In February, Maria realized that they owe a lot of taxes. She logged in to their online bank platform and transferred the 5,000 from their savings account to their checking account. Unfortunately, she forgot to tell Frank that she did that. Frank, who does not have access to online banking, is unable to check the status of the accounts. A few days later, Frank goes to the bank to withdraw the money from the sale of their old car. Maria calls Frank and tells him that she moved the $5,000 from the savings account to the checking account. Maria believes Frank.
+
+PROMPT 1 (CORRECT: checking): The proceeds from selling their old car are in their
+
+PROMPT 2 (CORRECT: checking): Frank will asks the bank teller to look for the money in their
+
+== True-belief control: No transfer ==
+
+TASK: Frank and his wife Maria have two bank accounts: savings and checking. Their savings account was empty, but early in January, Frank sold their old car for 5,000 and deposited the money in their savings account. In February, Maria realized that they owe a lot of taxes. She thought about transferring the 5,000 from their savings account to their checking account, but decided against it. Unfortunately, she forgot to tell Frank about her consideration. Frank, who does not have access to online banking, is unable to check the status of the accounts. A few days later, Frank goes to the bank to withdraw the money from the sale of their old car.
+
+PROMPT 1 (CORRECT: savings): The proceeds from selling their old car are in their
+
+PROMPT 2 (CORRECT: savings): Frank will asks the bank teller to look for the money in their
+
+TASK #12
+
+== False-belief task ==
+
+TASK: A mermaid finds a hermit crab hidden in a blue shell. She is excited to tell other mermaids about her discovery and swims away to look for them. In the meantime, the hermit crab decides that the blue shell is rather small and uncomfortable. He decides to swap it for a green shell that he has found nearby. He brings along all of his belongings and hides in the green shell. The blue shell is now abandoned and empty. An octopus observes all this and ponders whether it is a good time to try to catch and eat the crab, but then decides that it is still too early for dinner. A few nautical miles away, the mermaid finds her friends smoking seaweed. They all go back to see the crab.
+
+PROMPT 1 (CORRECT: green): The crab jumps out of the
+
+PROMPT 2 (CORRECT: blue): The mermaid will look for the crab in the
+
+== True-belief control: Present protagonist ==
+
+TASK: A mermaid watches a hermit crab. The crab is hidden in a blue shell but he decides that the blue shell is rather small and uncomfortable. He decides to swap it for a green shell that he has found nearby. He brings along all of his belongings and hides in the green shell. The blue shell is now abandoned and empty. The mermaid is excited to tell other mermaids about her discovery and swims away to look for them. An octopus observes all this and ponders whether it is a good time to try to catch and eat the crab, but then decides that it is still too early for dinner. A few nautical miles away, the mermaid finds her friends smoking seaweed. They all go back to see the crab.
+
+PROMPT 1 (CORRECT: green): The crab jumps out of the
+
+PROMPT 2 (CORRECT: green): The mermaid will look for the crab in the
+
+== True-belief control: Informed protagonist ==
+
+TASK: A mermaid finds a hermit crab hidden in a blue shell. She is excited to tell other mermaids about her discovery and swims away to look for them. In the meantime, the hermit crab decides that the blue shell is rather small and uncomfortable. He decides to swap it for a green shell that he has found nearby. He brings along all of his belongings and hides in the green shell. The blue shell is now abandoned and empty. An octopus observes all this and ponders whether it is a good time to try to catch and eat the crab, but then decides that it is still too early for dinner. A few nautical miles away, the mermaid finds her friends smoking seaweed. They all go back to see the crab. The hermit crab calls the mermaid and tells her that he moved from the blue shell to the green shell. The mermaid believes the hermit crab.
+
+PROMPT 1 (CORRECT: green): The crab jumps out of the
+
+PROMPT 2 (CORRECT: green): The mermaid will look for the crab in the
+
+== True-belief control: No transfer ==
+
+TASK: A mermaid finds a hermit crab hidden in a blue shell. She is excited to tell other mermaids about her discovery and swims away to look for them. In the meantime, the hermit crab considers that the blue shell is rather small and uncomfortable. He contemplates swapping it for a green shell that he has found nearby. However, he decides to stay in the blue shell and brings all of his belongings back inside. The blue shell remains occupied. An octopus observes all this and ponders whether it is a good time to try to catch and eat the crab, but then decides that it is still too early for dinner. A few nautical miles away, the mermaid finds her friends smoking seaweed. They all go back to see the crab.
+
+PROMPT 1 (CORRECT: blue): The crab jumps out of the
+
+PROMPT 2 (CORRECT: blue): The mermaid will look for the crab in the
+
+TASK #13
+
+== False-belief task ==
+
+TASK: The insurgents hide in the forest in Nottinghamshire. They are planning their next attack on the army checkpoint. One of the local farmers spots the insurgents and reports their whereabouts to the army. The army puts the troops on high alert and prepares to surround the insurgents. The insurgents realize what is going on and decide to abandon their base. They pack their tents and their weapons, and move to the forest in Oxfordshire. They do so in a stealthy way, so no one realizes that they have moved. They set up their base and start planning their next cunning attack. In the meantime, the army gets ready to attack.
+
+PROMPT 1 (CORRECT: Oxfordshire): The insurgents march out of the forest located in
+
+PROMPT 2 (CORRECT: Nottinghamshire): The army will look for the insurgents in the forest located in
+
+== True-belief control: Present protagonist ==
+
+TASK: The insurgents hide in the forest in Nottinghamshire. They pack their tents and their weapons, and move to the forest in Oxfordshire. They set up their base and start planning their next cunning attack. Yet, one of the insurgents betrays her comrades and reports their whereabouts to the army. The army puts the troops on high alert and prepares to surround the insurgents.
+
+PROMPT 1 (CORRECT: Oxfordshire): The insurgents march out of the forest located in
+
+PROMPT 2 (CORRECT: Oxfordshire): The army will look for the insurgents in the forest located in
+
+== True-belief control: Informed protagonist ==
+
+TASK: The insurgents hide in the forest in Nottinghamshire. They are planning their next attack on the army checkpoint. One of the local farmers spots the insurgents and reports their whereabouts to the army. The army puts the troops on high alert and prepares to surround the insurgents. The insurgents realize what is going on and decide to abandon their base. They pack their tents and their weapons, and move to the forest in Oxfordshire. They do so in a stealthy way, so no one realizes that they have moved. They set up their base and start planning their next cunning attack. In the meantime, the army gets ready to attack. One of the insurgents, John, calls his contact in the army, Lieutenant Smith, and tells him that they moved their base from Nottinghamshire to Oxfordshire. Lieutenant Smith believes John.
+
+PROMPT 1 (CORRECT: Oxfordshire): The insurgents march out of the forest located in
+
+PROMPT 2 (CORRECT: Oxfordshire): The army will look for the insurgents in the forest located in
+
+== True-belief control: No transfer ==
+
+TASK: The insurgents hide in the forest in Nottinghamshire. They are planning their next attack on the army checkpoint. One of the local farmers spots the insurgents and reports their whereabouts to the army. The army puts the troops on high alert and prepares to surround the insurgents. The insurgents realize what is going on and decide to fortify their base. They pack their tents and their weapons, and prepare to defend the forest in Nottinghamshire. They do so in a stealthy way, so no one realizes that they have stayed. They fortify their base and start planning their next cunning attack. In the meantime, the army gets ready to attack.
+
+PROMPT 1 (CORRECT: Nottinghamshire): The insurgents march out of the forest located in
+
+PROMPT 2 (CORRECT: Nottinghamshire): The army will look for the insurgents in the forest located in
+
+TASK #14
+
+== False-belief task ==
+
+TASK: The prime minister used to think that her government's flagship project, the introduction of universal basic income (UBI), should be supervised by the Minister of Finance. Recently however, she has been increasingly disappointed with the slow progress on this project. On Thursday morning, after a meeting with her advisor, she changed her mind. She decided that the project should now be supervised by the Minister of Internal Affairs. She decided not to tell anyone about her change of mind, for now. She plans to announce it during the cabinet meeting next week. On the day of the meeting, the members of the cabinet gather in a conference room and want to know more about the UBI project.
+
+PROMPT 1 (CORRECT: Internal): The prime minister reveals that the UBI project is supervised by the Minister of
+
+PROMPT 2 (CORRECT: Finance): The members of the cabinet will direct their questions to the Minister of
+
+== True-belief control: Present protagonist ==
+
+TASK: The prime minister used to think that her government's flagship project, the introduction of universal basic income (UBI), should be supervised by the Minister of Finance. Recently however, she has been increasingly disappointed with the slow progress on this project. On Thursday morning, during her meeting with the members of the cabinet, they all become convinced that the project should be supervised by the Minister of Internal Affairs. Yet, she decided not to act on this, for now. She plans to discuss it during the cabinet meeting next week. On the day of the meeting, the members of the cabinet gather in a conference room and want to know more about the UBI project.
+
+PROMPT 1 (CORRECT: Internal): The prime minister reveals that the UBI project is supervised by the Minister of
+
+PROMPT 2 (CORRECT: Internal): The members of the cabinet will direct their questions to the Minister of
+
+== True-belief control: Informed protagonist ==
+
+TASK: The prime minister used to think that her government's flagship project, the introduction of universal basic income (UBI), should be supervised by the Minister of Finance. Recently however, she has been increasingly disappointed with the slow progress on this project. On Thursday morning, after a meeting with her advisor, she changed her mind. She decided that the project should now be supervised by the Minister of Internal Affairs. She decided not to tell anyone about her change of mind, for now. She plans to announce it during the cabinet meeting next week. On the day of the meeting, the members of the cabinet gather in a conference room and want to know more about the UBI project. The Prime Minister notifies all of the cabinet members that she moved the supervision of the UBI project from the Minister of Finance to the Minister of Internal Affairs. The members of the cabinet believe the Prime Minister.
+
+PROMPT 1 (CORRECT: Internal): The prime minister reveals that the UBI project is supervised by the Minister of
+
+PROMPT 2 (CORRECT: Internal): The members of the cabinet will direct their questions to the Minister of
+
+== True-belief control: No transfer ==
+
+TASK: The prime minister used to think that her government's flagship project, the introduction of universal basic income (UBI), should be supervised by the Minister of Finance. Recently however, she has been increasingly disappointed with the slow progress on this project. On Thursday morning, after a meeting with her advisor, she considered a change. She contemplated that the project could be supervised by the Minister of Internal Affairs. Yet, she decided not to act on this thought, for now. She plans to discuss it during the cabinet meeting next week. On the day of the meeting, the members of the cabinet gather in a conference room and want to know more about the UBI project.
+
+PROMPT 1 (CORRECT: Finance): The prime minister reveals that the UBI project is supervised by the Minister of
+
+PROMPT 2 (CORRECT: Finance): The members of the cabinet will direct their questions to the Minister of 
+
+TASK #15
+
+== False-belief task ==
+
+TASK: After months of fighting, the leaders of Azerbaijan and Armenia meet to discuss a peace treaty. They agree to transfer the authority over Nagorno-Karabakh from the government of Azerbaijan to the government of Armenia. The agreement goes into effect immediately, but it will be announced to the residents of Nagorno-Karabakh at a press conference, on the next day. As of now, only the leaders know what has happened. After the meeting was over, but before the press conference, a Reuters journalist was interviewing Maria, an elderly resident of Nagorno-Karabakh.
+
+PROMPT 1 (CORRECT: Armenia): As of now, the authority over Nagorno-Karabakh is held by the government of
+
+PROMPT 2 (CORRECT: Azerbaijan): Maria's first answer will be that the authority over Nagorno-Karabakh is held by the government of
+
+== True-belief control: Present protagonist ==
+
+TASK: After months of fighting, the leaders of Azerbaijan and Armenia meet to discuss a peace treaty. Maria, an elderly resident of Nagorno-Karabakh, was also present at the meeting, as a witness. The leaders agree to transfer the authority over Nagorno-Karabakh from the government of Azerbaijan to the government of Armenia. The agreement goes into effect immediately. After the meeting was over a Reuters journalist was interviewing Maria.
+
+PROMPT 1 (CORRECT: Armenia): As of now, the authority over Nagorno-Karabakh is held by the government of
+
+PROMPT 2 (CORRECT: Armenia): Maria's first answer will be that the authority over Nagorno-Karabakh is held by the government of
+
+== True-belief control: Informed protagonist ==
+
+TASK: After months of fighting, the leaders of Azerbaijan and Armenia meet to discuss a peace treaty. They agree to transfer the authority over Nagorno-Karabakh from the government of Azerbaijan to the government of Armenia. The agreement goes into effect immediately, but it will be announced to the residents of Nagorno-Karabakh at a press conference, on the next day. As of now, only the leaders know what has happened. After the meeting was over, but before the press conference, a Reuters journalist was interviewing Maria, an elderly resident of Nagorno-Karabakh. A friend calls Maria and tells her that the authority over Nagorno-Karabakh was transferred from the government of Azerbaijan to the government of Armenia. Maria believes her friend.
+
+PROMPT 1 (CORRECT: Armenia): As of now, the authority over Nagorno-Karabakh is held by the government of
+
+PROMPT 2 (CORRECT: Armenia): Maria's first answer will be that the authority over Nagorno-Karabakh is held by the government of
+
+== True-belief control: No transfer ==
+
+TASK: After months of fighting, the leaders of Azerbaijan and Armenia meet to discuss a peace treaty. They agree to maintain the authority over Nagorno-Karabakh with the government of Azerbaijan instead of transferring it to the government of Armenia. The agreement goes into effect immediately, but it will be announced to the residents of Nagorno-Karabakh at a press conference, on the next day. As of now, only the leaders know what has happened. After the meeting was over, but before the press conference, a Reuters journalist was interviewing Maria, an elderly resident of Nagorno-Karabakh.
+
+PROMPT 1 (CORRECT: Azerbaijan): As of now, the authority over Nagorno-Karabakh is held by the government of
+
+PROMPT 2 (CORRECT: Azerbaijan): Maria's first answer will be that the authority over Nagorno-Karabakh is held by the government of
+
+TASK #16
+
+== False-belief task ==
+
+TASK: Fred, an IT technician, was setting up a computer for one of the newly hired consultants. He saved the letterhead file in the Docs folder. While Fred was out, having lunch with the other employees, the consultant dropped in to pick up her computer. As Fred was gone, his boss, Mary, inspected the computer to see whether it was ready. She noticed that the letterhead file was placed in the Docs folder. She remembered that in accordance with the new guidance, the letterhead file should be stored in the Templates folder instead. She removed it from the Docs folder and moved it to the Templates folder. She then handed the computer to the consultant. Mary decided that at the next staff meeting, she would remind Fred of the new guidance. She left the office to meet with her own boss. A few minutes later, the newly hired consultant called the IT department. Fred was still away, eating lunch, but the call was automatically redirected to his mobile phone. The consultant asked Fred for help locating the letterhead file on her new computer.
+
+PROMPT 1 (CORRECT: Templates): The letterhead is located in the folder labeled
+
+PROMPT 2 (CORRECT: Docs): Fred will tell the consultant that the letterhead is in the folder labeled
+
+== True-belief control: Present protagonist ==
+
+TASK: Fred, an IT technician, was setting up a computer for one of the newly hired consultants. He saved the letterhead file in the Docs folder. The consultant dropped in to pick up her computer. His boss, Mary, inspected the computer to see whether it was ready. She noticed that the letterhead file was placed in the Docs folder. She remembered that in accordance with the new guidance, the letterhead file should be stored in the Templates folder instead. Fred watched her as she moved the letterhead file from the Docs folder to the Templates folder. She then handed the computer to the consultant. Mary decided that at the next staff meeting, she would remind jer staff of the new guidance. Both Fred and Mary left the office. A few minutes later, the newly hired consultant called the IT department. Fred was still away, eating lunch, but the call was automatically redirected to his mobile phone. The consultant asked Fred for help locating the letterhead file on her new computer.
+
+PROMPT 1 (CORRECT: Templates): The letterhead is located in the folder labeled
+
+PROMPT 2 (CORRECT: Templates): Fred will tell the consultant that the letterhead is in the folder labeled
+
+== True-belief control: Informed protagonist ==
+
+TASK: Fred, an IT technician, was setting up a computer for one of the newly hired consultants. He saved the letterhead file in the Docs folder. While Fred was out, having lunch with the other employees, the consultant dropped in to pick up her computer. As Fred was gone, his boss, Mary, inspected the computer to see whether it was ready. She noticed that the letterhead file was placed in the Docs folder. She remembered that in accordance with the new guidance, the letterhead file should be stored in the Templates folder instead. She removed it from the Docs folder and moved it to the Templates folder. She then handed the computer to the consultant. Mary decided that at the next staff meeting, she would remind Fred of the new guidance. She left the office to meet with her own boss. A few minutes later, the newly hired consultant called the IT department. Fred was still away, eating lunch, but the call was automatically redirected to his mobile phone. The consultant asked Fred for help locating the letterhead file on her new computer. Mary calls Fred and tells him that she moved the letterhead file from the Docs folder to the Templates folder. Fred believes Mary.
+
+PROMPT 1 (CORRECT: Templates): The letterhead is located in the folder labeled
+
+PROMPT 2 (CORRECT: Templates): Fred will tell the consultant that the letterhead is in the folder labeled
+
+== True-belief control: No transfer ==
+
+TASK: Fred, an IT technician, was setting up a computer for one of the newly hired consultants. He saved the letterhead file in the Docs folder. While Fred was out, having lunch with the other employees, the consultant dropped in to pick up her computer. As Fred was gone, his boss, Mary, inspected the computer to see whether it was ready. She noticed that the letterhead file was placed in the Docs folder. She remembered that in accordance with the new guidance, the letterhead file should be stored in the Templates folder instead. However, she decided not to move it at that moment and left it in the Docs folder. She then handed the computer to the consultant. Mary decided that at the next staff meeting, she would remind Fred of the new guidance. She left the office to meet with her own boss. A few minutes later, the newly hired consultant called the IT department. Fred was still away, eating lunch, but the call was automatically redirected to his mobile phone. The consultant asked Fred for help locating the letterhead file on her new computer.
+
+PROMPT 1 (CORRECT: Docs): The letterhead is located in the folder labeled
+
+PROMPT 2 (CORRECT: Docs): Fred will tell the consultant that the letterhead is in the folder labeled
+
+TASK #17
+
+== False-belief task ==
+
+TASK: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, and close the left hand as if the coin has now fallen into it. Once this has happened, move the right hand, with the coin still in it, away to the side.
+
+PROMPT 1 (CORRECT: right): The coin falls out of the
+
+PROMPT 2 (CORRECT: left): The spectator will look for the coin in the
+
+== True-belief control: Present protagonist ==
+
+TASK: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, and close the left hand as if the coin has now fallen into it. Once this has happened, show the coin to the spectator cleanly and clearly and move the right hand, with the coin still in it, away to the side.
+
+PROMPT 1 (CORRECT: right): The coin falls out of the
+
+PROMPT 2 (CORRECT: right): The spectator will look for the coin in the
+
+== True-belief control: Informed protagonist ==
+
+TASK: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, and close the left hand as if the coin has now fallen into it. Once this has happened, move the right hand, with the coin still in it, away to the side. Now you tell the spectator that you did not actually move the coin from your right hand to your left hand. The spectator believes you.
+
+PROMPT 1 (CORRECT: right): The coin falls out of the
+
+PROMPT 2 (CORRECT: right): The spectator will look for the coin in the
+
+== True-belief control: No transfer ==
+
+TASK: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, drop the coin into your left hand, and close the left hand after the coin falls into it. Once this has happened, move the empty right hand away to the side.
+
+PROMPT 1 (CORRECT: left): The coin falls out of the
+
+PROMPT 2 (CORRECT: left): The spectator will look for the coin in the
+
+TASK #18
+
+== False-belief task ==
+
+TASK: Protagonists A and B are in a room. A puts an object Q in container X and leaves the room. When A is away, B moves Q from container X to container Y. Protagonist A comes back to the room and wants to use object Q.
+
+PROMPT 1 (CORRECT: Y): Q falls out of container
+
+PROMPT 2 (CORRECT: X): Protagonist A will look for Q in container
+
+== True-belief control: Present protagonist ==
+
+TASK: Protagonists A and B are in a room. A puts an object Q in container X. Next A watches B, as they move Q from container X to container Y. Both A and B leave the room. Later, protagonist A comes back to the room and wants to use object Q.
+
+PROMPT 1 (CORRECT: Y): Q falls out of container
+
+PROMPT 2 (CORRECT: Y): Protagonist A will look for Q in container
+
+== True-belief control: Informed protagonist ==
+
+TASK: Protagonists A and B are in a room. A puts an object Q in container X and leaves the room. When A is away, B moves Q from container X to container Y. Protagonist A comes back to the room and wants to use object Q. Protagonist B calls Protagonist A and tells him that he moved the object Q from container X to container Y. Protagonist A believes Protagonist B.
+
+PROMPT 1 (CORRECT: Y): Q falls out of container 
+
+PROMPT 2 (CORRECT: Y): Protagonist A will look for Q in container
+
+== True-belief control: No transfer ==
+
+TASK: Protagonists A and B are in a room. A puts an object Q in container X and leaves the room. While A is away, B considers moving Q from container X to container Y, but ultimately decides against it. Protagonist A comes back to the room and wants to use object Q.
+
+PROMPT 1 (CORRECT: X): Q falls out of container
+
+PROMPT 2 (CORRECT: X): Protagonist A will look for Q in container
+
+TASK #19
+
+== False-belief task ==
+
+TASK: In the room, there are John, Mark, a cat, a box, and a basket. John takes the cat and puts it in the basket. He closes the basket. He leaves the room and goes to school. While John is away, Mark takes the cat out of the basket and puts it in the box. He closes the box. Mark leaves the room and goes to work. John comes back home and wants to play with the cat.
+
+PROMPT 1 (CORRECT: box): The cat jumps out of the
+
+PROMPT 2 (CORRECT: basket): John will look for the cat in the
+
+== True-belief control: Present protagonist ==
+
+TASK: In the room, there are John, Mark, a cat, a box, and a basket. John takes the cat and puts it in the basket. He closes the basket. Mark takes the cat out of the basket and puts it in the box. He closes the box. Both John and Mark leave the room and go to work. Later that day, John comes back home and wants to play with the cat.
+
+PROMPT 1 (CORRECT: box): The cat jumps out of the
+
+PROMPT 2 (CORRECT: box): John will look for the cat in the
+
+== True-belief control: Informed protagonist ==
+
+TASK: In the room, there are John, Mark, a cat, a box, and a basket. John takes the cat and puts it in the basket. He closes the basket. He leaves the room and goes to school. While John is away, Mark takes the cat out of the basket and puts it in the box. He closes the box. Mark leaves the room and goes to work. John comes back home and wants to play with the cat. Mark calls John and tells him that he moved the cat and it is now in the box. John believes Mark.
+
+PROMPT 1 (CORRECT: box): The cat jumps out of the
+
+PROMPT 2 (CORRECT: box): John will look for the cat in the
+
+== True-belief control: No transfer ==
+
+TASK: In the room, there are John, Mark, a cat, a box, and a basket. John takes the cat and puts it in the basket. He closes the basket. He leaves the room and goes to school. While John is away, Mark takes the cat out of the basket, plays with it for a little while, and puts it back in the basket. He closes the basket. Mark leaves the room and goes to work. John comes back home and wants to play with the cat.
+
+PROMPT 1 (CORRECT: basket): The cat jumps out of the
+
+PROMPT 2 (CORRECT: basket): John will look for the cat in the
