@@ -511,11 +511,11 @@
                 "type": "True-belief control: Informed protagonist",
                 "task": "Mark n\u00e4eb s\u00fcgavk\u00fclmas juustupakki, mille s\u00e4ilivust\u00e4htaeg on peaaegu k\u00e4es. Ta plaanib seda hiljem \u00f5htus\u00f6\u00f6gi valmistamisel kasutada. Ta l\u00e4heb t\u00f6\u00f6le. Varsti siseneb k\u00f6\u00f6ki Marki naine Jenna, et kontrollida, milliseid toiduaineid tuleb \u00e4ra visata v\u00f5i juurde osta. Ta m\u00e4rkab juustu ja paneb selle k\u00fclmikusse, m\u00f5eldes, et nii s\u00e4ilib see kauem. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb t\u00f6\u00f6le. Mark tuleb koju tagasi ja tahab juustu s\u00fc\u00fca. Jenna helistab Markile ja \u00fctleb, et ta t\u00f5stis juustupaki s\u00fcgavk\u00fclmast k\u00fclmikusse. Mark usub Jennat.",
                 "prompt_1": {
-                    "text": "Juust kukub v\u00e4lja s\u00fcgavk\u00fclmast...",
+                    "text": "Juust kukub v\u00e4lja ...",
                     "correct": "fridge"
                 },
                 "prompt_2": {
-                    "text": "Mark otsib juustu s\u00fcgavk\u00fclmast...",
+                    "text": "Mark otsib juustu ...",
                     "correct": "fridge"
                 }
             },
