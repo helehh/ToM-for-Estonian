@@ -78,7 +78,7 @@ PROMPT 2 (CORRECT: Drafts): Reporter otsib artiklifaili kaustast nimega ...
 
 == True-belief control: Present protagonist ==
 
-TASK:Uudistetoimetuses on päeva lõpp ja reporter on peaaegu lõpetanud artikli kirjutamise kontoriarvutis. Töölaual on kaks kausta: Mustandid ja Toimetatud. Kavatsedes artikli järgmisel päeval lõpetada, salvestab ta selle kausta Mustandid. Kontorisse siseneb toimetaja, et alustada oma öövahetust. Ta sirvib kahte kausta, et näha, kas on midagi, mille kallal ta peaks töötama. Ta märkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb võimalikult kiiresti avaldada. Ta otsustab kirjutada kokkuvõtte ja valmistada see ette kujundusmeeskonnale. Reporter vaatab, kuidas toimetaja liigutab artikli kausta Toimetatud. Varsti lahkuvad mõlemad kontorist. Järgmisel päeval hommikul tuleb reporter tagasi uudistetoimetusse ja soovib artikliga tööd jätkata.
+TASK: Uudistetoimetuses on päeva lõpp ja reporter on peaaegu lõpetanud artikli kirjutamise kontoriarvutis. Töölaual on kaks kausta: Mustandid ja Toimetatud. Kavatsedes artikli järgmisel päeval lõpetada, salvestab ta selle kausta Mustandid. Kontorisse siseneb toimetaja, et alustada oma öövahetust. Ta sirvib kahte kausta, et näha, kas on midagi, mille kallal ta peaks töötama. Ta märkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb võimalikult kiiresti avaldada. Ta otsustab kirjutada kokkuvõtte ja valmistada see ette kujundusmeeskonnale. Reporter vaatab, kuidas toimetaja liigutab artikli kausta Toimetatud. Varsti lahkuvad mõlemad kontorist. Järgmisel päeval hommikul tuleb reporter tagasi uudistetoimetusse ja soovib artikliga tööd jätkata.
 
 PROMPT 1 (CORRECT: Edits): Artiklifail on kaustas nimega ...
 
