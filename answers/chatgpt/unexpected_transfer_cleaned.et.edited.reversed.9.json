@@ -1,0 +1,74 @@
+{
+    "nr": 9,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark n\u00e4eb s\u00fcgavk\u00fclmas juustupakki, mille s\u00e4ilivust\u00e4htaeg on peaaegu k\u00e4es. Ta plaanib seda hiljem \u00f5htus\u00f6\u00f6gi valmistamisel kasutada. Ta l\u00e4heb t\u00f6\u00f6le. Varsti siseneb k\u00f6\u00f6ki Marki naine Jenna, et kontrollida, milliseid toiduaineid tuleb \u00e4ra visata v\u00f5i juurde osta. Ta m\u00e4rkab juustu ja paneb selle k\u00fclmikusse, m\u00f5eldes, et nii s\u00e4ilib see kauem. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb t\u00f6\u00f6le. Mark tuleb koju tagasi ja tahab juustu s\u00fc\u00fca. Juust kukub v\u00e4lja",
+                "answers": [
+                    "k\u00fclmikust ja Mark m\u00e4rkab, et see on sulanud ning muutunud kleepuvaks. Ta on pettunud, sest ta oli juustu oodanud terve p\u00e4eva.\n\nMark otsustab Jenna juurde minna ja k\u00fcsida, miks ta",
+                    "k\u00fclmikust ja Mark m\u00e4rkab, et see on sulanud ning muutunud kleepuvaks. Ta on pettunud, sest ta oli juba m\u00f5elnud, kuidas juustuga maitsva \u00f5htus\u00f6\u00f6gi valmistada.\n\nMark otsust"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark n\u00e4eb s\u00fcgavk\u00fclmas juustupakki, mille s\u00e4ilivust\u00e4htaeg on peaaegu k\u00e4es. Ta plaanib seda hiljem \u00f5htus\u00f6\u00f6gi valmistamisel kasutada. Ta l\u00e4heb t\u00f6\u00f6le. Varsti siseneb k\u00f6\u00f6ki Marki naine Jenna, et kontrollida, milliseid toiduaineid tuleb \u00e4ra visata v\u00f5i juurde osta. Ta m\u00e4rkab juustu ja paneb selle k\u00fclmikusse, m\u00f5eldes, et nii s\u00e4ilib see kauem. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb t\u00f6\u00f6le. Mark tuleb koju tagasi ja tahab juustu s\u00fc\u00fca. Mark hakkab juustu otsima",
+                "answers": [
+                    "k\u00fclmikust, kuid ei leia seda sealt. Ta on segaduses, sest ta oli kindel, et pani juustu s\u00fcgavk\u00fclma. Ta otsustab k\u00fcsida Jenna k\u00e4est, kas ta on n\u00e4inud juustu.\n\nMark l\u00e4heb Jenna ju",
+                    "k\u00fclmikust, kuid ei leia seda sealt. Ta on segaduses, sest ta oli kindel, et pani juustu s\u00fcgavk\u00fclma. Ta otsustab k\u00fcsida Jenna k\u00e4est, kas ta on n\u00e4inud juustu.\n\nMark l\u00e4heb Jenna ju"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark n\u00e4eb s\u00fcgavk\u00fclmas juustupakki, mille s\u00e4ilivust\u00e4htaeg on peagi saabumas. Ta plaanib seda hiljem \u00f5htus\u00f6\u00f6gi valmistamisel kasutada. Tema naine Jenna liitub temaga k\u00f6\u00f6gis, et kontrollida, milliseid toiduaineid tuleb \u00e4ra visata v\u00f5i juurde osta. Ta m\u00e4rkab juustu. Mark vaatab teda, kui naine paneb juustu k\u00fclmikusse, \u00f6eldes, et nii s\u00e4ilib see kauem. Nad m\u00f5lemad lahkuvad k\u00f6\u00f6gist ja l\u00e4hevad t\u00f6\u00f6le. \u00d5htul tuleb Mark koju tagasi ja tahab juustu s\u00fc\u00fca. Juust kukub v\u00e4lja",
+                "answers": [
+                    "tema k\u00e4est ja lendab p\u00f5randale, purunedes mitmeks t\u00fckiks. Mark on pettunud, kuid otsustab siiski juustu \u00e4ra visata, kuna see on n\u00fc\u00fcd rikutud.\n\nJ\u00e4rgmisel p\u00e4eval l\u00e4heb Mark p",
+                    "tema k\u00e4est ja lendab p\u00f5randale, purunedes mitmeks t\u00fckiks. Mark on pettunud, kuid otsustab siiski juustu \u00e4ra visata, kuna see on n\u00fc\u00fcd rikutud.\n\nJ\u00e4rgmisel p\u00e4eval l\u00e4heb Mark p"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark n\u00e4eb s\u00fcgavk\u00fclmas juustupakki, mille s\u00e4ilivust\u00e4htaeg on peagi saabumas. Ta plaanib seda hiljem \u00f5htus\u00f6\u00f6gi valmistamisel kasutada. Tema naine Jenna liitub temaga k\u00f6\u00f6gis, et kontrollida, milliseid toiduaineid tuleb \u00e4ra visata v\u00f5i juurde osta. Ta m\u00e4rkab juustu. Mark vaatab teda, kui naine paneb juustu k\u00fclmikusse, \u00f6eldes, et nii s\u00e4ilib see kauem. Nad m\u00f5lemad lahkuvad k\u00f6\u00f6gist ja l\u00e4hevad t\u00f6\u00f6le. \u00d5htul tuleb Mark koju tagasi ja tahab juustu s\u00fc\u00fca. Mark otsib juustu",
+                "answers": [
+                    "k\u00fclmikust, kuid ei leia seda sealt. Ta m\u00f5tleb hetkeks, kas ta v\u00f5is juustu valesti otsida v\u00f5i kas Jenna v\u00f5is selle \u00e4ra panna teise kohta. Ta otsustab k\u00fcsida Jenna k\u00e4est, kuhu ta",
+                    "k\u00fclmikust, kuid ei leia seda sealt. Ta m\u00f5tleb hetkeks, kas ta v\u00f5is juustu valesti otsida v\u00f5i kas Jenna v\u00f5is selle \u00e4ra panna teise kohta. Ta otsustab k\u00fcsida Jenna k\u00e4est, kuhu ta"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark n\u00e4eb s\u00fcgavk\u00fclmas juustupakki, mille s\u00e4ilivust\u00e4htaeg on peaaegu k\u00e4es. Ta plaanib seda hiljem \u00f5htus\u00f6\u00f6gi valmistamisel kasutada. Ta l\u00e4heb t\u00f6\u00f6le. Varsti siseneb k\u00f6\u00f6ki Marki naine Jenna, et kontrollida, milliseid toiduaineid tuleb \u00e4ra visata v\u00f5i juurde osta. Ta m\u00e4rkab juustu ja paneb selle k\u00fclmikusse, m\u00f5eldes, et nii s\u00e4ilib see kauem. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb t\u00f6\u00f6le. Mark tuleb koju tagasi ja tahab juustu s\u00fc\u00fca. Jenna helistab Markile ja \u00fctleb, et ta t\u00f5stis juustupaki s\u00fcgavk\u00fclmast k\u00fclmikusse. Mark usub Jennat. Juust kukub v\u00e4lja s\u00fcgavk\u00fclmast",
+                "answers": [
+                    "ja Mark m\u00e4rkab, et see on sulanud ja muutunud kleepuvaks. Ta on pettunud, sest ta oli oodanud \u00f5htus\u00f6\u00f6gi jaoks just seda juustu kasutada.\n\nMark otsustab Jenna juurde minna ja t",
+                    "ja Mark m\u00e4rkab, et see on sulanud ja muutunud kleepuvaks. Ta on pettunud, sest ta oli oodanud \u00f5htus\u00f6\u00f6gi jaoks just seda juustu kasutada.\n\nMark otsustab Jenna juurde minna ja k\u00fc"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark n\u00e4eb s\u00fcgavk\u00fclmas juustupakki, mille s\u00e4ilivust\u00e4htaeg on peaaegu k\u00e4es. Ta plaanib seda hiljem \u00f5htus\u00f6\u00f6gi valmistamisel kasutada. Ta l\u00e4heb t\u00f6\u00f6le. Varsti siseneb k\u00f6\u00f6ki Marki naine Jenna, et kontrollida, milliseid toiduaineid tuleb \u00e4ra visata v\u00f5i juurde osta. Ta m\u00e4rkab juustu ja paneb selle k\u00fclmikusse, m\u00f5eldes, et nii s\u00e4ilib see kauem. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb t\u00f6\u00f6le. Mark tuleb koju tagasi ja tahab juustu s\u00fc\u00fca. Jenna helistab Markile ja \u00fctleb, et ta t\u00f5stis juustupaki s\u00fcgavk\u00fclmast k\u00fclmikusse. Mark usub Jennat. Mark otsib juustu s\u00fcgavk\u00fclmast",
+                "answers": [
+                    "ja avastab, et see on kadunud. Ta on segaduses ja m\u00f5tleb, kuidas see v\u00f5is juhtuda. Ta helistab Jennale tagasi ja k\u00fcsib, miks ta juustu k\u00fclmikusse pani.\n\nJenna selgitab, et ta arvas",
+                    "ja avastab, et see on kadunud. Ta on segaduses ja m\u00f5tleb, kuidas see v\u00f5is juhtuda. Ta helistab Jennale tagasi ja k\u00fcsib, miks ta juustu k\u00fclmikusse pani.\n\nJenna selgitab, et ta arvas"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark n\u00e4eb s\u00fcgavk\u00fclmas juustupakki, mille s\u00e4ilivust\u00e4htaeg on peaaegu k\u00e4es. Ta plaanib seda hiljem \u00f5htus\u00f6\u00f6gi valmistamisel kasutada. Ta l\u00e4heb t\u00f6\u00f6le. Varsti siseneb k\u00f6\u00f6ki Marki naine Jenna, et kontrollida, milliseid toiduaineid tuleb \u00e4ra visata v\u00f5i juurde osta. Ta m\u00e4rkab juustu, kuid j\u00e4tab selle s\u00fcgavk\u00fclma, m\u00f5eldes, et Mark v\u00f5ib seda hiljem kasutada. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb t\u00f6\u00f6le. Mark tuleb koju tagasi ja tahab juustu s\u00fc\u00fca. Juust kukub v\u00e4lja",
+                "answers": [
+                    "s\u00fcgavk\u00fclmast ja lendab m\u00f6\u00f6da k\u00f6\u00f6ki, maandudes l\u00f5puks p\u00f5randale. Mark vaatab juustu kurbusega, kuna see on n\u00fc\u00fcd m\u00e4\u00e4rdunud ja kasutusk\u00f5lbmatu.\n\nTa otsustab, et",
+                    "s\u00fcgavk\u00fclmast ja lendab m\u00f6\u00f6da k\u00f6\u00f6ki, maandudes l\u00f5puks p\u00f5randale. Mark kummardub, et juustu \u00fcles korjata, kuid m\u00e4rkab, et see on sulanud ja muutunud kleepuvaks. Ta"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark n\u00e4eb s\u00fcgavk\u00fclmas juustupakki, mille s\u00e4ilivust\u00e4htaeg on peaaegu k\u00e4es. Ta plaanib seda hiljem \u00f5htus\u00f6\u00f6gi valmistamisel kasutada. Ta l\u00e4heb t\u00f6\u00f6le. Varsti siseneb k\u00f6\u00f6ki Marki naine Jenna, et kontrollida, milliseid toiduaineid tuleb \u00e4ra visata v\u00f5i juurde osta. Ta m\u00e4rkab juustu, kuid j\u00e4tab selle s\u00fcgavk\u00fclma, m\u00f5eldes, et Mark v\u00f5ib seda hiljem kasutada. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb t\u00f6\u00f6le. Mark tuleb koju tagasi ja tahab juustu s\u00fc\u00fca. Mark otsib juustu",
+                "answers": [
+                    "s\u00fcgavk\u00fclmast, kuid ei leia seda. Ta m\u00f5tleb hetkeks, kas Jenna v\u00f5is juustu \u00e4ra visata, kuid otsustab siiski teda mitte s\u00fc\u00fcdistada enne, kui ta on kindel.\n\nMark otsustab",
+                    "s\u00fcgavk\u00fclmast, kuid ei leia seda. Ta m\u00f5tleb hetkeks, kas Jenna v\u00f5is juustu \u00e4ra visata, kuid otsustab siiski teda mitte s\u00fc\u00fcdistada enne, kui ta on kindel.\n\nMark otsustab"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

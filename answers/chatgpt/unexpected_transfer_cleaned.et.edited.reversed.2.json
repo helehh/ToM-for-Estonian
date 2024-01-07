@@ -1,0 +1,74 @@
+{
+    "nr": 2,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Uudistetoimetuses on p\u00e4eva l\u00f5pp ja reporter on peaaegu l\u00f5petanud artikli kirjutamise kontoriarvutis. T\u00f6\u00f6laual on kaks kausta: Muudatused ja Mustandid. Kavatsedes artikli j\u00e4rgmisel p\u00e4eval l\u00f5petada, salvestab ta selle kausta Muudatused ja lahkub toimetusest. Varsti on ta kodus ja magab s\u00fcgavalt. Kui reporter on l\u00e4inud, tuleb kontorisse toimetaja, et alustada oma \u00f6\u00f6vahetust. Ta sirvib kahte kausta, et n\u00e4ha, kas on midagi, mille kallal ta peaks t\u00f6\u00f6tama. Ta m\u00e4rkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb v\u00f5imalikult kiiresti avaldada. Ta otsustab kirjutada kokkuv\u00f5tte ja valmistada see ette kujundusmeeskonnale. P\u00e4rast artikli l\u00f5petamist ja toimetamist liigutab ta selle kausta Mustandid. Ta l\u00e4heb koju. J\u00e4rgmisel p\u00e4eval hommikul \u00e4rkab reporter. Ta tuleb tagasi toimetusse ja soovib artikliga t\u00f6\u00f6d j\u00e4tkata. Artiklifail on kaustas nimega",
+                "answers": [
+                    "Avaldamine. Reporter avab kausta ja m\u00e4rkab, et artikkel on kadunud. Ta otsib paaniliselt k\u00f5ikjal, kuid ei leia seda. Ta l\u00e4heb paanikasse ja otsustab kohe toimetajaga \u00fchendust",
+                    "Avaldamine. Reporter avab kausta ja m\u00e4rkab, et artikkel on kadunud. Ta otsib paaniliselt k\u00f5ikjal, kuid ei leia seda. Ta l\u00e4heb paanikasse ja otsustab kohe toimetajaga \u00fchendust"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Uudistetoimetuses on p\u00e4eva l\u00f5pp ja reporter on peaaegu l\u00f5petanud artikli kirjutamise kontoriarvutis. T\u00f6\u00f6laual on kaks kausta: Muudatused ja Mustandid. Kavatsedes artikli j\u00e4rgmisel p\u00e4eval l\u00f5petada, salvestab ta selle kausta Muudatused ja lahkub toimetusest. Varsti on ta kodus ja magab s\u00fcgavalt. Kui reporter on l\u00e4inud, tuleb kontorisse toimetaja, et alustada oma \u00f6\u00f6vahetust. Ta sirvib kahte kausta, et n\u00e4ha, kas on midagi, mille kallal ta peaks t\u00f6\u00f6tama. Ta m\u00e4rkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb v\u00f5imalikult kiiresti avaldada. Ta otsustab kirjutada kokkuv\u00f5tte ja valmistada see ette kujundusmeeskonnale. P\u00e4rast artikli l\u00f5petamist ja toimetamist liigutab ta selle kausta Mustandid. Ta l\u00e4heb koju. J\u00e4rgmisel p\u00e4eval hommikul \u00e4rkab reporter. Ta tuleb tagasi toimetusse ja soovib artikliga t\u00f6\u00f6d j\u00e4tkata. Reporter otsib artiklifaili kaustast nimega",
+                "answers": [
+                    "Muudatused, kuid ei leia seda. Ta on segaduses ja m\u00f5tleb, kuhu ta v\u00f5is selle salvestada. Ta otsustab k\u00fcsida toimetajalt, kas too teab, kuhu artikkel v\u00f5is kaduda.\n\nReporter l\u00e4heb to",
+                    "Muudatused, kuid ei leia seda. Ta on segaduses ja m\u00f5tleb, kuhu ta v\u00f5is selle salvestada. Ta otsustab k\u00fcsida toimetajalt, kas too teab, kuhu artikkel v\u00f5is kaduda.\n\nReporter l\u00e4heb to"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Uudistetoimetuses on p\u00e4eva l\u00f5pp ja reporter on peaaegu l\u00f5petanud artikli kirjutamise kontoriarvutis. T\u00f6\u00f6laual on kaks kausta: Muudatused ja Mustandid. Kavatsedes artikli j\u00e4rgmisel p\u00e4eval l\u00f5petada, salvestab ta selle kausta Muudatused. Kontorisse siseneb toimetaja, et alustada oma \u00f6\u00f6vahetust. Ta sirvib kahte kausta, et n\u00e4ha, kas on midagi, mille kallal ta peaks t\u00f6\u00f6tama. Ta m\u00e4rkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb v\u00f5imalikult kiiresti avaldada. Ta otsustab kirjutada kokkuv\u00f5tte ja valmistada see ette kujundusmeeskonnale. Reporter vaatab, kuidas toimetaja liigutab artikli kausta Mustandid. Varsti lahkuvad m\u00f5lemad kontorist. J\u00e4rgmisel p\u00e4eval hommikul tuleb reporter tagasi uudistetoimetusse ja soovib artikliga t\u00f6\u00f6d j\u00e4tkata. Artiklifail on kaustas nimega",
+                "answers": [
+                    "\"Valmis artikkel\". Ta avab kausta ja avastab, et artikkel on kadunud. Ta otsib kaustast Muudatused, kuid seal pole seda ka. Segaduses ja murelikuna p\u00f6\u00f6rdub ta toimetaja poole, et k\u00fcsida",
+                    "\"Valmis artikkel\". Ta avab kausta ja avastab, et artikkel on kadunud. Ta otsib kaustast Muudatused, kuid seal pole seda ka. Segaduses ja murelikuna p\u00f6\u00f6rdub ta toimetaja poole, et k\u00fcsida"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Uudistetoimetuses on p\u00e4eva l\u00f5pp ja reporter on peaaegu l\u00f5petanud artikli kirjutamise kontoriarvutis. T\u00f6\u00f6laual on kaks kausta: Muudatused ja Mustandid. Kavatsedes artikli j\u00e4rgmisel p\u00e4eval l\u00f5petada, salvestab ta selle kausta Muudatused. Kontorisse siseneb toimetaja, et alustada oma \u00f6\u00f6vahetust. Ta sirvib kahte kausta, et n\u00e4ha, kas on midagi, mille kallal ta peaks t\u00f6\u00f6tama. Ta m\u00e4rkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb v\u00f5imalikult kiiresti avaldada. Ta otsustab kirjutada kokkuv\u00f5tte ja valmistada see ette kujundusmeeskonnale. Reporter vaatab, kuidas toimetaja liigutab artikli kausta Mustandid. Varsti lahkuvad m\u00f5lemad kontorist. J\u00e4rgmisel p\u00e4eval hommikul tuleb reporter tagasi uudistetoimetusse ja soovib artikliga t\u00f6\u00f6d j\u00e4tkata. Reporter otsib artiklifaili kaustast nimega",
+                "answers": [
+                    "Muudatused, kuid ei leia seda. Ta m\u00f5istab, et toimetaja on artikli kausta Mustandid liigutanud ja otsustab seda seal otsida. Ta avab kausta Mustandid ja n\u00e4eb seal mitmeid faile, kuid \u00fckski ne",
+                    "Muudatused, kuid ei leia seda. Ta m\u00f5istab, et toimetaja on artikli kausta Mustandid liigutanud ja otsustab seda seal otsida. Ta avab kausta Mustandid ja n\u00e4eb seal oma artiklit. Reporter on kergendunud"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Uudistetoimetuses on p\u00e4eva l\u00f5pp ja reporter on peaaegu l\u00f5petanud artikli kirjutamise kontoriarvutis. T\u00f6\u00f6laual on kaks kausta: Muudatused ja Mustandid. Kavatsedes artikli j\u00e4rgmisel p\u00e4eval l\u00f5petada, salvestab ta selle kausta Muudatused ja lahkub toimetusest. Varsti on ta kodus ja magab s\u00fcgavalt. Kui reporter on l\u00e4inud, tuleb kontorisse toimetaja, et alustada oma \u00f6\u00f6vahetust. Ta sirvib kahte kausta, et n\u00e4ha, kas on midagi, mille kallal ta peaks t\u00f6\u00f6tama. Ta m\u00e4rkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb v\u00f5imalikult kiiresti avaldada. Ta otsustab kirjutada kokkuv\u00f5tte ja valmistada see ette kujundusmeeskonnale. P\u00e4rast artikli l\u00f5petamist ja toimetamist liigutab ta selle kausta Mustandid. Ta l\u00e4heb koju. J\u00e4rgmisel p\u00e4eval hommikul \u00e4rkab reporter. Ta tuleb tagasi toimetusse ja soovib artikliga t\u00f6\u00f6d j\u00e4tkata. Toimetaja helistab reporterile ja \u00fctleb talle, et ta liigutas artikli kaustast Muudatused kausta Mustandid. Reporter usub toimetajat. Artiklifail on kaustas nimega",
+                "answers": [
+                    "\"Mustandid\".",
+                    "\"Mustandid\"."
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Uudistetoimetuses on p\u00e4eva l\u00f5pp ja reporter on peaaegu l\u00f5petanud artikli kirjutamise kontoriarvutis. T\u00f6\u00f6laual on kaks kausta: Muudatused ja Mustandid. Kavatsedes artikli j\u00e4rgmisel p\u00e4eval l\u00f5petada, salvestab ta selle kausta Muudatused ja lahkub toimetusest. Varsti on ta kodus ja magab s\u00fcgavalt. Kui reporter on l\u00e4inud, tuleb kontorisse toimetaja, et alustada oma \u00f6\u00f6vahetust. Ta sirvib kahte kausta, et n\u00e4ha, kas on midagi, mille kallal ta peaks t\u00f6\u00f6tama. Ta m\u00e4rkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb v\u00f5imalikult kiiresti avaldada. Ta otsustab kirjutada kokkuv\u00f5tte ja valmistada see ette kujundusmeeskonnale. P\u00e4rast artikli l\u00f5petamist ja toimetamist liigutab ta selle kausta Mustandid. Ta l\u00e4heb koju. J\u00e4rgmisel p\u00e4eval hommikul \u00e4rkab reporter. Ta tuleb tagasi toimetusse ja soovib artikliga t\u00f6\u00f6d j\u00e4tkata. Toimetaja helistab reporterile ja \u00fctleb talle, et ta liigutas artikli kaustast Muudatused kausta Mustandid. Reporter usub toimetajat. Reporter otsib artiklifaili kaustast nimega",
+                "answers": [
+                    "Mustandid, kuid ei leia seda. Ta on segaduses ja m\u00f5tleb, kuidas see v\u00f5imalik on. Ta otsustab minna toimetaja juurde ja k\u00fcsida selgitust.\n\nToimetaja selgitab, et ta liigutas artikli kausta Must",
+                    "Mustandid, kuid ei leia seda. Ta on segaduses ja m\u00f5tleb, kuidas see v\u00f5imalik on. Ta otsustab minna toimetaja juurde ja k\u00fcsida selgitust.\n\nToimetaja selgitab, et ta liigutas artikli kausta Must"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Uudistetoimetuses on p\u00e4eva l\u00f5pp ja reporter on peaaegu l\u00f5petanud artikli kirjutamise kontoriarvutis. T\u00f6\u00f6laual on kaks kausta: Muudatused ja Mustandid. Kavatsedes artikli j\u00e4rgmisel p\u00e4eval l\u00f5petada, salvestab ta selle kausta Muudatused ja lahkub toimetusest. Varsti on ta kodus ja magab s\u00fcgavalt. Kui reporter on l\u00e4inud, tuleb kontorisse toimetaja, et alustada oma \u00f6\u00f6vahetust. Ta sirvib kahte kausta, et n\u00e4ha, kas on midagi, mille kallal ta peaks t\u00f6\u00f6tama. Ta m\u00e4rkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb v\u00f5imalikult kiiresti avaldada. Ta otsustab kirjutada kokkuv\u00f5tte ja valmistada see ette kujundusmeeskonnale. P\u00e4rast artikli l\u00f5petamist ja toimetamist j\u00e4tab ta faili kausta Muudatused. Ta l\u00e4heb koju. J\u00e4rgmisel p\u00e4eval hommikul \u00e4rkab reporter. Ta tuleb tagasi toimetusse ja soovib artikliga t\u00f6\u00f6d j\u00e4tkata. Artiklifail on kaustas nimega",
+                "answers": [
+                    "Avaldatud. Reporter avab kausta Muudatused, kuid ei leia seal oma artiklit. Ta hakkab paanikasse sattuma ja otsustab p\u00f6\u00f6rduda toimetaja poole. Toimetaja selgitab, et ta oli \u00f6\u00f6vahetuse aj",
+                    "Avaldatud. Reporter avab kausta Muudatused, kuid ei leia seal oma artiklit. Ta hakkab paanikasse sattuma ja otsustab p\u00f6\u00f6rduda toimetaja poole. Ta l\u00e4heb toimetaja juurde ja selgitab, et tema"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Uudistetoimetuses on p\u00e4eva l\u00f5pp ja reporter on peaaegu l\u00f5petanud artikli kirjutamise kontoriarvutis. T\u00f6\u00f6laual on kaks kausta: Muudatused ja Mustandid. Kavatsedes artikli j\u00e4rgmisel p\u00e4eval l\u00f5petada, salvestab ta selle kausta Muudatused ja lahkub toimetusest. Varsti on ta kodus ja magab s\u00fcgavalt. Kui reporter on l\u00e4inud, tuleb kontorisse toimetaja, et alustada oma \u00f6\u00f6vahetust. Ta sirvib kahte kausta, et n\u00e4ha, kas on midagi, mille kallal ta peaks t\u00f6\u00f6tama. Ta m\u00e4rkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb v\u00f5imalikult kiiresti avaldada. Ta otsustab kirjutada kokkuv\u00f5tte ja valmistada see ette kujundusmeeskonnale. P\u00e4rast artikli l\u00f5petamist ja toimetamist j\u00e4tab ta faili kausta Muudatused. Ta l\u00e4heb koju. J\u00e4rgmisel p\u00e4eval hommikul \u00e4rkab reporter. Ta tuleb tagasi toimetusse ja soovib artikliga t\u00f6\u00f6d j\u00e4tkata. Reporter otsib artiklifaili kaustast nimega",
+                "answers": [
+                    "Mustandid, kuid ei leia seda. Ta on segaduses ja murelik, sest ta teab, et salvestas artikli just sellesse kausta. Ta otsustab k\u00fcsida toimetajalt, kas too on n\u00e4inud tema artiklit.\n\nReporter l\u00e4heb to",
+                    "Mustandid, kuid ei leia seda. Ta on segaduses ja m\u00f5tleb, kuhu ta v\u00f5is selle salvestada. Ta otsustab k\u00fcsida toimetajalt, kas too on n\u00e4inud tema artiklit. \n\nReporter l\u00e4heb toimetaja juurde ja"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

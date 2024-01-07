@@ -1,0 +1,74 @@
+{
+    "nr": 5,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Monica and Floriane are in a room. Monica puts a toy in a box. She closes the box. Monica leaves the room and goes outside to play with other children. When Monica is gone, Floriane removes the toy from the box and puts it in a basket. She closes the basket and leaves for school. Monica comes back to the room and wants to play with the toy. The toy falls out of the",
+                "answers": [
+                    "basket as Monica picks it up. Monica looks confused and wonders how the toy ended up in the basket instead of the box. She starts to search the room, thinking she might have misplaced it. As she looks around, she notices the box and realizes that it has been opened.\n\nCuriosity piqued, Monica wonders who could have taken the toy",
+                    "basket as Monica picks it up. Monica looks confused and wonders how the toy ended up in the basket instead of the box. She starts to search the room, thinking she might have misplaced it. As she looks around, she notices the box and realizes that it has been opened.\n\nCuriosity piqued, Monica wonders who could have taken the toy"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Monica and Floriane are in a room. Monica puts a toy in a box. She closes the box. Monica leaves the room and goes outside to play with other children. When Monica is gone, Floriane removes the toy from the box and puts it in a basket. She closes the basket and leaves for school. Monica comes back to the room and wants to play with the toy. Monica will look for the toy in the",
+                "answers": [
+                    "box where she originally left it. She opens the box and is surprised to find it empty. Confused, Monica starts searching the room, hoping to find the toy somewhere else. She checks under the bed, behind the curtains, and even in the closet, but the toy is nowhere to be found.\n\nMonica starts to feel a little disappointed.",
+                    "box where she originally left it. She opens the box and is surprised to find it empty. Confused, Monica starts searching the room, hoping to find the toy somewhere else. She checks under the bed, behind the curtains, and even in the closet, but the toy is nowhere to be found.\n\nMonica starts to feel a little disappointed."
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Monica and Floriane are in a room. Monica puts a toy in a box. She closes the box. Monica watches Floriane as she removes the toy from the box, puts it in a basket, and closes the basket. Both girls leave the room and go outside to play with other children. Monica comes back to the room and wants to play with the toy. The toy falls out of the",
+                "answers": [
+                    "basket as Monica picks it up. She looks puzzled and wonders how the toy ended up in the basket instead of the box where she had left it. Monica decides to go find Floriane and ask her about it.\n\nMonica spots Floriane playing with the other children and approaches her. \"Hey, Floriane,\" Monica says, \"do you remember",
+                    "basket as Monica picks it up. She looks puzzled and wonders how the toy ended up in the basket instead of the box where she had left it. Monica decides to go find Floriane and ask her about it.\n\nMonica spots Floriane playing with the other children and approaches her. \"Hey, Floriane,\" Monica says, \"do you remember"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Monica and Floriane are in a room. Monica puts a toy in a box. She closes the box. Monica watches Floriane as she removes the toy from the box, puts it in a basket, and closes the basket. Both girls leave the room and go outside to play with other children. Monica comes back to the room and wants to play with the toy. Monica will look for the toy in the",
+                "answers": [
+                    "basket. She remembers seeing Floriane put it there before they left the room. Monica walks over to the basket and opens it, expecting to find the toy inside. However, to her surprise, the toy is not there.\n\nConfused, Monica starts searching the room, checking under the bed, behind the curtains, and even inside the closet. But",
+                    "basket. She remembers seeing Floriane put it there before they left the room. Monica walks over to the basket and opens it, expecting to find the toy inside. However, to her surprise, the toy is not there.\n\nConfused, Monica starts searching the room, checking under the bed, behind the curtains, and even inside the closet. But"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Monica and Floriane are in a room. Monica puts a toy in a box. She closes the box. Monica leaves the room and goes outside to play with other children. When Monica is gone, Floriane removes the toy from the box and puts it in a basket. She closes the basket and leaves for school. Monica comes back to the room and wants to play with the toy. Monica calls Floriane and tells her that she moved the toy from the box to the basket. Floriane believes Monica. The toy falls out of the",
+                "answers": [
+                    "basket as Floriane is walking to school. Floriane doesn't notice and continues on her way. Meanwhile, Monica is eagerly waiting for Floriane to bring the toy back. She keeps calling Floriane, but there is no response.\n\nFeeling disappointed, Monica decides to search for the toy herself. She starts by looking around the room, hoping that",
+                    "basket as Floriane is walking to school. Floriane doesn't notice and continues on her way. Meanwhile, Monica is eagerly waiting for Floriane to bring the toy back to the room.\n\nAs Monica waits, she starts to wonder why Floriane is taking so long. She decides to go outside and look for her friend. Monica searches the playground and"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Monica and Floriane are in a room. Monica puts a toy in a box. She closes the box. Monica leaves the room and goes outside to play with other children. When Monica is gone, Floriane removes the toy from the box and puts it in a basket. She closes the basket and leaves for school. Monica comes back to the room and wants to play with the toy. Monica calls Floriane and tells her that she moved the toy from the box to the basket. Floriane believes Monica. Monica will look for the toy in the",
+                "answers": [
+                    "basket. She carefully searches through the basket, hoping to find her beloved toy. However, to her surprise, the toy is nowhere to be found. Monica starts to feel confused and frustrated.\n\nShe decides to call Floriane again to ask where the toy could possibly be. Floriane, who is now at school, answers the call and assures Monica that",
+                    "basket. She carefully searches through the basket, hoping to find her beloved toy. However, to her surprise, the toy is nowhere to be found. Monica starts to feel confused and frustrated.\n\nShe decides to call Floriane again to ask where the toy could possibly be. Floriane, who is now at school, answers the call and assures Monica that"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Monica and Floriane are in a room. Monica puts a toy in a box. She closes the box. Monica leaves the room and goes outside to play with other children. When Monica is gone, Floriane looks at the toy in the box but leaves it there. She closes the box and leaves for school. Monica comes back to the room and wants to play with the toy. The toy falls out of the",
+                "answers": [
+                    "box as Monica opens it. Monica looks surprised and disappointed. She picks up the toy and examines it, noticing a small scratch on its surface. She sighs and puts the toy back in the box, feeling a bit let down.\n\nMeanwhile, Floriane is sitting in her classroom, feeling guilty about not telling Monica about the toy. She realizes that",
+                    "box as Monica opens it. Monica looks surprised and disappointed. She picks up the toy and examines it, noticing a small scratch on its surface. She sighs and puts the toy back in the box, feeling a bit let down.\n\nMeanwhile, Floriane is sitting in her classroom, feeling guilty about not telling Monica about the toy. She realizes that"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Monica and Floriane are in a room. Monica puts a toy in a box. She closes the box. Monica leaves the room and goes outside to play with other children. When Monica is gone, Floriane looks at the toy in the box but leaves it there. She closes the box and leaves for school. Monica comes back to the room and wants to play with the toy. Monica will look for the toy in the",
+                "answers": [
+                    "box where she had left it. However, when she opens the box, she is surprised to find it empty. Confused, Monica searches the room, hoping to find the toy somewhere else. She checks under the bed, behind the curtains, and even in the closet, but the toy is nowhere to be found.\n\nFeeling disappointed, Monica wonders",
+                    "box where she had left it. However, when she opens the box, she is surprised to find it empty. Confused, Monica searches the room, hoping to find the toy somewhere else. She checks under the bed, behind the curtains, and even in the closet, but the toy is nowhere to be found.\n\nFeeling disappointed, Monica wonders"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

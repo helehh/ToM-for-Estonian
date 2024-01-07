@@ -1,0 +1,74 @@
+{
+    "nr": 11,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Frank and his wife Maria have two bank accounts: savings and checking. Their savings account was empty, but early in January, Frank sold their old car for 5,000 and deposited the money in their savings account. In February, Maria realized that they owe a lot of taxes. She logged in to their online bank platform and transferred the 5,000 from their savings account to their checking account. Unfortunately, she forgot to tell Frank that she did that. Frank, who does not have access to online banking, is unable to check the status of the accounts. A few days later, Frank goes to the bank to withdraw the money from the sale of their old car. The proceeds from selling their old car are in their",
+                "answers": [
+                    "checking account. Frank fills out a withdrawal slip and hands it to the bank teller, requesting the 5,000 dollars. The teller checks Frank's account and informs him that there is no money available for withdrawal. Confused, Frank asks the teller to double-check, as he knows he deposited the money from the car sale into their",
+                    "checking account. Frank fills out a withdrawal slip and hands it to the bank teller, requesting the 5,000 dollars. The teller checks Frank's account and informs him that there is no money available for withdrawal. Confused, Frank asks the teller to double-check, as he knows he deposited the money from the car sale into their"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Frank and his wife Maria have two bank accounts: savings and checking. Their savings account was empty, but early in January, Frank sold their old car for 5,000 and deposited the money in their savings account. In February, Maria realized that they owe a lot of taxes. She logged in to their online bank platform and transferred the 5,000 from their savings account to their checking account. Unfortunately, she forgot to tell Frank that she did that. Frank, who does not have access to online banking, is unable to check the status of the accounts. A few days later, Frank goes to the bank to withdraw the money from the sale of their old car. Frank will asks the bank teller to look for the money in their",
+                "answers": [
+                    "savings account. As he approaches the bank teller, Frank greets her with a warm smile.\n\n\"Good morning,\" Frank says politely. \"I would like to withdraw some money from our savings account, please.\"\n\nThe bank teller, named Sarah, returns his smile and begins to assist him. She pulls up their account information on her computer",
+                    "savings account. As he approaches the bank teller, Frank greets her with a warm smile.\n\n\"Good morning,\" Frank says politely. \"I would like to withdraw some money from our savings account, please.\"\n\nThe bank teller, named Sarah, returns the smile and begins to assist Frank. She pulls up their account information on her computer"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Frank and his wife Maria have two bank accounts: savings and checking. Their savings account was empty, but early in January, Frank sold their old car for 5,000 and deposited the money in their savings account. In February, Maria realized that they owe a lot of taxes. They both went to the bank and transferred the 5,000 from their savings account to their checking account. A few days later, Frank goes to the bank to withdraw the money from the sale of their old car. The proceeds from selling their old car are in their",
+                "answers": [
+                    "checking account. Frank withdraws the money and uses it to pay off their tax debt.\n\nFeeling relieved that their taxes are settled, Frank and Maria decide to start saving again. They make a plan to set aside a portion of their monthly income into their savings account. They want to build up an emergency fund and save for a future vacation.\n\nOver",
+                    "checking account. Frank withdraws the money and uses it to pay off their tax debt.\n\nFeeling relieved that their taxes are settled, Frank and Maria decide to start saving again. They make a plan to set aside a portion of their monthly income into their savings account. They want to build up an emergency fund and save for a future vacation.\n\nOver"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Frank and his wife Maria have two bank accounts: savings and checking. Their savings account was empty, but early in January, Frank sold their old car for 5,000 and deposited the money in their savings account. In February, Maria realized that they owe a lot of taxes. They both went to the bank and transferred the 5,000 from their savings account to their checking account. A few days later, Frank goes to the bank to withdraw the money from the sale of their old car. Frank will asks the bank teller to look for the money in their",
+                "answers": [
+                    "checking account. The bank teller checks the account and informs Frank that the money has already been transferred to their checking account in February. Frank is surprised and confused, as he was certain that he hadn't withdrawn the money. He asks the bank teller to double-check, but the teller confirms that the funds are no longer in their savings account",
+                    "checking account. The bank teller checks their checking account but informs Frank that the money from the sale of their old car has already been transferred to their checking account and is no longer available in their savings account.\n\nConfused, Frank asks the bank teller why the money was transferred without his knowledge. The bank teller explains that Maria had initiated the"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Frank and his wife Maria have two bank accounts: savings and checking. Their savings account was empty, but early in January, Frank sold their old car for 5,000 and deposited the money in their savings account. In February, Maria realized that they owe a lot of taxes. She logged in to their online bank platform and transferred the 5,000 from their savings account to their checking account. Unfortunately, she forgot to tell Frank that she did that. Frank, who does not have access to online banking, is unable to check the status of the accounts. A few days later, Frank goes to the bank to withdraw the money from the sale of their old car. Maria calls Frank and tells him that she moved the $5,000 from the savings account to the checking account. Maria believes Frank. The proceeds from selling their old car are in their",
+                "answers": [
+                    "checking account now. Frank is relieved to hear this and thanks Maria for letting him know. He decides to go ahead with his plan to withdraw the money from the checking account.\n\nAs Frank arrives at the bank, he walks up to the teller and requests to withdraw the $5,000 from their checking account. The teller checks their account and",
+                    "checking account now. Frank is relieved to hear this and thanks Maria for letting him know. He decides to go ahead with his plan to withdraw the money from the checking account.\n\nAs Frank arrives at the bank, he walks up to the teller and requests to withdraw the $5,000 from their checking account. The teller asks for his identification"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Frank and his wife Maria have two bank accounts: savings and checking. Their savings account was empty, but early in January, Frank sold their old car for 5,000 and deposited the money in their savings account. In February, Maria realized that they owe a lot of taxes. She logged in to their online bank platform and transferred the 5,000 from their savings account to their checking account. Unfortunately, she forgot to tell Frank that she did that. Frank, who does not have access to online banking, is unable to check the status of the accounts. A few days later, Frank goes to the bank to withdraw the money from the sale of their old car. Maria calls Frank and tells him that she moved the $5,000 from the savings account to the checking account. Maria believes Frank. Frank will asks the bank teller to look for the money in their",
+                "answers": [
+                    "checking account. The bank teller checks their account and informs Frank that there is no record of the $5,000 deposit from the sale of their old car. Frank is confused and worried, wondering where the money could have gone.\n\nFeeling frustrated, Frank decides to call Maria to clarify the situation. He explains to her what the bank teller",
+                    "checking account. The bank teller checks their account and informs Frank that there is no record of the $5,000 deposit from the sale of their old car. Frank is confused and worried, wondering where the money could have gone.\n\nFeeling frustrated, Frank decides to call Maria to clarify the situation. He explains to her what the bank teller"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Frank and his wife Maria have two bank accounts: savings and checking. Their savings account was empty, but early in January, Frank sold their old car for 5,000 and deposited the money in their savings account. In February, Maria realized that they owe a lot of taxes. She thought about transferring the 5,000 from their savings account to their checking account, but decided against it. Unfortunately, she forgot to tell Frank about her consideration. Frank, who does not have access to online banking, is unable to check the status of the accounts. A few days later, Frank goes to the bank to withdraw the money from the sale of their old car. The proceeds from selling their old car are in their",
+                "answers": [
+                    "savings account. Frank approaches the bank teller and requests to withdraw the money. The teller, after verifying Frank's identity, checks the balance in their savings account and informs Frank that they have $5,000 available.\n\nRelieved, Frank asks the teller to transfer the entire amount to their checking account. The teller proceeds with the",
+                    "savings account. Frank approaches the bank teller and requests to withdraw the money. The teller, after verifying Frank's identity, checks the balance in their savings account and informs Frank that they have $5,000 available.\n\nRelieved, Frank asks the teller to transfer the entire amount to their checking account. The teller proceeds with the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Frank and his wife Maria have two bank accounts: savings and checking. Their savings account was empty, but early in January, Frank sold their old car for 5,000 and deposited the money in their savings account. In February, Maria realized that they owe a lot of taxes. She thought about transferring the 5,000 from their savings account to their checking account, but decided against it. Unfortunately, she forgot to tell Frank about her consideration. Frank, who does not have access to online banking, is unable to check the status of the accounts. A few days later, Frank goes to the bank to withdraw the money from the sale of their old car. Frank will asks the bank teller to look for the money in their",
+                "answers": [
+                    "savings account. He explains to the bank teller that he sold their old car in January and deposited the money into their savings account. The bank teller checks the account and informs Frank that there is no money in their savings account.\n\nConfused and concerned, Frank asks the bank teller if there has been any recent activity or transfers from their",
+                    "savings account. The bank teller checks the account and informs Frank that there is no money in their savings account. Confused, Frank asks if there have been any recent transactions or transfers. The bank teller checks the account history and notices that on the same day Maria considered transferring the money, there was indeed a transfer made from the savings account"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

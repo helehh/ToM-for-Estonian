@@ -1,0 +1,74 @@
+{
+    "nr": 2,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: It's the end of the day shift at a newsroom, and a reporter has almost finished writing an article on the office computer. There are two folders on the desktop screen: Drafts and Edits. Intending to complete the article the next day, she saves the article in Drafts and leaves the newsroom. Soon she is at home and fast asleep. When the reporter is gone, the staff proofreader enters the office to begin his night shift. He browses through the two folders to see if there's anything he should work on. He notices that the article that the reporter wrote is an urgent piece that needs to be published as soon as possible. He decides to write the concluding paragraph and have it ready for the design team. After the article is finished and proofread, he moves it into the Edits folder. He goes home. The next day in the morning, the reporter wakes up. She comes back to the newsroom and wants to continue working on the article. The article file is in the folder labeled",
+                "answers": [
+                    "Edits. Confused, the reporter wonders why her article has been moved. She opens the folder and sees the completed article with the concluding paragraph written by the proofreader. \n\nCuriosity piqued, the reporter reads through the paragraph and is pleasantly surprised. The proofreader has not only added a compelling conclusion but has also made some minor edits",
+                    "Edits. Confused, the reporter wonders why her article has been moved. She opens the folder and sees the completed article with the concluding paragraph written by the proofreader. \n\nCuriosity piqued, the reporter reads through the paragraph and is pleasantly surprised. The proofreader has not only added a compelling conclusion but has also made some minor edits"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: It's the end of the day shift at a newsroom, and a reporter has almost finished writing an article on the office computer. There are two folders on the desktop screen: Drafts and Edits. Intending to complete the article the next day, she saves the article in Drafts and leaves the newsroom. Soon she is at home and fast asleep. When the reporter is gone, the staff proofreader enters the office to begin his night shift. He browses through the two folders to see if there's anything he should work on. He notices that the article that the reporter wrote is an urgent piece that needs to be published as soon as possible. He decides to write the concluding paragraph and have it ready for the design team. After the article is finished and proofread, he moves it into the Edits folder. He goes home. The next day in the morning, the reporter wakes up. She comes back to the newsroom and wants to continue working on the article. The reporter will look for the article file in the folder labeled",
+                "answers": [
+                    "Edits.",
+                    "Edits."
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: It's the end of the day shift at a newsroom, and a reporter has almost finished writing an article on the office computer. There are two folders on the desktop screen: Drafts and Edits. Intending to complete the article the next day, she saves the article in Drafts. The staff proofreader enters the office to begin his night shift. He browses through the two folders to see if there's anything he should work on. He notices that the article that the reporter wrote is an urgent piece that needs to be published as soon as possible. He decides to write the concluding paragraph and have it ready for the design team. The reporter watches the staff proofreader as he moves the article into the Edits folder. Soon both of them leave the office. The next day in the morning, the reporter comes back to the newsroom and wants to continue working on the article. The article file is in the folder labeled",
+                "answers": [
+                    "Edits. Confused, the reporter wonders why the article has been moved. She opens the folder and sees the concluding paragraph written by the staff proofreader. Realizing that he must have thought it needed some edits before publishing, she reads through his additions.\n\nTo her surprise, the staff proofreader's concluding paragraph is well-written and perfectly captures the",
+                    "Edits. Confused, the reporter wonders why the article has been moved. She opens the folder and sees the concluding paragraph written by the staff proofreader. Realizing that he must have thought it needed some edits before publishing, she reads through his additions.\n\nTo her surprise, the staff proofreader's concluding paragraph is well-written and perfectly captures the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: It's the end of the day shift at a newsroom, and a reporter has almost finished writing an article on the office computer. There are two folders on the desktop screen: Drafts and Edits. Intending to complete the article the next day, she saves the article in Drafts. The staff proofreader enters the office to begin his night shift. He browses through the two folders to see if there's anything he should work on. He notices that the article that the reporter wrote is an urgent piece that needs to be published as soon as possible. He decides to write the concluding paragraph and have it ready for the design team. The reporter watches the staff proofreader as he moves the article into the Edits folder. Soon both of them leave the office. The next day in the morning, the reporter comes back to the newsroom and wants to continue working on the article. The reporter will look for the article file in the folder labeled",
+                "answers": [
+                    "Edits.",
+                    "Edits."
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: It's the end of the day shift at a newsroom, and a reporter has almost finished writing an article on the office computer. There are two folders on the desktop screen: Drafts and Edits. Intending to complete the article the next day, she saves the article in Drafts and leaves the newsroom. Soon she is at home and fast asleep. When the reporter is gone, the staff proofreader enters the office to begin his night shift. He browses through the two folders to see if there's anything he should work on. He notices that the article that the reporter wrote is an urgent piece that needs to be published as soon as possible. He decides to write the concluding paragraph and have it ready for the design team. After the article is finished and proofread, he moves it into the Edits folder. He goes home. The next day in the morning, the reporter wakes up. She comes back to the newsroom and wants to continue working on the article. The proofreader calls the reporter and tells her that he moved the article from the Drafts folder to the Edits folder. The reporter believes the proofreader. The article file is in the folder labeled",
+                "answers": [
+                    "\"Edits.\"",
+                    "\"Edits.\""
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: It's the end of the day shift at a newsroom, and a reporter has almost finished writing an article on the office computer. There are two folders on the desktop screen: Drafts and Edits. Intending to complete the article the next day, she saves the article in Drafts and leaves the newsroom. Soon she is at home and fast asleep. When the reporter is gone, the staff proofreader enters the office to begin his night shift. He browses through the two folders to see if there's anything he should work on. He notices that the article that the reporter wrote is an urgent piece that needs to be published as soon as possible. He decides to write the concluding paragraph and have it ready for the design team. After the article is finished and proofread, he moves it into the Edits folder. He goes home. The next day in the morning, the reporter wakes up. She comes back to the newsroom and wants to continue working on the article. The proofreader calls the reporter and tells her that he moved the article from the Drafts folder to the Edits folder. The reporter believes the proofreader. The reporter will look for the article file in the folder labeled",
+                "answers": [
+                    "\"Edits.\" She opens the folder and scans through the files, hoping to find her article. However, to her surprise, the article is nowhere to be found. Confused and slightly panicked, she frantically searches through every subfolder and even checks the recycle bin, but it's as if the article has vanished into thin air.\n\nFeeling",
+                    "\"Edits.\" She opens the folder and scans through the files, hoping to find her article. However, to her surprise, the article is nowhere to be found. Confused and slightly panicked, she frantically searches through every subfolder and even checks the recycle bin, but it's as if the article has vanished into thin air.\n\nFeeling"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: It's the end of the day shift at a newsroom, and a reporter has almost finished writing an article on the office computer. There are two folders on the desktop screen: Drafts and Edits. Intending to complete the article the next day, she saves the article in Drafts and leaves the newsroom. Soon she is at home and fast asleep. When the reporter is gone, the staff proofreader enters the office to begin his night shift. He browses through the two folders to see if there's anything he should work on. He notices that the article that the reporter wrote is an urgent piece that needs to be published as soon as possible. He decides to write the concluding paragraph and have it ready for the design team. After the article is finished and proofread, he leaves the file in the Drafts folder. He goes home. The next day in the morning, the reporter wakes up. She comes back to the newsroom and wants to continue working on the article. The article file is in the folder labeled",
+                "answers": [
+                    "Edits. Confused, she opens the folder and realizes that the article she had saved in Drafts is no longer there. Panic sets in as she frantically searches through the folder, hoping to find her work. But it's nowhere to be found.\n\nFeeling a sense of dread, she decides to check the Edits folder, even though",
+                    "Edits. Confused, she opens the folder and realizes that the article she had saved in Drafts is no longer there. Panic sets in as she frantically searches through the folder, hoping to find her work. But it's nowhere to be found.\n\nFeeling a sense of dread, she decides to check the Edits folder, even though"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: It's the end of the day shift at a newsroom, and a reporter has almost finished writing an article on the office computer. There are two folders on the desktop screen: Drafts and Edits. Intending to complete the article the next day, she saves the article in Drafts and leaves the newsroom. Soon she is at home and fast asleep. When the reporter is gone, the staff proofreader enters the office to begin his night shift. He browses through the two folders to see if there's anything he should work on. He notices that the article that the reporter wrote is an urgent piece that needs to be published as soon as possible. He decides to write the concluding paragraph and have it ready for the design team. After the article is finished and proofread, he leaves the file in the Drafts folder. He goes home. The next day in the morning, the reporter wakes up. She comes back to the newsroom and wants to continue working on the article. The reporter will look for the article file in the folder labeled",
+                "answers": [
+                    "Edits.",
+                    "Edits."
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

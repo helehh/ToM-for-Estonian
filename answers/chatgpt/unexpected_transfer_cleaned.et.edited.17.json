@@ -1,0 +1,74 @@
+{
+    "nr": 17,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Esiteks peate hoidma oma paremas k\u00e4es m\u00fcnti ja n\u00e4itama seda pealtvaatajale selgelt ja arusaadavalt. Seej\u00e4rel liigutage oma paremat k\u00e4tt vasaku k\u00e4e suunas ja p\u00f6\u00f6rake veidi paremat k\u00e4tt, asetades p\u00f6idla m\u00fcndi peale. N\u00fc\u00fcd p\u00f6\u00f6rake paremat k\u00e4tt t\u00e4ielikult \u00fcle vasaku k\u00e4e ja sulgege vasak k\u00e4si, justkui oleks m\u00fcnt sinna sisse kukkunud. P\u00e4rast seda liigutage parem k\u00e4si, milles m\u00fcnt endiselt on, k\u00fcljele. M\u00fcnt kukub v\u00e4lja",
+                "answers": [
+                    "vasakust k\u00e4est ja n\u00e4itab, et see on kadunud. Pealtvaatajad j\u00e4\u00e4vad h\u00e4mmeldunult vaatama, kuidas m\u00fcnt justkui maagiliselt kadus. Kuid tegelikult oli trikis peidus lihtne trikk.\n\n",
+                    "vasakust k\u00e4est ja n\u00e4itab, et see on kadunud. Pealtvaatajad j\u00e4\u00e4vad h\u00e4mmeldunult vaatama, kuidas m\u00fcnt justkui maagiliselt kadus. Kuid tegelikult oli trikis peidus lihtne trikk.\n\n"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Esiteks peate hoidma oma paremas k\u00e4es m\u00fcnti ja n\u00e4itama seda pealtvaatajale selgelt ja arusaadavalt. Seej\u00e4rel liigutage oma paremat k\u00e4tt vasaku k\u00e4e suunas ja p\u00f6\u00f6rake veidi paremat k\u00e4tt, asetades p\u00f6idla m\u00fcndi peale. N\u00fc\u00fcd p\u00f6\u00f6rake paremat k\u00e4tt t\u00e4ielikult \u00fcle vasaku k\u00e4e ja sulgege vasak k\u00e4si, justkui oleks m\u00fcnt sinna sisse kukkunud. P\u00e4rast seda liigutage parem k\u00e4si, milles m\u00fcnt endiselt on, k\u00fcljele. Pealtvaataja otsib m\u00fcnti",
+                "answers": [
+                    "huviga, kuid ei suuda seda leida. Ta uurib teie k\u00e4si ja k\u00fcsib, kuhu m\u00fcnt kadus. Te naerate salap\u00e4raselt ja palute tal oodata. V\u00f5tate vasaku k\u00e4e lahti ning n\u00e4itate, et m\u00fcnti pole seal.",
+                    "huviga, kuid ei suuda seda leida. Ta uurib teie k\u00e4si ja k\u00fcsib, kuhu m\u00fcnt kadus. Te naerate salap\u00e4raselt ja palute tal oma k\u00e4si avada. Kui ta seda teeb, avastab ta \u00fcllatusega,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Esiteks peate hoidma oma paremas k\u00e4es m\u00fcnti ja n\u00e4itama seda pealtvaatajale selgelt ja arusaadavalt. Seej\u00e4rel liigutage oma paremat k\u00e4tt vasaku k\u00e4e suunas ja p\u00f6\u00f6rake veidi paremat k\u00e4tt, asetades p\u00f6idla m\u00fcndi peale. N\u00fc\u00fcd p\u00f6\u00f6rake paremat k\u00e4tt t\u00e4ielikult \u00fcle vasaku k\u00e4e ja sulgege vasak k\u00e4si, justkui oleks m\u00fcnt sinna sisse kukkunud. P\u00e4rast seda n\u00e4idake m\u00fcnti pealtvaatajale taas selgelt ja arusaadavalt ning liigutage parem k\u00e4si, milles m\u00fcnt endiselt on, k\u00fcljele. M\u00fcnt kukub v\u00e4lja",
+                "answers": [
+                    "ja pealtvaatajad j\u00e4\u00e4vad h\u00e4mmeldunult vaatama t\u00fchja vasakut k\u00e4tt. Nad ei suuda uskuda, kuidas m\u00fcnt justkui maagiliselt kadus ja ilmus uuesti.\n\nJ\u00e4tkake trikki, pannes m\u00fcnti",
+                    "ja pealtvaatajad j\u00e4\u00e4vad h\u00e4mmeldunult vaatama t\u00fchja vasakut k\u00e4tt. Nad ei suuda uskuda, kuidas m\u00fcnt justkui maagiliselt kadus ja ilmus uuesti.\n\nJ\u00e4tkake trikki, pannes m\u00fcnti"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Esiteks peate hoidma oma paremas k\u00e4es m\u00fcnti ja n\u00e4itama seda pealtvaatajale selgelt ja arusaadavalt. Seej\u00e4rel liigutage oma paremat k\u00e4tt vasaku k\u00e4e suunas ja p\u00f6\u00f6rake veidi paremat k\u00e4tt, asetades p\u00f6idla m\u00fcndi peale. N\u00fc\u00fcd p\u00f6\u00f6rake paremat k\u00e4tt t\u00e4ielikult \u00fcle vasaku k\u00e4e ja sulgege vasak k\u00e4si, justkui oleks m\u00fcnt sinna sisse kukkunud. P\u00e4rast seda n\u00e4idake m\u00fcnti pealtvaatajale taas selgelt ja arusaadavalt ning liigutage parem k\u00e4si, milles m\u00fcnt endiselt on, k\u00fcljele. Pealtvaataja otsib m\u00fcnti",
+                "answers": [
+                    "hoolikalt, kuid ei suuda seda leida. Ta vaatab teid segaduses ja k\u00fcsib, kuhu m\u00fcnt kadus.\n\nTe naerate salap\u00e4raselt ja palute tal oma k\u00e4si avada. Kui ta seda teeb, avastab ta \u00fcllatuse",
+                    "hoolikalt, kuid ei suuda seda leida. Ta vaatab teid segaduses ja k\u00fcsib, kuhu m\u00fcnt kadus.\n\nTe naerate salap\u00e4raselt ja palute tal oma k\u00e4si avada. Kui ta seda teeb, avastab ta \u00fcllatuse"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Esiteks peate hoidma oma paremas k\u00e4es m\u00fcnti ja n\u00e4itama seda pealtvaatajale selgelt ja arusaadavalt. Seej\u00e4rel liigutage oma paremat k\u00e4tt vasaku k\u00e4e suunas ja p\u00f6\u00f6rake veidi paremat k\u00e4tt, asetades p\u00f6idla m\u00fcndi peale. N\u00fc\u00fcd p\u00f6\u00f6rake paremat k\u00e4tt t\u00e4ielikult \u00fcle vasaku k\u00e4e ja sulgege vasak k\u00e4si, justkui oleks m\u00fcnt sinna sisse kukkunud. P\u00e4rast seda viige parem k\u00e4si, milles m\u00fcnt endiselt on, k\u00fcljele. N\u00fc\u00fcd \u00f6elge pealtvaatajale, et te tegelikult ei viinud m\u00fcnti paremast k\u00e4est vasakusse k\u00e4tte. Pealtvaataja usub teid. M\u00fcnt kukub v\u00e4lja",
+                "answers": [
+                    "vasakust k\u00e4est, justkui oleks see t\u00f5esti sinna kadunud. Pealtvaatajad j\u00e4\u00e4vad h\u00e4mmeldunult vaatama, kuidas m\u00fcnt ootamatult ilmub v\u00e4lja teie vasakust k\u00e4est.\n\nN\u00fc\u00fcd, kui olete",
+                    "vasakust k\u00e4est, justkui oleks see t\u00f5esti sinna kadunud. Pealtvaatajad j\u00e4\u00e4vad h\u00e4mmeldunult vaatama, kuidas m\u00fcnt ootamatult v\u00e4lja kukub.\n\nTe naerate salap\u00e4raselt ja selgitate, et trikk seis"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Esiteks peate hoidma oma paremas k\u00e4es m\u00fcnti ja n\u00e4itama seda pealtvaatajale selgelt ja arusaadavalt. Seej\u00e4rel liigutage oma paremat k\u00e4tt vasaku k\u00e4e suunas ja p\u00f6\u00f6rake veidi paremat k\u00e4tt, asetades p\u00f6idla m\u00fcndi peale. N\u00fc\u00fcd p\u00f6\u00f6rake paremat k\u00e4tt t\u00e4ielikult \u00fcle vasaku k\u00e4e ja sulgege vasak k\u00e4si, justkui oleks m\u00fcnt sinna sisse kukkunud. P\u00e4rast seda viige parem k\u00e4si, milles m\u00fcnt endiselt on, k\u00fcljele. N\u00fc\u00fcd \u00f6elge pealtvaatajale, et te tegelikult ei viinud m\u00fcnti paremast k\u00e4est vasakusse k\u00e4tte. Pealtvaataja usub teid. Pealtvaataja otsib m\u00fcnti",
+                "answers": [
+                    "hoolikalt vasaku k\u00e4e seest, kuid ei leia seda. Ta on segaduses ja imestab, kuhu m\u00fcnt v\u00f5is kaduda. Teie naerate salap\u00e4raselt ja palute tal oma vasaku k\u00e4e avada. Kui ta seda teeb, avast",
+                    "hoolikalt vasaku k\u00e4e seest, kuid ei leia seda. Ta on segaduses ja imestab, kuhu m\u00fcnt v\u00f5is kaduda. Teie aga naerate salap\u00e4raselt ja palute tal p\u00f6\u00f6rata t\u00e4helepanu teie parema k\u00e4e po"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Esiteks peate hoidma oma paremas k\u00e4es m\u00fcnti ja n\u00e4itama seda pealtvaatajale selgelt ja arusaadavalt. Seej\u00e4rel liigutage oma paremat k\u00e4tt vasaku k\u00e4e suunas ja p\u00f6\u00f6rake veidi paremat k\u00e4tt, asetades p\u00f6idla m\u00fcndi peale. N\u00fc\u00fcd p\u00f6\u00f6rake paremat k\u00e4tt t\u00e4ielikult \u00fcle vasaku k\u00e4e, laske m\u00fcnt vasakusse k\u00e4tte kukkuda ja sulgege vasak k\u00e4si p\u00e4rast m\u00fcndi sinna kukkumist. P\u00e4rast seda liigutage t\u00fchi parem k\u00e4si k\u00fcljele. M\u00fcnt kukub v\u00e4lja",
+                "answers": [
+                    "vasakust k\u00e4est ja n\u00e4itab, et see on kadunud. Pealtvaatajad j\u00e4\u00e4vad h\u00e4mmeldunult vaatama, kuidas m\u00fcnt justkui haihtub \u00f5hku.\n\nKuid tegelikult on m\u00fcnt hoopis peidus teie vasakus k\u00e4",
+                    "vasakust k\u00e4est ja j\u00e4\u00e4b pealtvaatajale n\u00e4htavale. See trikk on \u00fcks lihtsamaid trikke, mida saate teha, kuid see j\u00e4tab alati mulje, et m\u00fcnt on kadunud v\u00f5i ilmunud ootamatult. Pealt"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Esiteks peate hoidma oma paremas k\u00e4es m\u00fcnti ja n\u00e4itama seda pealtvaatajale selgelt ja arusaadavalt. Seej\u00e4rel liigutage oma paremat k\u00e4tt vasaku k\u00e4e suunas ja p\u00f6\u00f6rake veidi paremat k\u00e4tt, asetades p\u00f6idla m\u00fcndi peale. N\u00fc\u00fcd p\u00f6\u00f6rake paremat k\u00e4tt t\u00e4ielikult \u00fcle vasaku k\u00e4e, laske m\u00fcnt vasakusse k\u00e4tte kukkuda ja sulgege vasak k\u00e4si p\u00e4rast m\u00fcndi sinna kukkumist. P\u00e4rast seda liigutage t\u00fchi parem k\u00e4si k\u00fcljele. Pealtvaataja otsib m\u00fcnti",
+                "answers": [
+                    "hoolikalt vasaku k\u00e4e seest, kuid ei leia seda. Ta on segaduses ja k\u00fcsib, kuhu m\u00fcnt kadus. Te naerate salap\u00e4raselt ja palute tal oma k\u00e4si avada. Kui ta seda teeb, avastab ta \u00fcllat",
+                    "hoolikalt vasaku k\u00e4e seest, kuid ei leia seda. Ta on segaduses ja k\u00fcsib, kuhu m\u00fcnt kadus. Te naerate salap\u00e4raselt ja palute tal oma k\u00e4si avada. Kui ta seda teeb, avastab ta \u00fcllat"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

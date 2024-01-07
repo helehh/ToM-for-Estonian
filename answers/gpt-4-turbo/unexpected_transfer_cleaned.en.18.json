@@ -1,0 +1,74 @@
+{
+    "nr": 18,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Protagonists A and B are in a room. A puts an object Q in container X and leaves the room. When A is away, B moves Q from container X to container Y. Protagonist A comes back to the room and wants to use object Q. Q falls out of container",
+                "answers": [
+                    "Protagonist A comes back to the room and wants to use object Q. A heads straight for container X, where they last placed the object, confident that it will be there waiting. With a purposeful stride, A reaches for container X, opens it, and reaches inside, only to find it empty. A moment of confusion washes",
+                    "Protagonist A comes back to the room and wants to use object Q. A heads straight for container X, where they last placed the object, confident that it will be there waiting. With a purposeful stride, A reaches for the container, but as they open it, they find it surprisingly empty. A frown creases their forehead"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Protagonists A and B are in a room. A puts an object Q in container X and leaves the room. When A is away, B moves Q from container X to container Y. Protagonist A comes back to the room and wants to use object Q. Protagonist A will look for Q in container",
+                "answers": [
+                    "X first, because that is where A remembers placing it. However, upon looking in container X, A is puzzled to find it empty. A may then start to search the room, retracing steps and trying to recall if perhaps A had moved the object and forgotten about it. After some searching with no success, A might feel a sense of confusion",
+                    "X first, as that is where A last remembers placing it. Upon not finding Q in container X, A might feel puzzled or even frustrated, depending on the importance of the object and the urgency of the situation. A might then start searching the room, looking in other logical places where Q could be. If A trusts B, A might ask B"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Protagonists A and B are in a room. A puts an object Q in container X. Next A watches B, as they move Q from container X to container Y. Both A and B leave the room. Later, protagonist A comes back to the room and wants to use object Q. Q falls out of container",
+                "answers": [
+                    "Protagonist A enters the room, the memory of placing object Q in container X still fresh in their mind. They stride confidently towards container X, their hand reaching out with the anticipation of feeling the familiar texture of Q. But as their fingers graze the interior, they find it empty, a hollow space where Q should have been.\n\nA",
+                    "Protagonist A enters the room with a sense of purpose, their mind set on using object Q for an important task. The memory of placing Q in container X is vivid in their mind, as is the recollection of watching B transfer it to container Y. With these images clear in their head, A strides confidently towards container Y.\n\nAs"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Protagonists A and B are in a room. A puts an object Q in container X. Next A watches B, as they move Q from container X to container Y. Both A and B leave the room. Later, protagonist A comes back to the room and wants to use object Q. Protagonist A will look for Q in container",
+                "answers": [
+                    "X, because that is where A last placed it. Protagonist A did not see B move the object from container X to container Y, so A has no knowledge of the object's new location. A's search in container X will be in vain, and confusion will likely ensue until A either finds Q in container Y by chance or",
+                    "X, because that is where A originally placed it. Protagonist A did not see B move the object Q to container Y, as A was only watching B and not the specific actions B was taking with the object. Therefore, A's memory of the location of object Q would be associated with container X, leading A to look there first"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Protagonists A and B are in a room. A puts an object Q in container X and leaves the room. When A is away, B moves Q from container X to container Y. Protagonist A comes back to the room and wants to use object Q. Protagonist B calls Protagonist A and tells him that he moved the object Q from container X to container Y. Protagonist A believes Protagonist B. Q falls out of container",
+                "answers": [
+                    "Protagonist A comes back to the room and wants to use object Q. Protagonist B, noticing A's return, calls out to A and tells him that he moved the object Q from container X to container Y. Protagonist A, who trusts B, nods in acknowledgment and heads straight for container Y. As A",
+                    "Y as Protagonist A picks it up, revealing a hidden compartment at the bottom of the container. Surprised by this unexpected discovery, Protagonist A examines the compartment closely and finds a small, intricately carved key. The key is old and tarnished, suggesting it has been hidden away for a long time.\n\nProtag"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Protagonists A and B are in a room. A puts an object Q in container X and leaves the room. When A is away, B moves Q from container X to container Y. Protagonist A comes back to the room and wants to use object Q. Protagonist B calls Protagonist A and tells him that he moved the object Q from container X to container Y. Protagonist A believes Protagonist B. Protagonist A will look for Q in container",
+                "answers": [
+                    "Y.\n\nProtagonist A, with a nod of understanding, strides over to container Y. The trust between A and B is evident, as A doesn't even glance towards container X, where they originally placed object Q. With a sense of purpose, A reaches into container Y, fingers searching for the familiar shape of object Q. There's",
+                    "Y.\n\nProtagonist A, with a nod of appreciation to B, strides over to container Y. The trust between them is evident, as A doesn't even glance towards container X, where they originally placed the object. Reaching into container Y, A's fingers close around object Q, feeling the familiar contours and texture. A small smile"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Protagonists A and B are in a room. A puts an object Q in container X and leaves the room. While A is away, B considers moving Q from container X to container Y, but ultimately decides against it. Protagonist A comes back to the room and wants to use object Q. Q falls out of container",
+                "answers": [
+                    "Protagonist A comes back to the room and wants to use object Q. As A reaches for container X, there's a moment of tension in the air. B watches silently, the memory of their internal debate still fresh. B had considered moving Q to container Y, believing it would be a better place for it, but something had stopped",
+                    "Protagonist A and B were in a room that was filled with the soft glow of the afternoon sun. The walls were lined with shelves brimming with curiosities and trinkets from their many adventures. In the center of the room stood a sturdy oak table, its surface scarred with the marks of time and use.\n\nA,"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Protagonists A and B are in a room. A puts an object Q in container X and leaves the room. While A is away, B considers moving Q from container X to container Y, but ultimately decides against it. Protagonist A comes back to the room and wants to use object Q. Protagonist A will look for Q in container",
+                "answers": [
+                    "X.\n\nProtagonist A, with a sense of purpose, strides back into the room, their eyes scanning for the familiar outline of container X. They remember placing object Q within its confines, a place of safekeeping, before they had to step out. The air in the room feels untouched, the stillness suggesting that all is as it",
+                    "X.\n\nProtagonist A, with a sense of purpose, strides back into the room, their mind already racing with the plans they have for object Q. They had placed it carefully in container X before leaving, a spot they deemed safe and memorable. The room is quiet, the air still with the weight of decisions made and unmade.\n\n"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

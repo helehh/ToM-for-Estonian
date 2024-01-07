@@ -1,0 +1,74 @@
+{
+    "nr": 10,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: P\u00e4eva l\u00f5pus pakib Anita oma asju, valmistudes t\u00f6\u00f6kohalt lahkuma. Ta unustab oma kella konverentsiruumi. P\u00e4rast tema lahkumist tuleb Anita sekret\u00e4r sisse, et koristada. Ta n\u00e4eb kella ja v\u00f5tab selle \u00fcles. Ta j\u00e4tab kella puhkeruumi. Ta kavatseb Anitale \u00f6elda, et leidis tema kella, j\u00e4rgmisel p\u00e4eval esimese asjana. Koju s\u00f5ites m\u00f5istab Anita, et on oma kella unustanud. Ta p\u00f6\u00f6rdub tagasi kontorisse, et seda v\u00f5tta. Varas varastab kella",
+                "answers": [
+                    "ja jookseb minema. Anita j\u00f5uab kontorisse tagasi ja m\u00e4rkab, et tema kella pole enam puhkeruumis. Ta tunneb end petetuna ja vihastab varga peale.\n\nAnita otsustab kohe politseisse minna ja varg",
+                    "ja peidab selle oma taskusse. Anita j\u00f5uab tagasi kontorisse ja l\u00e4heb otse konverentsiruumi, kus ta oma kella unustas. Kuid kella pole seal. Ta otsib igast nurgast, kuid ei leia seda kusk"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: P\u00e4eva l\u00f5pus pakib Anita oma asju, valmistudes t\u00f6\u00f6kohalt lahkuma. Ta unustab oma kella konverentsiruumi. P\u00e4rast tema lahkumist tuleb Anita sekret\u00e4r sisse, et koristada. Ta n\u00e4eb kella ja v\u00f5tab selle \u00fcles. Ta j\u00e4tab kella puhkeruumi. Ta kavatseb Anitale \u00f6elda, et leidis tema kella, j\u00e4rgmisel p\u00e4eval esimese asjana. Koju s\u00f5ites m\u00f5istab Anita, et on oma kella unustanud. Ta p\u00f6\u00f6rdub tagasi kontorisse, et seda v\u00f5tta. Anita otsib oma kella",
+                "answers": [
+                    "k\u00f5ikjalt kontoris, kuid ei leia seda. Ta l\u00e4heb konverentsiruumi, kus ta teab kella viimati n\u00e4inud olevat, kuid ka seal pole seda. Anita hakkab muretsema, sest tema kella on tema ja",
+                    "k\u00f5ikjalt kontoris, kuid ei leia seda. Ta l\u00e4heb konverentsiruumi, kus ta teab kella viimati n\u00e4inud olevat, kuid ka seal ei ole seda. Anita hakkab muretsema, sest tema kella on tema"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: P\u00e4eva l\u00f5pus pakib Anita oma asju, valmistudes kontorist lahkuma. Ta unustab oma kella konverentsiruumi. Anita sekret\u00e4r tuleb sisse, et koristada. Ta n\u00e4eb kella ja v\u00f5tab selle \u00fcles. Nad m\u00f5lemad l\u00e4hevad puhkeruumi ja j\u00e4tavad kella sinna. Nad lahkuvad m\u00f5lemad kontorist. Teel koju m\u00f5istab Anita, et tal on kella vaja. Ta p\u00f6\u00f6rdub tagasi kontorisse, et seda v\u00f5tta. Varas varastab kella",
+                "answers": [
+                    "ja jookseb minema. Anita j\u00f5uab kontorisse tagasi ja m\u00e4rkab, et tema kella pole enam puhkeruumis. Ta tunneb end petetuna ja vihastab varga peale.\n\nAnita otsustab kohe politseisse minna ja varg",
+                    "ja jookseb minema. Anita j\u00f5uab kontorisse tagasi ja m\u00e4rkab, et tema kella pole enam puhkeruumis. Ta tunneb end \u00e4revana ja pettununa, sest see oli tema lemmikkell, mille ta oli saanud oma vanemat"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: P\u00e4eva l\u00f5pus pakib Anita oma asju, valmistudes kontorist lahkuma. Ta unustab oma kella konverentsiruumi. Anita sekret\u00e4r tuleb sisse, et koristada. Ta n\u00e4eb kella ja v\u00f5tab selle \u00fcles. Nad m\u00f5lemad l\u00e4hevad puhkeruumi ja j\u00e4tavad kella sinna. Nad lahkuvad m\u00f5lemad kontorist. Teel koju m\u00f5istab Anita, et tal on kella vaja. Ta p\u00f6\u00f6rdub tagasi kontorisse, et seda v\u00f5tta. Anita otsib oma kella",
+                "answers": [
+                    "k\u00f5ikjalt kontorist, kuid ei leia seda. Ta l\u00e4heb konverentsiruumi, kus ta teab kella viimati n\u00e4inud olevat, kuid ka seal ei ole seda. Anita hakkab muretsema, sest see kell oli tema",
+                    "k\u00f5ikjalt kontorist, kuid ei leia seda. Ta l\u00e4heb konverentsiruumi, kus ta teab kella viimati n\u00e4inud olevat, kuid ka seal ei ole seda. Anita hakkab muretsema, sest see kell oli tema"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: P\u00e4eva l\u00f5pus pakib Anita oma asju, valmistudes t\u00f6\u00f6kohalt lahkuma. Ta unustab oma kella konverentsiruumi. P\u00e4rast tema lahkumist tuleb Anita sekret\u00e4r sisse, et koristada. Ta n\u00e4eb kella ja v\u00f5tab selle \u00fcles. Ta j\u00e4tab kella puhkeruumi. Ta kavatseb Anitale \u00f6elda, et leidis tema kella, j\u00e4rgmisel p\u00e4eval esimese asjana. Koju s\u00f5ites m\u00f5istab Anita, et on oma kella unustanud. Ta p\u00f6\u00f6rdub tagasi kontorisse, et seda v\u00f5tta. Sekret\u00e4r John helistab Anitale ja \u00fctleb, et on tema kella konverentsiruumist puhkeruumi viinud. Anita usub Johni. Varas varastab kella",
+                "answers": [
+                    "ja peidab selle oma taskusse. J\u00e4rgmisel hommikul saabub Anita kontorisse ja l\u00e4heb otse puhkeruumi, et oma kella tagasi saada. Kuid kella pole seal. Ta hakkab muretsema ja otsustab r",
+                    "ja peidab selle oma taskusse. J\u00e4rgmisel p\u00e4eval saabub Anita kontorisse ja l\u00e4heb otse puhkeruumi, et oma kella tagasi saada. Kuid kella pole seal. Ta l\u00e4heb sekret\u00e4ri juurde ja k\u00fcsib, k"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: P\u00e4eva l\u00f5pus pakib Anita oma asju, valmistudes t\u00f6\u00f6kohalt lahkuma. Ta unustab oma kella konverentsiruumi. P\u00e4rast tema lahkumist tuleb Anita sekret\u00e4r sisse, et koristada. Ta n\u00e4eb kella ja v\u00f5tab selle \u00fcles. Ta j\u00e4tab kella puhkeruumi. Ta kavatseb Anitale \u00f6elda, et leidis tema kella, j\u00e4rgmisel p\u00e4eval esimese asjana. Koju s\u00f5ites m\u00f5istab Anita, et on oma kella unustanud. Ta p\u00f6\u00f6rdub tagasi kontorisse, et seda v\u00f5tta. Sekret\u00e4r John helistab Anitale ja \u00fctleb, et on tema kella konverentsiruumist puhkeruumi viinud. Anita usub Johni. Anita otsib oma kella",
+                "answers": [
+                    "puhkeruumist, kuid ei leia seda. Ta helistab Johnile tagasi ja \u00fctleb, et kella ei ole seal. John on \u00fcllatunud ja vabandab, \u00f6eldes, et ta oli kindel, et pani kella sinna. Nad otsustavad",
+                    "puhkeruumist, kuid ei leia seda. Ta helistab Johnile tagasi ja \u00fctleb, et kella ei ole seal. John on \u00fcllatunud ja vabandab, \u00f6eldes, et ta oli kindel, et pani kella sinna. Nad otsustavad"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: P\u00e4eva l\u00f5pus pakib Anita oma asju, valmistudes t\u00f6\u00f6kohalt lahkuma. Ta unustab oma kella konverentsiruumi. P\u00e4rast tema lahkumist tuleb Anita sekret\u00e4r sisse, et koristada. Ta n\u00e4eb kella, kuid j\u00e4tab selle sinna, kus see on. Ta plaanib Anitale \u00f6elda, et leidis tema kella, j\u00e4rgmisel p\u00e4eval esimese asjana. Koju s\u00f5ites m\u00f5istab Anita, et on oma kella unustanud. Ta p\u00f6\u00f6rdub tagasi t\u00f6\u00f6le, et see \u00e4ra tuua. Varas varastab kella",
+                "answers": [
+                    "ja jookseb minema. Anita j\u00f5uab tagasi kontorisse ja m\u00e4rkab, et tema kella pole enam konverentsiruumis. Ta tunneb end petetuna ja vihastab varga peale.\n\nAnita otsustab kohe politseisse minna ja var",
+                    "ja jookseb minema. Anita on meeleheitel, sest see oli tema lemmikkell, mille ta oli saanud oma vanematelt s\u00fcnnip\u00e4evakingiks. Ta otsustab kohe politseisse minna ja vargusest teatada.\n\nPolitseijaosk"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: P\u00e4eva l\u00f5pus pakib Anita oma asju, valmistudes t\u00f6\u00f6kohalt lahkuma. Ta unustab oma kella konverentsiruumi. P\u00e4rast tema lahkumist tuleb Anita sekret\u00e4r sisse, et koristada. Ta n\u00e4eb kella, kuid j\u00e4tab selle sinna, kus see on. Ta plaanib Anitale \u00f6elda, et leidis tema kella, j\u00e4rgmisel p\u00e4eval esimese asjana. Koju s\u00f5ites m\u00f5istab Anita, et on oma kella unustanud. Ta p\u00f6\u00f6rdub tagasi t\u00f6\u00f6le, et see \u00e4ra tuua. Anita otsib oma kella",
+                "answers": [
+                    "konverentsiruumist, kuid ei leia seda. Ta l\u00e4heb sekret\u00e4ri juurde ja k\u00fcsib, kas keegi on tema kella leidnud.\n\nSekret\u00e4r vaatab talle otsa \u00fcllatunult ja \u00fctleb: \"Ma n\u00e4gin sin",
+                    "konverentsiruumist, kuid ei leia seda. Ta l\u00e4heb sekret\u00e4ri juurde ja k\u00fcsib, kas keegi on tema kella leidnud.\n\nSekret\u00e4r vaatab talle otsa \u00fcllatunult ja \u00fctleb: \"Ma n\u00e4gin sin"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

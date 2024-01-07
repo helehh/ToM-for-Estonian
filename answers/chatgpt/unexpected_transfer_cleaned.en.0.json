@@ -1,0 +1,74 @@
+{
+    "nr": 0,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Father comes home from the grocery store. He bought bananas for banana bread. His daughter, Maria, helps him put away the shopping. She asks him: \"Where should I put the bananas?\" \"In the red drawer\",says Father. \"Wait, I'll lift you up there, because you are too short\", says Father, and lifts her up. Maria puts the bananas in the red drawer. She loves bananas. Then, she leaves for school. While Maria is away, Father starts to prepare the banana bread and takes the bananas from the red drawer. He peels and slices one of them, but then he puts the rest of them back in the yellow drawer instead of the red one. He realizes that he is missing eggs. He leaves the kitchen and goes to see if their neighbor has any eggs. Maria comes back to the kitchen and wants to eat a banana. The bananas fall out of the",
+                "answers": [
+                    "yellow drawer as she opens it. She looks puzzled and wonders why the bananas are not in the red drawer where she had put them earlier. Confused, Maria decides to search for the bananas in the other drawers, hoping her father had just misplaced them.\n\nAs she opens the red drawer, Maria finds it empty. She starts to worry and wonders where",
+                    "yellow drawer as she opens it. She looks puzzled and wonders why the bananas are not in the red drawer where she had put them earlier. Confused, Maria decides to search for the bananas in the other drawers, hoping her father had just misplaced them.\n\nAs she opens the red drawer, Maria finds it empty. She then checks the yellow drawer and"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Father comes home from the grocery store. He bought bananas for banana bread. His daughter, Maria, helps him put away the shopping. She asks him: \"Where should I put the bananas?\" \"In the red drawer\",says Father. \"Wait, I'll lift you up there, because you are too short\", says Father, and lifts her up. Maria puts the bananas in the red drawer. She loves bananas. Then, she leaves for school. While Maria is away, Father starts to prepare the banana bread and takes the bananas from the red drawer. He peels and slices one of them, but then he puts the rest of them back in the yellow drawer instead of the red one. He realizes that he is missing eggs. He leaves the kitchen and goes to see if their neighbor has any eggs. Maria comes back to the kitchen and wants to eat a banana. Maria will look for the bananas in the",
+                "answers": [
+                    "yellow drawer, where her father mistakenly put them. She opens the drawer and sees a bunch of bananas sitting there. Confused, she wonders why her father didn't put them in the red drawer as he had instructed.\n\nCuriosity getting the better of her, Maria decides to investigate further. She takes out one of the bananas and notices that it has",
+                    "yellow drawer, where her father mistakenly put them. She opens the drawer and sees a bunch of bananas sitting there. Confused, she wonders why her father didn't put them in the red drawer as he had instructed.\n\nCuriosity getting the better of her, Maria decides to investigate further. She takes out one of the bananas and notices that it has"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Father comes home from the grocery store. He bought bananas for banana bread. His daughter, Maria, helps him put away the shopping. She asks him: \"Where should I put the bananas?\" \"In the red drawer\",says Father. \"Wait, I'll lift you up there, because you are too short\", says Father, and lifts her up. Maria puts the bananas in the red drawer. She loves bananas. Father starts to prepare the banana bread and takes the bananas from the red drawer. He peels and slices one of them. Next Maria watches her Father as he puts the rest of them back in the yellow drawer instead of the red one. Then, Maria leaves for school. While Maria is away, Father realizes that he is missing eggs. He leaves the kitchen and goes to see if their neighbor has any eggs. Maria comes back to the kitchen and wants to eat a banana. The bananas fall out of the",
+                "answers": [
+                    "yellow drawer as she opens it. She looks puzzled and wonders why the bananas are not in the red drawer where she had put them earlier. Confused, Maria decides to search for her father to ask him about it.\n\nShe finds her father talking to their neighbor at the front door. \"Dad, why did you move the bananas to the yellow",
+                    "yellow drawer as she opens it. She looks puzzled and wonders why the bananas are not in the red drawer where she had put them earlier. Confused, Maria decides to search for her father to ask him about it.\n\nShe finds her father talking to their neighbor at the front door. \"Dad, why did you move the bananas to the yellow"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Father comes home from the grocery store. He bought bananas for banana bread. His daughter, Maria, helps him put away the shopping. She asks him: \"Where should I put the bananas?\" \"In the red drawer\",says Father. \"Wait, I'll lift you up there, because you are too short\", says Father, and lifts her up. Maria puts the bananas in the red drawer. She loves bananas. Father starts to prepare the banana bread and takes the bananas from the red drawer. He peels and slices one of them. Next Maria watches her Father as he puts the rest of them back in the yellow drawer instead of the red one. Then, Maria leaves for school. While Maria is away, Father realizes that he is missing eggs. He leaves the kitchen and goes to see if their neighbor has any eggs. Maria comes back to the kitchen and wants to eat a banana. Maria will look for the bananas in the",
+                "answers": [
+                    "yellow drawer, where her father mistakenly put them. She opens the drawer and to her surprise, there are no bananas. Confused, Maria starts searching the kitchen, checking every cabinet and drawer, but the bananas are nowhere to be found.\n\nJust as Maria is about to give up, she remembers that her father had mentioned going to the neighbor's house",
+                    "yellow drawer, where her father mistakenly put them. She opens the drawer and to her surprise, there are no bananas. Confused, Maria starts searching the kitchen, checking every drawer and cabinet, but the bananas are nowhere to be found.\n\nJust as Maria is about to give up, she remembers that her father had mentioned going to the neighbor's house"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Father comes home from the grocery store. He bought bananas for banana bread. His daughter, Maria, helps him put away the shopping. She asks him: \"Where should I put the bananas?\" \"In the red drawer\",says Father. \"Wait, I'll lift you up there, because you are too short\", says Father, and lifts her up. Maria puts the bananas in the red drawer. She loves bananas. Then, she leaves for school. While Maria is away, Father starts to prepare the banana bread and takes the bananas from the red drawer. He peels and slices one of them, but then he puts the rest of them back in the yellow drawer instead of the red one. He realizes that he is missing eggs. He leaves the kitchen and goes to see if their neighbor has any eggs. Maria comes back to the kitchen and wants to eat a banana. Father calls Maria and tells her that he moved the bananas from the red drawer to the yellow drawer. Maria believes her Father. The bananas fall out of the",
+                "answers": [
+                    "yellow drawer as Maria opens it. She looks at the scattered bananas on the floor, feeling a mix of surprise and disappointment. \n\nQuickly, Maria bends down and starts picking up the fallen bananas. As she does so, she can't help but giggle at the situation. She realizes that her father must have been distracted and made a mistake.",
+                    "yellow drawer as Maria opens it. She looks at the scattered bananas on the floor, feeling a mix of surprise and disappointment. \n\nQuickly, Maria bends down and starts picking up the fallen bananas. As she does so, she can't help but giggle at the situation. She realizes that her father must have been distracted and made a mistake."
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Father comes home from the grocery store. He bought bananas for banana bread. His daughter, Maria, helps him put away the shopping. She asks him: \"Where should I put the bananas?\" \"In the red drawer\",says Father. \"Wait, I'll lift you up there, because you are too short\", says Father, and lifts her up. Maria puts the bananas in the red drawer. She loves bananas. Then, she leaves for school. While Maria is away, Father starts to prepare the banana bread and takes the bananas from the red drawer. He peels and slices one of them, but then he puts the rest of them back in the yellow drawer instead of the red one. He realizes that he is missing eggs. He leaves the kitchen and goes to see if their neighbor has any eggs. Maria comes back to the kitchen and wants to eat a banana. Father calls Maria and tells her that he moved the bananas from the red drawer to the yellow drawer. Maria believes her Father. Maria will look for the bananas in the",
+                "answers": [
+                    "yellow drawer. She opens it and sees a bunch of yellow bananas, but they are not the ones she put away earlier. Confused, Maria wonders why her father moved the bananas to the wrong drawer.\n\nJust as she is about to call her father to ask him about it, Maria notices a note on the counter. It reads, \"Oops!",
+                    "yellow drawer. She opens it and sees a bunch of ripe, yellow bananas sitting there. Confused, she wonders why her father would move them to the wrong drawer. Nevertheless, she takes one of the bananas and starts peeling it.\n\nAs she peels the banana, Maria notices something strange. The banana is not as firm as usual, and"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Father comes home from the grocery store. He bought bananas for banana bread. His daughter, Maria, helps him put away the shopping. She asks him: \"Where should I put the bananas?\" \"In the red drawer\",says Father. \"Wait, I'll lift you up there, because you are too short\", says Father, and lifts her up. Maria puts the bananas in the red drawer. She loves bananas. Then, she leaves for school. While Maria is away, Father starts to prepare the banana bread and takes the bananas from the red drawer. He peels and slices one of them, but then he puts the rest of them back in the red drawer. He realizes that he is missing eggs. He leaves the kitchen and goes to see if their neighbor has any eggs. Maria comes back to the kitchen and wants to eat a banana. The bananas fall out of the",
+                "answers": [
+                    "red drawer as she opens it. She looks at the scattered bananas on the floor, puzzled. Confused, Maria wonders how the bananas ended up outside the drawer. She quickly realizes that her father must have taken one of the bananas for the banana bread he was making.\n\nCuriosity piqued, Maria decides to investigate further. She carefully picks up",
+                    "red drawer as she opens it. She looks at the scattered bananas on the floor, puzzled. Confused, Maria wonders how the bananas ended up outside the drawer. She quickly realizes that her father must have taken one of the bananas for the banana bread he was making.\n\nCuriosity piqued, Maria decides to investigate further. She carefully picks up"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Father comes home from the grocery store. He bought bananas for banana bread. His daughter, Maria, helps him put away the shopping. She asks him: \"Where should I put the bananas?\" \"In the red drawer\",says Father. \"Wait, I'll lift you up there, because you are too short\", says Father, and lifts her up. Maria puts the bananas in the red drawer. She loves bananas. Then, she leaves for school. While Maria is away, Father starts to prepare the banana bread and takes the bananas from the red drawer. He peels and slices one of them, but then he puts the rest of them back in the red drawer. He realizes that he is missing eggs. He leaves the kitchen and goes to see if their neighbor has any eggs. Maria comes back to the kitchen and wants to eat a banana. Maria will look for the bananas in the",
+                "answers": [
+                    "red drawer where she put them earlier. However, when she opens the drawer, she is surprised to find it empty. Confused, Maria starts searching the kitchen, checking every cabinet and shelf, but there are no bananas to be found.\n\nJust as Maria is about to give up, she hears the front door open. It's her father, returning",
+                    "red drawer where she put them earlier. However, when she opens the drawer, she is surprised to find it empty. Confused, Maria starts searching the kitchen, checking every cabinet and shelf, but there are no bananas to be found.\n\nJust as Maria is about to give up, she hears the front door open. It's her father, returning"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,74 @@
+{
+    "nr": 10,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: At the end of the day, Anita is packing up her belongings as she gets ready to leave her workplace. She forgets her watch in the conference room. After she leaves, Anita's secretary comes in to tidy up. He sees the watch and picks it up. He leaves the watch in the break room. He plans to tell Anita that he found her watch first thing the next morning. On her way home, Anita realizes that she has forgotten her watch. She returns to the office to retrieve it. A thief steals the watch from the",
+                "answers": [
+                    "break room before Anita arrives. The thief, a janitor who has been working in the building for only a few weeks, pockets the watch quickly and exits through the back door, blending into the night.\n\nAnita arrives at the office and heads straight to the conference room, her heart sinking when she doesn't find her watch there. Puzzled",
+                    "break room before Anita arrives. The thief, a janitor who has been working in the building for only a few weeks, had noticed the expensive brand of the watch and couldn't resist the temptation. He quickly pockets the watch and exits the building, blending into the bustling city night.\n\nAnita arrives at the office and heads straight to the conference room"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: At the end of the day, Anita is packing up her belongings as she gets ready to leave her workplace. She forgets her watch in the conference room. After she leaves, Anita's secretary comes in to tidy up. He sees the watch and picks it up. He leaves the watch in the break room. He plans to tell Anita that he found her watch first thing the next morning. On her way home, Anita realizes that she has forgotten her watch. She returns to the office to retrieve it. Anita will look for her watch in the",
+                "answers": [
+                    "conference room first, as that's the last place she remembers having it. The room is empty and quiet, the chairs pushed neatly under the table, and the whiteboard wiped clean from the day's brainstorming. She scans the room, her eyes searching every corner, but the watch is nowhere to be seen. A small wave of panic washes",
+                    "conference room first, as that's the last place she remembers having it. The room is empty and quiet, the chairs pushed neatly under the table, and the whiteboard wiped clean from the day's brainstorming. She scans the room, her eyes searching every corner, but the watch is nowhere to be seen. A small wave of panic washes"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: At the end of the day, Anita is packing up her belongings as she gets ready to leave her office. She forgets her watch in the conference room. Anita's secretary comes in to tidy up. He sees the watch and picks it up. They both go to the break room, and leave the watch there. They both leave the office. On her way home, Anita realizes that she will need her watch. She returns to the office to retrieve it. A thief steals the watch from the",
+                "answers": [
+                    "break room just as Anita enters the building. She rushes to the conference room first, thinking she left it there, but finds the room empty. Confused, she retraces her steps to the break room, only to discover that her watch is missing.\n\nAnita feels a wave of panic, but then she remembers the security cameras installed throughout the office",
+                    "break room just as Anita enters the building. She rushes to the conference room first, thinking she left it there, but finds the room empty. Confused, she retraces her steps to the break room, only to discover that her watch is missing.\n\nAnita feels a wave of panic, but then she remembers the security cameras installed throughout the office"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: At the end of the day, Anita is packing up her belongings as she gets ready to leave her office. She forgets her watch in the conference room. Anita's secretary comes in to tidy up. He sees the watch and picks it up. They both go to the break room, and leave the watch there. They both leave the office. On her way home, Anita realizes that she will need her watch. She returns to the office to retrieve it. Anita will look for her watch in the",
+                "answers": [
+                    "conference room first, as that is where she last remembers having it. The room is empty now, the chairs pushed in, the whiteboard wiped clean, but there's no sign of her watch. With a growing sense of unease, she retraces her steps back to her own office, scanning her desk and the shelves, but it's not",
+                    "conference room first, as that is where she last remembers having it. The room is empty now, the chairs pushed in, the whiteboard wiped clean, and the projector turned off. She scans the table and the surrounding area, but her watch is nowhere to be seen. A small wave of panic washes over her; that watch was a gift"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: At the end of the day, Anita is packing up her belongings as she gets ready to leave her workplace. She forgets her watch in the conference room. After she leaves, Anita's secretary comes in to tidy up. He sees the watch and picks it up. He leaves the watch in the break room. He plans to tell Anita that he found her watch first thing the next morning. On her way home, Anita realizes that she has forgotten her watch. She returns to the office to retrieve it. The secretary, John, calls Anita and tells her that he moved her watch from the conference room to the break room. Anita believes John. A thief steals the watch from the",
+                "answers": [
+                    "break room before Anita can return to the office. The thief, a janitor who had been working late that night, had noticed the expensive watch lying unattended on the table. He quickly glanced around, saw that no one was watching, and slipped the watch into his pocket before continuing with his cleaning duties.\n\nAnita, unaware of the unfortunate turn",
+                    "break room before Anita can return to the office. The thief, a janitor who had been working late that night, had noticed the expensive watch lying unattended on the table. He quickly glanced around, saw no one, and decided to pocket the watch, thinking it was a stroke of luck.\n\nAnita, unaware of the theft, drives back"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: At the end of the day, Anita is packing up her belongings as she gets ready to leave her workplace. She forgets her watch in the conference room. After she leaves, Anita's secretary comes in to tidy up. He sees the watch and picks it up. He leaves the watch in the break room. He plans to tell Anita that he found her watch first thing the next morning. On her way home, Anita realizes that she has forgotten her watch. She returns to the office to retrieve it. The secretary, John, calls Anita and tells her that he moved her watch from the conference room to the break room. Anita believes John. Anita will look for her watch in the",
+                "answers": [
+                    "break room when she arrives back at the office. The building is quiet, with most of the lights dimmed and the usual hustle and bustle of the day gone. She makes her way through the familiar corridors, her footsteps echoing softly on the polished floor.\n\nAs she enters the break room, she flicks on the light and scans the area for",
+                    "break room when she arrives back at the office. The building is quiet, with only the soft hum of the air conditioning and the occasional echo of her footsteps as she makes her way through the dimly lit hallways. She reaches the break room, flicks on the light, and scans the area for her watch.\n\nThe break room is tidy,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: At the end of the day, Anita is packing up her belongings as she gets ready to leave her workplace. She forgets her watch in the conference room. After she leaves, Anita's secretary comes in to tidy up. He sees the watch but leaves it where it is. He plans to tell Anita that he found her watch first thing the next morning. On her way home, Anita realizes that she has forgotten her watch. She returns to work to retrieve it. A thief steals the watch from the",
+                "answers": [
+                    "conference room before Anita arrives. The thief, a petty criminal known for sneaking into offices after hours, had been lurking in the shadows, waiting for an opportunity. He noticed the secretary leaving the room and saw the watch gleaming on the table. With quick, silent steps, he slipped into the room and snatched the watch, disappearing into the",
+                    "conference room before Anita arrives. The thief, a petty criminal known for sneaking into offices after hours, had been lurking in the shadows, waiting for an opportunity. He noticed the secretary leaving the room and saw the watch gleaming on the table. With quick, silent steps, he slipped into the room and snatched the watch, disappearing into the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: At the end of the day, Anita is packing up her belongings as she gets ready to leave her workplace. She forgets her watch in the conference room. After she leaves, Anita's secretary comes in to tidy up. He sees the watch but leaves it where it is. He plans to tell Anita that he found her watch first thing the next morning. On her way home, Anita realizes that she has forgotten her watch. She returns to work to retrieve it. Anita will look for her watch in the",
+                "answers": [
+                    "conference room where she last remembers having it. The room is quiet and empty, the only sound is the soft hum of the air conditioning. She flicks on the lights and heads straight to the table where the day's meetings had taken place. Her eyes scan the polished surface, and there it is, her watch, gleaming under the fluorescent lights",
+                    "conference room where she last remembers having it. The room is quiet and empty, the chairs pushed neatly under the table, and the whiteboard wiped clean after a day of meetings and presentations. She flicks on the light, casting a warm glow over the expanse of the table. Her eyes scan the surface, and there it is, her watch"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

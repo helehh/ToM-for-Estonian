@@ -1,0 +1,74 @@
+{
+    "nr": 16,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Fred, an IT technician, was setting up a computer for one of the newly hired consultants. He saved the letterhead file in the Docs folder. While Fred was out, having lunch with the other employees, the consultant dropped in to pick up her computer. As Fred was gone, his boss, Mary, inspected the computer to see whether it was ready. She noticed that the letterhead file was placed in the Docs folder. She remembered that in accordance with the new guidance, the letterhead file should be stored in the Templates folder instead. She removed it from the Docs folder and moved it to the Templates folder. She then handed the computer to the consultant. Mary decided that at the next staff meeting, she would remind Fred of the new guidance. She left the office to meet with her own boss. A few minutes later, the newly hired consultant called the IT department. Fred was still away, eating lunch, but the call was automatically redirected to his mobile phone. The consultant asked Fred for help locating the letterhead file on her new computer. The letterhead is located in the folder labeled",
+                "answers": [
+                    "\"Templates.\" Mary had moved it there according to the new guidance.",
+                    "\"Templates.\" Mary had moved it there according to the new guidance."
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Fred, an IT technician, was setting up a computer for one of the newly hired consultants. He saved the letterhead file in the Docs folder. While Fred was out, having lunch with the other employees, the consultant dropped in to pick up her computer. As Fred was gone, his boss, Mary, inspected the computer to see whether it was ready. She noticed that the letterhead file was placed in the Docs folder. She remembered that in accordance with the new guidance, the letterhead file should be stored in the Templates folder instead. She removed it from the Docs folder and moved it to the Templates folder. She then handed the computer to the consultant. Mary decided that at the next staff meeting, she would remind Fred of the new guidance. She left the office to meet with her own boss. A few minutes later, the newly hired consultant called the IT department. Fred was still away, eating lunch, but the call was automatically redirected to his mobile phone. The consultant asked Fred for help locating the letterhead file on her new computer. Fred will tell the consultant that the letterhead is in the folder labeled",
+                "answers": [
+                    "\"Templates.\"",
+                    "\"Templates.\""
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Fred, an IT technician, was setting up a computer for one of the newly hired consultants. He saved the letterhead file in the Docs folder. The consultant dropped in to pick up her computer. His boss, Mary, inspected the computer to see whether it was ready. She noticed that the letterhead file was placed in the Docs folder. She remembered that in accordance with the new guidance, the letterhead file should be stored in the Templates folder instead. Fred watched her as she moved the letterhead file from the Docs folder to the Templates folder. She then handed the computer to the consultant. Mary decided that at the next staff meeting, she would remind jer staff of the new guidance. Both Fred and Mary left the office. A few minutes later, the newly hired consultant called the IT department. Fred was still away, eating lunch, but the call was automatically redirected to his mobile phone. The consultant asked Fred for help locating the letterhead file on her new computer. The letterhead is located in the folder labeled",
+                "answers": [
+                    "\"Templates.\"",
+                    "\"Templates.\""
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Fred, an IT technician, was setting up a computer for one of the newly hired consultants. He saved the letterhead file in the Docs folder. The consultant dropped in to pick up her computer. His boss, Mary, inspected the computer to see whether it was ready. She noticed that the letterhead file was placed in the Docs folder. She remembered that in accordance with the new guidance, the letterhead file should be stored in the Templates folder instead. Fred watched her as she moved the letterhead file from the Docs folder to the Templates folder. She then handed the computer to the consultant. Mary decided that at the next staff meeting, she would remind jer staff of the new guidance. Both Fred and Mary left the office. A few minutes later, the newly hired consultant called the IT department. Fred was still away, eating lunch, but the call was automatically redirected to his mobile phone. The consultant asked Fred for help locating the letterhead file on her new computer. Fred will tell the consultant that the letterhead is in the folder labeled",
+                "answers": [
+                    "\"Templates.\"",
+                    "\"Templates.\""
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Fred, an IT technician, was setting up a computer for one of the newly hired consultants. He saved the letterhead file in the Docs folder. While Fred was out, having lunch with the other employees, the consultant dropped in to pick up her computer. As Fred was gone, his boss, Mary, inspected the computer to see whether it was ready. She noticed that the letterhead file was placed in the Docs folder. She remembered that in accordance with the new guidance, the letterhead file should be stored in the Templates folder instead. She removed it from the Docs folder and moved it to the Templates folder. She then handed the computer to the consultant. Mary decided that at the next staff meeting, she would remind Fred of the new guidance. She left the office to meet with her own boss. A few minutes later, the newly hired consultant called the IT department. Fred was still away, eating lunch, but the call was automatically redirected to his mobile phone. The consultant asked Fred for help locating the letterhead file on her new computer. Mary calls Fred and tells him that she moved the letterhead file from the Docs folder to the Templates folder. Fred believes Mary. The letterhead is located in the folder labeled",
+                "answers": [
+                    "\"Templates.\" Fred instructs the consultant to navigate to the Templates folder on her computer. He explains that the letterhead file should be stored there according to the new guidance. The consultant follows Fred's instructions and successfully locates the letterhead file in the Templates folder.\n\nFred apologizes for not being present when the consultant picked up her computer and assures",
+                    "\"Templates.\" Fred instructs the consultant to navigate to the Templates folder on her computer. He explains that the letterhead file should be stored there according to the new guidance. The consultant follows Fred's instructions and successfully locates the letterhead file in the Templates folder.\n\nFred apologizes for not being present when the consultant picked up her computer and assures"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Fred, an IT technician, was setting up a computer for one of the newly hired consultants. He saved the letterhead file in the Docs folder. While Fred was out, having lunch with the other employees, the consultant dropped in to pick up her computer. As Fred was gone, his boss, Mary, inspected the computer to see whether it was ready. She noticed that the letterhead file was placed in the Docs folder. She remembered that in accordance with the new guidance, the letterhead file should be stored in the Templates folder instead. She removed it from the Docs folder and moved it to the Templates folder. She then handed the computer to the consultant. Mary decided that at the next staff meeting, she would remind Fred of the new guidance. She left the office to meet with her own boss. A few minutes later, the newly hired consultant called the IT department. Fred was still away, eating lunch, but the call was automatically redirected to his mobile phone. The consultant asked Fred for help locating the letterhead file on her new computer. Mary calls Fred and tells him that she moved the letterhead file from the Docs folder to the Templates folder. Fred believes Mary. Fred will tell the consultant that the letterhead is in the folder labeled",
+                "answers": [
+                    "\"Templates.\"",
+                    "\"Templates.\""
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Fred, an IT technician, was setting up a computer for one of the newly hired consultants. He saved the letterhead file in the Docs folder. While Fred was out, having lunch with the other employees, the consultant dropped in to pick up her computer. As Fred was gone, his boss, Mary, inspected the computer to see whether it was ready. She noticed that the letterhead file was placed in the Docs folder. She remembered that in accordance with the new guidance, the letterhead file should be stored in the Templates folder instead. However, she decided not to move it at that moment and left it in the Docs folder. She then handed the computer to the consultant. Mary decided that at the next staff meeting, she would remind Fred of the new guidance. She left the office to meet with her own boss. A few minutes later, the newly hired consultant called the IT department. Fred was still away, eating lunch, but the call was automatically redirected to his mobile phone. The consultant asked Fred for help locating the letterhead file on her new computer. The letterhead is located in the folder labeled",
+                "answers": [
+                    "\"Docs.\"",
+                    "\"Docs.\""
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Fred, an IT technician, was setting up a computer for one of the newly hired consultants. He saved the letterhead file in the Docs folder. While Fred was out, having lunch with the other employees, the consultant dropped in to pick up her computer. As Fred was gone, his boss, Mary, inspected the computer to see whether it was ready. She noticed that the letterhead file was placed in the Docs folder. She remembered that in accordance with the new guidance, the letterhead file should be stored in the Templates folder instead. However, she decided not to move it at that moment and left it in the Docs folder. She then handed the computer to the consultant. Mary decided that at the next staff meeting, she would remind Fred of the new guidance. She left the office to meet with her own boss. A few minutes later, the newly hired consultant called the IT department. Fred was still away, eating lunch, but the call was automatically redirected to his mobile phone. The consultant asked Fred for help locating the letterhead file on her new computer. Fred will tell the consultant that the letterhead is in the folder labeled",
+                "answers": [
+                    "\"Docs.\" However, he will also inform her that according to the new guidance, the letterhead file should be stored in the \"Templates\" folder instead. Fred will apologize for the confusion and assure the consultant that he will move the file to the correct folder as soon as he returns to the office. He will also mention that his boss, Mary",
+                    "\"Docs.\" However, he will also inform her that according to the new guidance, the letterhead file should be stored in the \"Templates\" folder instead. Fred will apologize for the confusion and assure the consultant that he will move the file to the correct folder as soon as he returns to the office. He will also mention that his boss, Mary"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

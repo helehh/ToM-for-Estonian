@@ -1,0 +1,74 @@
+{
+    "nr": 6,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark puts his blue basketball in a wooden box and closes it. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green. Mark looks at the box but cannot see what is happening inside. Mark opens the box and can see that the the color of the basketball is",
+                "answers": [
+                    "green. His eyes widen in disbelief, and he blinks several times, thinking that his vision must be playing tricks on him. But no matter how many times he rubs his eyes or shakes his head, the basketball remains a vibrant shade of green. Mark picks up the ball, turning it over in his hands, examining it closely. It's",
+                    "green. His eyes widen in disbelief, and he blinks several times to make sure he isn't imagining things. The once blue basketball now sports a vibrant shade of green, as if it had been painted while inside the box. Mark picks up the ball, turning it over in his hands, looking for any signs of paint or dye, but the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark puts his blue basketball in a wooden box and closes it. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green. Mark looks at the box but cannot see what is happening inside. Before opening the box, Mark calls his friend to tell them that the color of the basketball is",
+                "answers": [
+                    "blue. He's excited to show his friend the cool blue basketball he's been practicing with. As he chats on the phone, he boasts about his skills and how the blue color of the ball somehow seems to bring him luck on the court. His friend, intrigued by the idea of a lucky basketball, asks to come over and see it.\n\nMark",
+                    "blue. He's excited to show his friend the cool blue basketball he's been practicing with. As he chats on the phone, he boasts about his skills and how the blue color of the ball somehow seems to bring him luck on the court. His friend, intrigued by the idea of a lucky basketball, asks to come over and see it.\n\nMark"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark puts his blue basketball in a wooden box. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green. Mark observes what is happening and then closes the box. Mark opens the box and can see that the the color of the basketball is",
+                "answers": [
+                    "now a vibrant shade of purple. Mark blinks in disbelief, his mind racing to make sense of the situation. He had only ever seen the basketball as blue, and now it had transformed not once, but twice, into colors he had never imagined it could be. The magical box had not only altered the color of the basketball but had done so",
+                    "now a vibrant shade of purple. Mark's eyes widen in disbelief as he picks up the basketball, turning it over in his hands. The rich purple hue is unlike any color he has seen on a basketball before. He's both confused and fascinated by the transformation.\n\nMark decides to test the box's powers further. He finds a red apple and places"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark puts his blue basketball in a wooden box. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green. Mark observes what is happening and then closes the box. Before opening the box, Mark calls his friend to tell them that the color of the basketball is",
+                "answers": [
+                    "green. His friend, Sarah, is skeptical at first, but she knows Mark well enough to know that he wouldn't joke about something like this. She tells him to open the box and check again, just to be sure. Mark, with a hint of excitement in his voice, agrees and opens the wooden box. To his amazement,",
+                    "green. His friend, Sarah, is skeptical at first, but she knows Mark isn't one to play pointless pranks. She decides to come over and see this supposed magical box for herself. While waiting for Sarah to arrive, Mark can hardly contain his curiosity and opens the box once more. To his astonishment, the basketball is no longer green"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark puts his blue basketball in a wooden box and closes it. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green. Mark looks at the box but cannot see what is happening inside. The magical box tells Mark that it changed the color of the basketball from blue to green. Mark believes the box. Mark opens the box and can see that the the color of the basketball is",
+                "answers": [
+                    "indeed green. He is astonished by the transformation and can hardly believe his eyes. The once blue basketball now sports a vibrant shade of green, as if it had been painted meticulously by an invisible hand. Mark picks up the basketball, turning it over in his hands, examining it closely to ensure that this isn't some sort of trick or illusion.\n\n",
+                    "indeed green. He is astonished, his eyes wide with disbelief. For a moment, he simply stares, trying to comprehend the transformation that has occurred before him. The once blue basketball he loved to dribble down the court is now a shade of emerald, as if it had been plucked from a lush, verdant forest.\n\nMark reaches"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark puts his blue basketball in a wooden box and closes it. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green. Mark looks at the box but cannot see what is happening inside. The magical box tells Mark that it changed the color of the basketball from blue to green. Mark believes the box. Before opening the box, Mark calls his friend to tell them that the color of the basketball is",
+                "answers": [
+                    "green. His friend, Sarah, is skeptical at first, but she knows Mark isn't one to make up such stories. She decides to come over and see for herself. While waiting for Sarah, Mark's curiosity gets the better of him, and he can't resist the urge to peek inside the box. He carefully lifts the lid, and to",
+                    "green. His friend, Sarah, is skeptical at first. \"A magical box that changes colors? That's quite a story, Mark,\" she says with a laugh.\n\nMark insists, \"I'm serious, Sarah! The box spoke to me and told me it turned my basketball green. You have to come over and see it for yourself.\"\n\nCur"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark puts his blue basketball in a wooden box and closes it. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green, but then turns blue again. Mark looks at the box but cannot see what is happening inside. Mary calls Mark and asks him what is the color of his ball. Mark tells her the truth. Mark opens the box and can see that the the color of the basketball is",
+                "answers": [
+                    "blue. Unaware of the magical properties of the box, Mark had no reason to doubt the color of his basketball. The brief transformation to green had reversed by the time he opened the box, leaving no trace of the magical occurrence. Mary, on the other end of the line, accepts his answer without question, none the wiser to the enchant",
+                    "blue. Unaware of the magical properties of the box, Mark is confident in his answer to Mary. The brief transformation of the basketball to green had reversed by the time he opened the lid, leaving no trace of the peculiar event. As he retrieves the ball to show Mary, he remains oblivious to the box's enchanting abilities, convinced that his"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark puts his blue basketball in a wooden box and closes it. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green, but then turns blue again. Mark looks at the box but cannot see what is happening inside. Mary calls Mark and asks him what is the color of his ball. Mark tells her the truth. Before opening the box, Mark calls his friend to tell them that the color of the basketball is",
+                "answers": [
+                    "blue. Mark, confident in the knowledge of his own possessions, doesn't hesitate to inform his friend about the color of his basketball. After all, he had placed a blue basketball inside the box, and there was no reason for him to believe it would be any different.\n\nAs he hangs up the phone, a flicker of curiosity sparks within him",
+                    "blue. Mark, confident in the knowledge of his own possessions, doesn't hesitate to inform his friend about the color of his basketball. After all, he had placed a blue basketball inside the box, and there was no reason for him to believe it would be any different.\n\nAs he hangs up the phone, a flicker of curiosity sparks within him"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

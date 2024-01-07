@@ -1,0 +1,74 @@
+{
+    "nr": 4,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer and then goes to bed. Later that night, Steven's sister comes home and walks into the laundry room. She takes the blanket out of the dryer and puts it in the cupboard next to the dryer. She goes to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. The blanket falls out from the",
+                "answers": [
+                    "cupboard as soon as Steven opens the door. He's momentarily puzzled, not remembering placing it there. Then he realizes that his sister must have come home late and taken care of it. He smiles, grateful for her small act of kindness.\n\nSteven picks up the warm, freshly laundered blanket and holds it close, appreciating its softness and",
+                    "cupboard as soon as Steven opens the door. He's momentarily surprised, not expecting it to be there since he didn't remember placing it in the cupboard himself. Then he realizes that his sister must have come home and taken care of it. He smiles, feeling a sense of gratitude for her small act of kindness.\n\nSteven picks up the warm,"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer and then goes to bed. Later that night, Steven's sister comes home and walks into the laundry room. She takes the blanket out of the dryer and puts it in the cupboard next to the dryer. She goes to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. He will look for the blanket in the",
+                "answers": [
+                    "dryer, expecting to find it where he left it. However, to his surprise, the dryer is empty. Puzzled, Steven scratches his head, wondering if he had perhaps forgotten to transfer the blanket from the washer to the dryer the night before. He checks the washing machine, but it's empty as well. With a slight frown",
+                    "dryer, expecting to find it there since that's where he left it the night before. However, to his surprise, the dryer is empty. Puzzled, he scratches his head, wondering if he had perhaps forgotten to transfer the blanket from the washer. He checks the washing machine, but it's empty too. \n\nWith a slight f"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer. Steven's sister walks into the laundry room. Steven watches his sister as she takes the blanket out of the dryer and puts it in the cupboard next to the dryer. Next, Steven and his sister leave the laundry room and go to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. The blanket falls out from the",
+                "answers": [
+                    "cupboard as soon as Steven opens the door. He's puzzled because he distinctly remembers his sister placing the blanket neatly on the shelf. As the blanket cascades down, something else tumbles out with it\u2014a small, crumpled piece of paper.\n\nSteven bends down to pick up the paper, his curiosity piqued. Unfolding it",
+                    "cupboard as soon as Steven opens the door. He's puzzled because he distinctly remembers his sister placing the blanket neatly on the shelf. As the blanket cascades down, something else tumbles out with it\u2014a small, crumpled piece of paper.\n\nCurious, Steven picks up the paper and unfolds it. It's a note written in his"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer. Steven's sister walks into the laundry room. Steven watches his sister as she takes the blanket out of the dryer and puts it in the cupboard next to the dryer. Next, Steven and his sister leave the laundry room and go to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. He will look for the blanket in the",
+                "answers": [
+                    "dryer, but to his surprise, it's not there. Puzzled, he scratches his head, trying to remember the events of the previous night. Then it dawns on him that his sister had taken the blanket out of the dryer. He turns to the cupboard next to the dryer and opens it. There, neatly folded among the other",
+                    "dryer, but to his surprise, it's not there. Puzzled, he scratches his head, trying to remember the events of the previous night. Then it dawns on him that his sister had taken the blanket out of the dryer. With a slight chuckle at his forgetfulness, Steven turns to the cupboard next to the dryer."
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer and then goes to bed. Later that night, Steven's sister comes home and walks into the laundry room. She takes the blanket out of the dryer and puts it in the cupboard next to the dryer. She goes to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. Steven's sister calls Steven and tells him that she moved the blanket from the dryer to the cupboard. Steven believes his sister. The blanket falls out from the",
+                "answers": [
+                    "cupboard as Steven opens the door. He catches it before it hits the ground, a soft bundle of warmth in his arms. The fabric is cozy and smells of the lavender fabric softener he likes to use. Steven smiles, grateful for his sister's thoughtfulness. He hadn't expected her to be home last night, let alone to take care",
+                    "cupboard as Steven opens the door. He catches it before it hits the ground, a soft bundle of warmth in his arms. The fabric is cozy and smells of the lavender fabric softener he had used the night before. Steven smiles, grateful for his sister's thoughtfulness. He hadn't expected her to be home last night, let alone to"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer and then goes to bed. Later that night, Steven's sister comes home and walks into the laundry room. She takes the blanket out of the dryer and puts it in the cupboard next to the dryer. She goes to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. Steven's sister calls Steven and tells him that she moved the blanket from the dryer to the cupboard. Steven believes his sister. He will look for the blanket in the",
+                "answers": [
+                    "cupboard next to the dryer. As he opens the cupboard door, he is greeted by the warm, freshly laundered blanket neatly folded on the middle shelf. He smiles, grateful for his sister's thoughtfulness, and takes the blanket back to his room, ready to enjoy its cozy comfort. The simple act of kindness from his sister reminds Steven of",
+                    "cupboard next to the dryer. As he opens the cupboard door, he is greeted by the warm, freshly dried blanket neatly folded on the middle shelf. A smile crosses his face, appreciating his sister's thoughtfulness. He picks up the blanket, feeling its softness between his fingers, and carries it back to his room, ready to start"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer and then goes to bed. Later that night, Steven's sister comes home and walks into the laundry room. She sees the blanket in the dryer but leaves it there and puts nothing in the cupboard next to the dryer. She goes to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. The blanket falls out from the",
+                "answers": [
+                    "dryer as he opens the door, but it feels different\u2014crisp and heavier than when he put it in. Puzzled, Steven shakes out the blanket, and to his surprise, a small object tumbles to the floor with a metallic clink. Bending down, he picks up a silver key, ornate and old-fashioned,",
+                    "cupboard next to the dryer, surprising Steven. He's puzzled because he distinctly remembers putting the blanket in the dryer the night before. Scratching his head, he wonders how it could have ended up neatly folded in the cupboard.\n\nSteven calls out to his sister, asking if she had done anything with the blanket. She groggily walks into the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer and then goes to bed. Later that night, Steven's sister comes home and walks into the laundry room. She sees the blanket in the dryer but leaves it there and puts nothing in the cupboard next to the dryer. She goes to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. He will look for the blanket in the",
+                "answers": [
+                    "dryer. Since Steven had placed the blanket in the dryer the night before and his sister did not remove it, it would be the logical place for him to look. Assuming the dryer cycle is complete, he would expect to find the blanket dry and warm, ready to be folded and used. If his sister had taken it out or moved it,",
+                    "dryer. Since Steven was the one who put the blanket in the dryer before going to bed, he would naturally look there first to retrieve it. His sister, having not disturbed it, provides no reason for him to think it would be anywhere else. Upon opening the dryer, he would find the blanket warm and dry, ready to be folded and"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

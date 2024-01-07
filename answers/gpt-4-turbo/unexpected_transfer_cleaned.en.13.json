@@ -1,0 +1,74 @@
+{
+    "nr": 13,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: The insurgents hide in the forest in Nottinghamshire. They are planning their next attack on the army checkpoint. One of the local farmers spots the insurgents and reports their whereabouts to the army. The army puts the troops on high alert and prepares to surround the insurgents. The insurgents realize what is going on and decide to abandon their base. They pack their tents and their weapons, and move to the forest in Oxfordshire. They do so in a stealthy way, so no one realizes that they have moved. They set up their base and start planning their next cunning attack. In the meantime, the army gets ready to attack. The insurgents march out of the forest located in",
+                "answers": [
+                    "Nottinghamshire, only to find that the insurgents have vanished without a trace. The army is baffled by the sudden disappearance of the rebels and begins a thorough search of the area. They comb through the dense forest, interrogate local sympathizers, and set up checkpoints on nearby roads, but all efforts seem futile.\n\nMeanwhile, in the forest of",
+                    "Nottinghamshire, only to find the army waiting for them. Confusion spreads among the insurgents as they realize their supposed secret move to Oxfordshire had been a ruse. Unbeknownst to them, the farmer who had spotted them was actually a double agent, working for the army. He had fed them false information about the army's knowledge"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: The insurgents hide in the forest in Nottinghamshire. They are planning their next attack on the army checkpoint. One of the local farmers spots the insurgents and reports their whereabouts to the army. The army puts the troops on high alert and prepares to surround the insurgents. The insurgents realize what is going on and decide to abandon their base. They pack their tents and their weapons, and move to the forest in Oxfordshire. They do so in a stealthy way, so no one realizes that they have moved. They set up their base and start planning their next cunning attack. In the meantime, the army gets ready to attack. The army will look for the insurgents in the forest located in",
+                "answers": [
+                    "Nottinghamshire, unaware that their quarry has already slipped away. The soldiers, clad in camouflage, move silently through the dense underbrush, their eyes scanning for any sign of the insurgents. They are confident that they have the upper hand, with the intelligence provided by the local farmer guiding their movements.\n\nAs dawn breaks, the army initiates a p",
+                    "Nottinghamshire, unaware that their quarry has already slipped away under the cover of darkness. The soldiers, clad in camouflage, move silently through the dense underbrush, their eyes scanning for any sign of the rebel encampment. But the forest is still, the only sound the occasional call of a night bird or the rustle of leaves in the"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: The insurgents hide in the forest in Nottinghamshire. They pack their tents and their weapons, and move to the forest in Oxfordshire. They set up their base and start planning their next cunning attack. Yet, one of the insurgents betrays her comrades and reports their whereabouts to the army. The army puts the troops on high alert and prepares to surround the insurgents. The insurgents march out of the forest located in",
+                "answers": [
+                    "Oxfordshire, unaware of the betrayal that has just occurred. The traitor, feeling a mix of fear and guilt, watches from a distance as the army begins to mobilize. She had joined the insurgents out of a sense of injustice, but the escalating violence and potential loss of innocent lives had become too much for her to bear. She had",
+                    "Oxfordshire, unaware of the betrayal that has just unfolded. The traitor, a woman who had once fought passionately alongside her comrades, feels a pang of guilt as she watches from a distance, knowing the consequences of her actions will soon unfold.\n\nThe army, with precise information on the insurgents' location, moves swiftly and silently. They surround the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: The insurgents hide in the forest in Nottinghamshire. They pack their tents and their weapons, and move to the forest in Oxfordshire. They set up their base and start planning their next cunning attack. Yet, one of the insurgents betrays her comrades and reports their whereabouts to the army. The army puts the troops on high alert and prepares to surround the insurgents. The army will look for the insurgents in the forest located in",
+                "answers": [
+                    "Oxfordshire. With the information provided by the traitorous insurgent, the army is able to devise a strategy that will allow them to approach the insurgents' new base with stealth and precision. The troops are dispatched at nightfall, taking advantage of the darkness to mask their movements. They move through the dense underbrush, guided by the light of",
+                    "Oxfordshire. With the information provided by the traitor, the army is able to devise a precise strategy to encircle the insurgents' new base. The soldiers, equipped with the latest technology and guided by the intelligence reports, move silently through the dense woodland. They are careful to avoid detection, knowing that the element of surprise is crucial to their"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: The insurgents hide in the forest in Nottinghamshire. They are planning their next attack on the army checkpoint. One of the local farmers spots the insurgents and reports their whereabouts to the army. The army puts the troops on high alert and prepares to surround the insurgents. The insurgents realize what is going on and decide to abandon their base. They pack their tents and their weapons, and move to the forest in Oxfordshire. They do so in a stealthy way, so no one realizes that they have moved. They set up their base and start planning their next cunning attack. In the meantime, the army gets ready to attack. One of the insurgents, John, calls his contact in the army, Lieutenant Smith, and tells him that they moved their base from Nottinghamshire to Oxfordshire. Lieutenant Smith believes John. The insurgents march out of the forest located in",
+                "answers": [
+                    "Oxfordshire under the cover of darkness, their movements silent as the night. They are careful to leave no trace behind, knowing that the army will soon descend upon their former camp. As they trek through the dense underbrush, they communicate with subtle hand signals and low whispers, aware that any mistake could lead to their discovery.\n\nBack in Nottinghamshire",
+                    "Oxfordshire under the cover of darkness, their movements silent as the night. They are careful to leave no trace behind, knowing that the army will soon descend upon their former camp. As they trek through the dense underbrush, they communicate with subtle hand signals and low whispers, aware that any mistake could lead to their discovery.\n\nBack in Nottinghamshire"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: The insurgents hide in the forest in Nottinghamshire. They are planning their next attack on the army checkpoint. One of the local farmers spots the insurgents and reports their whereabouts to the army. The army puts the troops on high alert and prepares to surround the insurgents. The insurgents realize what is going on and decide to abandon their base. They pack their tents and their weapons, and move to the forest in Oxfordshire. They do so in a stealthy way, so no one realizes that they have moved. They set up their base and start planning their next cunning attack. In the meantime, the army gets ready to attack. One of the insurgents, John, calls his contact in the army, Lieutenant Smith, and tells him that they moved their base from Nottinghamshire to Oxfordshire. Lieutenant Smith believes John. The army will look for the insurgents in the forest located in",
+                "answers": [
+                    "Oxfordshire. However, John's call was a ruse, a clever deception to mislead the army. The insurgents had not actually moved to Oxfordshire; instead, they had merely shifted to a deeper, more concealed part of the Nottinghamshire forest. John knew that Lieutenant Smith had a soft spot for him, as they had grown up in",
+                    "Oxfordshire. Lieutenant Smith quickly relays the information up the chain of command, and the army redirects its forces towards the new location. The insurgents, aware that they have a limited window of time before the army descends upon them, work quickly and quietly to establish their new camp. They choose a dense part of the forest, where the canopy"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: The insurgents hide in the forest in Nottinghamshire. They are planning their next attack on the army checkpoint. One of the local farmers spots the insurgents and reports their whereabouts to the army. The army puts the troops on high alert and prepares to surround the insurgents. The insurgents realize what is going on and decide to fortify their base. They pack their tents and their weapons, and prepare to defend the forest in Nottinghamshire. They do so in a stealthy way, so no one realizes that they have stayed. They fortify their base and start planning their next cunning attack. In the meantime, the army gets ready to attack. The insurgents march out of the forest located in",
+                "answers": [
+                    "Nottinghamshire under the cover of darkness, their movements silent as the night. They are a small but determined group, their resolve as unyielding as the ancient trees that have provided them shelter. The farmer's report had been a wake-up call, a reminder that their presence was not as invisible as they had hoped.\n\nThe army, with its",
+                    "Nottinghamshire under the cover of darkness, their movements silent as the night. They are aware that the element of surprise is crucial to their survival and the success of their next operation. The insurgents, a mix of seasoned fighters and local sympathizers, understand the terrain better than the army does. They use this knowledge to their advantage, moving through hidden"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: The insurgents hide in the forest in Nottinghamshire. They are planning their next attack on the army checkpoint. One of the local farmers spots the insurgents and reports their whereabouts to the army. The army puts the troops on high alert and prepares to surround the insurgents. The insurgents realize what is going on and decide to fortify their base. They pack their tents and their weapons, and prepare to defend the forest in Nottinghamshire. They do so in a stealthy way, so no one realizes that they have stayed. They fortify their base and start planning their next cunning attack. In the meantime, the army gets ready to attack. The army will look for the insurgents in the forest located in",
+                "answers": [
+                    "Nottinghamshire, using all the intelligence and reconnaissance at their disposal. The local farmer's tip had been invaluable, but the insurgents were a cunning and resourceful enemy, well-versed in guerrilla tactics and the art of camouflage.\n\nAs the army units move into position, they are acutely aware that the forest could be full of traps and ambush",
+                    "the heart of Nottinghamshire, where the dense canopy of ancient oaks and whispering pines has long been rumored to conceal more than just wildlife. The soldiers, clad in camouflage, move with practiced stealth, their boots barely making a sound on the forest floor as they advance in a coordinated sweep pattern.\n\nUnbeknownst to the army, the"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

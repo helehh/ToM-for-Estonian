@@ -1,0 +1,74 @@
+{
+    "nr": 16,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Fred, IT-tehnik, seadistas \u00fche uue konsultandi jaoks arvutit. Ta salvestas kirjaplangi faili Dokumentide kausta. Kui Fred oli teiste t\u00f6\u00f6tajatega l\u00f5unat s\u00f6\u00f6mas, tuli konsultant oma arvutile j\u00e4rele. Kuna Fred oli \u00e4ra, kontrollis tema \u00fclemus, Mary, arvutit, et n\u00e4ha, kas see on valmis. Ta m\u00e4rkas, et kirjaplangi fail oli pandud Dokumentide kausta. Talle meenus, et uue juhendi kohaselt tuleks kirjaplangi faili hoida Mallide kaustas. Ta eemaldas selle Dokumentide kaustast ja viis Mallide kausta. Seej\u00e4rel andis ta arvuti konsultandile \u00fcle. Mary otsustas, et j\u00e4rgmisel t\u00f6\u00f6tajate koosolekul tuletab ta Fredile meelde uut juhendit. Ta lahkus kontorist, et kohtuda oma \u00fclemusega. M\u00f5ni minut hiljem helistas uus konsultant IT-osakonda. Fred oli endiselt l\u00f5unal, kuid k\u00f5ne suunati automaatselt tema mobiiltelefonile. Konsultant palus Fredilt abi kirjaplangi faili leidmisega oma uuest arvutist. Kirjaplangi fail asub kaustas, mille nimi on",
+                "answers": [
+                    "Mallid. Fred kuulis konsultandi palvet ja selgitas talle, kuidas leida kirjaplangi faili uuest arvutist. Ta juhendas konsultanti avama File Explorer'i ja navigeerima kausta nimega Mallid. Konsultant j\u00e4rg",
+                    "Mallid."
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Fred, IT-tehnik, seadistas \u00fche uue konsultandi jaoks arvutit. Ta salvestas kirjaplangi faili Dokumentide kausta. Kui Fred oli teiste t\u00f6\u00f6tajatega l\u00f5unat s\u00f6\u00f6mas, tuli konsultant oma arvutile j\u00e4rele. Kuna Fred oli \u00e4ra, kontrollis tema \u00fclemus, Mary, arvutit, et n\u00e4ha, kas see on valmis. Ta m\u00e4rkas, et kirjaplangi fail oli pandud Dokumentide kausta. Talle meenus, et uue juhendi kohaselt tuleks kirjaplangi faili hoida Mallide kaustas. Ta eemaldas selle Dokumentide kaustast ja viis Mallide kausta. Seej\u00e4rel andis ta arvuti konsultandile \u00fcle. Mary otsustas, et j\u00e4rgmisel t\u00f6\u00f6tajate koosolekul tuletab ta Fredile meelde uut juhendit. Ta lahkus kontorist, et kohtuda oma \u00fclemusega. M\u00f5ni minut hiljem helistas uus konsultant IT-osakonda. Fred oli endiselt l\u00f5unal, kuid k\u00f5ne suunati automaatselt tema mobiiltelefonile. Konsultant palus Fredilt abi kirjaplangi faili leidmisega oma uuest arvutist. Fred \u00fctleb konsultandile, et kirjaplangi fail on kaustas, mille nimi on",
+                "answers": [
+                    "\"Mallid\". Ta selgitab, et tema \u00fclemus, Mary, oli selle sinna viinud vastavalt uuele juhendile. Fred soovitab konsultandil kontrollida arvuti Mallide kausta, kus peaks olema kirjaplangi fail. Kons",
+                    "\"Mallid\". Ta selgitab, et tema \u00fclemus, Mary, oli selle sinna viinud vastavalt uuele juhendile. Fred soovitab konsultandil kontrollida arvuti Mallid kaustas, kuna see on t\u00f5en\u00e4oliselt seal. K"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Fred, IT-tehnik, seadistas \u00fche uue konsultandi jaoks arvutit. Ta salvestas kirjaplangi faili Dokumentide kausta. Konsultant tuli oma arvutile j\u00e4rele. Tema \u00fclemus, Mary, kontrollis arvutit, et n\u00e4ha, kas see on valmis. Ta m\u00e4rkas, et kirjaplangi fail on pandud Dokumentide kausta. Ta meenutas, et vastavalt uuele juhendile tuleks kirjaplangi faili hoida Mallide kaustas. Fred vaatas pealt, kuidas ta liigutas kirjaplangi faili Dokumentide kaustast Mallide kausta. Seej\u00e4rel andis ta arvuti konsultandile \u00fcle. Mary otsustas, et j\u00e4rgmisel t\u00f6\u00f6tajate koosolekul tuletab ta oma personalile meelde uut juhendit. Nii Fred kui ka Mary lahkusid kontorist. M\u00f5ni minut hiljem helistas uus konsultant IT-osakonda. Fred oli endiselt l\u00f5unal, kuid k\u00f5ne suunati automaatselt tema mobiiltelefonile. Konsultant palus Fredilt abi kirjaplangi faili leidmisega oma uuest arvutist. Kirjaplangi fail asub kaustas, mille nimi on",
+                "answers": [
+                    "\"Mallid\".",
+                    "\"Mallid\"."
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Fred, IT-tehnik, seadistas \u00fche uue konsultandi jaoks arvutit. Ta salvestas kirjaplangi faili Dokumentide kausta. Konsultant tuli oma arvutile j\u00e4rele. Tema \u00fclemus, Mary, kontrollis arvutit, et n\u00e4ha, kas see on valmis. Ta m\u00e4rkas, et kirjaplangi fail on pandud Dokumentide kausta. Ta meenutas, et vastavalt uuele juhendile tuleks kirjaplangi faili hoida Mallide kaustas. Fred vaatas pealt, kuidas ta liigutas kirjaplangi faili Dokumentide kaustast Mallide kausta. Seej\u00e4rel andis ta arvuti konsultandile \u00fcle. Mary otsustas, et j\u00e4rgmisel t\u00f6\u00f6tajate koosolekul tuletab ta oma personalile meelde uut juhendit. Nii Fred kui ka Mary lahkusid kontorist. M\u00f5ni minut hiljem helistas uus konsultant IT-osakonda. Fred oli endiselt l\u00f5unal, kuid k\u00f5ne suunati automaatselt tema mobiiltelefonile. Konsultant palus Fredilt abi kirjaplangi faili leidmisega oma uuest arvutist. Fred \u00fctleb konsultandile, et kirjaplangi fail on kaustas, mille nimi on",
+                "answers": [
+                    "\"Mallid\". Ta juhendab konsultanti, kuidas leida kausta ja avada kirjaplangi fail. Konsultant t\u00e4nab teda abi eest ja nad l\u00f5petavad k\u00f5ne.\n\nFred naaseb kontorisse ja m\u00e4rkab, et tema mobi",
+                    "\"Mallid\". Ta juhendab konsultanti, kuidas leida kausta ja avada kirjaplangi fail. Konsultant t\u00e4nab teda abi eest ja nad l\u00f5petavad k\u00f5ne.\n\nFred naaseb kontorisse ja m\u00e4rkab, et tema mobi"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Fred, IT-tehnik, seadistas \u00fche uue konsultandi jaoks arvutit. Ta salvestas kirjaplangi faili Dokumentide kausta. Kui Fred oli teiste t\u00f6\u00f6tajatega l\u00f5unat s\u00f6\u00f6mas, tuli konsultant oma arvutile j\u00e4rele. Kuna Fred oli \u00e4ra, kontrollis tema \u00fclemus, Mary, arvutit, et n\u00e4ha, kas see on valmis. Ta m\u00e4rkas, et kirjaplangi fail oli pandud Dokumentide kausta. Talle meenus, et uue juhendi kohaselt tuleks kirjaplangi faili hoida Mallide kaustas. Ta eemaldas selle Dokumentide kaustast ja viis Mallide kausta. Seej\u00e4rel andis ta arvuti konsultandile \u00fcle. Mary otsustas, et j\u00e4rgmisel t\u00f6\u00f6tajate koosolekul tuletab ta Fredile meelde uut juhendit. Ta lahkus kontorist, et kohtuda oma \u00fclemusega. M\u00f5ni minut hiljem helistas uus konsultant IT-osakonda. Fred oli endiselt l\u00f5unal, kuid k\u00f5ne suunati automaatselt tema mobiiltelefonile. Konsultant palus Fredilt abi kirjaplangi faili leidmisega oma uuest arvutist. Mary helistab Fredile ja \u00fctleb talle, et ta liigutas kirjaplangi faili Dokumentide kaustast Mallide kausta. Fred usub Maryt. Kirjaplangi fail asub kaustas, mille nimi on",
+                "answers": [
+                    "\"Kirjaplangid\". Fred juhendab konsultanti, kuidas leida faili uuest arvutist ning veendub, et see on \u00f5iges kaustas. Ta t\u00e4nab Maryt, et ta sellest teavitas, ja lubab j\u00e4rgida uut ju",
+                    "\"Failid\""
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Fred, IT-tehnik, seadistas \u00fche uue konsultandi jaoks arvutit. Ta salvestas kirjaplangi faili Dokumentide kausta. Kui Fred oli teiste t\u00f6\u00f6tajatega l\u00f5unat s\u00f6\u00f6mas, tuli konsultant oma arvutile j\u00e4rele. Kuna Fred oli \u00e4ra, kontrollis tema \u00fclemus, Mary, arvutit, et n\u00e4ha, kas see on valmis. Ta m\u00e4rkas, et kirjaplangi fail oli pandud Dokumentide kausta. Talle meenus, et uue juhendi kohaselt tuleks kirjaplangi faili hoida Mallide kaustas. Ta eemaldas selle Dokumentide kaustast ja viis Mallide kausta. Seej\u00e4rel andis ta arvuti konsultandile \u00fcle. Mary otsustas, et j\u00e4rgmisel t\u00f6\u00f6tajate koosolekul tuletab ta Fredile meelde uut juhendit. Ta lahkus kontorist, et kohtuda oma \u00fclemusega. M\u00f5ni minut hiljem helistas uus konsultant IT-osakonda. Fred oli endiselt l\u00f5unal, kuid k\u00f5ne suunati automaatselt tema mobiiltelefonile. Konsultant palus Fredilt abi kirjaplangi faili leidmisega oma uuest arvutist. Mary helistab Fredile ja \u00fctleb talle, et ta liigutas kirjaplangi faili Dokumentide kaustast Mallide kausta. Fred usub Maryt. Fred \u00fctleb konsultandile, et kirjaplangi fail on kaustas, mille nimi on",
+                "answers": [
+                    "\"Mallid\". Konsultant t\u00e4nab Fredi abi eest ja l\u00e4heb faili otsima. Kuid kui ta avab Mallide kausta, ei leia ta seal kirjaplangi faili. Ta helistab uuesti Fredile ja \u00fctleb, et faili pole ka",
+                    "\"Mallid\". Konsultant t\u00e4nab Fredi abi eest ja l\u00e4heb faili otsima. Kuid kui ta avab Mallide kausta, ei leia ta seal kirjaplangi faili. Ta helistab uuesti Fredile ja \u00fctleb, et faili pole ka"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Fred, IT-tehnik, seadistas \u00fche uue konsultandi jaoks arvutit. Ta salvestas kirjaplangi faili Dokumentide kausta. Kui Fred oli teiste t\u00f6\u00f6tajatega l\u00f5unat s\u00f6\u00f6mas, tuli konsultant oma arvutile j\u00e4rele. Kuna Fred oli \u00e4ra, kontrollis tema \u00fclemus, Mary, arvutit, et n\u00e4ha, kas see on valmis. Ta m\u00e4rkas, et kirjaplangi fail oli pandud Dokumentide kausta. Talle meenus, et uue juhendi kohaselt tuleks kirjaplangi faili hoida Mallide kaustas. Siiski otsustas ta seda hetkel mitte \u00fcmber t\u00f5sta ja j\u00e4ttis selle Dokumentide kausta. Seej\u00e4rel andis ta arvuti konsultandile \u00fcle. Mary otsustas, et j\u00e4rgmisel t\u00f6\u00f6tajate koosolekul tuletab ta Fredile meelde uut juhendit. Ta lahkus kontorist, et kohtuda oma \u00fclemusega. M\u00f5ni minut hiljem helistas uus konsultant IT-osakonda. Fred oli endiselt l\u00f5unal, kuid k\u00f5ne suunati automaatselt tema mobiiltelefonile. Konsultant palus Fredilt abi kirjaplangi faili leidmisega oma uuest arvutist. Kirjaplangi fail asub kaustas, mille nimi on",
+                "answers": [
+                    "\"Mallid\".",
+                    "\"Mallid\"."
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Fred, IT-tehnik, seadistas \u00fche uue konsultandi jaoks arvutit. Ta salvestas kirjaplangi faili Dokumentide kausta. Kui Fred oli teiste t\u00f6\u00f6tajatega l\u00f5unat s\u00f6\u00f6mas, tuli konsultant oma arvutile j\u00e4rele. Kuna Fred oli \u00e4ra, kontrollis tema \u00fclemus, Mary, arvutit, et n\u00e4ha, kas see on valmis. Ta m\u00e4rkas, et kirjaplangi fail oli pandud Dokumentide kausta. Talle meenus, et uue juhendi kohaselt tuleks kirjaplangi faili hoida Mallide kaustas. Siiski otsustas ta seda hetkel mitte \u00fcmber t\u00f5sta ja j\u00e4ttis selle Dokumentide kausta. Seej\u00e4rel andis ta arvuti konsultandile \u00fcle. Mary otsustas, et j\u00e4rgmisel t\u00f6\u00f6tajate koosolekul tuletab ta Fredile meelde uut juhendit. Ta lahkus kontorist, et kohtuda oma \u00fclemusega. M\u00f5ni minut hiljem helistas uus konsultant IT-osakonda. Fred oli endiselt l\u00f5unal, kuid k\u00f5ne suunati automaatselt tema mobiiltelefonile. Konsultant palus Fredilt abi kirjaplangi faili leidmisega oma uuest arvutist. Fred \u00fctleb konsultandile, et kirjaplangi fail on kaustas, mille nimi on",
+                "answers": [
+                    "Dokumentide kaust. Konsultant l\u00e4ks arvuti juurde ja avas Dokumentide kausta, kuid ei leidnud seal kirjaplangi faili. Ta oli segaduses ja helistas uuesti IT-osakonda, et Fredilt t\u00e4psustust saada.",
+                    "Dokumentide kaust. Konsultant l\u00e4ks arvuti juurde ja avas Dokumentide kausta, kuid ei leidnud seal kirjaplangi faili. Ta oli segaduses ja helistas uuesti IT-osakonda, et Fredilt t\u00e4psustust saada."
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

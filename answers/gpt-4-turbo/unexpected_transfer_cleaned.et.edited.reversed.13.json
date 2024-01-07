@@ -1,0 +1,74 @@
+{
+    "nr": 13,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: M\u00e4ssulised peidavad end Oxfordshire'i metsas. Nad plaanivad oma j\u00e4rgmist r\u00fcnnakut armee kontrollpunktile. \u00dcks kohalik talunik m\u00e4rkab m\u00e4ssulisi ja teatab nende asukohast armeele. Armee seab v\u00e4ed k\u00f5rgendatud valmisolekusse ja valmistub m\u00e4ssulisi sisse piirama. M\u00e4ssulised saavad aru, mis toimub, ja otsustavad oma baasi maha j\u00e4tta. Nad pakivad kokku oma telgid ja relvad ning liiguvad Nottinghamshire'i metsa. Nad teevad seda salaja, nii et keegi ei saa aru, et nad on \u00e4ra l\u00e4inud. Nad seavad \u00fcles oma baasi ja hakkavad kavandama oma j\u00e4rgmist kavalat r\u00fcnnakut. Vahepeal valmistub armee r\u00fcnnakuks. M\u00e4ssulised marssivad v\u00e4lja metsast, mis asub",
+                "answers": [
+                    "Oxfordshire'i ja Nottinghamshire'i piiril, kus nad olid varem peitunud. Nad on teadlikud, et aeg on nende vastu ja et iga hetk v\u00f5ib armee nende uue asukoha avastada. M\u00e4ssuliste juht, tunt",
+                    "Oxfordshire'i ja Nottinghamshire'i piiril, kus nad olid viimati n\u00e4htud. Armee on kindel, et nad suudavad m\u00e4ssulised kinni p\u00fc\u00fcda ja konflikti l\u00f5petada. Kuid kui nad j\u00f5uavad metsa"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: M\u00e4ssulised peidavad end Oxfordshire'i metsas. Nad plaanivad oma j\u00e4rgmist r\u00fcnnakut armee kontrollpunktile. \u00dcks kohalik talunik m\u00e4rkab m\u00e4ssulisi ja teatab nende asukohast armeele. Armee seab v\u00e4ed k\u00f5rgendatud valmisolekusse ja valmistub m\u00e4ssulisi sisse piirama. M\u00e4ssulised saavad aru, mis toimub, ja otsustavad oma baasi maha j\u00e4tta. Nad pakivad kokku oma telgid ja relvad ning liiguvad Nottinghamshire'i metsa. Nad teevad seda salaja, nii et keegi ei saa aru, et nad on \u00e4ra l\u00e4inud. Nad seavad \u00fcles oma baasi ja hakkavad kavandama oma j\u00e4rgmist kavalat r\u00fcnnakut. Vahepeal valmistub armee r\u00fcnnakuks. Armee otsib m\u00e4ssulisi metsast, mis asub",
+                "answers": [
+                    "Oxfordshire'is, kuid leiavad vaid t\u00fchjad laagrid ja mahaj\u00e4etud varustuse. M\u00e4ssuliste j\u00e4ljed on osavalt peidetud, j\u00e4ttes armee segadusse ja aega raiskama. Talunik, kes oli m\u00e4ssul",
+                    "Oxfordshire'is, kuid leiab vaid t\u00fchjad laagrid ja mahaj\u00e4etud varustuse. M\u00e4ssuliste j\u00e4ljed on osavalt peidetud, j\u00e4ttes armee segadusse ja aega raiskama. Kui selgub, et m\u00e4"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: M\u00e4ssulised peidavad end Oxfordshire'i metsas. Nad pakivad kokku oma telgid ja relvad ning liiguvad Nottinghamshire'i metsa. Nad seavad \u00fcles oma baasi ja hakkavad kavandama oma j\u00e4rgmist kavalat r\u00fcnnakut. Kuid \u00fcks m\u00e4ssulistest reedab oma kaaslased ja teatab nende asukohast armeele. Armee seab v\u00e4ed k\u00f5rgendatud valmisolekusse ja valmistub m\u00e4ssulisi sisse piirama. M\u00e4ssulised marssivad v\u00e4lja metsast, mis asub",
+                "answers": [
+                    "Sherwoodi s\u00fcdames, kus nad on saanud inspiratsiooni legendaarsest Robin Hoodist, kes v\u00f5itles samuti eba\u00f5igluse ja t\u00fcrannia vastu. Nad on otsustanud v\u00f5tta ette julge r\u00fcnnaku, et n\u00e4idata oma vastuse",
+                    "Sherwoodi s\u00fcdames, teadmata, et neid on reedetud. Nad on harjunud olema varjus ja kasutama metsa oma varjupaigana, kuid seekord on olukord teistsugune. Nende liikumine on vaikne, kuid"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: M\u00e4ssulised peidavad end Oxfordshire'i metsas. Nad pakivad kokku oma telgid ja relvad ning liiguvad Nottinghamshire'i metsa. Nad seavad \u00fcles oma baasi ja hakkavad kavandama oma j\u00e4rgmist kavalat r\u00fcnnakut. Kuid \u00fcks m\u00e4ssulistest reedab oma kaaslased ja teatab nende asukohast armeele. Armee seab v\u00e4ed k\u00f5rgendatud valmisolekusse ja valmistub m\u00e4ssulisi sisse piirama. Armee otsib m\u00e4ssulisi metsast, mis asub",
+                "answers": [
+                    "Sherwoodi metsa s\u00fcgavuses, kus legendide j\u00e4rgi varjas end kunagi kuulus r\u00f6\u00f6vel Robin Hood koos oma meestega. M\u00e4ssulised, kes olid harjunud metsa varjulises pimeduses liikuma, kasutasid \u00e4ra oma",
+                    "Sherwoodi metsa s\u00fcgavuses. M\u00e4ssulised, kes on harjunud metsa varjuliste radadega, kasutavad oma teadmisi, et varjata oma liikumist ja j\u00e4\u00e4da \u00fche sammu v\u00f5rra eespool armee patrullid"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: M\u00e4ssulised peidavad end Oxfordshire'i metsas. Nad plaanivad oma j\u00e4rgmist r\u00fcnnakut armee kontrollpunktile. \u00dcks kohalik talunik m\u00e4rkab m\u00e4ssulisi ja teatab nende asukohast armeele. Armee seab v\u00e4ed k\u00f5rgendatud valmisolekusse ja valmistub m\u00e4ssulisi sisse piirama. MM\u00e4ssulised saavad aru, mis toimub, ja otsustavad oma baasi maha j\u00e4tta. Nad pakivad kokku oma telgid ja relvad ning liiguvad Nottinghamshire'i metsa. Nad teevad seda salaja, nii et keegi ei saa aru, et nad on \u00e4ra l\u00e4inud. Nad seavad \u00fcles oma baasi ja hakkavad kavandama oma j\u00e4rgmist kavalat r\u00fcnnakut. Vahepeal valmistub armee r\u00fcnnakuks. \u00dcks m\u00e4ssulistest, John, helistab oma kontaktisikule armees, leitnant Smithile, ja \u00fctleb talle, et nad on oma baasi Oxfordshire'ist Nottinghamshire'i viinud. Leitnant Smith usub Johni. M\u00e4ssulised marssivad v\u00e4lja metsast, mis asub",
+                "answers": [
+                    "Nottinghamshire'i s\u00fcdames, varjates end paksu lehestiku all. Nad on valinud oma uue asukoha hoolikalt, et see oleks varjatud ja raskesti ligip\u00e4\u00e4setav, lootes, et see annab neile strateegilise eel",
+                    "Nottinghamshire'i s\u00fcdames, kus nad on loonud uue laagri. Nad on valinud selle koha hoolikalt, et see oleks varjatud ja raskesti ligip\u00e4\u00e4setav, lootes, et see annab neile strateegilise eelise"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: M\u00e4ssulised peidavad end Oxfordshire'i metsas. Nad plaanivad oma j\u00e4rgmist r\u00fcnnakut armee kontrollpunktile. \u00dcks kohalik talunik m\u00e4rkab m\u00e4ssulisi ja teatab nende asukohast armeele. Armee seab v\u00e4ed k\u00f5rgendatud valmisolekusse ja valmistub m\u00e4ssulisi sisse piirama. MM\u00e4ssulised saavad aru, mis toimub, ja otsustavad oma baasi maha j\u00e4tta. Nad pakivad kokku oma telgid ja relvad ning liiguvad Nottinghamshire'i metsa. Nad teevad seda salaja, nii et keegi ei saa aru, et nad on \u00e4ra l\u00e4inud. Nad seavad \u00fcles oma baasi ja hakkavad kavandama oma j\u00e4rgmist kavalat r\u00fcnnakut. Vahepeal valmistub armee r\u00fcnnakuks. \u00dcks m\u00e4ssulistest, John, helistab oma kontaktisikule armees, leitnant Smithile, ja \u00fctleb talle, et nad on oma baasi Oxfordshire'ist Nottinghamshire'i viinud. Leitnant Smith usub Johni. Armee otsib m\u00e4ssulisi metsast, mis asub",
+                "answers": [
+                    "Oxfordshire'is, kuid ei leia neid. Nad on segaduses, sest k\u00f5ik vihjed ja luureandmed n\u00e4itasid, et m\u00e4ssulised peaksid seal olema. Vahepeal Nottinghamshire'i metsas kohanevad m\u00e4ssulised",
+                    "Oxfordshire'is, kuid ei leia neid. Nad on segaduses, sest k\u00f5ik vihjed ja luureandmed n\u00e4itasid, et m\u00e4ssulised peaksid seal olema. Vahepeal Nottinghamshire'i metsas kohanevad m\u00e4ssulised"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: M\u00e4ssulised peidavad end Oxfordshire'i metsas. Nad plaanivad oma j\u00e4rgmist r\u00fcnnakut armee kontrollpunktile. \u00dcks kohalik talunik m\u00e4rkab m\u00e4ssulisi ja teatab nende asukohast armeele. Armee seab v\u00e4ed k\u00f5rgendatud valmisolekusse ja valmistub m\u00e4ssulisi sisse piirama. M\u00e4ssajad saavad aru, mis toimub, ja otsustavad oma baasi kindlustada. Nad pakivad kokku oma telgid ja relvad ning valmistuvad Oxfordshire'i metsa kaitsma. Nad teevad seda salaja, nii et keegi ei saa aru, et nad on paigale j\u00e4\u00e4nud. Nad kindlustavad oma baasi ja hakkavad kavandama oma j\u00e4rgmist kavalat r\u00fcnnakut. Vahepeal valmistub armee r\u00fcnnakuks. M\u00e4ssulised marssivad v\u00e4lja metsast, mis asub",
+                "answers": [
+                    "Oxfordshire'i k\u00fcnklikul maastikul, kus puude varjud peidavad nende liikumist. Nad on otsustanud kasutada maastiku eeliseid, et korraldada ootamatu r\u00fcnnak armee kontrollpunktile. M\u00e4ss",
+                    "Oxfordshire'i k\u00fcnklikul maastikul, kus puude varjud peidavad nende liikumist. Nad on otsustanud kasutada maastiku eeliseid, et korraldada ootamatu r\u00fcnnak armee kontrollpunktile \u00f6\u00f6 varj"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: M\u00e4ssulised peidavad end Oxfordshire'i metsas. Nad plaanivad oma j\u00e4rgmist r\u00fcnnakut armee kontrollpunktile. \u00dcks kohalik talunik m\u00e4rkab m\u00e4ssulisi ja teatab nende asukohast armeele. Armee seab v\u00e4ed k\u00f5rgendatud valmisolekusse ja valmistub m\u00e4ssulisi sisse piirama. M\u00e4ssajad saavad aru, mis toimub, ja otsustavad oma baasi kindlustada. Nad pakivad kokku oma telgid ja relvad ning valmistuvad Oxfordshire'i metsa kaitsma. Nad teevad seda salaja, nii et keegi ei saa aru, et nad on paigale j\u00e4\u00e4nud. Nad kindlustavad oma baasi ja hakkavad kavandama oma j\u00e4rgmist kavalat r\u00fcnnakut. Vahepeal valmistub armee r\u00fcnnakuks. Armee otsib m\u00e4ssulisi metsast, mis asub",
+                "answers": [
+                    "Oxfordshire'i k\u00fcnklikul maastikul, kus tihedad lehtpuud ja p\u00f5\u00f5sad pakuvad ideaalset varjupaika. M\u00e4ssulised, kes on kogenud metsaelu ja elluj\u00e4\u00e4misoskusi, kasutavad \u00e4ra looduslik",
+                    "Oxfordshire'i k\u00fcnklikul maastikul, kus tihedad lehtpuusalud ja vanad tammed pakuvad varjupaika ja looduslikku kindlustust. M\u00e4ssulised, kes on kogenud sissiv\u00f5itlejad, kasutavad \u00e4ra maastiku"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

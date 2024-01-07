@@ -1,0 +1,74 @@
+{
+    "nr": 7,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Max watches his little brother put laundry in the box. Next, Max leaves the house to play in the courtyard. While Max is gone, his brother moves the laundry from the box to the basket. He closes the basket and leaves for school. Max comes back home and wants to fold the laundry. The laundry falls out of the",
+                "answers": [
+                    "basket as Max lifts the lid, revealing a colorful array of clothes that had been hastily stuffed inside by his little brother. Max sighs, a smile tugging at the corners of his mouth despite the extra work now before him. He shakes his head, amused by his brother's attempt at helping with the chores.\n\nMax kneels down and begins to",
+                    "basket as Max lifts the lid, revealing a neatly organized pile of clothes. Surprised, Max smiles, realizing his little brother has not only moved the laundry but also folded it. Max feels a surge of pride and gratitude for his brother's unexpected help.\n\nMax picks up the clothes, piece by piece, and notices how meticulously each item has been"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Max watches his little brother put laundry in the box. Next, Max leaves the house to play in the courtyard. While Max is gone, his brother moves the laundry from the box to the basket. He closes the basket and leaves for school. Max comes back home and wants to fold the laundry. Max will look for the laundry in the",
+                "answers": [
+                    "box, but to his surprise, it's not there. Puzzled, Max scratches his head, wondering if he had made a mistake. He retraces his steps, thinking maybe he had already folded the laundry and forgotten about it. But no, the folded clothes are nowhere to be found.\n\nMax starts to search around the house, calling out",
+                    "box, but to his surprise, it's empty. Puzzled, Max scratches his head, wondering if he had just imagined seeing his little brother putting the laundry there. He calls out his brother's name, but there's no response. Remembering that his brother mentioned something about school, Max realizes that he must have left already.\n\nMax starts"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Max watches his little brother as he is dealing with the laudry. His little brother puts it in the box. Next, his little brother moves it from the box to the basket and closes the basket. Next, both boys leave for school. Later that day, Max comes back home and wants to fold the laundry. The laundry falls out of the",
+                "answers": [
+                    "basket as he opens it, revealing a chaotic jumble of clothes. Max sighs, realizing that his little brother's method of transferring the laundry from the box to the basket was less about sorting and more about just getting it out of the way.\n\nMax starts by separating the clothes into different piles: one for socks, another for shirts, and so",
+                    "basket as he opens it, revealing a jumbled mix of colors and fabrics. Max sighs, realizing that his little brother had tried his best but hadn't quite mastered the art of sorting laundry before washing it. Everything was tangled together, and a few items had even changed color, evidence of a rogue red sock among the whites.\n\nMax kneels"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Max watches his little brother as he is dealing with the laudry. His little brother puts it in the box. Next, his little brother moves it from the box to the basket and closes the basket. Next, both boys leave for school. Later that day, Max comes back home and wants to fold the laundry. Max will look for the laundry in the",
+                "answers": [
+                    "basket, expecting to find the clothes his little brother had earlier put away. However, when Max opens the basket, he is surprised to find it empty. Puzzled, he wonders if his little brother might have moved the laundry somewhere else after he left for school.\n\nMax calls out to his little brother, who is now in the living room playing",
+                    "basket, expecting to find the clothes his little brother had earlier put away. However, when Max opens the basket, he is surprised to find it empty. Puzzled, he wonders if his little brother might have moved the laundry somewhere else after he left for school.\n\nMax calls out to his little brother, who is now in the living room playing"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Max watches his little brother put laundry in the box. Next, Max leaves the house to play in the courtyard. While Max is gone, his brother moves the laundry from the box to the basket. He closes the basket and leaves for school. Max comes back home and wants to fold the laundry. Max's brother calls Max and tells him that he moved the laundry from the box to the basket. Max believes his brother. The laundry falls out of the",
+                "answers": [
+                    "basket as Max lifts it, because the bottom of the basket had been weakened over time and finally gave way. Max stares in disbelief at the pile of clothes now scattered on the floor. He sighs, realizing that he'll have to gather everything up again before he can start folding.\n\nMax kneels down and starts picking up the clothes, piece by",
+                    "basket as Max lifts it, because the bottom of the basket is broken and he hadn't noticed. Laundry scatters all over the floor, a colorful mess of socks, shirts, and pants. Max sighs, a little frustrated at the unexpected turn of events. He kneels down and starts picking up the pieces, sorting them into little piles according"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Max watches his little brother put laundry in the box. Next, Max leaves the house to play in the courtyard. While Max is gone, his brother moves the laundry from the box to the basket. He closes the basket and leaves for school. Max comes back home and wants to fold the laundry. Max's brother calls Max and tells him that he moved the laundry from the box to the basket. Max believes his brother. Max will look for the laundry in the",
+                "answers": [
+                    "basket. He walks over to where the basket usually sits, and sure enough, there it is, looking quite full. Max smiles, appreciating his little brother's effort to help out with the chores. He grabs the basket and brings it over to the living room, where there's plenty of space to fold clothes.\n\nAs Max starts to sort through",
+                    "basket. He walks over to where the basket usually sits, and sure enough, it's closed just as his brother said. Max opens the basket and is surprised to find it neatly filled with all the clean laundry. He smiles, appreciating his little brother's effort to help out with the chores.\n\nMax pulls out the clothes one by one, neatly"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Max watches his little brother put laundry in the box. Next, Max leaves the house to play in the courtyard. While Max is gone, his brother thinks about moving the laundry from the box to the basket, but decides against it. He closes the basket and leaves for school. Max comes back home and wants to fold the laundry. The laundry falls out of the",
+                "answers": [
+                    "box as Max lifts it, because it was overfilled and not properly closed. Max sighs, looking at the scattered clothes on the floor. He had hoped that his little brother would have at least transferred them to the basket, making it easier to carry and fold. But he understands that his brother is still learning to take on these responsibilities.\n\nMax",
+                    "box as Max lifts it, because his little brother hadn't secured it properly. Max sighs, looking at the scattered clothes on the floor. He had hoped to have a quick chore before settling down with his favorite book. Now, he would have to spend extra time picking everything up and folding it.\n\nMax kneels down and starts gathering the clothes"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Max watches his little brother put laundry in the box. Next, Max leaves the house to play in the courtyard. While Max is gone, his brother thinks about moving the laundry from the box to the basket, but decides against it. He closes the basket and leaves for school. Max comes back home and wants to fold the laundry. Max will look for the laundry in the",
+                "answers": [
+                    "basket, expecting to find the clothes his brother was supposed to have moved earlier. However, to his surprise, the basket is empty. Puzzled, Max scratches his head, wondering if he had made a mistake. He retraces his steps back to the box where his little brother initially put the laundry. Sure enough, there it is, still",
+                    "basket, expecting to find the clothes his brother was supposed to have moved earlier. However, to his surprise, the basket is empty. Puzzled, Max scratches his head, wondering if he had made a mistake. He retraces his steps back to the box where his little brother initially put the laundry. Sure enough, there it is, still"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

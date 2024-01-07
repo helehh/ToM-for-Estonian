@@ -1,0 +1,74 @@
+{
+    "nr": 3,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Lilale meeldib, kui tema koer on \u00e4raolekul majas sees. Seet\u00f5ttu paneb ta enne kooli minekut koera majja. Kui Lila on l\u00e4inud, tuleb koju tema ema. Emale ei meeldi, kui koer on majja lukustatud, seega viib ta koera \u00f5ue ja paneb ta hoopis kuuri. Ta lukustab kuuri ukse ja l\u00e4heb t\u00f6\u00f6le. Lila tuleb koolist tagasi ja tahab koeraga m\u00e4ngida. Koer p\u00f5geneb",
+                "answers": [
+                    "kuurist, kuna ta ei taha seal \u00fcksinda olla. Ta jookseb r\u00f5\u00f5msalt Lila vastu, saba hoogsalt liputades. Lila naeratab ja kallistab oma koera t\u00e4nutundega.\n\nKuid siis m\u00e4rkab ta,",
+                    "kuurist, kuna ta ei taha seal \u00fcksinda olla. Ta jookseb r\u00f5\u00f5msalt Lila vastu, saba hoogsalt liputades. Lila naeratab ja kallistab oma koera t\u00e4nulikult.\n\nKuid siis m\u00e4rkab Lila"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Lilale meeldib, kui tema koer on \u00e4raolekul majas sees. Seet\u00f5ttu paneb ta enne kooli minekut koera majja. Kui Lila on l\u00e4inud, tuleb koju tema ema. Emale ei meeldi, kui koer on majja lukustatud, seega viib ta koera \u00f5ue ja paneb ta hoopis kuuri. Ta lukustab kuuri ukse ja l\u00e4heb t\u00f6\u00f6le. Lila tuleb koolist tagasi ja tahab koeraga m\u00e4ngida. Lila otsib koera",
+                "answers": [
+                    "k\u00f5igepealt majast, kuid ei leia teda sealt. Ta l\u00e4heb \u00f5ue ja vaatab seal ringi, kuid koera ei ole ka seal. Lila hakkab muretsema ja m\u00f5tleb, kuhu koer v\u00f5iks olla l\u00e4inud.\n\n",
+                    "k\u00f5igepealt majast, kuid ei leia teda sealt. Ta l\u00e4heb \u00f5ue ja vaatab ringi, kuid koera pole ka seal. Lila hakkab muretsema ja m\u00f5tleb, kuhu koer v\u00f5iks olla l\u00e4inud.\n\nTa o"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Lilale meeldib, kui tema koer on \u00e4raolekul majas sees. Seet\u00f5ttu paneb ta oma koera majja. Kuid tema emale ei meeldi, kui koer on majja lukustatud. Lila vaatab, kuidas ema viib koera v\u00e4lja, paneb ta kuuri ja lukustab kuuri ukse. Nii Lila kui ka tema ema lahkuvad kodust. M\u00f5ned tunnid hiljem tuleb Lila tagasi ja tahab koeraga m\u00e4ngida. Koer p\u00f5geneb",
+                "answers": [
+                    "kuurist ja jookseb r\u00f5\u00f5msalt Lilale vastu. Lila naeratab r\u00f5\u00f5msalt ja kallistab oma koera tugevalt. Ta on \u00f5nnelik, et koer on tema juurde tagasi tulnud.\n\nKuid siis m\u00e4rk",
+                    "kuurist ja jookseb r\u00f5\u00f5msalt Lilale vastu. Lila naeratab r\u00f5\u00f5msalt ja kallistab oma koera tugevalt. Ta on \u00f5nnelik, et koer on tema juurde tagasi tulnud.\n\nKuid siis m\u00e4rk"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Lilale meeldib, kui tema koer on \u00e4raolekul majas sees. Seet\u00f5ttu paneb ta oma koera majja. Kuid tema emale ei meeldi, kui koer on majja lukustatud. Lila vaatab, kuidas ema viib koera v\u00e4lja, paneb ta kuuri ja lukustab kuuri ukse. Nii Lila kui ka tema ema lahkuvad kodust. M\u00f5ned tunnid hiljem tuleb Lila tagasi ja tahab koeraga m\u00e4ngida. Lila otsib koera",
+                "answers": [
+                    "\u00fcle kogu maja, kuid ei leia teda kusagilt. Ta l\u00e4heb \u00f5ue ja avastab, et kuuri uks on lahti. Lila muretseb ja hakkab koera otsima naabruskonnas.\n\nTa k\u00fcsib naab",
+                    "\u00fcle kogu maja, kuid ei leia teda kusagilt. Ta kontrollib k\u00f5ik toad, vaatab alla diivanite ja voodite alla ning isegi k\u00f6\u00f6gi kapid l\u00e4bi, kuid koer on kadunud.\n\nLila hakkab muret"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Lilale meeldib, kui tema koer on \u00e4raolekul majas sees. Seet\u00f5ttu paneb ta enne kooli minekut koera majja. Kui Lila on l\u00e4inud, tuleb koju tema ema. Emale ei meeldi, kui koer on majja lukustatud, seega viib ta koera \u00f5ue ja paneb ta hoopis kuuri. Ta lukustab kuuri ukse ja l\u00e4heb t\u00f6\u00f6le. Lila tuleb koolist tagasi ja tahab koeraga m\u00e4ngida. Lila ema helistab Lilale ja \u00fctleb, et ta viis koera majast kuuri. Lila usub oma ema. Koer p\u00f5geneb",
+                "answers": [
+                    "kuurist ja jookseb r\u00f5\u00f5msalt Lila vastu. Lila on \u00fcllatunud ja \u00f5nnelik, et koer on tagasi. Ta kallistab koera tugevalt ja naeratab.\n\nLila otsustab kohe emale helistada ja",
+                    "kuurist ja jookseb naabermaja aeda. Lila j\u00e4\u00e4b murelikult seisma, kui ta n\u00e4eb, et koer on kadunud. Ta otsustab kohe naabermaja omanikule helistada ja k\u00fcsida, kas nad on n\u00e4inud"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Lilale meeldib, kui tema koer on \u00e4raolekul majas sees. Seet\u00f5ttu paneb ta enne kooli minekut koera majja. Kui Lila on l\u00e4inud, tuleb koju tema ema. Emale ei meeldi, kui koer on majja lukustatud, seega viib ta koera \u00f5ue ja paneb ta hoopis kuuri. Ta lukustab kuuri ukse ja l\u00e4heb t\u00f6\u00f6le. Lila tuleb koolist tagasi ja tahab koeraga m\u00e4ngida. Lila ema helistab Lilale ja \u00fctleb, et ta viis koera majast kuuri. Lila usub oma ema. Lila otsib koera",
+                "answers": [
+                    "kuurist, kuid ei leia teda seal. Ta hakkab muretsema ja otsustab koera otsimiseks naabrite juurde minna.\n\nNaabrite juures k\u00fcsib Lila, kas nad on n\u00e4inud tema koera. \u00dcks naaber \u00fctle",
+                    "kuurist, kuid ei leia teda seal. Ta hakkab muretsema ja otsustab emale helistada.\n\n\"Emme, ma ei leia koera kuurist. Kuhu sa ta t\u00e4pselt viisid?\" k\u00fcsib Lila murelikult.\n\nE"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Lilale meeldib, kui tema koer on \u00e4raolekul majas sees. Seet\u00f5ttu paneb ta enne kooli minekut koera majja. Kui Lila on l\u00e4inud, tuleb koju tema ema. Emale ei meeldi, kui koer on majja lukustatud, seega viib ta koera \u00f5ue. M\u00f5ne hetke p\u00e4rast viib ta koera tagasi majja, lukustab ukse ja l\u00e4heb t\u00f6\u00f6le. Lila tuleb koolist tagasi ja tahab koeraga m\u00e4ngida. Koer p\u00f5geneb",
+                "answers": [
+                    "majast ja jookseb naabruskonda. Lila hakkab paanikasse sattuma, sest ta ei tea, kuhu koer on l\u00e4inud. Ta otsustab kohe emale helistada ja teatada, et koer on kadunud.\n\nEma ku",
+                    "majast ja jookseb naabermaja aeda. Lila j\u00e4\u00e4b hetkeks segadusse, kuid otsustab koera j\u00e4rele minna.\n\nTa jookseb naabermaja aeda ja n\u00e4eb, kuidas koer m\u00e4ngib teiste koertega"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Lilale meeldib, kui tema koer on \u00e4raolekul majas sees. Seet\u00f5ttu paneb ta enne kooli minekut koera majja. Kui Lila on l\u00e4inud, tuleb koju tema ema. Emale ei meeldi, kui koer on majja lukustatud, seega viib ta koera \u00f5ue. M\u00f5ne hetke p\u00e4rast viib ta koera tagasi majja, lukustab ukse ja l\u00e4heb t\u00f6\u00f6le. Lila tuleb koolist tagasi ja tahab koeraga m\u00e4ngida. Lila otsib koera",
+                "answers": [
+                    "k\u00f5igepealt majast, kuid ei leia teda seal. Ta l\u00e4heb \u00f5ue ja n\u00e4eb, et koer on seal ketis. Lila on segaduses ja imestab, miks koer \u00f5ues on, kui ta oli hommikul kindlalt majas.\n\n",
+                    "k\u00f5igepealt majast, kuid ei leia teda seal. Ta l\u00e4heb \u00f5ue ja n\u00e4eb, et koer on seal ketis. Lila on segaduses ja imestab, miks koer \u00f5ues on, kui ta oli hommikul kindlalt majas.\n\n"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

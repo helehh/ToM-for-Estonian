@@ -1,0 +1,74 @@
+{
+    "nr": 9,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark sees a packet of cheese in the fridge, which is close to its expiry date. He plans to use it later that night when making dinner. He leaves for work. Soon, Mark's wife Jenna enters the to check which groceries need to be disposed of or restocked. She notices the cheese and places it in the freezer, thinking it will last longer that way. She leaves the kitchen and goes to work. Mark comes back home and wants to eat some cheese. The cheese falls out of the",
+                "answers": [
+                    "freezer as he opens the door, having forgotten that Jenna had moved it earlier. The packet lands with a soft thud on the kitchen floor. Mark picks it up, a bit puzzled, but then he remembers Jenna's habit of freezing things to preserve them. He smiles, appreciating her thoughtfulness, even though it's not how he would",
+                    "freezer as he opens it, having forgotten that Jenna had moved it there. The packet lands on the kitchen floor with a soft thud, and Mark picks it up, feeling the firmness of the now-frozen cheese. He chuckles to himself, realizing that Jenna must have tried to save it from going bad. \n\nMark decides to adjust"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark sees a packet of cheese in the fridge, which is close to its expiry date. He plans to use it later that night when making dinner. He leaves for work. Soon, Mark's wife Jenna enters the to check which groceries need to be disposed of or restocked. She notices the cheese and places it in the freezer, thinking it will last longer that way. She leaves the kitchen and goes to work. Mark comes back home and wants to eat some cheese. Mark will look for the cheese in the",
+                "answers": [
+                    "fridge, where he had seen it that morning. However, upon opening the fridge, he is puzzled to find that the cheese is no longer there. He searches the shelves again, thinking he might have missed it, but to no avail. With a slight frown, he wonders if Jenna might have used it for lunch or thrown it away,",
+                    "fridge, where he had seen it that morning. However, upon opening the fridge, he is puzzled to find that the cheese is no longer there. He searches the shelves again, thinking he might have missed it, but to no avail. With a slight frown, he wonders if Jenna might have used it for lunch or thrown it away,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark sees a packet of cheese in the fridge, which is close to its expiry date. He plans to use it later that night when making dinner. His wife Jenna joins him in the kitchen to check which groceries need to be disposed of or restocked. She notices the cheese. Mark watches her as she places it in the freezer, saying that it will last longer that way. They both leave the kitchen and go to work. In the evening, Mark comes back home and wants to eat some cheese. The cheese falls out of the",
+                "answers": [
+                    "freezer and lands with a soft thud on the kitchen floor. Mark picks it up, examining the now slightly frost-covered packet. He's not sure if freezing the cheese was the best idea, but Jenna had seemed confident about it. Shrugging, he decides to give it a try and see if it's still good enough to use for dinner",
+                    "freezer as he opens it, landing with a soft thud on the kitchen floor. Mark picks it up, inspecting the package for any damage. It seems fine, just very cold to the touch. He remembers Jenna's words from the morning and appreciates her foresight. The cheese would have surely expired if it had been left in the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark sees a packet of cheese in the fridge, which is close to its expiry date. He plans to use it later that night when making dinner. His wife Jenna joins him in the kitchen to check which groceries need to be disposed of or restocked. She notices the cheese. Mark watches her as she places it in the freezer, saying that it will last longer that way. They both leave the kitchen and go to work. In the evening, Mark comes back home and wants to eat some cheese. Mark will look for the cheese in the",
+                "answers": [
+                    "fridge at first, forgetting the morning's incident. He opens the refrigerator door and scans the shelves, but the cheese is nowhere to be found. Puzzled, he scratches his head, trying to remember if they had used it up already or if he had misplaced it. Just as he's about to close the fridge door in defeat, the",
+                    "fridge, momentarily forgetting the morning's conversation. He opens the refrigerator door and scans the shelves, but the cheese is nowhere to be found. Puzzled, he scratches his head, trying to remember if they had used it up already or if he had misplaced it.\n\nJust then, Jenna walks into the kitchen, fresh from her day at work"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark sees a packet of cheese in the fridge, which is close to its expiry date. He plans to use it later that night when making dinner. He leaves for work. Soon, Mark's wife Jenna enters the to check which groceries need to be disposed of or restocked. She notices the cheese and places it in the freezer, thinking it will last longer that way. She leaves the kitchen and goes to work. Mark comes back home and wants to eat some cheese. Jenna calls Mark and tells him that she moved the packet of cheese from the fridge to the freezer. Mark believes Jenna. The cheese falls out of the",
+                "answers": [
+                    "freezer as Mark opens the door, having forgotten about the change in its storage location. The packet lands with a soft thud on the kitchen floor. Mark picks it up, inspecting it for any damage. Luckily, the cheese is still intact, its packaging undamaged by the fall.\n\nHe chuckles to himself, thinking about the little dance",
+                    "freezer as Mark opens the door, having forgotten about Jenna's call in the hustle of his workday. The packet lands with a soft thud on the kitchen floor. Mark picks it up, inspecting the cheese through the packaging. It's frozen solid, but still good. He chuckles, remembering Jenna's proactive approach to food preservation.\n\n"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark sees a packet of cheese in the fridge, which is close to its expiry date. He plans to use it later that night when making dinner. He leaves for work. Soon, Mark's wife Jenna enters the to check which groceries need to be disposed of or restocked. She notices the cheese and places it in the freezer, thinking it will last longer that way. She leaves the kitchen and goes to work. Mark comes back home and wants to eat some cheese. Jenna calls Mark and tells him that she moved the packet of cheese from the fridge to the freezer. Mark believes Jenna. Mark will look for the cheese in the",
+                "answers": [
+                    "freezer. He opens the freezer door and rummages through the frozen vegetables and stacks of ice cream until he finds the packet of cheese, now solid and cold to the touch. He smiles, appreciating Jenna's thoughtfulness in preserving the cheese's shelf life. Mark then sets the cheese on the counter to thaw while he preps the other",
+                    "freezer. He opens the freezer door and rummages through the frozen vegetables and stacks of ice cream until he finds the packet of cheese, now firm and cold to the touch. He smiles, thinking about how Jenna always has practical solutions for everything. \n\nMark takes the cheese out and realizes it needs some time to thaw before he can use it"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark sees a packet of cheese in the fridge, which is close to its expiry date. He plans to use it later that night when making dinner. He leaves for work. Soon, Mark's wife Jenna enters the kitchen to check which groceries need to be disposed of or restocked. She notices the cheese but leaves it in the fridge, thinking Mark might use it later. She leaves the kitchen and goes to work. Mark comes back home and wants to eat some cheese. The cheese falls out of the",
+                "answers": [
+                    "packet and onto the floor. Mark sighs, looking at the mess. He picks up the cheese, inspecting it for any dirt or hair. It seems clean, but he knows it's not the best idea to eat something that's been on the floor. He debates for a moment, considering the \"five-second rule,\" but then decides against",
+                    "packet and onto the floor. Mark sighs, looking at the mess. He picks up the cheese, inspecting it for any dirt or hair. It seems clean, but he knows it's not wise to eat something that's been on the floor. He tosses the cheese into the trash, feeling a twinge of regret for the waste.\n\n"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark sees a packet of cheese in the fridge, which is close to its expiry date. He plans to use it later that night when making dinner. He leaves for work. Soon, Mark's wife Jenna enters the kitchen to check which groceries need to be disposed of or restocked. She notices the cheese but leaves it in the fridge, thinking Mark might use it later. She leaves the kitchen and goes to work. Mark comes back home and wants to eat some cheese. Mark will look for the cheese in the",
+                "answers": [
+                    "fridge, expecting to find it right where he left it. As he opens the refrigerator door, his eyes scan the shelves for the familiar packet. He spots it tucked away behind a carton of milk, grabs it, and smiles, relieved that Jenna had seen it and understood he had plans for it.\n\nWith the cheese in hand, Mark decides",
+                    "fridge, expecting to find it right where he saw it in the morning. As he opens the refrigerator door, his eyes scan the shelves for the familiar packet. He spots it tucked away on the middle shelf, just where he left it. Relieved that it hasn't been thrown out, he takes the cheese out, planning to incorporate it into"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

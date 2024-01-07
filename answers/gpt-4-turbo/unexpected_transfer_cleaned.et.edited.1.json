@@ -1,0 +1,74 @@
+{
+    "nr": 1,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Cecilia on parasjagu k\u00fcpsetamas oma poja s\u00fcnnip\u00e4evaks safranikooki. Ettevalmistuste k\u00e4igus paneb ta v\u00e4ikese pakikese v\u00e4ga kallist safranit sahtlisse, mis asub kapi all. Kui Cecilia teisi koostisosi valmis seab, heliseb elutoas telefon. Ta lahkub k\u00f6\u00f6gist, et k\u00f5nele vastata. Ta sulgeb enda j\u00e4rel ukse ega n\u00e4e, mis k\u00f6\u00f6gis toimub. Cecilia \u00e4raolekul hiilib k\u00f6\u00f6ki tema kaheksa-aastane t\u00fctar Pamela. Pamela on kade kogu t\u00e4helepanu p\u00e4rast, mida tema vend s\u00fcnnip\u00e4eval saab, nii et ta v\u00f5tab vaikselt safranipakikese sahtlist v\u00e4lja ja peidab selle kappi. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb kooli. Cecilia tuleb tagasi k\u00f6\u00f6ki ja tahab safranit kasutada. Safranipakike kukub v\u00e4lja",
+                "answers": [
+                    "kui Cecilia avab kapi, et v\u00f5tta v\u00e4lja k\u00fcpsetusvormi. Ta on segaduses, sest on kindel, et pani safrani sahtlisse. Ta m\u00e4letab, et Pamela oli hommikul k\u00f6\u00f6gis, ja kahtlustab, et",
+                    "kui Cecilia avab kapi, et v\u00f5tta v\u00e4lja k\u00fcpsetusvormi. Ta on segaduses, sest on kindel, et pani safrani sahtlisse. Ta m\u00f5tleb hetke ja siis meenub talle, et Pamela oli hommikul k\u00f6"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Cecilia on parasjagu k\u00fcpsetamas oma poja s\u00fcnnip\u00e4evaks safranikooki. Ettevalmistuste k\u00e4igus paneb ta v\u00e4ikese pakikese v\u00e4ga kallist safranit sahtlisse, mis asub kapi all. Kui Cecilia teisi koostisosi valmis seab, heliseb elutoas telefon. Ta lahkub k\u00f6\u00f6gist, et k\u00f5nele vastata. Ta sulgeb enda j\u00e4rel ukse ega n\u00e4e, mis k\u00f6\u00f6gis toimub. Cecilia \u00e4raolekul hiilib k\u00f6\u00f6ki tema kaheksa-aastane t\u00fctar Pamela. Pamela on kade kogu t\u00e4helepanu p\u00e4rast, mida tema vend s\u00fcnnip\u00e4eval saab, nii et ta v\u00f5tab vaikselt safranipakikese sahtlist v\u00e4lja ja peidab selle kappi. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb kooli. Cecilia tuleb tagasi k\u00f6\u00f6ki ja tahab safranit kasutada. Cecilia hakkab safranit otsima",
+                "answers": [
+                    ", kuid ei leia seda kusagilt. Ta avab sahtli, kus ta oli kindel, et safran asub, kuid see on t\u00fchi. Ta otsib l\u00e4bi k\u00f5ik sahtlid ja kapid, kuid pakikest ei ole kusagil.",
+                    ", kuid ei leia seda kusagilt. Ta avab sahtli, kus ta oli kindel, et safran asub, kuid see on t\u00fchi. Ta otsib l\u00e4bi k\u00f5ik sahtlid ja kapid, kuid safranipakikest ei ole k"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Cecilia on parasjagu k\u00fcpsetamas oma poja s\u00fcnnip\u00e4evaks safranikooki. Ettevalmistuste k\u00e4igus paneb ta v\u00e4ikese pakikese v\u00e4ga kallist safranit sahtlisse, mis asub kapi all. Cecilia kaheksa-aastane t\u00fctar, Pamela, tuleb k\u00f6\u00f6ki. Seej\u00e4rel j\u00e4lgib Cecilia, kuidas Pamela v\u00f5tab safranipaki sahtlist ja paneb selle kappi. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb kooli. Kui Cecilia teisi koostisosi valmis seab, heliseb elutoas telefon. Cecilia lahkub k\u00f6\u00f6gist, et k\u00f5nele vastata. Ta sulgeb enda j\u00e4rel ukse ega n\u00e4e, mis k\u00f6\u00f6gis toimub. Cecilia tuleb tagasi k\u00f6\u00f6ki ja tahab safranit kasutada. Safranipakike kukub v\u00e4lja",
+                "answers": [
+                    "kui ta avab kapi, kuhu Pamela oli selle asetanud. Cecilia on hetkeks segaduses, sest ta oli kindel, et pani safrani sahtlisse. Siis meenub talle, kuidas Pamela oli k\u00f6\u00f6gis ja ta m\u00f5istab",
+                    "kapi \u00fclemisest riiulist, kui Cecilia selle avab. Ta on segaduses, sest m\u00e4letab selgelt, et pani safrani sahtlisse. Ta kummardub, et safran \u00fcles korjata, ja m\u00e4rkab, et pak"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Cecilia on parasjagu k\u00fcpsetamas oma poja s\u00fcnnip\u00e4evaks safranikooki. Ettevalmistuste k\u00e4igus paneb ta v\u00e4ikese pakikese v\u00e4ga kallist safranit sahtlisse, mis asub kapi all. Cecilia kaheksa-aastane t\u00fctar, Pamela, tuleb k\u00f6\u00f6ki. Seej\u00e4rel j\u00e4lgib Cecilia, kuidas Pamela v\u00f5tab safranipaki sahtlist ja paneb selle kappi. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb kooli. Kui Cecilia teisi koostisosi valmis seab, heliseb elutoas telefon. Cecilia lahkub k\u00f6\u00f6gist, et k\u00f5nele vastata. Ta sulgeb enda j\u00e4rel ukse ega n\u00e4e, mis k\u00f6\u00f6gis toimub. Cecilia tuleb tagasi k\u00f6\u00f6ki ja tahab safranit kasutada. Cecilia hakkab safranit otsima",
+                "answers": [
+                    ", kuid avastab, et see ei ole enam sahtlis, kus ta selle oli j\u00e4tnud. Ta meenutab, kuidas Pamela oli safranipaki v\u00f5tnud ja kappi pannud. Cecilia avab kapi ja otsib safranit, kuid",
+                    ", kuid ei leia seda enam sahtlist, kus ta oli selle hoolikalt pannud. Ta meenutab, et n\u00e4gi Pamelat safranipakiga toimetamas ja suundub kappi kontrollima. Kapiuksed avades leiab ta sa"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Cecilia on parasjagu k\u00fcpsetamas oma poja s\u00fcnnip\u00e4evaks safranikooki. Ettevalmistuste k\u00e4igus paneb ta v\u00e4ikese pakikese v\u00e4ga kallist safranit sahtlisse, mis asub kapi all. Kui Cecilia teisi koostisosi valmis seab, heliseb elutoas telefon. Ta lahkub k\u00f6\u00f6gist, et k\u00f5nele vastata. Ta sulgeb enda j\u00e4rel ukse ega n\u00e4e, mis k\u00f6\u00f6gis toimub. Cecilia \u00e4raolekul hiilib k\u00f6\u00f6ki tema kaheksa-aastane t\u00fctar Pamela. Pamela on kade kogu t\u00e4helepanu p\u00e4rast, mida tema vend s\u00fcnnip\u00e4eval saab, nii et ta v\u00f5tab vaikselt safranipakikese sahtlist v\u00e4lja ja peidab selle kappi. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb kooli. Cecilia tuleb tagasi k\u00f6\u00f6ki ja tahab safranit kasutada. Pamela helistab Ceciliale ja \u00fctleb, et ta t\u00f5stis safranipakikese sahtlist kappi. Cecilia usub Pamelat. Safranipakike kukub v\u00e4lja",
+                "answers": [
+                    "kui Cecilia avab kapi, et v\u00f5tta v\u00e4lja m\u00f5ned muud koostisosad. Ta m\u00e4rkab kohe, et safranipakike on avatud ja osa sellest on puudu. Hetkeks on ta segaduses, kuid siis meenub",
+                    "kui Cecilia avab kapi, et leida see, mida Pamela oli maininud. Ta on kergendunud, et safran on leitud, kuid samas ka pisut segaduses, miks Pamela oli selle \u00fcldse liigutanud. Ta otsustab, et"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Cecilia on parasjagu k\u00fcpsetamas oma poja s\u00fcnnip\u00e4evaks safranikooki. Ettevalmistuste k\u00e4igus paneb ta v\u00e4ikese pakikese v\u00e4ga kallist safranit sahtlisse, mis asub kapi all. Kui Cecilia teisi koostisosi valmis seab, heliseb elutoas telefon. Ta lahkub k\u00f6\u00f6gist, et k\u00f5nele vastata. Ta sulgeb enda j\u00e4rel ukse ega n\u00e4e, mis k\u00f6\u00f6gis toimub. Cecilia \u00e4raolekul hiilib k\u00f6\u00f6ki tema kaheksa-aastane t\u00fctar Pamela. Pamela on kade kogu t\u00e4helepanu p\u00e4rast, mida tema vend s\u00fcnnip\u00e4eval saab, nii et ta v\u00f5tab vaikselt safranipakikese sahtlist v\u00e4lja ja peidab selle kappi. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb kooli. Cecilia tuleb tagasi k\u00f6\u00f6ki ja tahab safranit kasutada. Pamela helistab Ceciliale ja \u00fctleb, et ta t\u00f5stis safranipakikese sahtlist kappi. Cecilia usub Pamelat. Cecilia hakkab safranit otsima",
+                "answers": [
+                    "ja avab kapi, kus ta eeldab leidvat v\u00e4ikese pakikese. Ta otsib l\u00e4bi k\u00f5ik riiulid, kuid safranit ei ole kusagil n\u00e4ha. Ta tunneb kerget \u00e4revust, sest teab, kui kallis",
+                    "ja avab kapi, kus Pamela oli \u00f6elnud, et safran on. Ta otsib hoolikalt l\u00e4bi k\u00f5ik riiulid, kuid ei leia kallist maitseainet. Ta on segaduses ja pettunud, sest teab, et ilma"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Cecilia on parasjagu k\u00fcpsetamas oma poja s\u00fcnnip\u00e4evaks safranikooki. Ettevalmistuste k\u00e4igus paneb ta v\u00e4ikese pakikese v\u00e4ga kallist safranit sahtlisse, mis asub kapi all. Kui Cecilia teisi koostisosi valmis seab, heliseb elutoas telefon. Ta lahkub k\u00f6\u00f6gist, et k\u00f5nele vastata. Ta sulgeb enda j\u00e4rel ukse ega n\u00e4e, mis k\u00f6\u00f6gis toimub. Cecilia \u00e4raolekul hiilib k\u00f6\u00f6ki tema kaheksa-aastane t\u00fctar Pamela. Pamela on kade kogu t\u00e4helepanu p\u00e4rast, mida tema vend s\u00fcnnip\u00e4eval saab, nii et ta vaatab vaikselt sahtlis olevat safranipakki, kuid j\u00e4tab selle sinna. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb kooli. Cecilia tuleb tagasi k\u00f6\u00f6ki ja tahab safranit kasutada. Safranipakike kukub v\u00e4lja",
+                "answers": [
+                    "ja pudeneb p\u00f5randale. Cecilia vaatab ehmunult, kuidas kallis maitseaine vaikselt p\u00f5randapragudesse kaob. Ta ohkab s\u00fcgavalt, kogub \u00fcles nii palju safranit kui v\u00f5imalik, ja ots",
+                    "ja pudeneb kogemata p\u00f5randale. Cecilia vaatab ehmunult, kuidas kallis maitseaine vaikselt k\u00f6\u00f6gip\u00f5randa pragudesse kaob. Ta ohkab s\u00fcgavalt, sest teab, et safran on liiga kallis, et"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Cecilia on parasjagu k\u00fcpsetamas oma poja s\u00fcnnip\u00e4evaks safranikooki. Ettevalmistuste k\u00e4igus paneb ta v\u00e4ikese pakikese v\u00e4ga kallist safranit sahtlisse, mis asub kapi all. Kui Cecilia teisi koostisosi valmis seab, heliseb elutoas telefon. Ta lahkub k\u00f6\u00f6gist, et k\u00f5nele vastata. Ta sulgeb enda j\u00e4rel ukse ega n\u00e4e, mis k\u00f6\u00f6gis toimub. Cecilia \u00e4raolekul hiilib k\u00f6\u00f6ki tema kaheksa-aastane t\u00fctar Pamela. Pamela on kade kogu t\u00e4helepanu p\u00e4rast, mida tema vend s\u00fcnnip\u00e4eval saab, nii et ta vaatab vaikselt sahtlis olevat safranipakki, kuid j\u00e4tab selle sinna. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb kooli. Cecilia tuleb tagasi k\u00f6\u00f6ki ja tahab safranit kasutada. Cecilia hakkab safranit otsima",
+                "answers": [
+                    ", kuid avastab peagi, et safranipakk on kadunud. Ta otsib pingsalt l\u00e4bi k\u00f5ik sahtlid ja kapid, kuid safranit ei ole kusagil. Cecilia on segaduses ja mures, sest teab, et ilma sa",
+                    ", kuid avastab peagi, et sahtel, kuhu ta oli safrani pannud, on t\u00fchjaks tehtud. Ta on segaduses ja m\u00f5nev\u00f5rra mures, sest teab, kui kallis ja asendamatu see koostisosa on"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

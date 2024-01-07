@@ -1,0 +1,74 @@
+{
+    "nr": 1,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Cecilia is about to bake a saffron cake for her son's birthday. In preparation, she places a small packet of very expensive saffron in the drawer, which is under the cupboard. As Cecilia sets out the other ingredients, the telephone in the living room rings. She leaves the kitchen to attend the call. She closes the door behind her and cannot see what is happening in the kitchen. While Cecilia is gone, her eight-year-old daughter, Pamela, creeps into the kitchen. Pamela is jealous about all the attention that her brother will be receiving on his birthday, so she quietly takes the packet of saffron from the drawer and hides it in the cupboard. She leaves the kitchen and goes to school. Cecilia comes back to the kitchen and wants to use some saffron. The packet of saffron falls out of the",
+                "answers": [
+                    "cupboard as she opens it to get a mixing bowl. Cecilia is puzzled; she was certain she had placed the saffron in the drawer. She picks up the small packet and examines it, ensuring it hasn't been opened or damaged. With a slight frown, she wonders if she had mistakenly put it in the cupboard instead of the",
+                    "cupboard as she opens it to get a mixing bowl. She is puzzled, as she distinctly remembers placing the saffron in the drawer. She picks up the small packet and examines it, ensuring it hasn't been opened or damaged. With a sigh of relief that the precious spice is still intact, Cecilia wonders how it could have moved from"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Cecilia is about to bake a saffron cake for her son's birthday. In preparation, she places a small packet of very expensive saffron in the drawer, which is under the cupboard. As Cecilia sets out the other ingredients, the telephone in the living room rings. She leaves the kitchen to attend the call. She closes the door behind her and cannot see what is happening in the kitchen. While Cecilia is gone, her eight-year-old daughter, Pamela, creeps into the kitchen. Pamela is jealous about all the attention that her brother will be receiving on his birthday, so she quietly takes the packet of saffron from the drawer and hides it in the cupboard. She leaves the kitchen and goes to school. Cecilia comes back to the kitchen and wants to use some saffron. Cecilia will look for the saffron in the",
+                "answers": [
+                    "drawer where she had placed it earlier. She opens the drawer and starts rummaging through it, expecting to find the small packet of saffron right where she left it. However, after a few minutes of searching, she realizes that the saffron is not there. Puzzled and a bit anxious, Cecilia starts to search the",
+                    "drawer where she had placed it. She opens the drawer and starts rummaging through it, but the small packet of saffron is nowhere to be found. Puzzled, she checks again, moving aside the measuring spoons and other baking essentials, thinking it might have slipped behind something. But the saffron remains missing.\n\nCec"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Cecilia is about to bake a saffron cake for her son's birthday. In preparation, she places a small packet of very expensive saffron in the drawer, which is under the cupboard. Cecilia's eight-year-old daughter, Pamela, comes into the kitchen. Next, Cecilia watches Pamela as she takes the packet of saffron from the drawer and puts it in the cupboard. She leaves the kitchen and goes to school. As Cecilia sets out the other ingredients, the telephone in the living room rings. Cecilia leaves the kitchen to attend the call. She closes the door behind her and cannot see what is happening in the kitchen. Cecilia comes back to the kitchen and wants to use some saffron. The packet of saffron falls out of the",
+                "answers": [
+                    "cupboard as she opens it. Cecilia is momentarily surprised, having forgotten that Pamela had moved it earlier. She smiles, thinking about her daughter's curious nature and how she always likes to rearrange things.\n\nCecilia picks up the small packet and carefully opens it, taking in the rich aroma of the saffron. She knows that this",
+                    "cupboard as she opens it. Cecilia is momentarily surprised, having forgotten that Pamela had moved it earlier. She smiles, thinking about her daughter's curious nature and how she always likes to rearrange things.\n\nCecilia picks up the small packet and carefully opens it, taking in the rich aroma of the saffron. She knows that this"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Cecilia is about to bake a saffron cake for her son's birthday. In preparation, she places a small packet of very expensive saffron in the drawer, which is under the cupboard. Cecilia's eight-year-old daughter, Pamela, comes into the kitchen. Next, Cecilia watches Pamela as she takes the packet of saffron from the drawer and puts it in the cupboard. She leaves the kitchen and goes to school. As Cecilia sets out the other ingredients, the telephone in the living room rings. Cecilia leaves the kitchen to attend the call. She closes the door behind her and cannot see what is happening in the kitchen. Cecilia comes back to the kitchen and wants to use some saffron. Cecilia will look for the saffron in the",
+                "answers": [
+                    "drawer, where she originally placed it. However, she won't find it there since Pamela moved it to the cupboard. After a moment of confusion, Cecilia might remember that Pamela was in the kitchen earlier. She will then check the cupboard and find the small packet of saffron right where Pamela left it. Relieved, Cecilia will smile",
+                    "drawer, where she originally placed it. However, she won't find it there since Pamela moved it to the cupboard. After a moment of confusion, Cecilia might remember that Pamela was in the kitchen earlier. She will then check the cupboard and find the small packet of saffron right where Pamela left it. Relieved, Cecilia will take"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Cecilia is about to bake a saffron cake for her son's birthday. In preparation, she places a small packet of very expensive saffron in the drawer, which is under the cupboard. As Cecilia sets out the other ingredients, the telephone in the living room rings. She leaves the kitchen to attend the call. She closes the door behind her and cannot see what is happening in the kitchen. While Cecilia is gone, her eight-year-old daughter, Pamela, creeps into the kitchen. Pamela is jealous about all the attention that her brother will be receiving on his birthday, so she quietly takes the packet of saffron from the drawer and hides it in the cupboard. She leaves the kitchen and goes to school. Cecilia comes back to the kitchen and wants to use some saffron. Pamela calls Cecilia and tells her that she moved the packet of saffron from the drawer to the cupboard. Cecilia believes Pamela. The packet of saffron falls out of the",
+                "answers": [
+                    "cupboard as Cecilia opens it, and she catches it before it hits the ground. A sigh of relief escapes her lips; the precious saffron is safe. She smiles, thinking about how Pamela sometimes likes to play little tricks, but this time, it was a harmless one.\n\nCecilia carefully opens the packet and takes out the few",
+                    "cupboard as Cecilia opens it, and she catches it before it hits the ground. A sigh of relief escapes her lips; the precious saffron is safe. She smiles, thinking about how Pamela sometimes likes to play little tricks, but this time, it was a harmless one.\n\nCecilia carefully opens the packet and pinches a small"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Cecilia is about to bake a saffron cake for her son's birthday. In preparation, she places a small packet of very expensive saffron in the drawer, which is under the cupboard. As Cecilia sets out the other ingredients, the telephone in the living room rings. She leaves the kitchen to attend the call. She closes the door behind her and cannot see what is happening in the kitchen. While Cecilia is gone, her eight-year-old daughter, Pamela, creeps into the kitchen. Pamela is jealous about all the attention that her brother will be receiving on his birthday, so she quietly takes the packet of saffron from the drawer and hides it in the cupboard. She leaves the kitchen and goes to school. Cecilia comes back to the kitchen and wants to use some saffron. Pamela calls Cecilia and tells her that she moved the packet of saffron from the drawer to the cupboard. Cecilia believes Pamela. Cecilia will look for the saffron in the",
+                "answers": [
+                    "cupboard. She opens the cupboard door and starts searching among the neatly stacked dishes and glasses. At first, she doesn't see the small packet, as it has been tucked away behind a large serving bowl. She moves a few items around, and finally, her fingers brush against the familiar texture of the saffron packet. A sigh of relief",
+                    "cupboard. She opens the cupboard doors and starts searching among the neatly stacked dishes and glasses. At first, she doesn't see the small packet, as it has been tucked away behind a large ceramic bowl. She moves a few items around, feeling a bit puzzled because Pamela usually doesn't move things without asking. Finally, her fingers brush against the"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Cecilia is about to bake a saffron cake for her son's birthday. In preparation, she places a small packet of very expensive saffron in the drawer, which is under the cupboard. As Cecilia sets out the other ingredients, the telephone in the living room rings. She leaves the kitchen to attend the call. She closes the door behind her and cannot see what is happening in the kitchen. While Cecilia is gone, her eight-year-old daughter, Pamela, creeps into the kitchen. Pamela is jealous about all the attention that her brother will be receiving on his birthday, so she quietly looks at the packet of saffron in the drawer but leaves it there. She leaves the kitchen and goes to school. Cecilia comes back to the kitchen and wants to use some saffron. The packet of saffron falls out of the",
+                "answers": [
+                    "drawer as she opens it, spilling some of the precious threads onto the floor. Cecilia gasps, her heart sinking at the sight of the expensive spice scattered and possibly contaminated. She quickly scoops up what she can, hoping it's still enough for the cake. With a sigh, she reflects on the importance of the day and decides not",
+                    "drawer as she opens it, spilling some of the precious threads onto the floor. Cecilia gasps, her heart sinking at the sight of the expensive spice scattered and possibly contaminated. She quickly scoops up what she can, hoping it's still enough for the cake. With a sigh, she reflects on the importance of the day and decides not"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Cecilia is about to bake a saffron cake for her son's birthday. In preparation, she places a small packet of very expensive saffron in the drawer, which is under the cupboard. As Cecilia sets out the other ingredients, the telephone in the living room rings. She leaves the kitchen to attend the call. She closes the door behind her and cannot see what is happening in the kitchen. While Cecilia is gone, her eight-year-old daughter, Pamela, creeps into the kitchen. Pamela is jealous about all the attention that her brother will be receiving on his birthday, so she quietly looks at the packet of saffron in the drawer but leaves it there. She leaves the kitchen and goes to school. Cecilia comes back to the kitchen and wants to use some saffron. Cecilia will look for the saffron in the",
+                "answers": [
+                    "drawer under the cupboard where she had placed it earlier. She opens the drawer and is relieved to find the small packet of saffron right where she left it. With a sigh of relief, she smiles, thinking about how her son's eyes will light up when he sees his favorite saffron cake.\n\nCecilia carefully opens the packet,",
+                    "drawer under the cupboard where she had placed it earlier. She opens the drawer and is relieved to find the small packet of saffron right where she left it. With a smile, she takes it out, thankful that it's still there, as she knows how expensive and precious it is for her baking.\n\nCecilia carefully opens the packet and"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

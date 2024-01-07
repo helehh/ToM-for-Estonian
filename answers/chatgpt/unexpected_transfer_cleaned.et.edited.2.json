@@ -1,0 +1,74 @@
+{
+    "nr": 2,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Uudistetoimetuses on p\u00e4eva l\u00f5pp ja reporter on peaaegu l\u00f5petanud artikli kirjutamise kontoriarvutis. T\u00f6\u00f6laual on kaks kausta: Mustandid ja Toimetatud. Kavatsedes artikli j\u00e4rgmisel p\u00e4eval l\u00f5petada, salvestab ta selle kausta Mustandid ja lahkub toimetusest. Varsti on ta kodus ja magab s\u00fcgavalt. Kui reporter on l\u00e4inud, tuleb kontorisse toimetaja, et alustada oma \u00f6\u00f6vahetust. Ta sirvib kahte kausta, et n\u00e4ha, kas on midagi, mille kallal ta peaks t\u00f6\u00f6tama. Ta m\u00e4rkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb v\u00f5imalikult kiiresti avaldada. Ta otsustab kirjutada kokkuv\u00f5tte ja valmistada see ette kujundusmeeskonnale. P\u00e4rast artikli l\u00f5petamist ja toimetamist liigutab ta selle kausta Toimetatud. Ta l\u00e4heb koju. J\u00e4rgmisel p\u00e4eval hommikul \u00e4rkab reporter. Ta tuleb tagasi toimetusse ja soovib artikliga t\u00f6\u00f6d j\u00e4tkata. Artiklifail on kaustas nimega",
+                "answers": [
+                    "Avaldamiseks valmis. Ta avab kausta Mustandid, kuid ei leia sealt oma artiklit. Ta on segaduses ja hakkab paanikasse sattuma. Ta otsustab kontrollida kausta Toimetatud, kuid sealgi pole artiklit. Ta",
+                    "Avaldamiseks valmis. Ta avab kausta Mustandid, kuid ei leia sealt oma artiklit. Ta on segaduses ja hakkab paanikasse sattuma. Ta otsustab kontrollida kausta Toimetatud, kuid sealgi pole artiklit. Ta"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Uudistetoimetuses on p\u00e4eva l\u00f5pp ja reporter on peaaegu l\u00f5petanud artikli kirjutamise kontoriarvutis. T\u00f6\u00f6laual on kaks kausta: Mustandid ja Toimetatud. Kavatsedes artikli j\u00e4rgmisel p\u00e4eval l\u00f5petada, salvestab ta selle kausta Mustandid ja lahkub toimetusest. Varsti on ta kodus ja magab s\u00fcgavalt. Kui reporter on l\u00e4inud, tuleb kontorisse toimetaja, et alustada oma \u00f6\u00f6vahetust. Ta sirvib kahte kausta, et n\u00e4ha, kas on midagi, mille kallal ta peaks t\u00f6\u00f6tama. Ta m\u00e4rkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb v\u00f5imalikult kiiresti avaldada. Ta otsustab kirjutada kokkuv\u00f5tte ja valmistada see ette kujundusmeeskonnale. P\u00e4rast artikli l\u00f5petamist ja toimetamist liigutab ta selle kausta Toimetatud. Ta l\u00e4heb koju. J\u00e4rgmisel p\u00e4eval hommikul \u00e4rkab reporter. Ta tuleb tagasi toimetusse ja soovib artikliga t\u00f6\u00f6d j\u00e4tkata. Reporter otsib artiklifaili kaustast nimega",
+                "answers": [
+                    "Toimetatud, kuid ei leia seda. Ta on segaduses ja m\u00f5tleb, kuhu artikkel v\u00f5is kaduda. Ta otsustab k\u00fcsida toimetajalt, kas too teab, kuhu ta artikli salvestas.\n\nReporter l\u00e4heb toimet",
+                    "Toimetatud, kuid ei leia seda. Ta on segaduses ja m\u00f5tleb, kuhu artikkel v\u00f5is kaduda. Ta otsustab k\u00fcsida toimetajalt, kas too teab, kuhu ta artikli salvestas.\n\nReporter l\u00e4heb toimet"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Uudistetoimetuses on p\u00e4eva l\u00f5pp ja reporter on peaaegu l\u00f5petanud artikli kirjutamise kontoriarvutis. T\u00f6\u00f6laual on kaks kausta: Mustandid ja Toimetatud. Kavatsedes artikli j\u00e4rgmisel p\u00e4eval l\u00f5petada, salvestab ta selle kausta Mustandid. Kontorisse siseneb toimetaja, et alustada oma \u00f6\u00f6vahetust. Ta sirvib kahte kausta, et n\u00e4ha, kas on midagi, mille kallal ta peaks t\u00f6\u00f6tama. Ta m\u00e4rkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb v\u00f5imalikult kiiresti avaldada. Ta otsustab kirjutada kokkuv\u00f5tte ja valmistada see ette kujundusmeeskonnale. Reporter vaatab, kuidas toimetaja liigutab artikli kausta Toimetatud. Varsti lahkuvad m\u00f5lemad kontorist. J\u00e4rgmisel p\u00e4eval hommikul tuleb reporter tagasi uudistetoimetusse ja soovib artikliga t\u00f6\u00f6d j\u00e4tkata. Artiklifail on kaustas nimega",
+                "answers": [
+                    "Avaldamiseks valmis. Ta avab kausta Toimetatud, kuid avastab, et artiklifaili seal ei ole. Ta hakkab muretsema ja otsustab k\u00fcsida toimetajalt, kas ta teab, kuhu artikkel v\u00f5is",
+                    "Avaldamiseks valmis. Ta avab kausta Toimetatud, kuid avastab, et artiklifaili seal ei ole. Ta hakkab muretsema ja otsustab k\u00fcsida toimetajalt, kas ta teab, kuhu artikkel v\u00f5is"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Uudistetoimetuses on p\u00e4eva l\u00f5pp ja reporter on peaaegu l\u00f5petanud artikli kirjutamise kontoriarvutis. T\u00f6\u00f6laual on kaks kausta: Mustandid ja Toimetatud. Kavatsedes artikli j\u00e4rgmisel p\u00e4eval l\u00f5petada, salvestab ta selle kausta Mustandid. Kontorisse siseneb toimetaja, et alustada oma \u00f6\u00f6vahetust. Ta sirvib kahte kausta, et n\u00e4ha, kas on midagi, mille kallal ta peaks t\u00f6\u00f6tama. Ta m\u00e4rkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb v\u00f5imalikult kiiresti avaldada. Ta otsustab kirjutada kokkuv\u00f5tte ja valmistada see ette kujundusmeeskonnale. Reporter vaatab, kuidas toimetaja liigutab artikli kausta Toimetatud. Varsti lahkuvad m\u00f5lemad kontorist. J\u00e4rgmisel p\u00e4eval hommikul tuleb reporter tagasi uudistetoimetusse ja soovib artikliga t\u00f6\u00f6d j\u00e4tkata. Reporter otsib artiklifaili kaustast nimega",
+                "answers": [
+                    "Toimetatud, kuid ei leia seda. Ta m\u00f5istab, et toimetaja on artikli kausta Toimetatud teisaldanud. Segaduses ja murelikuna otsustab reporter p\u00f6\u00f6rduda toimetaja poole.\n\nTa leiab toimetaja oma",
+                    "Toimetatud, kuid ei leia seda. Ta m\u00f5istab, et toimetaja on artikli kausta Toimetatud teisaldanud. Segaduses ja murelikuna otsustab reporter p\u00f6\u00f6rduda toimetaja poole.\n\nTa leiab toimetaja oma"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Uudistetoimetuses on p\u00e4eva l\u00f5pp ja reporter on peaaegu l\u00f5petanud artikli kirjutamise kontoriarvutis. T\u00f6\u00f6laual on kaks kausta: Mustandid ja Toimetatud. Kavatsedes artikli j\u00e4rgmisel p\u00e4eval l\u00f5petada, salvestab ta selle kausta Mustandid ja lahkub toimetusest. Varsti on ta kodus ja magab s\u00fcgavalt. Kui reporter on l\u00e4inud, tuleb kontorisse toimetaja, et alustada oma \u00f6\u00f6vahetust. Ta sirvib kahte kausta, et n\u00e4ha, kas on midagi, mille kallal ta peaks t\u00f6\u00f6tama. Ta m\u00e4rkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb v\u00f5imalikult kiiresti avaldada. Ta otsustab kirjutada kokkuv\u00f5tte ja valmistada see ette kujundusmeeskonnale. P\u00e4rast artikli l\u00f5petamist ja toimetamist liigutab ta selle kausta Toimetatud. Ta l\u00e4heb koju. J\u00e4rgmisel p\u00e4eval hommikul \u00e4rkab reporter. Ta tuleb tagasi toimetusse ja soovib artikliga t\u00f6\u00f6d j\u00e4tkata. Toimetaja helistab reporterile ja \u00fctleb talle, et ta liigutas artikli kaustast Mustandid kausta Toimetatud. Reporter usub toimetajat. Artiklifail on kaustas nimega",
+                "answers": [
+                    "\"Toimetatud\".",
+                    "\"Toimetatud\"."
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Uudistetoimetuses on p\u00e4eva l\u00f5pp ja reporter on peaaegu l\u00f5petanud artikli kirjutamise kontoriarvutis. T\u00f6\u00f6laual on kaks kausta: Mustandid ja Toimetatud. Kavatsedes artikli j\u00e4rgmisel p\u00e4eval l\u00f5petada, salvestab ta selle kausta Mustandid ja lahkub toimetusest. Varsti on ta kodus ja magab s\u00fcgavalt. Kui reporter on l\u00e4inud, tuleb kontorisse toimetaja, et alustada oma \u00f6\u00f6vahetust. Ta sirvib kahte kausta, et n\u00e4ha, kas on midagi, mille kallal ta peaks t\u00f6\u00f6tama. Ta m\u00e4rkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb v\u00f5imalikult kiiresti avaldada. Ta otsustab kirjutada kokkuv\u00f5tte ja valmistada see ette kujundusmeeskonnale. P\u00e4rast artikli l\u00f5petamist ja toimetamist liigutab ta selle kausta Toimetatud. Ta l\u00e4heb koju. J\u00e4rgmisel p\u00e4eval hommikul \u00e4rkab reporter. Ta tuleb tagasi toimetusse ja soovib artikliga t\u00f6\u00f6d j\u00e4tkata. Toimetaja helistab reporterile ja \u00fctleb talle, et ta liigutas artikli kaustast Mustandid kausta Toimetatud. Reporter usub toimetajat. Reporter otsib artiklifaili kaustast nimega",
+                "answers": [
+                    "Toimetatud, kuid ei leia seda. Ta on segaduses ja k\u00fcsib toimetajalt, kuhu ta artikli salvestas. Toimetaja selgitab, et ta liigutas artikli kausta Toimetatud, et see saaks kujundusmeesk",
+                    "Toimetatud, kuid ei leia seda. Ta on segaduses ja k\u00fcsib toimetajalt, kuhu ta artikli salvestas. Toimetaja selgitab, et ta liigutas artikli kausta Toimetatud, et see saaks kujundusmeesk"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Uudistetoimetuses on p\u00e4eva l\u00f5pp ja reporter on peaaegu l\u00f5petanud artikli kirjutamise kontoriarvutis. T\u00f6\u00f6laual on kaks kausta: Mustandid ja Toimetatud. Kavatsedes artikli j\u00e4rgmisel p\u00e4eval l\u00f5petada, salvestab ta selle kausta Mustandid ja lahkub toimetusest. Varsti on ta kodus ja magab s\u00fcgavalt. Kui reporter on l\u00e4inud, tuleb kontorisse toimetaja, et alustada oma \u00f6\u00f6vahetust. Ta sirvib kahte kausta, et n\u00e4ha, kas on midagi, mille kallal ta peaks t\u00f6\u00f6tama. Ta m\u00e4rkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb v\u00f5imalikult kiiresti avaldada. Ta otsustab kirjutada kokkuv\u00f5tte ja valmistada see ette kujundusmeeskonnale. P\u00e4rast artikli l\u00f5petamist ja toimetamist j\u00e4tab ta faili kausta Mustandid. Ta l\u00e4heb koju. J\u00e4rgmisel p\u00e4eval hommikul \u00e4rkab reporter. Ta tuleb tagasi toimetusse ja soovib artikliga t\u00f6\u00f6d j\u00e4tkata. Artiklifail on kaustas nimega",
+                "answers": [
+                    "Toimetatud. Reporter avab kausta ja m\u00e4rkab, et artikkel on juba toimetatud ning valmis avaldamiseks. Ta on \u00fcllatunud, kuid samas t\u00e4nulik toimetajale, et see oli tema eest hoolitsenud. Reporter o",
+                    "Toimetatud. Reporter avab kausta ja m\u00e4rkab, et artikkel on juba toimetatud ning valmis avaldamiseks. Ta on \u00fcllatunud, kuid samas t\u00e4nulik toimetajale, et see oli tema eest hoolitsenud. Reporter o"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Uudistetoimetuses on p\u00e4eva l\u00f5pp ja reporter on peaaegu l\u00f5petanud artikli kirjutamise kontoriarvutis. T\u00f6\u00f6laual on kaks kausta: Mustandid ja Toimetatud. Kavatsedes artikli j\u00e4rgmisel p\u00e4eval l\u00f5petada, salvestab ta selle kausta Mustandid ja lahkub toimetusest. Varsti on ta kodus ja magab s\u00fcgavalt. Kui reporter on l\u00e4inud, tuleb kontorisse toimetaja, et alustada oma \u00f6\u00f6vahetust. Ta sirvib kahte kausta, et n\u00e4ha, kas on midagi, mille kallal ta peaks t\u00f6\u00f6tama. Ta m\u00e4rkab, et reporteri kirjutatud artikkel on kiireloomuline lugu, mis tuleb v\u00f5imalikult kiiresti avaldada. Ta otsustab kirjutada kokkuv\u00f5tte ja valmistada see ette kujundusmeeskonnale. P\u00e4rast artikli l\u00f5petamist ja toimetamist j\u00e4tab ta faili kausta Mustandid. Ta l\u00e4heb koju. J\u00e4rgmisel p\u00e4eval hommikul \u00e4rkab reporter. Ta tuleb tagasi toimetusse ja soovib artikliga t\u00f6\u00f6d j\u00e4tkata. Reporter otsib artiklifaili kaustast nimega",
+                "answers": [
+                    "Toimetatud, kuid ei leia seda. Ta on segaduses, sest ta oli kindel, et salvestas artikli sinna. Ta otsustab k\u00fcsida toimetajalt, kas too on n\u00e4inud artiklit v\u00f5i teab, kuhu see v\u00f5ib o",
+                    "Toimetatud, kuid ei leia seda. Ta on segaduses, sest ta oli kindel, et salvestas artikli sinna. Ta otsustab k\u00fcsida toimetajalt, kas too on n\u00e4inud artiklit. Ta l\u00e4heb toimetaja juurde ja"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

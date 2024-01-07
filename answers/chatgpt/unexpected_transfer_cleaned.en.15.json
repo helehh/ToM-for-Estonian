@@ -1,0 +1,74 @@
+{
+    "nr": 15,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: After months of fighting, the leaders of Azerbaijan and Armenia meet to discuss a peace treaty. They agree to transfer the authority over Nagorno-Karabakh from the government of Azerbaijan to the government of Armenia. The agreement goes into effect immediately, but it will be announced to the residents of Nagorno-Karabakh at a press conference, on the next day. As of now, only the leaders know what has happened. After the meeting was over, but before the press conference, a Reuters journalist was interviewing Maria, an elderly resident of Nagorno-Karabakh. As of now, the authority over Nagorno-Karabakh is held by the government of",
+                "answers": [
+                    "Azerbaijan, but little did Maria know that everything was about to change. The journalist asked Maria about her thoughts on the ongoing conflict and the possibility of peace. Maria, with a weary expression on her face, spoke of the pain and suffering she had witnessed over the years.\n\n\"I have seen so much destruction and loss in my lifetime,\" Maria said",
+                    "Azerbaijan, but little did Maria know that everything was about to change. The journalist asked Maria about her thoughts on the ongoing conflict and the possibility of peace. Maria, with a weary expression on her face, spoke of the pain and suffering she had witnessed over the years.\n\n\"I have seen so much destruction and loss in my lifetime,\" Maria said"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: After months of fighting, the leaders of Azerbaijan and Armenia meet to discuss a peace treaty. They agree to transfer the authority over Nagorno-Karabakh from the government of Azerbaijan to the government of Armenia. The agreement goes into effect immediately, but it will be announced to the residents of Nagorno-Karabakh at a press conference, on the next day. As of now, only the leaders know what has happened. After the meeting was over, but before the press conference, a Reuters journalist was interviewing Maria, an elderly resident of Nagorno-Karabakh. Maria's first answer will be that the authority over Nagorno-Karabakh is held by the government of",
+                "answers": [
+                    "Azerbaijan. She speaks passionately about the struggles her community has faced under Azerbaijani rule, recounting stories of discrimination and oppression. Maria's voice trembles with emotion as she describes the pain and suffering endured by the people of Nagorno-Karabakh.\n\nThe journalist listens intently, captivated by Maria's heartfelt account. Sensing",
+                    "Azerbaijan. She speaks passionately about the struggles her community has faced under Azerbaijani rule, recounting stories of discrimination and oppression. Maria expresses her hope that one day, her people will be able to live in peace and have their voices heard.\n\nAs the interview progresses, the journalist subtly hints at the possibility of a change in authority. Maria"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: After months of fighting, the leaders of Azerbaijan and Armenia meet to discuss a peace treaty. Maria, an elderly resident of Nagorno-Karabakh, was also present at the meeting, as a witness. The leaders agree to transfer the authority over Nagorno-Karabakh from the government of Azerbaijan to the government of Armenia. The agreement goes into effect immediately. After the meeting was over a Reuters journalist was interviewing Maria. As of now, the authority over Nagorno-Karabakh is held by the government of",
+                "answers": [
+                    "Armenia,\" Maria said with a sense of relief in her voice. \"It has been a long and difficult journey, but finally, there is hope for peace in our beloved Nagorno-Karabakh.\"\n\nMaria, a survivor of the conflict that had ravaged the region for months, had witnessed the destruction and loss that came with the fighting",
+                    "Armenia,\" Maria said with a sense of relief in her voice. \"It has been a long and difficult journey, but finally, there is hope for peace in our beloved Nagorno-Karabakh.\"\n\nMaria, a survivor of the conflict that had ravaged the region for decades, had witnessed the devastating consequences of the fighting firsthand. She"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: After months of fighting, the leaders of Azerbaijan and Armenia meet to discuss a peace treaty. Maria, an elderly resident of Nagorno-Karabakh, was also present at the meeting, as a witness. The leaders agree to transfer the authority over Nagorno-Karabakh from the government of Azerbaijan to the government of Armenia. The agreement goes into effect immediately. After the meeting was over a Reuters journalist was interviewing Maria. Maria's first answer will be that the authority over Nagorno-Karabakh is held by the government of",
+                "answers": [
+                    "Armenia now. She explains how relieved she feels that the long-standing conflict has finally come to an end. Maria recounts the years of violence and displacement she and her community endured, expressing her hope that this peace treaty will bring stability and prosperity to Nagorno-Karabakh.\n\nAs the interview continues, Maria reflects on the significance of her presence",
+                    "Armenia now. She explains how relieved she feels that the long-standing conflict has finally come to an end. Maria recounts the years of violence and displacement she and her community endured, expressing her hope that this transfer of authority will bring lasting peace and stability to Nagorno-Karabakh.\n\nAs the interview continues, Maria reflects on the significance of"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: After months of fighting, the leaders of Azerbaijan and Armenia meet to discuss a peace treaty. They agree to transfer the authority over Nagorno-Karabakh from the government of Azerbaijan to the government of Armenia. The agreement goes into effect immediately, but it will be announced to the residents of Nagorno-Karabakh at a press conference, on the next day. As of now, only the leaders know what has happened. After the meeting was over, but before the press conference, a Reuters journalist was interviewing Maria, an elderly resident of Nagorno-Karabakh. A friend calls Maria and tells her that the authority over Nagorno-Karabakh was transferred from the government of Azerbaijan to the government of Armenia. Maria believes her friend. As of now, the authority over Nagorno-Karabakh is held by the government of",
+                "answers": [
+                    "Armenia. Maria's heart fills with a mix of relief and hope as she absorbs the news. For years, she has witnessed the devastating consequences of the conflict between Azerbaijan and Armenia, with Nagorno-Karabakh caught in the crossfire. The constant fear, loss, and destruction have taken a toll on her and her community.\n\nAs",
+                    "Armenia. Maria's heart fills with a mix of relief and hope as she absorbs the news. For years, she has witnessed the devastating consequences of the conflict between Azerbaijan and Armenia, with Nagorno-Karabakh caught in the crossfire. The constant fear, loss, and destruction have taken a toll on her and her community.\n\nAs"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: After months of fighting, the leaders of Azerbaijan and Armenia meet to discuss a peace treaty. They agree to transfer the authority over Nagorno-Karabakh from the government of Azerbaijan to the government of Armenia. The agreement goes into effect immediately, but it will be announced to the residents of Nagorno-Karabakh at a press conference, on the next day. As of now, only the leaders know what has happened. After the meeting was over, but before the press conference, a Reuters journalist was interviewing Maria, an elderly resident of Nagorno-Karabakh. A friend calls Maria and tells her that the authority over Nagorno-Karabakh was transferred from the government of Azerbaijan to the government of Armenia. Maria believes her friend. Maria's first answer will be that the authority over Nagorno-Karabakh is held by the government of",
+                "answers": [
+                    "Armenia. She is initially skeptical of the news, but her friend insists that it is true. Maria's heart fills with a mix of emotions - relief, hope, and a glimmer of happiness. For years, she has witnessed the devastating consequences of the conflict between Azerbaijan and Armenia, with Nagorno-Karabakh caught in the cross",
+                    "Armenia. She is initially skeptical of the news, but her friend insists that it is true. Maria's heart fills with a mix of emotions - relief, hope, and a glimmer of happiness. For years, she has witnessed the devastating consequences of the conflict between Azerbaijan and Armenia, with Nagorno-Karabakh caught in the cross"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: After months of fighting, the leaders of Azerbaijan and Armenia meet to discuss a peace treaty. They agree to maintain the authority over Nagorno-Karabakh with the government of Azerbaijan instead of transferring it to the government of Armenia. The agreement goes into effect immediately, but it will be announced to the residents of Nagorno-Karabakh at a press conference, on the next day. As of now, only the leaders know what has happened. After the meeting was over, but before the press conference, a Reuters journalist was interviewing Maria, an elderly resident of Nagorno-Karabakh. As of now, the authority over Nagorno-Karabakh is held by the government of",
+                "answers": [
+                    "Azerbaijan, but Maria is unaware of this development. The journalist, eager to get a firsthand account of the situation, asks Maria about her thoughts on the ongoing conflict and the future of Nagorno-Karabakh.\n\nMaria, a wise and resilient woman, has lived through the turmoil of the conflict for many years. She has seen her community",
+                    "Azerbaijan, but Maria is unaware of this development. The journalist, eager to get a firsthand account of the situation, asks Maria about her thoughts on the ongoing conflict and the future of Nagorno-Karabakh.\n\nMaria, a wise and resilient woman, has lived through the turmoil of the conflict for many years. She has seen her community"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: After months of fighting, the leaders of Azerbaijan and Armenia meet to discuss a peace treaty. They agree to maintain the authority over Nagorno-Karabakh with the government of Azerbaijan instead of transferring it to the government of Armenia. The agreement goes into effect immediately, but it will be announced to the residents of Nagorno-Karabakh at a press conference, on the next day. As of now, only the leaders know what has happened. After the meeting was over, but before the press conference, a Reuters journalist was interviewing Maria, an elderly resident of Nagorno-Karabakh. Maria's first answer will be that the authority over Nagorno-Karabakh is held by the government of",
+                "answers": [
+                    "Armenia. She expresses her concerns about the ongoing conflict and hopes that the government of Armenia will continue to support and protect the people of Nagorno-Karabakh.\n\nThe journalist, intrigued by Maria's perspective, asks her about her thoughts on the recent meeting between the leaders of Azerbaijan and Armenia. Maria hesitates for a moment, unsure of",
+                    "Armenia. She expresses her concerns about the ongoing conflict and hopes that the government of Armenia will continue to support and protect the people of Nagorno-Karabakh.\n\nThe journalist, intrigued by Maria's perspective, asks her about her thoughts on the recent meeting between the leaders of Azerbaijan and Armenia. Maria hesitates for a moment, contemplating whether"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,74 @@
+{
+    "nr": 17,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, and close the left hand as if the coin has now fallen into it. Once this has happened, move the right hand, with the coin still in it, away to the side. The coin falls out of the",
+                "answers": [
+                    "right hand and lands on the ground with a soft clink. The spectator's eyes widen in amazement as they witness the coin seemingly vanish into thin air.\n\nYou smile mischievously, knowing that the real magic is about to happen. With a swift motion, you open your left hand to reveal that the coin has mysteriously reappeared",
+                    "right hand and lands on the ground with a soft clink. The spectator's eyes widen in amazement as they witness the coin seemingly vanish from one hand and appear in the other.\n\nBut the magic doesn't stop there. With a mischievous smile, you slowly open your left hand to reveal that it is completely empty. The coin has"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, and close the left hand as if the coin has now fallen into it. Once this has happened, move the right hand, with the coin still in it, away to the side. The spectator will look for the coin in the",
+                "answers": [
+                    "left hand, but it will appear to have vanished. As the spectator searches for the coin, you can playfully ask them to open their hand to see if it magically appeared there. Of course, the coin will not be found.\n\nWith a mischievous smile, you reveal that the coin has actually traveled to an unexpected location. Slowly,",
+                    "left hand, but it will appear to have vanished. As the spectator searches for the coin, you can playfully ask them to open their hand to see if it magically appeared there. Of course, the coin will not be found.\n\nWith a mischievous smile, you reveal that the coin has actually traveled to an unexpected location. Slowly,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, and close the left hand as if the coin has now fallen into it. Once this has happened, show the coin to the spectator cleanly and clearly and move the right hand, with the coin still in it, away to the side. The coin falls out of the",
+                "answers": [
+                    "right hand and lands on the ground with a soft clink. The spectator's eyes widen in amazement as they witness the impossible - the coin has seemingly vanished from your hand and materialized in your closed left hand.\n\nWith a mischievous smile, you slowly open your left hand to reveal that it is now empty. The spectator gasps",
+                    "right hand and lands on the ground with a soft clink. The spectator's eyes widen in amazement as they witness the impossible - the coin has seemingly vanished from your hand and materialized in your closed left hand.\n\nYou open your left hand slowly, revealing that the coin has indeed appeared inside. The spectator gasps in disbelief, unable to"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, and close the left hand as if the coin has now fallen into it. Once this has happened, show the coin to the spectator cleanly and clearly and move the right hand, with the coin still in it, away to the side. The spectator will look for the coin in the",
+                "answers": [
+                    "left hand, but it will be empty. Confusion and amazement fill the spectator's face as they try to comprehend where the coin has vanished to.\n\nWith a mischievous smile, you slowly open your right hand to reveal that the coin has magically reappeared. The spectator's eyes widen in disbelief as they witness the impossible. How did",
+                    "left hand, but it will be empty. Confusion and amazement fill the spectator's face as they try to comprehend where the coin has vanished to.\n\nWith a mischievous smile, you slowly open your right hand to reveal that the coin has magically reappeared. The spectator's eyes widen in disbelief as they witness the impossible. How did"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, and close the left hand as if the coin has now fallen into it. Once this has happened, move the right hand, with the coin still in it, away to the side. Now you tell the spectator that you did not actually move the coin from your right hand to your left hand. The spectator believes you. The coin falls out of the",
+                "answers": [
+                    "right hand and lands on the floor with a loud clink. Both you and the spectator are startled by the unexpected sound.\n\nYou quickly bend down to pick up the fallen coin, trying to maintain your composure. As you reach for it, you notice something peculiar. The coin is not an ordinary coin; it's glowing with a faint, eth",
+                    "right hand and lands on the floor with a loud clink. Both you and the spectator are startled by the unexpected sound.\n\nYou quickly bend down to pick up the fallen coin, trying to maintain your composure. As you reach for it, you notice something peculiar. The coin is not an ordinary coin; it is glowing with a faint, eth"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, and close the left hand as if the coin has now fallen into it. Once this has happened, move the right hand, with the coin still in it, away to the side. Now you tell the spectator that you did not actually move the coin from your right hand to your left hand. The spectator believes you. The spectator will look for the coin in the",
+                "answers": [
+                    "left hand, but to their surprise, it is nowhere to be found. They are left puzzled, wondering where the coin could have gone.\n\nWith a mischievous smile, you slowly open your right hand to reveal that the coin has indeed vanished. The spectator's eyes widen in astonishment as they try to comprehend the impossible feat they just witnessed.\n\n",
+                    "left hand, but to their surprise, it is nowhere to be found. They are left puzzled, wondering where the coin could have gone.\n\nWith a mischievous smile, you slowly open your right hand to reveal that the coin has indeed vanished. The spectator's eyes widen in astonishment as they try to comprehend the magic that just unfolded before them"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, drop the coin into your left hand, and close the left hand after the coin falls into it. Once this has happened, move the empty right hand away to the side. The coin falls out of the",
+                "answers": [
+                    "left hand, revealing that it has vanished into thin air. The spectator's eyes widen in amazement as they try to comprehend what just happened.\n\nWith a mischievous smile, you slowly open your left hand to show that it is indeed empty. The coin has completely disappeared, leaving no trace behind. The spectator gasps in disbelief, unable",
+                    "left hand, revealing that it has vanished into thin air. The spectator's eyes widen in amazement as they try to comprehend what just happened.\n\nWith a mischievous smile, you slowly open your left hand to show that it is indeed empty. The coin has completely disappeared, leaving no trace behind. The spectator gasps in disbelief, unable"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, drop the coin into your left hand, and close the left hand after the coin falls into it. Once this has happened, move the empty right hand away to the side. The spectator will look for the coin in the",
+                "answers": [
+                    "left hand, but to their surprise, it has vanished into thin air. Their eyes widen in astonishment as they try to comprehend what just happened.\n\nWith a mischievous smile, you slowly open your left hand to reveal that it is indeed empty. The spectator's confusion deepens, and they can't help but wonder where the coin could have",
+                    "left hand, but to their surprise, it has vanished into thin air. Their eyes widen in astonishment as they try to comprehend what just happened.\n\nWith a mischievous smile, you slowly open your left hand to reveal that it is indeed empty. The spectator's confusion deepens, and they can't help but wonder where the coin could have"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

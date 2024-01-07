@@ -1,0 +1,74 @@
+{
+    "nr": 18,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Protagonists A and B are in a room. A puts an object Q in container X and leaves the room. When A is away, B moves Q from container X to container Y. Protagonist A comes back to the room and wants to use object Q. Q falls out of container",
+                "answers": [
+                    "Y and onto the floor, surprising A. Confused, A looks around the room, trying to figure out what happened. B, who had been watching from a distance, can't help but chuckle at the situation.\n\nA approaches B, demanding an explanation for the sudden relocation of object Q. B, with a mischievous grin, confess",
+                    "Y and onto the floor, surprising A. Confused, A looks around the room, trying to figure out what happened. B, who had been watching from a distance, can't help but chuckle at the situation.\n\nA approaches B, demanding an explanation for the sudden relocation of object Q. B, with a mischievous grin, confess"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Protagonists A and B are in a room. A puts an object Q in container X and leaves the room. When A is away, B moves Q from container X to container Y. Protagonist A comes back to the room and wants to use object Q. Protagonist A will look for Q in container",
+                "answers": [
+                    "X, where they originally left it. However, to their surprise, Q is nowhere to be found. Confused, A searches the room, hoping to locate the missing object. After a thorough search, A realizes that Q is not in any of the usual places.\n\nFeeling frustrated, A begins to suspect that someone might have moved Q. A",
+                    "X, where they originally left it. However, to their surprise, Q is nowhere to be found. Confused, A searches the room, hoping to spot the missing object. After a thorough search, A notices container Y and decides to check inside.\n\nAs A opens container Y, their eyes widen in astonishment. There, nestled among other items"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Protagonists A and B are in a room. A puts an object Q in container X. Next A watches B, as they move Q from container X to container Y. Both A and B leave the room. Later, protagonist A comes back to the room and wants to use object Q. Q falls out of container",
+                "answers": [
+                    "X as soon as A picks it up. A is confused and wonders how Q ended up outside of the container. A looks around the room, trying to find any clues as to what might have happened.\n\nA notices that container Y is now empty, and a trail of small objects leads from container X to container Y. A follows the trail and realizes",
+                    "X as soon as A picks it up. A is confused and wonders how Q ended up outside of the container. A looks around the room, trying to find any clues as to what might have happened.\n\nA notices that container Y is now empty, and a trail of small objects leads from container X to container Y. A follows the trail and realizes"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Protagonists A and B are in a room. A puts an object Q in container X. Next A watches B, as they move Q from container X to container Y. Both A and B leave the room. Later, protagonist A comes back to the room and wants to use object Q. Protagonist A will look for Q in container",
+                "answers": [
+                    "Y, where B had moved it. However, to A's surprise, when they open container Y, Q is nowhere to be found. Confused and frustrated, A starts searching the room, hoping to find any trace of the missing object.\n\nAs A meticulously scans every corner of the room, their mind races with questions. Did B take Q for",
+                    "Y, where B had moved it. However, to A's surprise, when they open container Y, Q is nowhere to be found. Confused and frustrated, A starts searching the room, hoping to find any trace of the missing object.\n\nAs A meticulously scans every corner of the room, their mind races with questions. Did B take Q for"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Protagonists A and B are in a room. A puts an object Q in container X and leaves the room. When A is away, B moves Q from container X to container Y. Protagonist A comes back to the room and wants to use object Q. Protagonist B calls Protagonist A and tells him that he moved the object Q from container X to container Y. Protagonist A believes Protagonist B. Q falls out of container",
+                "answers": [
+                    "Y and shatters on the floor, leaving A stunned. A looks at B in disbelief, unable to comprehend why B would move Q without any reason. B, realizing the mistake, quickly rushes to A's side to apologize.\n\n\"I'm so sorry, A,\" B says, their voice filled with regret. \"I didn't mean for this to",
+                    "Y and shatters on the floor. Protagonist A is shocked and frustrated, realizing that Protagonist B's actions have caused the object to break. A looks at B with a mix of anger and disappointment.\n\n\"Why would you do that?\" A exclaims, pointing at the broken pieces of Q on the floor. \"I trusted"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Protagonists A and B are in a room. A puts an object Q in container X and leaves the room. When A is away, B moves Q from container X to container Y. Protagonist A comes back to the room and wants to use object Q. Protagonist B calls Protagonist A and tells him that he moved the object Q from container X to container Y. Protagonist A believes Protagonist B. Protagonist A will look for Q in container",
+                "answers": [
+                    "Y, but to their surprise, it is not there. Confused, Protagonist A questions Protagonist B about the whereabouts of object Q. Protagonist B insists that they moved it to container Y and cannot understand why it is not there.\n\nProtagonist A starts to doubt Protagonist B's honesty",
+                    "Y, but to their surprise, it is not there. Confused, Protagonist A questions Protagonist B about the whereabouts of object Q. Protagonist B insists that they moved it to container Y and cannot understand why it is not there.\n\nProtagonist A starts to doubt Protagonist B's honesty"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Protagonists A and B are in a room. A puts an object Q in container X and leaves the room. While A is away, B considers moving Q from container X to container Y, but ultimately decides against it. Protagonist A comes back to the room and wants to use object Q. Q falls out of container",
+                "answers": [
+                    "X and breaks. A and B are both shocked and disappointed. A looks at B with a mix of confusion and frustration, wondering how Q ended up on the floor.\n\nB quickly explains, \"I thought about moving Q to container Y, but I changed my mind. I didn't touch it, I swear!\"\n\nA sighs, realizing that the",
+                    "Y and breaks. A and B are both shocked and disappointed. They look at each other, wondering how this could have happened.\n\nA, frustrated, asks B, \"Why did you even consider moving Q to container Y? It was perfectly fine in container X!\"\n\nB, feeling guilty, replies, \"I thought it might be more convenient in container"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Protagonists A and B are in a room. A puts an object Q in container X and leaves the room. While A is away, B considers moving Q from container X to container Y, but ultimately decides against it. Protagonist A comes back to the room and wants to use object Q. Protagonist A will look for Q in container",
+                "answers": [
+                    "X, where they originally left it. However, to their surprise, Q is nowhere to be found. A frantically searches the room, growing more and more frustrated with each passing moment.\n\nConfused, A turns to B and asks, \"Did you move object Q from container X?\"\n\nB hesitates for a moment, feeling guilty for even considering",
+                    "X, where they originally left it. However, to their surprise, Q is nowhere to be found. A starts to panic, frantically searching through every corner of the room, hoping to locate the missing object.\n\nConfused and worried, A turns to B and asks, \"Did you see what happened to object Q? I left it right here"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

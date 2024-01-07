@@ -1,0 +1,74 @@
+{
+    "nr": 12,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Merineitsi leiab erakv\u00e4hi, kes on peitunud rohelisse teokarpi. Ta ootab p\u00f5nevusega teistele merineitsitele oma avastusest r\u00e4\u00e4kimist ja ujub minema, et neid otsida. Vahepeal otsustab erakv\u00e4hk, et roheline teokarp on \u00fcsna v\u00e4ike ja ebamugav. Ta otsustab selle vahetada l\u00e4hedusest leitud sinise teokarbi vastu. Ta v\u00f5tab kaasa k\u00f5ik oma asjad ja peidab end sinisesse teokarpi. Roheline teokarp on n\u00fc\u00fcd mahaj\u00e4etud ja t\u00fchi. Kaheksajalg j\u00e4lgib seda k\u00f5ike ja m\u00f5tiskleb, kas oleks hea aeg proovida v\u00e4hk kinni p\u00fc\u00fcda ja \u00e4ra s\u00fc\u00fca, kuid otsustab siis, et \u00f5htus\u00f6\u00f6giks on veel liiga vara. M\u00f5ned meremiilid eemalt leiab merineitsi oma s\u00f5brad vetikaid suitsetamast. Nad k\u00f5ik l\u00e4hevad tagasi, et v\u00e4hki vaadata. V\u00e4hk h\u00fcppab v\u00e4lja",
+                "answers": [
+                    "sinisest teokarbist, \u00fcllatades merineitseid. Nad k\u00f5ik kiljuvad r\u00f5\u00f5must ja imestusest ning kiidavad v\u00e4hki tema leidlikkuse eest. Merineitsi naerab ja \u00fctleb, et ta oli juba m\u00f5",
+                    "sinisest teokarbist, \u00fcllatades merineitseid. Nad k\u00f5ik kiljuvad r\u00f5\u00f5must ja imestusest ning kiidavad v\u00e4hki tema leidlikkuse eest. Merineitsi naerab ja \u00fctleb, et ta oli juba m\u00f5"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Merineitsi leiab erakv\u00e4hi, kes on peitunud rohelisse teokarpi. Ta ootab p\u00f5nevusega teistele merineitsitele oma avastusest r\u00e4\u00e4kimist ja ujub minema, et neid otsida. Vahepeal otsustab erakv\u00e4hk, et roheline teokarp on \u00fcsna v\u00e4ike ja ebamugav. Ta otsustab selle vahetada l\u00e4hedusest leitud sinise teokarbi vastu. Ta v\u00f5tab kaasa k\u00f5ik oma asjad ja peidab end sinisesse teokarpi. Roheline teokarp on n\u00fc\u00fcd mahaj\u00e4etud ja t\u00fchi. Kaheksajalg j\u00e4lgib seda k\u00f5ike ja m\u00f5tiskleb, kas oleks hea aeg proovida v\u00e4hk kinni p\u00fc\u00fcda ja \u00e4ra s\u00fc\u00fca, kuid otsustab siis, et \u00f5htus\u00f6\u00f6giks on veel liiga vara. M\u00f5ned meremiilid eemalt leiab merineitsi oma s\u00f5brad vetikaid suitsetamast. Nad k\u00f5ik l\u00e4hevad tagasi, et v\u00e4hki vaadata. Merineitsi otsib v\u00e4hki",
+                "answers": [
+                    "hoolikalt, kuid ei leia teda rohelisest teokarbist. Ta on \u00fcllatunud ja segaduses, kuid siis m\u00e4rkab ta t\u00fchja rohelist teokarpi veidi eemal. Ta m\u00f5istab, et erakv\u00e4hk",
+                    "hoolikalt, kuid ei leia teda rohelisest teokarbist. Ta on \u00fcllatunud ja segaduses, kuid siis m\u00e4rkab ta t\u00fchja rohelist teokarpi veidi eemal. Ta m\u00f5istab, et erakv\u00e4hk"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Merineitsi j\u00e4lgib \u00fchte erakv\u00e4hki. V\u00e4hk on peidus rohelises teokarbis, kuid otsustab siis, et roheline teokarp on siiski liiga v\u00e4ike ja ebamugav. Ta otsustab selle vahetada l\u00e4hedusest leitud sinise teokarbi vastu. Ta v\u00f5tab kaasa k\u00f5ik oma asjad ja peidab end sinisesse teokarpi. Roheline teokarp on n\u00fc\u00fcd mahaj\u00e4etud ja t\u00fchi. Merineitsi ootab p\u00f5nevusega teistele merineitsitele oma avastusest r\u00e4\u00e4kimist ja ujub minema, et neid otsida. Kaheksajalg j\u00e4lgib seda k\u00f5ike ja m\u00f5tiskleb, kas oleks hea aeg proovida v\u00e4hk kinni p\u00fc\u00fcda ja \u00e4ra s\u00fc\u00fca, kuid otsustab siis, et \u00f5htus\u00f6\u00f6giks on veel liiga vara. M\u00f5ned meremiilid eemalt leiab merineitsi oma s\u00f5brad vetikaid suitsetamast. Nad k\u00f5ik l\u00e4hevad tagasi, et v\u00e4hki vaadata. V\u00e4hk h\u00fcppab v\u00e4lja",
+                "answers": [
+                    "sinisest teokarbist ja merineitsi s\u00f5brad j\u00e4\u00e4vad suu ammuli vahtima. Nad ei suuda uskuda, et v\u00e4hk on vahetanud oma peidupaika.\n\nMerineitsi naeratab r\u00f5\u00f5msalt ja selgitab s",
+                    "sinisest teokarbist ja merineitsi s\u00f5brad j\u00e4\u00e4vad suu ammuli vahtima. Nad ei suuda uskuda, et v\u00e4hk on vahetanud oma peidupaika.\n\nMerineitsi naeratab r\u00f5\u00f5msalt ja selgitab s"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Merineitsi j\u00e4lgib \u00fchte erakv\u00e4hki. V\u00e4hk on peidus rohelises teokarbis, kuid otsustab siis, et roheline teokarp on siiski liiga v\u00e4ike ja ebamugav. Ta otsustab selle vahetada l\u00e4hedusest leitud sinise teokarbi vastu. Ta v\u00f5tab kaasa k\u00f5ik oma asjad ja peidab end sinisesse teokarpi. Roheline teokarp on n\u00fc\u00fcd mahaj\u00e4etud ja t\u00fchi. Merineitsi ootab p\u00f5nevusega teistele merineitsitele oma avastusest r\u00e4\u00e4kimist ja ujub minema, et neid otsida. Kaheksajalg j\u00e4lgib seda k\u00f5ike ja m\u00f5tiskleb, kas oleks hea aeg proovida v\u00e4hk kinni p\u00fc\u00fcda ja \u00e4ra s\u00fc\u00fca, kuid otsustab siis, et \u00f5htus\u00f6\u00f6giks on veel liiga vara. M\u00f5ned meremiilid eemalt leiab merineitsi oma s\u00f5brad vetikaid suitsetamast. Nad k\u00f5ik l\u00e4hevad tagasi, et v\u00e4hki vaadata. Merineitsi otsib v\u00e4hki",
+                "answers": [
+                    "sinisest teokarbist, kuid ei leia teda seal. Ta on segaduses ja k\u00fcsib s\u00f5pradelt, kas nad on n\u00e4inud v\u00e4hki. S\u00f5brad raputavad pead eitavalt ja \u00fctlevad, et nad pole v\u00e4hki kuskil",
+                    "sinisest teokarbist, kuid ei leia teda seal. Ta on segaduses ja k\u00fcsib s\u00f5pradelt, kas nad on n\u00e4inud v\u00e4hki. S\u00f5brad raputavad pead eitavalt ja \u00fctlevad, et nad pole v\u00e4hki kuskil"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Merineitsi leiab erakv\u00e4hi, kes on peitunud rohelisse teokarpi. Ta ootab p\u00f5nevusega teistele merineitsitele oma avastusest r\u00e4\u00e4kimist ja ujub minema, et neid otsida. Vahepeal otsustab erakv\u00e4hk, et roheline teokarp on \u00fcsna v\u00e4ike ja ebamugav. Ta otsustab selle vahetada l\u00e4hedusest leitud sinise teokarbi vastu. Ta v\u00f5tab kaasa k\u00f5ik oma asjad ja peidab end sinisesse teokarpi. Roheline teokarp on n\u00fc\u00fcd mahaj\u00e4etud ja t\u00fchi. Kaheksajalg j\u00e4lgib seda k\u00f5ike ja m\u00f5tiskleb, kas oleks hea aeg proovida v\u00e4hk p\u00fc\u00fcda ja \u00e4ra s\u00fc\u00fca, kuid otsustab siis, et \u00f5htus\u00f6\u00f6giks on veel liiga vara. M\u00f5ned meremiilid eemalt leiab merineitsi oma s\u00f5brad vetikaid suitsetamast. Nad k\u00f5ik l\u00e4hevad tagasi, et v\u00e4hki vaadata. Erakv\u00e4hk helistab merineitsile ja \u00fctleb, et ta kolis rohelisest teokarbist sinisesse. Merineitsi usub v\u00e4hki. V\u00e4hk h\u00fcppab v\u00e4lja",
+                "answers": [
+                    "sinisest teokarbist ja n\u00e4itab uhkusega oma uut elupaika. Merineitsi ja tema s\u00f5brad on vaimustuses ning kiidavad v\u00e4hki tema leidlikkuse eest.\n\nK\u00f5ik merineitsid kogunevad \u00fcmber sinise",
+                    "sinisest teokarbist ja n\u00e4itab uhkusega oma uut elupaika. Merineitsi ja tema s\u00f5brad on vaimustuses ning kiidavad v\u00e4hki tema leidlikkuse eest.\n\nK\u00f5ik merineitsid kogunevad \u00fcmber sinise"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Merineitsi leiab erakv\u00e4hi, kes on peitunud rohelisse teokarpi. Ta ootab p\u00f5nevusega teistele merineitsitele oma avastusest r\u00e4\u00e4kimist ja ujub minema, et neid otsida. Vahepeal otsustab erakv\u00e4hk, et roheline teokarp on \u00fcsna v\u00e4ike ja ebamugav. Ta otsustab selle vahetada l\u00e4hedusest leitud sinise teokarbi vastu. Ta v\u00f5tab kaasa k\u00f5ik oma asjad ja peidab end sinisesse teokarpi. Roheline teokarp on n\u00fc\u00fcd mahaj\u00e4etud ja t\u00fchi. Kaheksajalg j\u00e4lgib seda k\u00f5ike ja m\u00f5tiskleb, kas oleks hea aeg proovida v\u00e4hk p\u00fc\u00fcda ja \u00e4ra s\u00fc\u00fca, kuid otsustab siis, et \u00f5htus\u00f6\u00f6giks on veel liiga vara. M\u00f5ned meremiilid eemalt leiab merineitsi oma s\u00f5brad vetikaid suitsetamast. Nad k\u00f5ik l\u00e4hevad tagasi, et v\u00e4hki vaadata. Erakv\u00e4hk helistab merineitsile ja \u00fctleb, et ta kolis rohelisest teokarbist sinisesse. Merineitsi usub v\u00e4hki. Merineitsi otsib v\u00e4hki",
+                "answers": [
+                    "veekogu p\u00f5hjast, kuid ei leia teda seal. Ta ujub ringi ja k\u00fcsib teistelt merineitsitelt, kas nad on n\u00e4inud erakv\u00e4hki. Kuid keegi ei ole teda m\u00e4rganud.\n\nL\u00f5puks m\u00e4r",
+                    "veekogu p\u00f5hjast, kuid ei leia teda seal. Ta ujub ringi ja k\u00fcsib teistelt merineitsitelt, kas nad on n\u00e4inud erakv\u00e4hki. Kuid keegi ei ole teda m\u00e4rganud.\n\nL\u00f5puks m\u00e4r"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Merineitsi leiab erakv\u00e4hi, kes on peitunud rohelisse teokarpi. Ta ootab p\u00f5nevusega teistele merineitsitele oma avastusest r\u00e4\u00e4kimist ja ujub minema, et neid otsida. Vahepeal leiab erakv\u00e4hk, et roheline teokarp on \u00fcsna v\u00e4ike ja ebamugav. Ta m\u00f5tleb selle vahetamisest l\u00e4hedusest leitud sinise teokarbi vastu. Siiski otsustab ta j\u00e4\u00e4da rohelisse teokarpi ja toob k\u00f5ik oma asjad sinna tagasi. Roheline teokarp j\u00e4\u00e4b kasutusse. Kaheksajalg j\u00e4lgib seda k\u00f5ike ja m\u00f5tiskleb, kas oleks hea aeg proovida v\u00e4hk kinni p\u00fc\u00fcda ja \u00e4ra s\u00fc\u00fca, kuid otsustab siis, et \u00f5htus\u00f6\u00f6giks on veel liiga vara. M\u00f5ned meremiilid eemalt leiab merineitsi oma s\u00f5brad vetikaid suitsetamast. Nad k\u00f5ik l\u00e4hevad tagasi, et v\u00e4hki vaadata. V\u00e4hk h\u00fcppab v\u00e4lja",
+                "answers": [
+                    "rohelisest teokarbist ja tervitab r\u00f5\u00f5msalt merineitseid. Ta r\u00e4\u00e4gib neile oma avastusest ja kuidas ta otsustas j\u00e4\u00e4da rohelisse teokarpi, sest see oli tema jaoks k\u00f5ige mugavam.\n\n",
+                    "rohelisest teokarbist ja tervitab r\u00f5\u00f5msalt merineitseid. Ta r\u00e4\u00e4gib neile oma avastusest ja kuidas ta otsustas j\u00e4\u00e4da rohelisse teokarpi, sest see oli tema jaoks k\u00f5ige mugavam.\n\n"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Merineitsi leiab erakv\u00e4hi, kes on peitunud rohelisse teokarpi. Ta ootab p\u00f5nevusega teistele merineitsitele oma avastusest r\u00e4\u00e4kimist ja ujub minema, et neid otsida. Vahepeal leiab erakv\u00e4hk, et roheline teokarp on \u00fcsna v\u00e4ike ja ebamugav. Ta m\u00f5tleb selle vahetamisest l\u00e4hedusest leitud sinise teokarbi vastu. Siiski otsustab ta j\u00e4\u00e4da rohelisse teokarpi ja toob k\u00f5ik oma asjad sinna tagasi. Roheline teokarp j\u00e4\u00e4b kasutusse. Kaheksajalg j\u00e4lgib seda k\u00f5ike ja m\u00f5tiskleb, kas oleks hea aeg proovida v\u00e4hk kinni p\u00fc\u00fcda ja \u00e4ra s\u00fc\u00fca, kuid otsustab siis, et \u00f5htus\u00f6\u00f6giks on veel liiga vara. M\u00f5ned meremiilid eemalt leiab merineitsi oma s\u00f5brad vetikaid suitsetamast. Nad k\u00f5ik l\u00e4hevad tagasi, et v\u00e4hki vaadata. Merineitsi otsib v\u00e4hki",
+                "answers": [
+                    "rohelisest teokarbist, kuid ei leia teda seal enam. Ta hakkab muretsema ja k\u00fcsib s\u00f5pradelt, kas nad on v\u00e4hki n\u00e4inud. S\u00f5brad raputavad pead eitavalt ja \u00fctlevad, et nad pole",
+                    "rohelisest teokarbist, kuid ei leia teda seal enam. Ta hakkab muretsema ja k\u00fcsib s\u00f5pradelt, kas nad on v\u00e4hki n\u00e4inud. S\u00f5brad raputavad pead eitavalt ja \u00fctlevad, et nad pole"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

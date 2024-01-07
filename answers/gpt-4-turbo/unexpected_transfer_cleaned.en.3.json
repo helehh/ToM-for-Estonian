@@ -1,0 +1,74 @@
+{
+    "nr": 3,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house before leaving for school. When Lila is gone, her mom comes home. Mom doesn't like it when the dog is locked in the house, so she takes the dog outside and puts it in the shed instead. She locks the shed's door and leaves to work. Lila comes back from school and wants to play with the dog. The dog escapes from the",
+                "answers": [
+                    "shed because Lila's mom forgot to properly secure the lock. The clever dog nudges the door with its nose, and to its delight, the door swings open. The dog, whose name is Buddy, trots around the backyard, wagging its tail and enjoying the freedom.\n\nLila, unaware of the day's earlier events, drops her",
+                    "shed because it has learned how to nudge the latch open with its nose. Lila calls for her dog as she walks through the house, but there is no response. She checks the usual spots\u2014the cozy corner in the living room, under the dining table, and even peeks into her bedroom\u2014but her dog is nowhere to be found.\n\nP"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house before leaving for school. When Lila is gone, her mom comes home. Mom doesn't like it when the dog is locked in the house, so she takes the dog outside and puts it in the shed instead. She locks the shed's door and leaves to work. Lila comes back from school and wants to play with the dog. Lila will look for the dog in the",
+                "answers": [
+                    "house first, as that's where she expects her furry friend to be. She calls out his name, \"Baxter! Baxter!\" but there's no response, no sound of paws against the floor, no jingling of the collar. Confused and starting to worry, Lila checks every room, under the beds, behind the couch",
+                    "house first, as that is where she expects her furry friend to be. She calls out his name, \"Baxter! Baxter!\" but there's no response, no pitter-patter of excited paws on the floor. Confused, she checks all his favorite hiding spots\u2014the cozy nook under the stairs, the sunny patch by the living"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house. Yet, her mom doesn't like it when the dog is locked in the house. Lila watches her mother as she takes the dog outside, puts it in the shed, and locks the shed's door. Both Lila and her mom leave home. A few hours later, Lila comes back and wants to play with the dog. The dog escapes from the",
+                "answers": [
+                    "shed as soon as Lila unlocks the door, its tail wagging excitedly. The dog runs circles around her, barking joyfully, clearly happy to be free and reunited with Lila. She laughs and bends down to embrace her furry friend, ruffling its fur and planting a kiss on its head.\n\nLila realizes that the shed isn",
+                    "shed as soon as Lila unlocks the door, its tail wagging excitedly at the sight of her. The dog bounds towards Lila, covering her face with slobbery kisses as she laughs and tries to dodge the affectionate assault. She can't help but feel a twinge of guilt for leaving her furry friend in the shed, but"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house. Yet, her mom doesn't like it when the dog is locked in the house. Lila watches her mother as she takes the dog outside, puts it in the shed, and locks the shed's door. Both Lila and her mom leave home. A few hours later, Lila comes back and wants to play with the dog. Lila will look for the dog in the",
+                "answers": [
+                    "shed first, because she saw her mom put the dog there before they left. As she approaches the shed, she can hear her dog's excited barks from inside. She fumbles with the lock, her fingers clumsy in her eagerness to reunite with her furry friend. The lock clicks open, and she swings the door wide. Her dog",
+                    "house first, because that's where she left him. She calls out his name, expecting to hear the familiar patter of his paws on the floor, but the house remains silent. Confused, she searches each room, looking under furniture and checking every cozy nook where he likes to nap. But her dog is nowhere to be found inside.\n\n"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house before leaving for school. When Lila is gone, her mom comes home. Mom doesn't like it when the dog is locked in the house, so she takes the dog outside and puts it in the shed instead. She locks the shed's door and leaves to work. Lila comes back from school and wants to play with the dog. Lila's mom calls Lila and tells her that she moved the dog from the house to the shed. Lila believes her mom. The dog escapes from the",
+                "answers": [
+                    "shed by digging a small hole under the door. It's not the first time the clever pup has managed to get out of a tight spot. Lila, unaware of the escape, heads to the shed to find it locked and assumes her dog is safely inside. She unlocks the shed, swings the door open, and is surprised to find it empty",
+                    "shed by digging a small hole under the door. It's not the first time the clever pup has managed to get out of a tight spot. Lila, unaware of the escape, heads to the shed to find her dog. She notices the hole under the door and her heart sinks, fearing her beloved pet is lost.\n\nShe calls out for her"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house before leaving for school. When Lila is gone, her mom comes home. Mom doesn't like it when the dog is locked in the house, so she takes the dog outside and puts it in the shed instead. She locks the shed's door and leaves to work. Lila comes back from school and wants to play with the dog. Lila's mom calls Lila and tells her that she moved the dog from the house to the shed. Lila believes her mom. Lila will look for the dog in the",
+                "answers": [
+                    "shed. She walks across the yard, her school bag still slung over her shoulder, her steps quick with anticipation. The shed stands at the far end of the garden, its red paint flaking slightly, a testament to the many seasons it has weathered. Lila reaches the door and fumbles with the lock, her fingers clumsy with eag",
+                    "shed. She walks across the yard, her school bag still slung over her shoulder, her steps quickening with the anticipation of seeing her furry friend. The shed stands at the far end of the garden, its red paint faded from the sun and the door slightly ajar, despite her mom saying she had locked it.\n\nLila's heart skips"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house before leaving for school. When Lila is gone, her mom comes home. Mom doesn't like it when the dog is locked in the house, so she takes the dog outside. After a few moments she puts it back in the house, locks the door and leaves to work. Lila comes back from school and wants to play with the dog. The dog escapes from the",
+                "answers": [
+                    "house as soon as Lila opens the door, excited to see her. Lila laughs as the dog jumps around her in circles, its tail wagging furiously. She knows that her dog loves the freedom of the outdoors, but she also knows that it's safer inside when no one is home to watch over it.\n\nUnderstanding her mom's concerns",
+                    "house as soon as Lila opens the door, excited to see her. Lila laughs as the dog jumps around her in circles, its tail wagging furiously. She knows that her dog loves the freedom of the outdoors, but she also worries about its safety when she's not there to watch over it.\n\nUnderstanding her mom's concerns about keeping"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house before leaving for school. When Lila is gone, her mom comes home. Mom doesn't like it when the dog is locked in the house, so she takes the dog outside. After a few moments she puts it back in the house, locks the door and leaves to work. Lila comes back from school and wants to play with the dog. Lila will look for the dog in the",
+                "answers": [
+                    "house first, as that is where she expects her furry friend to be. She calls out his name, \"Baxter! Baxter, where are you?\" Her voice echoes through the quiet rooms, but there's no pitter-patter of little paws rushing to greet her. She checks his favorite spots: the cozy nook by the fireplace,",
+                    "house first, as that is where she expects her furry friend to be. She calls out his name, \"Baxter!\" and listens for the familiar sound of his paws clicking against the floor or his excited barks. But the house is silent. Puzzled, Lila checks all of Baxter's favorite spots\u2014the cozy nook under the"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

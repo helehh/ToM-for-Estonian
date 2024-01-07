@@ -1,0 +1,74 @@
+{
+    "nr": 12,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: A mermaid finds a hermit crab hidden in a blue shell. She is excited to tell other mermaids about her discovery and swims away to look for them. In the meantime, the hermit crab decides that the blue shell is rather small and uncomfortable. He decides to swap it for a green shell that he has found nearby. He brings along all of his belongings and hides in the green shell. The blue shell is now abandoned and empty. An octopus observes all this and ponders whether it is a good time to try to catch and eat the crab, but then decides that it is still too early for dinner. A few nautical miles away, the mermaid finds her friends smoking seaweed. They all go back to see the crab. The crab jumps out of the",
+                "answers": [
+                    "green shell, surprising the mermaids. They gasp in awe as they see the hermit crab standing proudly in his new green shell, adorned with colorful seaweed and tiny seashells.\n\nThe mermaids gather around the hermit crab, their tails swishing with excitement. They ask him about his adventure and how he found the green shell.",
+                    "green shell, surprising the mermaids. They gasp in awe at the sight of the hermit crab, its vibrant colors contrasting against the shimmering blue of the ocean.\n\nThe mermaid who had discovered the hermit crab first, named Marina, swims closer to the crab with a wide smile on her face. \"Look, everyone! I found"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A mermaid finds a hermit crab hidden in a blue shell. She is excited to tell other mermaids about her discovery and swims away to look for them. In the meantime, the hermit crab decides that the blue shell is rather small and uncomfortable. He decides to swap it for a green shell that he has found nearby. He brings along all of his belongings and hides in the green shell. The blue shell is now abandoned and empty. An octopus observes all this and ponders whether it is a good time to try to catch and eat the crab, but then decides that it is still too early for dinner. A few nautical miles away, the mermaid finds her friends smoking seaweed. They all go back to see the crab. The mermaid will look for the crab in the",
+                "answers": [
+                    "green shell, but to her surprise, she finds it empty. Confused, she looks around and spots the abandoned blue shell nearby. She swims closer and realizes that the hermit crab must have switched shells.\n\nCuriosity piqued, the mermaid and her friends examine the blue shell. They notice the intricate patterns and vibrant colors that adorn its",
+                    "green shell, but to her surprise, she finds it empty. Confused, she looks around and spots the abandoned blue shell nearby. She swims closer and realizes that the hermit crab must have switched shells.\n\nCuriosity piqued, the mermaid and her friends examine the blue shell. They notice the intricate patterns and vibrant colors that adorn its"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: A mermaid watches a hermit crab. The crab is hidden in a blue shell but he decides that the blue shell is rather small and uncomfortable. He decides to swap it for a green shell that he has found nearby. He brings along all of his belongings and hides in the green shell. The blue shell is now abandoned and empty. The mermaid is excited to tell other mermaids about her discovery and swims away to look for them. An octopus observes all this and ponders whether it is a good time to try to catch and eat the crab, but then decides that it is still too early for dinner. A few nautical miles away, the mermaid finds her friends smoking seaweed. They all go back to see the crab. The crab jumps out of the",
+                "answers": [
+                    "green shell, startled by the sudden arrival of the mermaid and her friends. He scurries across the sandy ocean floor, trying to find a new hiding spot.\n\nThe mermaid and her friends chase after the crab, intrigued by his sudden disappearance. They swim through the vibrant coral reefs, their tails glimmering in the sunlight. The mer",
+                    "green shell, startled by the sudden arrival of the mermaid and her friends. He scurries across the sandy ocean floor, trying to find a new hiding spot.\n\nThe mermaid and her friends chase after the crab, intrigued by his sudden disappearance. They swim through the vibrant coral reefs, their tails glimmering in the sunlight. The mer"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A mermaid watches a hermit crab. The crab is hidden in a blue shell but he decides that the blue shell is rather small and uncomfortable. He decides to swap it for a green shell that he has found nearby. He brings along all of his belongings and hides in the green shell. The blue shell is now abandoned and empty. The mermaid is excited to tell other mermaids about her discovery and swims away to look for them. An octopus observes all this and ponders whether it is a good time to try to catch and eat the crab, but then decides that it is still too early for dinner. A few nautical miles away, the mermaid finds her friends smoking seaweed. They all go back to see the crab. The mermaid will look for the crab in the",
+                "answers": [
+                    "green shell, but when they arrive, they find the blue shell empty. Confused, the mermaid and her friends search the surrounding area, hoping to find the hermit crab.\n\nAs they explore, they notice the octopus lurking nearby, its eyes fixed on the mermaid's friends. Worried for their safety, the mermaid quickly devis",
+                    "green shell, but when they arrive, they find the blue shell empty. Confused, the mermaid and her friends search the surrounding area, hoping to find the hermit crab.\n\nAs they explore, they notice the octopus lurking nearby, its eyes fixed on the green shell. The mermaid's friends become wary, knowing that the octopus"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: A mermaid finds a hermit crab hidden in a blue shell. She is excited to tell other mermaids about her discovery and swims away to look for them. In the meantime, the hermit crab decides that the blue shell is rather small and uncomfortable. He decides to swap it for a green shell that he has found nearby. He brings along all of his belongings and hides in the green shell. The blue shell is now abandoned and empty. An octopus observes all this and ponders whether it is a good time to try to catch and eat the crab, but then decides that it is still too early for dinner. A few nautical miles away, the mermaid finds her friends smoking seaweed. They all go back to see the crab. The hermit crab calls the mermaid and tells her that he moved from the blue shell to the green shell. The mermaid believes the hermit crab. The crab jumps out of the",
+                "answers": [
+                    "green shell to greet the mermaid and her friends. They are amazed by the crab's new shell and compliment him on his choice.\n\nAs they gather around, the mermaid and her friends notice the abandoned blue shell. Curiosity piques their interest, and they wonder why the hermit crab would leave such a beautiful shell behind. The mermaid",
+                    "green shell to greet the mermaid and her friends. They are amazed by the crab's new shell and compliment him on his choice.\n\nAs they gather around, the mermaid and her friends notice the abandoned blue shell. Curiosity piques their interest, and they wonder why the hermit crab would leave such a beautiful shell behind. The mermaid"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A mermaid finds a hermit crab hidden in a blue shell. She is excited to tell other mermaids about her discovery and swims away to look for them. In the meantime, the hermit crab decides that the blue shell is rather small and uncomfortable. He decides to swap it for a green shell that he has found nearby. He brings along all of his belongings and hides in the green shell. The blue shell is now abandoned and empty. An octopus observes all this and ponders whether it is a good time to try to catch and eat the crab, but then decides that it is still too early for dinner. A few nautical miles away, the mermaid finds her friends smoking seaweed. They all go back to see the crab. The hermit crab calls the mermaid and tells her that he moved from the blue shell to the green shell. The mermaid believes the hermit crab. The mermaid will look for the crab in the",
+                "answers": [
+                    "green shell, but when she arrives, she is surprised to find the blue shell empty. Confused, she calls out to the hermit crab, but there is no response. Worried, she swims around the area, searching for any sign of her newfound friend.\n\nMeanwhile, the octopus, who had been observing the situation from a distance,",
+                    "green shell, but when she arrives, she is surprised to find the blue shell empty. Confused, she calls out to the hermit crab, but there is no response. Worried, she swims around the area, searching for any sign of her newfound friend.\n\nMeanwhile, the octopus, who had been observing the situation from a distance,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: A mermaid finds a hermit crab hidden in a blue shell. She is excited to tell other mermaids about her discovery and swims away to look for them. In the meantime, the hermit crab considers that the blue shell is rather small and uncomfortable. He contemplates swapping it for a green shell that he has found nearby. However, he decides to stay in the blue shell and brings all of his belongings back inside. The blue shell remains occupied. An octopus observes all this and ponders whether it is a good time to try to catch and eat the crab, but then decides that it is still too early for dinner. A few nautical miles away, the mermaid finds her friends smoking seaweed. They all go back to see the crab. The crab jumps out of the",
+                "answers": [
+                    "blue shell, surprising the mermaids. They gasp in awe as they see the hermit crab standing before them, now adorned in a vibrant green shell.\n\nThe mermaids gather around the hermit crab, their tails swishing with excitement. They marvel at the beautiful green shell, its color shimmering in the sunlight. The hermit crab explains",
+                    "blue shell, surprising the mermaids. They gasp in awe as they see the hermit crab standing before them, now adorned in a vibrant green shell.\n\nThe mermaids gather around the hermit crab, their tails swishing with excitement. They marvel at the beautiful green shell, its color shimmering in the sunlight. The hermit crab explains"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: A mermaid finds a hermit crab hidden in a blue shell. She is excited to tell other mermaids about her discovery and swims away to look for them. In the meantime, the hermit crab considers that the blue shell is rather small and uncomfortable. He contemplates swapping it for a green shell that he has found nearby. However, he decides to stay in the blue shell and brings all of his belongings back inside. The blue shell remains occupied. An octopus observes all this and ponders whether it is a good time to try to catch and eat the crab, but then decides that it is still too early for dinner. A few nautical miles away, the mermaid finds her friends smoking seaweed. They all go back to see the crab. The mermaid will look for the crab in the",
+                "answers": [
+                    "blue shell, but when they arrive, they are surprised to find the green shell instead. The hermit crab peeks out from inside, waving its tiny claw in greeting.\n\nThe mermaids gasp in astonishment. \"How did the shell change color?\" one of them asks, her voice filled with wonder.\n\nThe hermit crab explains that it",
+                    "blue shell, but when they arrive, they are surprised to find the green shell instead. The hermit crab peeks out from inside, waving its tiny claw in greeting.\n\nThe mermaids gasp in astonishment. \"How did the shell change color?\" one of them asks, her voice filled with wonder.\n\nThe hermit crab explains that it"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

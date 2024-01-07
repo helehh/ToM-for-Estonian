@@ -1,0 +1,74 @@
+{
+    "nr": 5,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Monica ja Floriane on toas. Monica paneb m\u00e4nguasja kasti. Ta sulgeb kasti. Monica lahkub toast ja l\u00e4heb v\u00e4lja teiste lastega m\u00e4ngima. Kui Monica on l\u00e4inud, v\u00f5tab Floriane m\u00e4nguasja kastist v\u00e4lja ja paneb selle korvi. Ta sulgeb korvi ja l\u00e4heb kooli. Monica tuleb tagasi tuppa ja tahab m\u00e4nguasjaga m\u00e4ngida. M\u00e4nguasi kukub v\u00e4lja",
+                "answers": [
+                    "korvist, kui Monica selle avab. Ta on \u00fcllatunud, sest ta oli kindel, et pani m\u00e4nguasja kasti. Monica vaatab \u00fcmber toa, kuid ei leia kasti ega m\u00e4nguasja kuskilt.\n\nTa otsustab",
+                    "korvist, kui Monica selle avab. Ta on \u00fcllatunud, sest ta oli kindel, et pani m\u00e4nguasja kasti. Monica vaatab \u00fcmber toa, kuid ei leia kasti ega m\u00e4nguasja kuskilt.\n\nTa otsustab"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Monica ja Floriane on toas. Monica paneb m\u00e4nguasja kasti. Ta sulgeb kasti. Monica lahkub toast ja l\u00e4heb v\u00e4lja teiste lastega m\u00e4ngima. Kui Monica on l\u00e4inud, v\u00f5tab Floriane m\u00e4nguasja kastist v\u00e4lja ja paneb selle korvi. Ta sulgeb korvi ja l\u00e4heb kooli. Monica tuleb tagasi tuppa ja tahab m\u00e4nguasjaga m\u00e4ngida. Monica otsib m\u00e4nguasja",
+                "answers": [
+                    "kastist, kuid ei leia seda sealt. Ta on segaduses ja m\u00f5tleb, kuhu m\u00e4nguasi v\u00f5is kaduda. Ta avab kapiuksed ja vaatab igasse nurka, kuid ikka ei leia seda. Monica hakkab muret",
+                    "kastist, kuid ei leia seda sealt. Ta on segaduses ja m\u00f5tleb, kuhu m\u00e4nguasi v\u00f5is kaduda. Ta avab kapiuksed ja vaatab igasse nurka, kuid ikka ei leia seda. Monica hakkab muret"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Monica ja Floriane on toas. Monica paneb m\u00e4nguasja kasti. Ta sulgeb kasti. Monica vaatab Floriane'i, kui too v\u00f5tab m\u00e4nguasja kastist v\u00e4lja, paneb selle korvi ja sulgeb korvi. M\u00f5lemad t\u00fcdrukud lahkuvad toast ja l\u00e4hevad v\u00e4lja teiste lastega m\u00e4ngima. Monica tuleb tagasi tuppa ja tahab m\u00e4nguasjaga m\u00e4ngida. M\u00e4nguasi kukub v\u00e4lja",
+                "answers": [
+                    "kastist ja veereb p\u00f5randale. Monica kummardub, v\u00f5tab m\u00e4nguasja \u00fcles ja paneb selle tagasi kasti. Ta sulgeb kasti uuesti ja naeratab rahulolevalt. Just siis avaneb uksest Floriane, kes on",
+                    "kastist ja veereb p\u00f5randale. Monica kummardub, v\u00f5tab m\u00e4nguasja \u00fcles ja paneb selle tagasi kasti. Ta sulgeb kasti uuesti ja naeratab rahulolevalt. Just siis avaneb uksest Floriane, kes on"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Monica ja Floriane on toas. Monica paneb m\u00e4nguasja kasti. Ta sulgeb kasti. Monica vaatab Floriane'i, kui too v\u00f5tab m\u00e4nguasja kastist v\u00e4lja, paneb selle korvi ja sulgeb korvi. M\u00f5lemad t\u00fcdrukud lahkuvad toast ja l\u00e4hevad v\u00e4lja teiste lastega m\u00e4ngima. Monica tuleb tagasi tuppa ja tahab m\u00e4nguasjaga m\u00e4ngida. Monica otsib m\u00e4nguasja",
+                "answers": [
+                    "kasti ja avab selle. Kuid kui ta kasti avab, ei leia ta sealt m\u00e4nguasja. Ta vaatab \u00fcllatunult korvi poole, kuid ka seal ei ole m\u00e4nguasja. Monica muutub murelikuks ja hakkab ots",
+                    "kasti ja avab selle. Kuid kui ta kasti avab, ei leia ta sealt m\u00e4nguasja. Ta vaatab \u00fcllatunult korvi poole, kuid ka seal ei ole m\u00e4nguasja. Monica muutub murelikuks ja hakkab ots"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Monica ja Floriane on toas. Monica paneb m\u00e4nguasja kasti. Ta sulgeb kasti. Monica lahkub toast ja l\u00e4heb v\u00e4lja teiste lastega m\u00e4ngima. Kui Monica on l\u00e4inud, v\u00f5tab Floriane m\u00e4nguasja kastist v\u00e4lja ja paneb selle korvi. Ta sulgeb korvi ja l\u00e4heb kooli. Monica tuleb tagasi tuppa ja tahab m\u00e4nguasjaga m\u00e4ngida. Floriane helistab Monicale ja \u00fctleb talle, et ta t\u00f5stis m\u00e4nguasja kastist korvi. Monica usub Floriane'i. M\u00e4nguasi kukub v\u00e4lja",
+                "answers": [
+                    "korvist, kui Monica korvi avab. Ta naeratab r\u00f5\u00f5msalt ja v\u00f5tab m\u00e4nguasja enda k\u00e4tte. Monica ja Floriane otsustavad koos m\u00e4ngida ning veedavad \u00fclej\u00e4\u00e4nud p\u00e4eva r\u00f5\u00f5msalt koos.\n\nJ\u00e4rg",
+                    "korvist, kui Monica selle avab. Ta naeratab r\u00f5\u00f5msalt ja t\u00e4nab Floriane'i aususe eest. Nad otsustavad koos m\u00e4nguasjaga m\u00e4ngida ja veedavad \u00fclej\u00e4\u00e4nud p\u00e4eva r\u00f5\u00f5msalt koos.\n\nJ\u00e4"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Monica ja Floriane on toas. Monica paneb m\u00e4nguasja kasti. Ta sulgeb kasti. Monica lahkub toast ja l\u00e4heb v\u00e4lja teiste lastega m\u00e4ngima. Kui Monica on l\u00e4inud, v\u00f5tab Floriane m\u00e4nguasja kastist v\u00e4lja ja paneb selle korvi. Ta sulgeb korvi ja l\u00e4heb kooli. Monica tuleb tagasi tuppa ja tahab m\u00e4nguasjaga m\u00e4ngida. Floriane helistab Monicale ja \u00fctleb talle, et ta t\u00f5stis m\u00e4nguasja kastist korvi. Monica usub Floriane'i. Monica otsib m\u00e4nguasja",
+                "answers": [
+                    "korvist, kuid ei leia seda. Ta on segaduses ja k\u00fcsib Floriane'ilt, kuhu ta m\u00e4nguasja pani. Floriane vastab, et ta pani selle korvi, kuid n\u00fc\u00fcd ei leia ta seda enam. Monica on natuke",
+                    "korvist, kuid ei leia seda. Ta on segaduses ja k\u00fcsib Floriane'ilt, kuhu ta m\u00e4nguasja pani. Floriane vastab, et ta pani selle korvi, kuid n\u00fc\u00fcd ei leia ta seda enam. Monica on natuke"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Monica ja Floriane on toas. Monica paneb m\u00e4nguasja kasti. Ta sulgeb kasti. Monica lahkub toast ja l\u00e4heb v\u00e4lja teiste lastega m\u00e4ngima. Kui Monica on l\u00e4inud, vaatab Floriane kasti pandud m\u00e4nguasja, kuid j\u00e4tab selle sinna. Ta sulgeb kasti ja l\u00e4heb kooli. Monica tuleb tagasi tuppa ja tahab m\u00e4nguasjaga m\u00e4ngida. M\u00e4nguasi kukub v\u00e4lja",
+                "answers": [
+                    "kui Monica kasti avab. Ta on \u00fcllatunud, et m\u00e4nguasi on v\u00e4lja kukkunud, kuid ta ei pane sellele suurt t\u00e4helepanu. Ta v\u00f5tab m\u00e4nguasja ja hakkab sellega m\u00e4ngima.\n\nM\u00f5ne aja p",
+                    "kui Monica kasti avab. Ta on \u00fcllatunud, et m\u00e4nguasi on v\u00e4lja kukkunud, kuid ta ei pane sellele suurt t\u00e4helepanu. Ta v\u00f5tab m\u00e4nguasja ja asetab selle tagasi kasti. Monica otsustab,"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Monica ja Floriane on toas. Monica paneb m\u00e4nguasja kasti. Ta sulgeb kasti. Monica lahkub toast ja l\u00e4heb v\u00e4lja teiste lastega m\u00e4ngima. Kui Monica on l\u00e4inud, vaatab Floriane kasti pandud m\u00e4nguasja, kuid j\u00e4tab selle sinna. Ta sulgeb kasti ja l\u00e4heb kooli. Monica tuleb tagasi tuppa ja tahab m\u00e4nguasjaga m\u00e4ngida. Monica otsib m\u00e4nguasja",
+                "answers": [
+                    "kasti, kuid ei leia seda. Ta avab kasti ja n\u00e4eb, et m\u00e4nguasja pole seal. Monica on segaduses ja m\u00f5tleb, kuhu m\u00e4nguasi v\u00f5is kaduda.\n\nSamal ajal koolis istub Floriane tunnis ja m\u00f5tleb",
+                    "kastist, kuid ei leia seda. Ta on segaduses ja m\u00f5tleb, kuhu m\u00e4nguasi v\u00f5is kaduda. Ta otsustab k\u00fcsida Floriane k\u00e4est, kas ta on m\u00e4nguasja n\u00e4inud.\n\nMonica l\u00e4heb kooli ja o"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

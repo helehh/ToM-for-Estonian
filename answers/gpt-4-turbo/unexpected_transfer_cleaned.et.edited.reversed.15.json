@@ -1,0 +1,74 @@
+{
+    "nr": 15,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: P\u00e4rast kuid kestnud v\u00f5itlust kohtuvad Armeenia ja Aserbaid\u017eaani juhid, et arutada rahulepingut. Nad lepivad kokku, et v\u00f5imu M\u00e4gi-Karabahhi \u00fcle annab Armeenia valitsus \u00fcle Aserbaid\u017eaani valitsusele. Kokkulepe j\u00f5ustub koheselt, kuid see kuulutatakse v\u00e4lja M\u00e4gi-Karabahhi elanikele pressikonverentsil j\u00e4rgmisel p\u00e4eval. Praegu teavad toimunust ainult juhid. P\u00e4rast kohtumist, kuid enne pressikonverentsi, intervjueeris Reutersi ajakirjanik Mariat, eakat M\u00e4gi-Karabahhi elanikku. Praeguse seisuga on v\u00f5im M\u00e4gi-Karabahhi \u00fcle",
+                "answers": [
+                    "veel Armeenia k\u00e4es, kuid Maria ei tea, et olukord on muutumas. Ta on elanud M\u00e4gi-Karabahhis kogu oma elu ja on n\u00e4inud palju konflikte ja pingelisi aegu. Tema silmad peegeldavad s\u00fc",
+                    "veel Armeenia k\u00e4es, kuid Maria ei tea, et olukord on muutumas. Ta on elanud selles piirkonnas kogu oma elu ja on n\u00e4inud palju konflikte ning rahuajaid. Maria r\u00e4\u00e4gib ajakirjanikule oma k"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: P\u00e4rast kuid kestnud v\u00f5itlust kohtuvad Armeenia ja Aserbaid\u017eaani juhid, et arutada rahulepingut. Nad lepivad kokku, et v\u00f5imu M\u00e4gi-Karabahhi \u00fcle annab Armeenia valitsus \u00fcle Aserbaid\u017eaani valitsusele. Kokkulepe j\u00f5ustub koheselt, kuid see kuulutatakse v\u00e4lja M\u00e4gi-Karabahhi elanikele pressikonverentsil j\u00e4rgmisel p\u00e4eval. Praegu teavad toimunust ainult juhid. P\u00e4rast kohtumist, kuid enne pressikonverentsi, intervjueeris Reutersi ajakirjanik Mariat, eakat M\u00e4gi-Karabahhi elanikku. Maria esimene vastus oleks, et v\u00f5im M\u00e4gi-Karabahhi \u00fcle on",
+                "answers": [
+                    "v\u00f5itluse ja ohverduste tulemus ning see peaks j\u00e4\u00e4ma tema rahva k\u00e4tte. \"Me oleme siin elanud p\u00f5lvkondade v\u00e4ltel ja kaitsnud seda maad oma elude hinnaga,\" \u00fctleb Maria, silmis mure",
+                    "alati olnud keeruline teema. \"Meie inimesed on siin elanud p\u00f5lvkondade v\u00e4ltel,\" \u00fctleb Maria, silmis murelik pilk. \"Me oleme harjunud v\u00f5itlema oma kodu ja oma \u00f5iguste eest. Kui"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: P\u00e4rast kuid kestnud v\u00f5itlust kohtuvad Armeenia ja Aserbaid\u017eaani juhid, et arutada rahulepingut. Koosolekul oli tunnistajana kohal ka Maria, eakas elanik M\u00e4gi-Karabahhist. Juhtide kokkuleppe kohaselt antakse M\u00e4gi-Karabahhi v\u00f5im Armeenia valitsuselt \u00fcle Aserbaid\u017eaani valitsusele. Kokkulepe j\u00f5ustub koheselt. P\u00e4rast koosolekut intervjueeris Mariat Reutersi ajakirjanik. Praeguse seisuga on v\u00f5im M\u00e4gi-Karabahhi \u00fcle",
+                "answers": [
+                    "P\u00e4rast kuid kestnud v\u00f5itlust kohtuvad Armeenia ja Aserbaid\u017eaani juhid, et arutada rahulepingut. Koosolekul oli tunnistajana kohal ka Maria, eakas elanik M\u00e4gi-Karabahhist.",
+                    "P\u00e4rast kuid kestnud v\u00f5itlust kohtuvad Armeenia ja Aserbaid\u017eaani juhid, et arutada rahulepingut. Koosolekul oli tunnistajana kohal ka Maria, eakas elanik M\u00e4gi-Karabahhist."
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: P\u00e4rast kuid kestnud v\u00f5itlust kohtuvad Armeenia ja Aserbaid\u017eaani juhid, et arutada rahulepingut. Koosolekul oli tunnistajana kohal ka Maria, eakas elanik M\u00e4gi-Karabahhist. Juhtide kokkuleppe kohaselt antakse M\u00e4gi-Karabahhi v\u00f5im Armeenia valitsuselt \u00fcle Aserbaid\u017eaani valitsusele. Kokkulepe j\u00f5ustub koheselt. P\u00e4rast koosolekut intervjueeris Mariat Reutersi ajakirjanik. Maria esimene vastus oleks, et v\u00f5im M\u00e4gi-Karabahhi \u00fcle on",
+                "answers": [
+                    "alati olnud tundlik teema, ja kuigi ta on leppimise ja rahu ideest liigutatud, on tal ka hirmud ja kahtlused. \"Ma olen siin elanud kogu oma elu,\" \u00fctles Maria, silmis kajastumas",
+                    "alati olnud tundlik teema, ja kuigi ta on leppimise ja rahu idee suhtes lootusrikas, on tal ka hirmud ja kahtlused. \"Ma olen siin elanud kogu oma elu,\" \u00fctleb Maria, silmis kaj"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: P\u00e4rast kuid kestnud v\u00f5itlust kohtuvad Armeenia ja Aserbaid\u017eaani juhid, et arutada rahulepingut. Nad lepivad kokku, et v\u00f5imu M\u00e4gi-Karabahhi \u00fcle annab Armeenia valitsus \u00fcle Aserbaid\u017eaani valitsusele. Kokkulepe j\u00f5ustub koheselt, kuid see kuulutatakse v\u00e4lja M\u00e4gi-Karabahhi elanikele pressikonverentsil j\u00e4rgmisel p\u00e4eval. Praegu teavad toimunust ainult juhid. P\u00e4rast kohtumist, kuid enne pressikonverentsi, intervjueeris Reutersi ajakirjanik Mariat, eakat M\u00e4gi-Karabahhi elanikku. S\u00f5ber helistab Mariale ja \u00fctleb talle, et v\u00f5im M\u00e4gi-Karabahhi \u00fcle on antud Armeenia valitsuselt Aserbaid\u017eaani valitsusele. Maria usub oma s\u00f5pra. Praeguse seisuga on v\u00f5im M\u00e4gi-Karabahhi \u00fcle",
+                "answers": [
+                    "j\u00e4tkuvalt Armeenia valitsuse k\u00e4es, kuna kokkulepe pole veel avalikustatud ega j\u00f5ustunud. Maria, kuuldes s\u00f5bra s\u00f5nu, tunneb end reedetuna ja segaduses. Ta on elanud M\u00e4gi-K",
+                    "j\u00e4tkuvalt Armeenia valitsuse k\u00e4es, kuna ametlik \u00fcleandmine ja kuulutamine toimub alles j\u00e4rgmisel p\u00e4eval. Maria, kuuldes s\u00f5bra s\u00f5nu, tunneb end reedetuna ja segaduses. Ta on elanud M"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: P\u00e4rast kuid kestnud v\u00f5itlust kohtuvad Armeenia ja Aserbaid\u017eaani juhid, et arutada rahulepingut. Nad lepivad kokku, et v\u00f5imu M\u00e4gi-Karabahhi \u00fcle annab Armeenia valitsus \u00fcle Aserbaid\u017eaani valitsusele. Kokkulepe j\u00f5ustub koheselt, kuid see kuulutatakse v\u00e4lja M\u00e4gi-Karabahhi elanikele pressikonverentsil j\u00e4rgmisel p\u00e4eval. Praegu teavad toimunust ainult juhid. P\u00e4rast kohtumist, kuid enne pressikonverentsi, intervjueeris Reutersi ajakirjanik Mariat, eakat M\u00e4gi-Karabahhi elanikku. S\u00f5ber helistab Mariale ja \u00fctleb talle, et v\u00f5im M\u00e4gi-Karabahhi \u00fcle on antud Armeenia valitsuselt Aserbaid\u017eaani valitsusele. Maria usub oma s\u00f5pra. Maria esimene vastus oleks, et v\u00f5im M\u00e4gi-Karabahhi \u00fcle on",
+                "answers": [
+                    "antud Aserbaid\u017eaani valitsusele. Maria, kes on elanud M\u00e4gi-Karabahhis kogu oma elu, tunneb end reedetuna ja segaduses. Ta on aastak\u00fcmneid n\u00e4inud konflikti ja valu, mis on",
+                    "antud Aserbaid\u017eaanile. Ta tunneb segadust ja hirmu, sest aastak\u00fcmneid kestnud konflikti ja pingete t\u00f5ttu on tal s\u00fcgavalt juurdunud umbusaldus Aserbaid\u017eaani suhtes"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: P\u00e4rast kuid kestnud v\u00f5itlust kohtuvad Armeenia ja Aserbaid\u017eaani juhid, et arutada rahulepingut. Nad lepivad kokku, et v\u00f5imu hoidmist M\u00e4gi-Karabahhi \u00fcle j\u00e4tkab Armeenia valitsus ja seda ei anta \u00fcle Aserbaid\u017eaani valitsusele. Kokkulepe j\u00f5ustub koheselt, kuid see kuulutatakse v\u00e4lja M\u00e4gi-Karabahhi elanikele pressikonverentsil j\u00e4rgmisel p\u00e4eval. Praegu teavad toimunust ainult juhid. P\u00e4rast kohtumist, kuid enne pressikonverentsi, intervjueeris Reutersi ajakirjanik Mariat, eakat M\u00e4gi-Karabahhi elanikku. Praeguse seisuga on v\u00f5im M\u00e4gi-Karabahhi \u00fcle",
+                "answers": [
+                    "j\u00e4tkuvalt ebakindel ja Maria, nagu paljud teised kohalikud elanikud, on elanud pidevas hirmus ja ebakindluses. Ta on n\u00e4inud, kuidas tema koduk\u00fcla on muutunud konflikti",
+                    "veel ametlikult m\u00e4\u00e4ramata, kuid Maria ei tea, et juhid on juba saavutanud kokkuleppe. Ta on elanud M\u00e4gi-Karabahhis kogu oma elu ja on n\u00e4inud palju konflikte ja pingelisi aegu. Tem"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: P\u00e4rast kuid kestnud v\u00f5itlust kohtuvad Armeenia ja Aserbaid\u017eaani juhid, et arutada rahulepingut. Nad lepivad kokku, et v\u00f5imu hoidmist M\u00e4gi-Karabahhi \u00fcle j\u00e4tkab Armeenia valitsus ja seda ei anta \u00fcle Aserbaid\u017eaani valitsusele. Kokkulepe j\u00f5ustub koheselt, kuid see kuulutatakse v\u00e4lja M\u00e4gi-Karabahhi elanikele pressikonverentsil j\u00e4rgmisel p\u00e4eval. Praegu teavad toimunust ainult juhid. P\u00e4rast kohtumist, kuid enne pressikonverentsi, intervjueeris Reutersi ajakirjanik Mariat, eakat M\u00e4gi-Karabahhi elanikku. Maria esimene vastus oleks, et v\u00f5im M\u00e4gi-Karabahhi \u00fcle on",
+                "answers": [
+                    "alati olnud tundlik teema, kuid ta loodab, et rahu saabub ja et tema lapsed ning lapselapsed saavad elada ilma hirmuta. Maria ei tea veel, et juhid on j\u00f5udnud kokkuleppele, kuid ta v\u00e4ljendab oma s\u00fc",
+                    "alati olnud tundlik teema, kuid ta on rahu nimel valmis kompromissideks. \"Meie inimesed on kannatanud piisavalt,\" \u00fctleb Maria, silmis kajastumas aastatepikkuste konfliktide varjud. \"Kui"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

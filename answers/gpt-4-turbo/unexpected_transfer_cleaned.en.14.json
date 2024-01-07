@@ -1,0 +1,74 @@
+{
+    "nr": 14,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: The prime minister used to think that her government's flagship project, the introduction of universal basic income (UBI), should be supervised by the Minister of Finance. Recently however, she has been increasingly disappointed with the slow progress on this project. On Thursday morning, after a meeting with her advisor, she changed her mind. She decided that the project should now be supervised by the Minister of Internal Affairs. She decided not to tell anyone about her change of mind, for now. She plans to announce it during the cabinet meeting next week. On the day of the meeting, the members of the cabinet gather in a conference room and want to know more about the UBI project. The prime minister reveals that the UBI project is supervised by the Minister of",
+                "answers": [
+                    "Internal Affairs. A murmur of surprise ripples through the room as the ministers exchange puzzled glances. The Minister of Finance, who had been leading the project until now, looks particularly taken aback, his face a mixture of confusion and concern.\n\nThe prime minister stands firm, her gaze sweeping across her cabinet. \"I understand that this decision may",
+                    "Internal Affairs. The room fell into a hushed silence as the ministers processed the unexpected news. The Minister of Finance, who had been leading the project until now, looked particularly taken aback, his face a mixture of confusion and concern.\n\nThe Prime Minister continued, her voice steady and confident, \"I believe that the UBI is not just a"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: The prime minister used to think that her government's flagship project, the introduction of universal basic income (UBI), should be supervised by the Minister of Finance. Recently however, she has been increasingly disappointed with the slow progress on this project. On Thursday morning, after a meeting with her advisor, she changed her mind. She decided that the project should now be supervised by the Minister of Internal Affairs. She decided not to tell anyone about her change of mind, for now. She plans to announce it during the cabinet meeting next week. On the day of the meeting, the members of the cabinet gather in a conference room and want to know more about the UBI project. The members of the cabinet will direct their questions to the Minister of",
+                "answers": [
+                    "Finance, as they are still unaware of the prime minister's decision to shift the responsibility to the Minister of Internal Affairs. The Minister of Finance, prepared to discuss the usual fiscal policies and budgetary concerns, is caught off guard by the detailed inquiries regarding the UBI project's progress.\n\nThe prime minister observes the exchange with a keen eye, noting the",
+                    "Finance, as they are still unaware of the prime minister's decision to shift the responsibility to the Minister of Internal Affairs. The Minister of Finance, prepared to discuss the usual fiscal policies and budget allocations, is caught off guard by the barrage of inquiries regarding the UBI project's progress. He glances towards the prime minister, expecting her to clarify the"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: The prime minister used to think that her government's flagship project, the introduction of universal basic income (UBI), should be supervised by the Minister of Finance. Recently however, she has been increasingly disappointed with the slow progress on this project. On Thursday morning, during her meeting with the members of the cabinet, they all become convinced that the project should be supervised by the Minister of Internal Affairs. Yet, she decided not to act on this, for now. She plans to discuss it during the cabinet meeting next week. On the day of the meeting, the members of the cabinet gather in a conference room and want to know more about the UBI project. The prime minister reveals that the UBI project is supervised by the Minister of",
+                "answers": [
+                    "Internal Affairs. She explains that after much consideration, she believes this change is necessary to ensure the project's success. The Minister of Finance has been diligent, she acknowledges, but the scope of UBI is broader than just financial policy; it touches on social welfare, labor markets, and requires a holistic approach that the Ministry of Internal Affairs is better equipped",
+                    "Internal Affairs. She explains that after much consideration, she believes this change is necessary to ensure the project's success. The Minister of Finance has been overwhelmed with other responsibilities, and the UBI project requires dedicated attention and a different set of skills to address the social and administrative challenges it presents.\n\nThe Minister of Internal Affairs, known for his efficiency and hands"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: The prime minister used to think that her government's flagship project, the introduction of universal basic income (UBI), should be supervised by the Minister of Finance. Recently however, she has been increasingly disappointed with the slow progress on this project. On Thursday morning, during her meeting with the members of the cabinet, they all become convinced that the project should be supervised by the Minister of Internal Affairs. Yet, she decided not to act on this, for now. She plans to discuss it during the cabinet meeting next week. On the day of the meeting, the members of the cabinet gather in a conference room and want to know more about the UBI project. The members of the cabinet will direct their questions to the Minister of",
+                "answers": [
+                    "Finance, who has been overseeing the project since its inception. The air in the room is thick with anticipation and a hint of tension, as the Prime Minister takes her seat at the head of the long, polished table. The Minister of Finance, aware of the growing dissatisfaction with the pace of progress, has come prepared with a detailed report and a presentation",
+                    "Finance, who has been overseeing the project since its inception. The air in the conference room is thick with anticipation and a hint of tension, as the prime minister takes her seat at the head of the long, polished table. The Minister of Finance, aware of the growing dissatisfaction with the pace of progress, has prepared a detailed report, hoping to ass"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: The prime minister used to think that her government's flagship project, the introduction of universal basic income (UBI), should be supervised by the Minister of Finance. Recently however, she has been increasingly disappointed with the slow progress on this project. On Thursday morning, after a meeting with her advisor, she changed her mind. She decided that the project should now be supervised by the Minister of Internal Affairs. She decided not to tell anyone about her change of mind, for now. She plans to announce it during the cabinet meeting next week. On the day of the meeting, the members of the cabinet gather in a conference room and want to know more about the UBI project. The Prime Minister notifies all of the cabinet members that she moved the supervision of the UBI project from the Minister of Finance to the Minister of Internal Affairs. The members of the cabinet believe the Prime Minister. The prime minister reveals that the UBI project is supervised by the Minister of",
+                "answers": [
+                    "Internal Affairs because she believes that the project is not just a financial matter but also a social one. The Minister of Internal Affairs has a better grasp of the societal implications and the infrastructure needed to implement such a program effectively. The Prime Minister explains that the UBI is intended to reach every citizen and that it requires a deep understanding of the internal affairs of",
+                    "Internal Affairs because she believes that the project is not just a financial matter but also a social one that touches upon the very fabric of society. She explains that the Minister of Internal Affairs has a better grasp of the social dynamics and the infrastructure needed to implement such a comprehensive program. The Minister of Finance, though initially surprised, understands the rationale and agrees that"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: The prime minister used to think that her government's flagship project, the introduction of universal basic income (UBI), should be supervised by the Minister of Finance. Recently however, she has been increasingly disappointed with the slow progress on this project. On Thursday morning, after a meeting with her advisor, she changed her mind. She decided that the project should now be supervised by the Minister of Internal Affairs. She decided not to tell anyone about her change of mind, for now. She plans to announce it during the cabinet meeting next week. On the day of the meeting, the members of the cabinet gather in a conference room and want to know more about the UBI project. The Prime Minister notifies all of the cabinet members that she moved the supervision of the UBI project from the Minister of Finance to the Minister of Internal Affairs. The members of the cabinet believe the Prime Minister. The members of the cabinet will direct their questions to the Minister of",
+                "answers": [
+                    "Internal Affairs. The room falls into a hush as the Prime Minister explains her decision. She outlines her disappointment with the pace of progress and expresses her confidence that a fresh perspective might accelerate the implementation of the UBI. The Minister of Internal Affairs, caught slightly off-guard by the sudden shift in responsibility, nods in agreement, understanding the weight of the",
+                    "Internal Affairs. The room falls into a hush as the Prime Minister explains her decision. She outlines her disappointment with the pace of progress and expresses her confidence that a fresh perspective might accelerate the implementation of the UBI project. The Minister of Internal Affairs, caught slightly off-guard by the sudden shift in responsibility, nods in agreement, understanding the weight of"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: The prime minister used to think that her government's flagship project, the introduction of universal basic income (UBI), should be supervised by the Minister of Finance. Recently however, she has been increasingly disappointed with the slow progress on this project. On Thursday morning, after a meeting with her advisor, she considered a change. She contemplated that the project could be supervised by the Minister of Internal Affairs. Yet, she decided not to act on this thought, for now. She plans to discuss it during the cabinet meeting next week. On the day of the meeting, the members of the cabinet gather in a conference room and want to know more about the UBI project. The prime minister reveals that the UBI project is supervised by the Minister of",
+                "answers": [
+                    "Finance, but she expresses her concerns about the pace of progress. She opens the floor for discussion, encouraging her cabinet to share their insights and suggestions on how to expedite the project's implementation.\n\nThe Minister of Finance, feeling the weight of the prime minister's disappointment, is the first to speak. He acknowledges the delays and outlines the complexities involved in",
+                    "Finance, but she expresses her concerns about the pace of progress. The room falls silent as she looks around the table, her gaze lingering on each minister in turn. The Minister of Finance, feeling the weight of the prime minister's disappointment, clears his throat and begins to defend his department's efforts. He talks about the complexities of implementing such a sweeping"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: The prime minister used to think that her government's flagship project, the introduction of universal basic income (UBI), should be supervised by the Minister of Finance. Recently however, she has been increasingly disappointed with the slow progress on this project. On Thursday morning, after a meeting with her advisor, she considered a change. She contemplated that the project could be supervised by the Minister of Internal Affairs. Yet, she decided not to act on this thought, for now. She plans to discuss it during the cabinet meeting next week. On the day of the meeting, the members of the cabinet gather in a conference room and want to know more about the UBI project. The members of the cabinet will direct their questions to the Minister of",
+                "answers": [
+                    "Finance, who has been overseeing the project since its inception. The room is filled with a palpable sense of anticipation and a hint of tension, as the prime minister has made it clear that the progress of the UBI initiative is of utmost importance to her administration and the well-being of the citizens.\n\nAs the meeting commences, the prime minister takes",
+                    "Finance, who has been overseeing the project since its inception. The room is filled with a palpable sense of anticipation and a few anxious glances are exchanged as the prime minister takes her seat at the head of the long, polished table.\n\nThe Minister of Finance stands, clearing his throat before addressing the room. He begins by outlining the progress made so"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

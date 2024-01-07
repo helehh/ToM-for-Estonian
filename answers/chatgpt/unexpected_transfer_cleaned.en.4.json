@@ -1,0 +1,74 @@
+{
+    "nr": 4,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer and then goes to bed. Later that night, Steven's sister comes home and walks into the laundry room. She takes the blanket out of the dryer and puts it in the cupboard next to the dryer. She goes to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. The blanket falls out from the",
+                "answers": [
+                    "cupboard, landing on Steven's head. Startled, he quickly grabs the blanket and examines it, wondering how it ended up in the cupboard instead of the dryer. Confused, he decides to ask his sister about it.\n\nSteven heads to his sister's room and knocks on the door. She groggily opens it, still half-asleep",
+                    "cupboard, landing on Steven's head. Startled, he quickly grabs the blanket and examines it, wondering how it ended up in the cupboard instead of the dryer. Confused, he decides to ask his sister about it.\n\nSteven walks to his sister's room and knocks on the door. \"Hey, Sarah, did you happen to move the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer and then goes to bed. Later that night, Steven's sister comes home and walks into the laundry room. She takes the blanket out of the dryer and puts it in the cupboard next to the dryer. She goes to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. He will look for the blanket in the",
+                "answers": [
+                    "cupboard next to the dryer, where he usually keeps it. However, to his surprise, the blanket is not there. Confused, Steven starts searching the laundry room, checking every nook and cranny, but the blanket is nowhere to be found.\n\nGrowing increasingly frustrated, Steven decides to ask his sister if she knows anything about the missing blanket",
+                    "cupboard next to the dryer, where he usually keeps it. However, as he opens the cupboard, he is surprised to find it empty. Confused, Steven searches the laundry room, hoping to find the blanket somewhere else.\n\nHe checks the dryer, thinking that maybe he had forgotten to transfer the blanket to the cupboard the night before. But to"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer. Steven's sister walks into the laundry room. Steven watches his sister as she takes the blanket out of the dryer and puts it in the cupboard next to the dryer. Next, Steven and his sister leave the laundry room and go to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. The blanket falls out from the",
+                "answers": [
+                    "cupboard and lands on the floor, startling Steven. Confused, he picks it up and notices that it feels damp. Puzzled, he wonders why his sister would put a wet blanket in the cupboard.\n\nCuriosity getting the better of him, Steven decides to confront his sister about it. He finds her in the kitchen, sipping her",
+                    "cupboard and lands on the floor, revealing a hidden compartment behind it. Curiosity piqued, Steven bends down to investigate. Inside the compartment, he finds a small, worn-out journal.\n\nIntrigued, Steven carefully opens the journal and starts flipping through its pages. The entries are written in faded ink, telling the story of a"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer. Steven's sister walks into the laundry room. Steven watches his sister as she takes the blanket out of the dryer and puts it in the cupboard next to the dryer. Next, Steven and his sister leave the laundry room and go to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. He will look for the blanket in the",
+                "answers": [
+                    "cupboard next to the dryer where he saw his sister put it the night before. However, as he opens the cupboard, he is surprised to find that the blanket is not there. Confused, Steven starts searching the entire laundry room, checking every nook and cranny, but the blanket is nowhere to be found.\n\nGrowing increasingly frustrated, Steven",
+                    "cupboard next to the dryer where he saw his sister put it the night before. However, as he opens the cupboard, he is surprised to find that the blanket is not there. Confused, Steven starts searching the entire laundry room, checking every nook and cranny, but the blanket is nowhere to be found.\n\nGrowing increasingly frustrated, Steven"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer and then goes to bed. Later that night, Steven's sister comes home and walks into the laundry room. She takes the blanket out of the dryer and puts it in the cupboard next to the dryer. She goes to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. Steven's sister calls Steven and tells him that she moved the blanket from the dryer to the cupboard. Steven believes his sister. The blanket falls out from the",
+                "answers": [
+                    "cupboard as soon as Steven opens it. Confused, he picks it up and examines it closely. To his surprise, the blanket is still damp. Steven's confusion turns into frustration as he realizes that his sister must have mistakenly put the blanket in the cupboard before it had fully dried.\n\nAnnoyed by the inconvenience, Steven decides to confront",
+                    "cupboard as soon as Steven opens it. Confused, he picks up the blanket and notices that it is still damp. Steven realizes that his sister must have mistakenly put the blanket in the cupboard before it had fully dried.\n\nCuriosity piqued, Steven decides to investigate further. He checks the dryer and finds that it is still running, indicating"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer and then goes to bed. Later that night, Steven's sister comes home and walks into the laundry room. She takes the blanket out of the dryer and puts it in the cupboard next to the dryer. She goes to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. Steven's sister calls Steven and tells him that she moved the blanket from the dryer to the cupboard. Steven believes his sister. He will look for the blanket in the",
+                "answers": [
+                    "cupboard. He opens the cupboard door, expecting to find the blanket neatly folded and ready to use. However, to his surprise, the blanket is nowhere to be found.\n\nConfused, Steven calls out to his sister, \"Hey, I can't find the blanket in the cupboard. Are you sure you put it here?\"\n\nHis sister, equally",
+                    "cupboard. He opens the cupboard door, expecting to find the blanket neatly folded and ready to use. However, to his surprise, the blanket is nowhere to be found.\n\nConfused, Steven calls out to his sister, \"Hey, I can't find the blanket in the cupboard. Are you sure you put it here?\"\n\nHis sister, equally"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer and then goes to bed. Later that night, Steven's sister comes home and walks into the laundry room. She sees the blanket in the dryer but leaves it there and puts nothing in the cupboard next to the dryer. She goes to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. The blanket falls out from the",
+                "answers": [
+                    "dryer as soon as Steven opens the door. Confused, he picks it up and notices that it feels damp. Steven realizes that his sister must have forgotten to turn on the dryer before going to bed.\n\nFrustrated, Steven decides to rewash the blanket and put it back in the dryer. As he waits for it to dry,",
+                    "dryer as soon as Steven opens the door. Confused, he picks it up and notices that it feels damp. Steven realizes that his sister must have forgotten to turn on the dryer before going to bed.\n\nFrustrated, Steven decides to rewash the blanket and put it back in the dryer. As he waits for it to dry,"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: It's nighttime, and Steven is doing laundry in the laundry room. After washing a blanket, he puts it in the dryer and then goes to bed. Later that night, Steven's sister comes home and walks into the laundry room. She sees the blanket in the dryer but leaves it there and puts nothing in the cupboard next to the dryer. She goes to sleep. Steven wakes up in the morning. He goes to the laundry room and wants to get the blanket. He will look for the blanket in the",
+                "answers": [
+                    "dryer, but to his surprise, it's not there. Confused, he checks the cupboard next to the dryer, thinking that maybe his sister had moved it there. However, the cupboard is empty too.\n\nPuzzled, Steven walks into his sister's room and asks her if she had seen the blanket. His sister, still half-as",
+                    "dryer, but to his surprise, it's not there. Confused, he checks the cupboard next to the dryer, thinking that maybe his sister had moved it there. However, the cupboard is empty too.\n\nPuzzled, Steven decides to ask his sister if she had seen the blanket. He knocks on her bedroom door, but there's"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

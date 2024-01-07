@@ -1,0 +1,74 @@
+{
+    "nr": 4,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: On \u00f6\u00f6 ja Steven peseb pesuruumis pesu. P\u00e4rast teki pesemist paneb ta selle kappi ja seej\u00e4rel l\u00e4heb magama. Hiljem \u00f6\u00f6sel tuleb Steveni \u00f5de koju ja l\u00e4heb pesuruumi. Ta v\u00f5tab teki kapist v\u00e4lja ja paneb selle kapi k\u00f5rval olevasse kuivatisse. Ta l\u00e4heb magama. Steven \u00e4rkab hommikul. Ta l\u00e4heb pesuruumi ja tahab tekki v\u00f5tta. Tekk kukub v\u00e4lja",
+                "answers": [
+                    "ja Steven m\u00e4rkab, et see on soe ja m\u00f5nusalt kuiv. Ta on hetkeks segaduses, sest ta ei m\u00e4leta, et oleks teki kuivatisse pannud. Siis aga meenub talle, et tema \u00f5de pidi hilja",
+                    "ja Steven m\u00e4rkab, et see on soe ja m\u00f5nusalt kuiv. Ta on hetkeks segaduses, sest ta ei m\u00e4leta, et oleks teki kuivatisse pannud. Siis meenub talle, et tema \u00f5de pidi hilja koju"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On \u00f6\u00f6 ja Steven peseb pesuruumis pesu. P\u00e4rast teki pesemist paneb ta selle kappi ja seej\u00e4rel l\u00e4heb magama. Hiljem \u00f6\u00f6sel tuleb Steveni \u00f5de koju ja l\u00e4heb pesuruumi. Ta v\u00f5tab teki kapist v\u00e4lja ja paneb selle kapi k\u00f5rval olevasse kuivatisse. Ta l\u00e4heb magama. Steven \u00e4rkab hommikul. Ta l\u00e4heb pesuruumi ja tahab tekki v\u00f5tta. Ta otsib tekki",
+                "answers": [
+                    "kapist, kuid ei leia seda sealt. Steven on segaduses, sest ta on kindel, et pani teki eelmisel \u00f5htul sinna. Ta vaatab ringi ja m\u00e4rkab, et kuivati on kapi k\u00f5rval. Uudishimulik",
+                    "kapist, kuid ei leia seda sealt. Steven on segaduses, sest ta on kindel, et pani teki eelmisel \u00f5htul sinna. Ta vaatab ringi ja m\u00e4rkab, et kuivati on kapi k\u00f5rval. Uudishimulik"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: On \u00f6\u00f6 ja Steven peseb pesuruumis pesu. P\u00e4rast teki pesemist paneb ta selle kappi. Steveni \u00f5de tuleb pesuruumi. Steven vaatab, kuidas tema \u00f5de v\u00f5tab teki kapist v\u00e4lja ja paneb selle kapi k\u00f5rval olevasse kuivatisse. Seej\u00e4rel lahkuvad Steven ja tema \u00f5de pesuruumist ja l\u00e4hevad magama. Steven \u00e4rkab hommikul. Ta l\u00e4heb pesuruumi ja tahab tekki v\u00f5tta. Tekk kukub v\u00e4lja",
+                "answers": [
+                    "ja Steven m\u00e4rkab, et see on t\u00e4iesti kuiv ja soe. Ta naeratab, t\u00e4nulik oma \u00f5e eest, kes oli m\u00f5elnud tekki kuivatisse panna, et see oleks hommikuks valmis. Steven v\u00f5tab teki ja viib s",
+                    "ja Steven m\u00e4rkab, et see on t\u00e4iesti kuiv ja soe. Ta naeratab, t\u00e4nulik oma \u00f5e eest, kes oli m\u00f5elnud tekki kuivatisse panna, et see oleks hommikuks valmis. Steven v\u00f5tab teki ja viib s"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On \u00f6\u00f6 ja Steven peseb pesuruumis pesu. P\u00e4rast teki pesemist paneb ta selle kappi. Steveni \u00f5de tuleb pesuruumi. Steven vaatab, kuidas tema \u00f5de v\u00f5tab teki kapist v\u00e4lja ja paneb selle kapi k\u00f5rval olevasse kuivatisse. Seej\u00e4rel lahkuvad Steven ja tema \u00f5de pesuruumist ja l\u00e4hevad magama. Steven \u00e4rkab hommikul. Ta l\u00e4heb pesuruumi ja tahab tekki v\u00f5tta. Ta otsib tekki",
+                "answers": [
+                    "kapi ja kuivati vahelt, kuid ei leia seda sealt. Steven on segaduses, sest ta on kindel, et n\u00e4gi, kuidas \u00f5de eelmisel \u00f5htul teki kuivatisse pani. Ta hakkab pesuruumis ringi va",
+                    "kapi ja kuivati vahelt, kuid ei leia seda sealt. Steven on segaduses, sest ta on kindel, et n\u00e4gi, kuidas \u00f5de eelmisel \u00f5htul teki kuivatisse pani. Ta vaatab ringi ja m\u00e4rkab,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: On \u00f6\u00f6 ja Steven peseb pesuruumis pesu. P\u00e4rast teki pesemist paneb ta selle kappi ja l\u00e4heb seej\u00e4rel magama. Hiljem \u00f6\u00f6sel tuleb Steveni \u00f5de koju ja l\u00e4heb pesuruumi. Ta v\u00f5tab teki kapist v\u00e4lja ja paneb selle kapi k\u00f5rval olevasse kuivatisse. Ta l\u00e4heb magama. Steven \u00e4rkab hommikul. Ta l\u00e4heb pesuruumi ja tahab tekki v\u00f5tta. Steveni \u00f5de helistab Stevenile ja \u00fctleb, et ta t\u00f5stis teki kapist kuivatisse. Steven usub oma \u00f5de. Tekk kukub v\u00e4lja",
+                "answers": [
+                    "kuivatist, kui Steven ukse avab. Ta on \u00fcllatunud, kui tunneb, et tekk on t\u00e4iesti kuiv ja soe. Ta naeratab t\u00e4nulikult, m\u00f5eldes, kui tore on omada hoolivat \u00f5de, kes",
+                    "kuivatist, kui Steven ukse avab. Ta on \u00fcllatunud, kui n\u00e4eb, et tekk on t\u00e4iesti kuiv ja soe. Ta naeratab t\u00e4nulikult, m\u00f5eldes, kui tore on omada hoolivat \u00f5de, kes m"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On \u00f6\u00f6 ja Steven peseb pesuruumis pesu. P\u00e4rast teki pesemist paneb ta selle kappi ja l\u00e4heb seej\u00e4rel magama. Hiljem \u00f6\u00f6sel tuleb Steveni \u00f5de koju ja l\u00e4heb pesuruumi. Ta v\u00f5tab teki kapist v\u00e4lja ja paneb selle kapi k\u00f5rval olevasse kuivatisse. Ta l\u00e4heb magama. Steven \u00e4rkab hommikul. Ta l\u00e4heb pesuruumi ja tahab tekki v\u00f5tta. Steveni \u00f5de helistab Stevenile ja \u00fctleb, et ta t\u00f5stis teki kapist kuivatisse. Steven usub oma \u00f5de. Ta otsib tekki",
+                "answers": [
+                    "kuivatist, kuid ei leia seda sealt. Steven on segaduses ja hakkab m\u00f5tlema, kas ta on unustanud, kuhu ta teki pani. Ta otsib igaks juhuks veel kord kapi l\u00e4bi, kuid tekk on t\u00f5",
+                    "kuivatist, kuid ei leia seda sealt. Steven on segaduses ja hakkab m\u00f5tlema, kas ta on unustanud, kuhu ta teki pani. Ta otsib igaks juhuks veel kord kapi l\u00e4bi, kuid tekk on t\u00f5"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: On \u00f6\u00f6 ja Steven peseb pesuruumis pesu. P\u00e4rast teki pesemist paneb ta selle kappi ja seej\u00e4rel l\u00e4heb magama. Hiljem \u00f6\u00f6sel tuleb Steveni \u00f5de koju ja l\u00e4heb pesuruumi. Ta n\u00e4eb tekki kapis, kuid j\u00e4tab selle sinna ja ei pane midagi kapi k\u00f5rval olevasse kuivatisse. Ta l\u00e4heb magama. Steven \u00e4rkab hommikul. Ta l\u00e4heb pesuruumi ja tahab tekki v\u00f5tta. Tekk kukub v\u00e4lja",
+                "answers": [
+                    "ja Steven m\u00e4rkab, et see on ikka veel niiske. Ta ohkab pettumusest, sest oli lootnud, et tekk on hommikuks kuiv. Ta vaatab kuivatit ja n\u00e4eb, et see on t\u00fchi. Steven m\u00f5istab, et ta",
+                    "ja Steven m\u00e4rkab, et see on ikka veel niiske. Ta ohkab pettumusest, sest oli lootnud, et tekk on hommikuks kuiv. Ta vaatab kuivatit ja n\u00e4eb, et see on t\u00fchi. Steven m\u00f5istab, et ta"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: On \u00f6\u00f6 ja Steven peseb pesuruumis pesu. P\u00e4rast teki pesemist paneb ta selle kappi ja seej\u00e4rel l\u00e4heb magama. Hiljem \u00f6\u00f6sel tuleb Steveni \u00f5de koju ja l\u00e4heb pesuruumi. Ta n\u00e4eb tekki kapis, kuid j\u00e4tab selle sinna ja ei pane midagi kapi k\u00f5rval olevasse kuivatisse. Ta l\u00e4heb magama. Steven \u00e4rkab hommikul. Ta l\u00e4heb pesuruumi ja tahab tekki v\u00f5tta. Ta otsib tekki",
+                "answers": [
+                    "kuid ei leia seda kapi seest, kus ta oli kindel, et selle j\u00e4ttis. Steven on segaduses ja hakkab pesuruumi p\u00f5hjalikumalt l\u00e4bi otsima. Ta vaatab kuivatisse, pesumasinasse ja isegi \u00fcle",
+                    "kapi seest, kuid avastab, et see on kummalisel kombel kadunud. Steven on segaduses, sest ta on kindel, et pani teki eelmisel \u00f5htul sinna. Ta hakkab pesuruumi p\u00f5hjalikult l\u00e4bi ots"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

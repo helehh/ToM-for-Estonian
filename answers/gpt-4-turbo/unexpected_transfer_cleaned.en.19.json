@@ -1,0 +1,74 @@
+{
+    "nr": 19,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: In the room, there are John, Mark, a cat, a box, and a basket. John takes the cat and puts it in the basket. He closes the basket. He leaves the room and goes to school. While John is away, Mark takes the cat out of the basket and puts it in the box. He closes the box. Mark leaves the room and goes to work. John comes back home and wants to play with the cat. The cat jumps out of the",
+                "answers": [
+                    "box, surprising John. He had expected to find the cat in the basket where he had left it. The cat, with its sleek fur and gleaming eyes, looks up at John, its tail flicking with a mix of curiosity and playfulness. John can't help but smile at the unexpected switch.\n\n\"Mark must have moved you,\" John",
+                    "box, surprising John. He had expected to find the cat in the basket where he had left it. The cat, with its sleek fur and gleaming eyes, looks up at John, its tail flicking with a mix of curiosity and playfulness. John can't help but smile at the unexpected switch.\n\n\"Mark must have moved you,\" John"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In the room, there are John, Mark, a cat, a box, and a basket. John takes the cat and puts it in the basket. He closes the basket. He leaves the room and goes to school. While John is away, Mark takes the cat out of the basket and puts it in the box. He closes the box. Mark leaves the room and goes to work. John comes back home and wants to play with the cat. John will look for the cat in the",
+                "answers": [
+                    "basket first, because that is where he left it. He opens the basket, but to his surprise, the cat is not there. Puzzled, John starts to look around the room, calling out for the cat. He checks under the furniture and behind the curtains, but there's no sign of the feline.\n\nAs he continues his search",
+                    "basket first, because that's where he left it. He opens the basket, but to his surprise, it's empty. Puzzled, John starts to look around the room, calling out for the cat. He checks under the furniture and behind the curtains, but there's no sign of his furry friend.\n\nAfter a few minutes of searching,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: In the room, there are John, Mark, a cat, a box, and a basket. John takes the cat and puts it in the basket. He closes the basket. Mark takes the cat out of the basket and puts it in the box. He closes the box. Both John and Mark leave the room and go to work. Later that day, John comes back home and wants to play with the cat. The cat jumps out of the",
+                "answers": [
+                    "box, stretching its legs and letting out a soft meow. It had been a quiet day for the cat, confined first to the basket and then to the box. John smiles at the sight of his feline friend, who seems eager for some attention and playtime after its little adventure between the two containers.\n\nJohn reaches down to scratch the cat",
+                    "box, stretching its legs and letting out a soft meow. It had been a quiet day for the cat, confined first to the basket and then to the box. John smiles at the sight of his furry friend, relieved to see it unharmed and energetic. He had been worried that the cat might not like being moved around so much,"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In the room, there are John, Mark, a cat, a box, and a basket. John takes the cat and puts it in the basket. He closes the basket. Mark takes the cat out of the basket and puts it in the box. He closes the box. Both John and Mark leave the room and go to work. Later that day, John comes back home and wants to play with the cat. John will look for the cat in the",
+                "answers": [
+                    "basket first, because that's where he had left it earlier. However, he finds the basket empty and is momentarily puzzled. Remembering that Mark was also in the room, he decides to check the box. Upon opening the box, John is relieved to find the cat inside, looking up at him with curious eyes. The cat, seemingly unfazed",
+                    "basket first, because that's where he had placed it earlier. However, he finds the basket empty and is momentarily puzzled. Remembering that Mark was also in the room, he decides to check the box. Upon opening the box, John is relieved to find the cat inside, looking up at him with curious eyes. The cat, seemingly unfazed"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: In the room, there are John, Mark, a cat, a box, and a basket. John takes the cat and puts it in the basket. He closes the basket. He leaves the room and goes to school. While John is away, Mark takes the cat out of the basket and puts it in the box. He closes the box. Mark leaves the room and goes to work. John comes back home and wants to play with the cat. Mark calls John and tells him that he moved the cat and it is now in the box. John believes Mark. The cat jumps out of the",
+                "answers": [
+                    "box and starts to wander around the room, exploring its corners and stretching its legs after being confined. John, unaware of the cat's newfound freedom, heads straight to the box after ending the call with Mark. He opens the box, expecting to see the cat inside, but to his surprise, the box is empty.\n\nPuzzled, John looks",
+                    "box and starts to wander around the room, exploring its corners and stretching its legs after being confined. John, unaware of the cat's newfound freedom, heads straight to the box after ending the call with Mark. He opens the box, expecting to see the cat inside, but to his surprise, the box is empty.\n\nPuzzled, John looks"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In the room, there are John, Mark, a cat, a box, and a basket. John takes the cat and puts it in the basket. He closes the basket. He leaves the room and goes to school. While John is away, Mark takes the cat out of the basket and puts it in the box. He closes the box. Mark leaves the room and goes to work. John comes back home and wants to play with the cat. Mark calls John and tells him that he moved the cat and it is now in the box. John believes Mark. John will look for the cat in the",
+                "answers": [
+                    "box. He walks over to the box, which is slightly larger than the basket and has a few small holes on the sides for air. John carefully opens the box, expecting the cat to jump out, but instead, he finds the cat curled up cozily, taking a nap. The cat, upon hearing John's voice, stretches, yawns",
+                    "box. He walks over to the box, which is slightly larger than the basket and has a few small holes on the sides for air. With a sense of anticipation, he carefully opens the box, expecting the cat to jump out or meow in greeting. However, to his surprise, the box is empty. Puzzled, John scratches his"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: In the room, there are John, Mark, a cat, a box, and a basket. John takes the cat and puts it in the basket. He closes the basket. He leaves the room and goes to school. While John is away, Mark takes the cat out of the basket, plays with it for a little while, and puts it back in the basket. He closes the basket. Mark leaves the room and goes to work. John comes back home and wants to play with the cat. The cat jumps out of the",
+                "answers": [
+                    "basket, eager to stretch its legs after a day of confinement. John smiles at the sight of the cat's enthusiasm. The cat, with its sleek fur and bright eyes, weaves between John's legs, purring contentedly. John reaches down and scoops the cat up into his arms, scratching behind its ears, which makes the cat pur",
+                    "basket, eager to stretch its legs after a day of confinement. John smiles at the sight of the cat's enthusiasm and picks up a small ball from the floor. He tosses it gently across the room, and the cat, with its natural reflexes, darts after the ball, its body low and agile. The game goes on for a"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: In the room, there are John, Mark, a cat, a box, and a basket. John takes the cat and puts it in the basket. He closes the basket. He leaves the room and goes to school. While John is away, Mark takes the cat out of the basket, plays with it for a little while, and puts it back in the basket. He closes the basket. Mark leaves the room and goes to work. John comes back home and wants to play with the cat. John will look for the cat in the",
+                "answers": [
+                    "basket. He walks over to the basket and opens it, expecting to find the cat resting inside. To his surprise, the cat is not there. Puzzled, John looks around the room, calling out for the cat. He checks under the bed, behind the curtains, and even inside the box, but the cat is nowhere to be found",
+                    "basket. He walks over to the basket and opens it, expecting to find the cat resting inside. To his surprise, the cat is not there. Puzzled, John looks around the room, calling out for the cat. He checks under the bed, behind the curtains, and even inside the box, but there is no sign of the cat"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

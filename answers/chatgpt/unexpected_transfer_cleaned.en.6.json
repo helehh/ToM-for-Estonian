@@ -1,0 +1,74 @@
+{
+    "nr": 6,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark puts his blue basketball in a wooden box and closes it. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green. Mark looks at the box but cannot see what is happening inside. Mark opens the box and can see that the the color of the basketball is",
+                "answers": [
+                    "now green. He is amazed and wonders how this could have happened. Mark carefully takes out the green basketball from the box and examines it closely. He notices that the basketball feels slightly different too, as if it has become lighter and bouncier.\n\nExcited by this magical transformation, Mark decides to conduct an experiment. He places a red apple inside",
+                    "now green. He is amazed and wonders how this could have happened. Mark carefully takes out the green basketball from the box and examines it closely. He notices that the basketball feels slightly different too, as if it has become lighter and bouncier.\n\nExcited by this magical transformation, Mark decides to conduct an experiment. He places a red apple inside"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark puts his blue basketball in a wooden box and closes it. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green. Mark looks at the box but cannot see what is happening inside. Before opening the box, Mark calls his friend to tell them that the color of the basketball is",
+                "answers": [
+                    "now green. His friend, Sarah, is intrigued by the magical box and decides to come over to witness the color-changing phenomenon for herself.\n\nWhen Sarah arrives, Mark excitedly shows her the wooden box and explains how the basketball transformed from blue to green. Intrigued, Sarah suggests they conduct an experiment to see if the box can change the color",
+                    "now green. His friend, Sarah, is intrigued by the magical box and decides to come over to witness the color-changing phenomenon for herself.\n\nWhen Sarah arrives, Mark excitedly shows her the wooden box and explains how the basketball transformed from blue to green. Intrigued, Sarah suggests they conduct an experiment to see if the box can change the color"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark puts his blue basketball in a wooden box. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green. Mark observes what is happening and then closes the box. Mark opens the box and can see that the the color of the basketball is",
+                "answers": [
+                    "now red. Mark is amazed by the magical transformation and decides to experiment further. He takes out the red basketball and places it back inside the box, eagerly waiting to see what color it will turn next.\n\nAfter a few moments, Mark opens the box again and to his surprise, the basketball has turned purple. Excitement fills his eyes as he",
+                    "now red. Mark is amazed by the magical transformation and decides to experiment further. He takes out the red basketball and places it back inside the box, eagerly waiting to see what color it will turn next.\n\nAfter a few moments, Mark opens the box again and to his surprise, the basketball has turned purple. Excitement fills his eyes as he"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark puts his blue basketball in a wooden box. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green. Mark observes what is happening and then closes the box. Before opening the box, Mark calls his friend to tell them that the color of the basketball is",
+                "answers": [
+                    "now green. His friend, Sarah, is intrigued by the magical box and decides to come over to see it for herself.\n\nWhen Sarah arrives, Mark excitedly shows her the wooden box and explains how it changes the color of objects placed inside. Intrigued, Sarah suggests they conduct an experiment to see if the box can change the basketball's color",
+                    "now green. His friend, Sarah, is intrigued by the magical box and decides to come over to see it for herself.\n\nWhen Sarah arrives, Mark excitedly shows her the wooden box and explains how it changes the color of objects placed inside. Intrigued, Sarah suggests they conduct an experiment to see if the box can change the color of other"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark puts his blue basketball in a wooden box and closes it. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green. Mark looks at the box but cannot see what is happening inside. The magical box tells Mark that it changed the color of the basketball from blue to green. Mark believes the box. Mark opens the box and can see that the the color of the basketball is",
+                "answers": [
+                    "indeed green. He is amazed by the magical transformation and wonders what other surprises the box may hold. Mark decides to experiment further and places a red toy car inside the box, closing it once again.\n\nCuriosity fills Mark's mind as he eagerly waits for the box to work its magic. After a few minutes, he opens the box and to",
+                    "indeed green. He is amazed by the magical transformation and wonders what other surprises the box may hold. Mark decides to experiment further and places a red toy car inside the box, closing it once again.\n\nAs Mark waits in anticipation, the magical box begins its enchantment. After a few minutes, the box announces that it has changed the color of"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark puts his blue basketball in a wooden box and closes it. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green. Mark looks at the box but cannot see what is happening inside. The magical box tells Mark that it changed the color of the basketball from blue to green. Mark believes the box. Before opening the box, Mark calls his friend to tell them that the color of the basketball is",
+                "answers": [
+                    "now green. His friend, Sarah, is intrigued and decides to come over to see the magical box for herself.\n\nWhen Sarah arrives, Mark excitedly shows her the wooden box and explains how it magically changed the color of his basketball. Sarah is skeptical at first, thinking it might just be a prank or a trick. However, she agrees to play",
+                    "now green. His friend, Sarah, is intrigued and decides to come over to see the magical box for herself.\n\nWhen Sarah arrives, Mark excitedly shows her the wooden box and explains how it magically changed the color of his basketball. Sarah is skeptical at first, thinking it might just be a prank or a trick. However, she agrees to play"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark puts his blue basketball in a wooden box and closes it. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green, but then turns blue again. Mark looks at the box but cannot see what is happening inside. Mary calls Mark and asks him what is the color of his ball. Mark tells her the truth. Mark opens the box and can see that the the color of the basketball is",
+                "answers": [
+                    "blue. He is puzzled by the sudden change in color but decides to show Mary the basketball to confirm. Mark takes a deep breath and opens the box, revealing the blue basketball inside.\n\n\"Hey Mary, it's still blue!\" Mark exclaims, a mixture of confusion and excitement evident in his voice.\n\nMary, who is on the other end of",
+                    "blue. He is puzzled by the sudden change in color but decides to show Mary the basketball to confirm. Mark takes a deep breath and opens the box, revealing the blue basketball inside.\n\n\"Hey Mary, it's still blue!\" Mark exclaims, a mixture of confusion and excitement evident in his voice.\n\nMary, who is on the other end of"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark puts his blue basketball in a wooden box and closes it. Mark doesn't know it, but this is a magical box, which changes colors of things that are left inside. After a few minutes, the basketball turns green, but then turns blue again. Mark looks at the box but cannot see what is happening inside. Mary calls Mark and asks him what is the color of his ball. Mark tells her the truth. Before opening the box, Mark calls his friend to tell them that the color of the basketball is",
+                "answers": [
+                    "changing. His friend is intrigued and rushes over to see the magical box for himself.\n\nWhen Mark's friend arrives, he is amazed to see the basketball changing colors right before his eyes. They both watch in awe as the basketball transitions from blue to green and back to blue again. It's like a mesmerizing dance of colors.\n\nCuriosity gets the",
+                    "changing. His friend is intrigued and asks Mark to describe what he means by \"changing.\" Mark explains that he put his blue basketball in the wooden box, and after a few minutes, it turned green but then reverted back to blue.\n\nCuriosity piqued, Mark's friend suggests that they meet up so they can witness this magical phenomenon together."
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

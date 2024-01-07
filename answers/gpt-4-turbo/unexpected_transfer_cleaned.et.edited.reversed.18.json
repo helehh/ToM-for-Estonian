@@ -1,0 +1,74 @@
+{
+    "nr": 18,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Peategelased A ja B on toas. A paneb eseme Q anumasse Y ja lahkub toast. Kui A on \u00e4ra, liigutab B eseme Q anumast Y anumasse X. Peategelane A tuleb tagasi tuppa ja soovib kasutada eset Q. Q kukub anumast",
+                "answers": [
+                    "X v\u00e4lja ja puruneb. A vaatab ehmunult purunenud t\u00fckke p\u00f5randal ja p\u00f6\u00f6rdub B poole, silmis segadus ja pettumus.\n\n\"Miks sa selle \u00fcmber t\u00f5stsid?\" k\u00fcsib A, p\u00fc\u00fcdes oma h\u00e4",
+                    "X v\u00e4lja ja puruneb. A vaatab ehmunult purunenud t\u00fckke p\u00f5randal ja p\u00f6\u00f6rdub B poole: \"Miks sa selle \u00fcmber t\u00f5stsid? Ma panin selle kindlalt anumasse Y!\"\n\nB t\u00f5stab k\u00e4ed \u00fcles"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Peategelased A ja B on toas. A paneb eseme Q anumasse Y ja lahkub toast. Kui A on \u00e4ra, liigutab B eseme Q anumast Y anumasse X. Peategelane A tuleb tagasi tuppa ja soovib kasutada eset Q. Peategelane A otsib Q-d anumast",
+                "answers": [
+                    "Y, kuid ei leia seda sealt. A on segaduses ja hakkab toas ringi vaatama, lootes leida kadunud eseme Q. Ta k\u00fcsib B-lt, kas too on n\u00e4inud, kuhu Q v\u00f5is kaduda. B, kes on salap",
+                    "Y, kuid ei leia seda sealt. A on segaduses ja hakkab toas ringi vaatama, lootes leida kadunud eseme Q. Ta k\u00fcsib B-lt, kas too on n\u00e4inud, kuhu Q v\u00f5is kaduda. B, kes on salap"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Peategelased A ja B on toas. A paneb eseme Q anumasse Y. Seej\u00e4rel vaatab A, kuidas B liigutab Q anumast Y anumasse X. M\u00f5lemad A ja B lahkuvad toast. Hiljem tuleb peategelane A tuppa tagasi ja soovib kasutada eset Q. Q kukub anumast",
+                "answers": [
+                    "X v\u00e4lja ja puruneb kildudeks p\u00f5randal. A seisab hetkeks liikumatult, vaadates kildude hajumist \u00fcle kahvatu keraamilise plaadi. Hetk hiljem kostab A ohke, mis seguneb toa vaikusesse",
+                    "X v\u00e4lja ja puruneb kildudeks p\u00f5randal. A seisab hetkeks jahmunult, vaadates kildude hajumist \u00fcle kahvatu keraamilise plaadi. Ta oli lootnud, et Q, mis oli talle nii kallis ja asend"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Peategelased A ja B on toas. A paneb eseme Q anumasse Y. Seej\u00e4rel vaatab A, kuidas B liigutab Q anumast Y anumasse X. M\u00f5lemad A ja B lahkuvad toast. Hiljem tuleb peategelane A tuppa tagasi ja soovib kasutada eset Q. Peategelane A otsib Q-d anumast",
+                "answers": [
+                    "Y, kuid avastab, et see on t\u00fchi. Hetkeks on A segaduses, kuid siis meenub talle, kuidas B oli eseme Q anumasse X t\u00f5stnud. A suundub anuma X juurde ja leiab sealt otsit",
+                    "Y, kuid leiab selle t\u00fchjana. A meenutab, et n\u00e4gi B-d eset Q anumasse X panemas, ja suundub anuma X juurde. Seal ta leiabki eseme Q, t\u00e4pselt nii nagu B oli selle j\u00e4tnud. A"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Peategelased A ja B on toas. A paneb eseme Q anumasse Y ja lahkub toast. Kui A on \u00e4ra, t\u00f5stab B eseme Q anumast Y anumasse X. Peategelane A tuleb tagasi tuppa ja soovib kasutada eset Q. Peategelane B h\u00fc\u00fcab peategelast A ja \u00fctleb talle, et ta t\u00f5stis eseme Q anumast Y anumasse X. Peategelane A usub peategelast B. Q kukub anumast v\u00e4lja",
+                "answers": [
+                    "Peategelased A ja B on toas. A paneb eseme Q anumasse Y ja lahkub toast. See eseme Q on eriline, kuna see on A jaoks sentimentaalse v\u00e4\u00e4rtusega kingitus, mille ta sai oma vanaisalt. Anum Y on k\u00f5rge",
+                    "Peategelased A ja B on toas. A paneb eseme Q anumasse Y ja lahkub toast. See eseme Q on oluline ja vajalik A jaoks j\u00e4rgmiseks tegevuseks, mida ta plaanib ette v\u00f5tta. Anum Y on k"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Peategelased A ja B on toas. A paneb eseme Q anumasse Y ja lahkub toast. Kui A on \u00e4ra, t\u00f5stab B eseme Q anumast Y anumasse X. Peategelane A tuleb tagasi tuppa ja soovib kasutada eset Q. Peategelane B h\u00fc\u00fcab peategelast A ja \u00fctleb talle, et ta t\u00f5stis eseme Q anumast Y anumasse X. Peategelane A usub peategelast B. Peategelane A otsib Q-d anumast",
+                "answers": [
+                    "X, leides selle kiiresti t\u00e4nu B abile. A vaatab B poole ja naeratab t\u00e4nulikult. \"Ma ei tea, mida ma ilma sinuta teeksin,\" \u00fctleb A, hoides eset Q k\u00e4es. B naeratab vastu ja \u00fctleb",
+                    "X, leides selle kiiresti t\u00e4nu B abivalmile teavitusele. A vaatab B poole ja noogutab t\u00e4nulikult, t\u00f5stes eseme Q v\u00e4lja anumast X. \"Ma ei tea, mida ma ilma sinuta teeksin,\" \u00fctleb A"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Peategelased A ja B on toas. A paneb eseme Q anumasse Y ja lahkub toast. Kui A on \u00e4ra, kaalub B eseme Q t\u00f5stmist anumast Y anumasse X, kuid otsustab l\u00f5puks seda mitte teha. Peategelane A tuleb tagasi tuppa ja soovib kasutada eset Q. Q kukub anumast",
+                "answers": [
+                    "Y v\u00e4lja ja puruneb. A vaatab B poole, otsides selgitust.\n\nB, kes oli varem kaalunud eseme Q liigutamist, tunneb end s\u00fc\u00fcdi, kuigi ta ei olnud seda tegelikult puudutanud. Ta m\u00f5",
+                    "Y v\u00e4lja ja puruneb. A vaatab B poole, otsides selgitust.\n\nB, kes oli varem kaalunud eseme Q liigutamist, tunneb end s\u00fc\u00fcdi, kuigi ta ei olnud seda tegelikult puudutanud. Ta m\u00f5"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Peategelased A ja B on toas. A paneb eseme Q anumasse Y ja lahkub toast. Kui A on \u00e4ra, kaalub B eseme Q t\u00f5stmist anumast Y anumasse X, kuid otsustab l\u00f5puks seda mitte teha. Peategelane A tuleb tagasi tuppa ja soovib kasutada eset Q. Peategelane A otsib Q-d anumast",
+                "answers": [
+                    "Y, kuid leiab selle sealt, kus ta selle oli j\u00e4tnud. A on kergendunud, et Q on \u00f5iges kohas, sest see on tema jaoks v\u00e4ga t\u00e4htis ese. Ta p\u00f6\u00f6rdub B poole ja t\u00e4nab teda, et",
+                    "Y, kuid leiab selle sealt, kus ta selle oli j\u00e4tnud. A on kergendunud, et Q on \u00f5iges kohas, sest see esindab tema jaoks midagi v\u00e4ga olulist. A vaatab B poole ja t\u00e4nab teda, et ta"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

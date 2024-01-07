@@ -1,0 +1,74 @@
+{
+    "nr": 8,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Ed ja tema \u00f5de Lilly on toas. Neil on kaks m\u00e4nguasja: veoauto ja robot. Nad m\u00e4ngivad nende m\u00e4nguasjadega, kuni Ed kogemata veoauto \u00e4ra l\u00f5hub. Pettunult lahkub ta toast, et otsida oma ema. Tema \u00e4raolekul parandab Lilly veoauto \u00e4ra, kuid l\u00f5hub kogemata \u00e4ra roboti. Seej\u00e4rel lahkub ka tema toast. Ed leiab oma ema. M\u00e4nguasi, mis vajab parandamist, on",
+                "answers": [
+                    "n\u00fc\u00fcd robot. Ed r\u00e4\u00e4gib emale, mis juhtus veoautoga, ja kuidas ta kogemata selle \u00e4ra l\u00f5hkus. Ema kuulab m\u00f5istvalt ja soovitab tal minna tagasi tuppa ja proovida see parand",
+                    "n\u00fc\u00fcd robot. Ed r\u00e4\u00e4gib emale, mis juhtus veoautoga, ja kuidas ta kogemata selle \u00e4ra l\u00f5hkus. Ema kuulab m\u00f5istvalt ja soovitab tal minna tagasi tuppa ja proovida see parand"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Ed ja tema \u00f5de Lilly on toas. Neil on kaks m\u00e4nguasja: veoauto ja robot. Nad m\u00e4ngivad nende m\u00e4nguasjadega, kuni Ed kogemata veoauto \u00e4ra l\u00f5hub. Pettunult lahkub ta toast, et otsida oma ema. Tema \u00e4raolekul parandab Lilly veoauto \u00e4ra, kuid l\u00f5hub kogemata \u00e4ra roboti. Seej\u00e4rel lahkub ka tema toast. Ed leiab oma ema. Ed \u00fctleb oma emale, et nad peavad parandama",
+                "answers": [
+                    "veoauto, kuid kui nad tagasi tuppa j\u00f5uavad, on Ed \u00fcllatunud n\u00e4hes veoautot terve ja t\u00f6\u00f6korras. Ta vaatab Lilly poole, kes naeratab kergelt piinliku naeratusega. \"Ma parandasin veo",
+                    "veoauto, kuid kui nad tagasi tuppa j\u00f5uavad, on Ed \u00fcllatunud n\u00e4hes veoautot terve ja t\u00f6\u00f6korras. Ta vaatab imestunult Lilly poole, kes naeratab ja \u00fctleb, \"Ma parandasin selle \u00e4ra, k"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Ed ja tema \u00f5de Lilly on toas. Neil on kaks m\u00e4nguasja: veoauto ja robot. Nad m\u00e4ngivad nende m\u00e4nguasjadega, kuni Ed kogemata veoauto \u00e4ra l\u00f5hub. Ed vaatab pealt, kuidas Lilly parandab veoauto \u00e4ra, kuid l\u00f5hub kogemata \u00e4ra roboti. Nad m\u00f5lemad lahkuvad toast, et otsida oma ema. Ed leiab ema esimesena. M\u00e4nguasi, mis vajab parandamist, on",
+                "answers": [
+                    "robot. Ed selgitab emale, mis juhtus, ja palub abi roboti parandamisel. Ema noogutab m\u00f5istvalt ja j\u00e4rgneb Edile tagasi tuppa, kus Lilly juba ootab. Ema vaatab robotit ja n\u00e4eb, et selle",
+                    "robot. Ed selgitab emale, mis juhtus, ja palub abi roboti parandamisel. Ema noogutab m\u00f5istvalt ja j\u00e4rgneb Edile tagasi tuppa, kus Lilly juba ootab. Koos vaatavad nad robotit, et m\u00f5ista"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Ed ja tema \u00f5de Lilly on toas. Neil on kaks m\u00e4nguasja: veoauto ja robot. Nad m\u00e4ngivad nende m\u00e4nguasjadega, kuni Ed kogemata veoauto \u00e4ra l\u00f5hub. Ed vaatab pealt, kuidas Lilly parandab veoauto \u00e4ra, kuid l\u00f5hub kogemata \u00e4ra roboti. Nad m\u00f5lemad lahkuvad toast, et otsida oma ema. Ed leiab ema esimesena. Ed \u00fctleb oma emale, et nad peavad parandama",
+                "answers": [
+                    "roboti, sest see l\u00e4ks katki. Ema noogutab m\u00f5istvalt ja k\u00fcsib, kas veoauto on korras. Ed vastab, et veoauto on juba parandatud, t\u00e4nu Lilly osavatele k\u00e4tele. Ema naeratab ja kiidab",
+                    "roboti, sest see l\u00e4ks katki. Ema kuulab Ed'i muret ja naeratab m\u00f5istvalt. Ta \u00fctleb, et nad saavad seda koos parandada ja et \u00f5nnetusi juhtub k\u00f5igiga.\n\nNad l\u00e4hevad tagasi tuppa"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Ed ja tema \u00f5de Lilly on toas. Neil on kaks m\u00e4nguasja: veoauto ja robot. Nad m\u00e4ngivad nende m\u00e4nguasjadega, kuni Ed kogemata veoauto \u00e4ra l\u00f5hub. Pettunult lahkub ta toast, et otsida oma ema. Tema \u00e4raolekul parandab Lilly veoauto \u00e4ra, kuid l\u00f5hub kogemata \u00e4ra roboti. Seej\u00e4rel lahkub ka tema toast. Ed leiab oma ema. Edi \u00f5de helistab Edile ja \u00fctleb, et ta parandas veoauto \u00e4ra, kuid l\u00f5hkus kogemata \u00e4ra roboti. Ed usub oma \u00f5de. M\u00e4nguasi, mis vajab parandamist, on",
+                "answers": [
+                    "robot.",
+                    "robot. Ed t\u00e4nab oma \u00f5de veoauto parandamise eest ja nad otsustavad koos roboti korda teha. Nad leiavad t\u00f6\u00f6riistakasti ja asuvad \u00fcheskoos robotit uurima, et m\u00f5ista, mis on katki. Peale m\u00f5"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Ed ja tema \u00f5de Lilly on toas. Neil on kaks m\u00e4nguasja: veoauto ja robot. Nad m\u00e4ngivad nende m\u00e4nguasjadega, kuni Ed kogemata veoauto \u00e4ra l\u00f5hub. Pettunult lahkub ta toast, et otsida oma ema. Tema \u00e4raolekul parandab Lilly veoauto \u00e4ra, kuid l\u00f5hub kogemata \u00e4ra roboti. Seej\u00e4rel lahkub ka tema toast. Ed leiab oma ema. Edi \u00f5de helistab Edile ja \u00fctleb, et ta parandas veoauto \u00e4ra, kuid l\u00f5hkus kogemata \u00e4ra roboti. Ed usub oma \u00f5de. Ed \u00fctleb oma emale, et nad peavad parandama",
+                "answers": [
+                    "roboti. Ema noogutab m\u00f5istvalt ja koos suunduvad nad tagasi tuppa, kus Lilly juba ootab, roboti t\u00fckid laiali laotatud.\n\nKui nad tuppa j\u00f5uavad, n\u00e4eb Ed veoauto, mis n\u00e4eb v\u00e4lja",
+                    "roboti. Ema noogutab m\u00f5istvalt ja koos suunduvad nad tagasi tuppa, kus Lilly juba ootab neid, roboti t\u00fckid hoolikalt lauale laotud.\n\nKui nad tuppa j\u00f5uavad, vaatab ema roboti t"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Ed ja tema \u00f5de Lilly on toas. Neil on kaks m\u00e4nguasja: veoauto ja robot. Nad m\u00e4ngivad nende m\u00e4nguasjadega, kuni Ed kogemata veoauto \u00e4ra l\u00f5hub. Pettunult lahkub ta toast, et otsida oma ema. Tema \u00e4raolekul parandab Lilly veoauto \u00e4ra, kuid l\u00f5hub selle kogemata uuesti. Seej\u00e4rel lahkub ka tema toast. Ed leiab oma ema. M\u00e4nguasi, mis vajab parandamist, on",
+                "answers": [
+                    "veoauto. Ed r\u00e4\u00e4gib emale, mis juhtus, ja ema lubab talle, et nad vaatavad selle koos \u00fcle. Kui nad tagasi tuppa j\u00f5uavad, m\u00e4rkab Ed, et veoauto on endiselt katki. Ta on \u00fcll",
+                    "veoauto. Ed r\u00e4\u00e4gib emale, mis juhtus, ja ema lubab talle, et nad vaatavad selle koos \u00fcle ja proovivad selle parandada. Kui nad tagasi tuppa j\u00f5uavad, n\u00e4evad nad, et Lilly on juba ve"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Ed ja tema \u00f5de Lilly on toas. Neil on kaks m\u00e4nguasja: veoauto ja robot. Nad m\u00e4ngivad nende m\u00e4nguasjadega, kuni Ed kogemata veoauto \u00e4ra l\u00f5hub. Pettunult lahkub ta toast, et otsida oma ema. Tema \u00e4raolekul parandab Lilly veoauto \u00e4ra, kuid l\u00f5hub selle kogemata uuesti. Seej\u00e4rel lahkub ka tema toast. Ed leiab oma ema. Ed \u00fctleb oma emale, et nad peavad parandama",
+                "answers": [
+                    "veoauto, mis kogemata katki l\u00e4ks. Ema noogutab m\u00f5istvalt ja koos l\u00e4hevad nad tagasi lastetuppa, et olukorda uurida. Kui nad tuppa j\u00f5uavad, n\u00e4evad nad veoauto t\u00fckke p\u00f5randal",
+                    "veoauto, mis kogemata katki l\u00e4ks. Ema kuulab murelikult ja lubab aidata. Nad l\u00e4hevad tagasi tuppa, kus Ed on \u00fcllatunud, n\u00e4hes veoautot taas katkisena. Ta ei tea, et Lilly oli selle"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

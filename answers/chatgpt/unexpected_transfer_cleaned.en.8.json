@@ -1,0 +1,74 @@
+{
+    "nr": 8,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Ed and his sister, Lilly, are in a room. They have two toys: a truck and a robot. They play with these toys until Ed accidentally breaks the truck. Disappointed, he leaves the room to look for his mom. In his absence, Lilly repairs the truck, but inadvertently breaks the robot. Subsequently, she too leaves the room. Ed finds his mom. The toy that needs to be repaired is the",
+                "answers": [
+                    "robot. Ed explains to his mom what happened and asks for her help in fixing the broken robot. His mom, being handy with tools, agrees to help him and they head back to the room together.\n\nAs they enter the room, Ed is surprised to see the truck sitting on the table, perfectly repaired. He looks at Lilly, who sheepishly",
+                    "robot. Ed explains to his mom what happened and asks for her help in fixing the broken robot. His mom, being handy with tools, agrees to help him and they head back to the room together.\n\nAs they enter the room, Ed is surprised to see the truck sitting on the table, perfectly repaired. He looks at Lilly, who sheepishly"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Ed and his sister, Lilly, are in a room. They have two toys: a truck and a robot. They play with these toys until Ed accidentally breaks the truck. Disappointed, he leaves the room to look for his mom. In his absence, Lilly repairs the truck, but inadvertently breaks the robot. Subsequently, she too leaves the room. Ed finds his mom. Ed will tell his mom that they need to repair the",
+                "answers": [
+                    "robot, while Lilly will tell her that they need to repair the truck.\n\nEd rushes to find his mom, his eyes filled with worry. He knows that he accidentally broke the truck, and he wants to make things right. As he finds his mom in the kitchen, he tugs at her sleeve, trying to get her attention.\n\n\"Mom,",
+                    "robot, while Lilly will tell her that they need to repair the truck.\n\nEd rushes to find his mom, his eyes filled with worry. He knows that his mom is the best at fixing things, and he hopes she can help them repair the broken robot. As he finds her in the kitchen, he blurts out, \"Mom, we need"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Ed and his sister, Lilly, are in a room. They have two toys: a truck and a robot. They play with these toys until Ed accidentally breaks the truck. As Ed is watching, Lilly repairs the truck, but inadvertently breaks the robot. They both leave the room to look for their mom. Ed finds their mom first. The toy that needs to be repaired is the",
+                "answers": [
+                    "robot. Ed excitedly tells his mom about the broken robot and asks for her help in fixing it. Their mom, being handy with tools, agrees to take a look at it.\n\nMeanwhile, Lilly is still searching for their mom when she stumbles upon their dad in the living room. She quickly explains what happened to the truck and asks for his",
+                    "robot. Ed excitedly tells his mom about the broken robot and asks for her help in fixing it. Their mom, being handy and resourceful, agrees to take a look at it.\n\nTogether, Ed and his mom return to the room where Lilly is patiently waiting. Lilly looks a bit disappointed, but she understands that accidents happen. Ed's mom"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Ed and his sister, Lilly, are in a room. They have two toys: a truck and a robot. They play with these toys until Ed accidentally breaks the truck. As Ed is watching, Lilly repairs the truck, but inadvertently breaks the robot. They both leave the room to look for their mom. Ed finds their mom first. Ed will tell his mom that they need to repair the",
+                "answers": [
+                    "robot, while Lilly will tell her that they need to repair the truck.\n\nExcitedly, Ed rushes up to his mom and tugs at her sleeve. \"Mom, mom! We need to fix the robot!\" he exclaims, his eyes wide with concern.\n\nHis mom looks down at him, a gentle smile on her face. \"Oh",
+                    "robot, while Lilly will tell her that they need to repair the truck.\n\nExcitedly, Ed rushes up to his mom and tugs at her sleeve. \"Mom, mom! We need to fix the robot!\" he exclaims, his eyes wide with concern.\n\nHis mom looks down at him, a gentle smile on her face. \"Oh"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Ed and his sister, Lilly, are in a room. They have two toys: a truck and a robot. They play with these toys until Ed accidentally breaks the truck. Disappointed, he leaves the room to look for his mom. In his absence, Lilly repairs the truck, but inadvertently breaks the robot. Subsequently, she too leaves the room. Ed finds his mom. Ed's sister calls Ed and tells him that she repaired the truck, but inadvertently broke the robot. Ed believes his sister. The toy that needs to be repaired is the",
+                "answers": [
+                    "robot.",
+                    "robot."
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Ed and his sister, Lilly, are in a room. They have two toys: a truck and a robot. They play with these toys until Ed accidentally breaks the truck. Disappointed, he leaves the room to look for his mom. In his absence, Lilly repairs the truck, but inadvertently breaks the robot. Subsequently, she too leaves the room. Ed finds his mom. Ed's sister calls Ed and tells him that she repaired the truck, but inadvertently broke the robot. Ed believes his sister. Ed will tell his mom that they need to repair the",
+                "answers": [
+                    "robot as well. Ed and his mom return to the room to find Lilly waiting anxiously. She explains what happened and apologizes for breaking the robot. Ed reassures her that it's okay and that accidents happen. Together, they examine the broken robot and come up with a plan to fix it.\n\nEd's mom suggests they gather some tools and",
+                    "robot as well. Ed and his mom return to the room to find Lilly waiting anxiously. She explains what happened and apologizes for breaking the robot. Ed's mom reassures her that accidents happen and that they can fix it together.\n\nEd and Lilly gather the broken pieces of the robot and start brainstorming on how to repair it. They search"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Ed and his sister, Lilly, are in a room. They have two toys: a truck and a robot. They play with these toys until Ed accidentally breaks the truck. Disappointed, he leaves the room to look for his mom. In his absence, Lilly repairs the truck, but inadvertently breaks it again. Subsequently, she too leaves the room. Ed finds his mom. The toy that needs to be repaired is the",
+                "answers": [
+                    "robot. Ed explains to his mom what happened and asks for her help in fixing the broken toy. His mom reassures him that accidents happen and that she will do her best to repair the robot.\n\nMeanwhile, Lilly, feeling guilty about breaking the truck again, decides to take matters into her own hands. She sneaks into their dad's toolbox and",
+                    "robot. Ed explains to his mom what happened and asks for her help in fixing the broken toy. His mom reassures him that accidents happen and that she will do her best to repair the robot.\n\nMeanwhile, Lilly, feeling guilty about breaking the truck again, decides to take matters into her own hands. She sneaks into their dad's toolbox and"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Ed and his sister, Lilly, are in a room. They have two toys: a truck and a robot. They play with these toys until Ed accidentally breaks the truck. Disappointed, he leaves the room to look for his mom. In his absence, Lilly repairs the truck, but inadvertently breaks it again. Subsequently, she too leaves the room. Ed finds his mom. Ed will tell his mom that they need to repair the",
+                "answers": [
+                    "truck, but when he returns to the room, he is surprised to find Lilly holding a brand new toy truck in her hands.\n\n\"Mom, we need to repair the truck,\" Ed says, rushing into the living room where his mom is sitting.\n\nHis mom looks up from her book, concerned. \"What happened, Ed? Did you break the",
+                    "truck, but when he returns to the room, he is surprised to find Lilly holding a brand new toy truck in her hands.\n\n\"Mom, we need to repair the truck,\" Ed says, rushing into the living room where his mom is sitting.\n\nHis mom looks up from her book, concerned. \"What happened, Ed? Did you break the"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

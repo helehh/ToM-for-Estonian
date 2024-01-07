@@ -1,0 +1,74 @@
+{
+    "nr": 3,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house before leaving for school. When Lila is gone, her mom comes home. Mom doesn't like it when the dog is locked in the house, so she takes the dog outside and puts it in the shed instead. She locks the shed's door and leaves to work. Lila comes back from school and wants to play with the dog. The dog escapes from the",
+                "answers": [
+                    "shed and runs towards Lila, wagging its tail excitedly. Lila is surprised to see the dog outside, but she quickly realizes that her mom must have let it out of the house. She rushes over to the dog, giving it a big hug and thanking it for finding its way back to her.\n\nCuriosity piqued, L",
+                    "shed and runs towards Lila, wagging its tail excitedly. Lila is surprised to see her dog outside, but she quickly realizes that her mom must have let him out of the house.\n\nConfused, Lila rushes to the shed and finds it locked. She tries to open the door, but it won't budge. Panic starts"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house before leaving for school. When Lila is gone, her mom comes home. Mom doesn't like it when the dog is locked in the house, so she takes the dog outside and puts it in the shed instead. She locks the shed's door and leaves to work. Lila comes back from school and wants to play with the dog. Lila will look for the dog in the",
+                "answers": [
+                    "house, assuming that her dog is inside as usual. She opens the front door and calls out for her furry friend, but there is no response. Confused, Lila begins to search every room, hoping to find her beloved pet. However, after thoroughly checking the entire house, Lila realizes that her dog is nowhere to be found.\n\nGrowing",
+                    "house, assuming that her dog is inside as usual. She opens the front door and calls out for her furry friend, but there is no response. Confused, Lila begins to search every room, hoping to find her beloved pet. However, after thoroughly checking the entire house, Lila realizes that her dog is nowhere to be found.\n\nGrowing"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house. Yet, her mom doesn't like it when the dog is locked in the house. Lila watches her mother as she takes the dog outside, puts it in the shed, and locks the shed's door. Both Lila and her mom leave home. A few hours later, Lila comes back and wants to play with the dog. The dog escapes from the",
+                "answers": [
+                    "shed and runs towards Lila, wagging its tail excitedly. Lila is surprised to see the dog outside the shed and wonders how it managed to escape. She quickly realizes that her mom must have forgotten to lock the shed properly.\n\nLila bends down to pet her dog, relieved that it is safe and happy. She decides to take this",
+                    "shed and runs towards Lila, wagging its tail excitedly. Lila is overjoyed to see her furry friend and bends down to give it a big hug. She quickly realizes that the shed door is wide open, and she wonders how the dog managed to escape.\n\nCuriosity piqued, Lila decides to investigate. She walks"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house. Yet, her mom doesn't like it when the dog is locked in the house. Lila watches her mother as she takes the dog outside, puts it in the shed, and locks the shed's door. Both Lila and her mom leave home. A few hours later, Lila comes back and wants to play with the dog. Lila will look for the dog in the",
+                "answers": [
+                    "shed where her mom had put it. She walks towards the shed, feeling a mix of excitement and anticipation. As she reaches the shed, she notices that the door is slightly ajar. Lila's heart skips a beat, and she quickly pushes the door open.\n\nTo her surprise, the shed is empty. Panic starts to rise within her as",
+                    "shed where her mom had put it. She walks towards the shed, feeling a mix of excitement and anticipation. As she reaches the shed, she notices that the door is slightly ajar. Lila's heart skips a beat, and she quickly pushes the door open.\n\nTo her surprise, the shed is empty. Panic starts to rise within her as"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house before leaving for school. When Lila is gone, her mom comes home. Mom doesn't like it when the dog is locked in the house, so she takes the dog outside and puts it in the shed instead. She locks the shed's door and leaves to work. Lila comes back from school and wants to play with the dog. Lila's mom calls Lila and tells her that she moved the dog from the house to the shed. Lila believes her mom. The dog escapes from the",
+                "answers": [
+                    "shed and runs off into the neighborhood. Lila is devastated when she realizes that her beloved dog is missing. She frantically searches the entire neighborhood, calling out the dog's name, but there is no sign of him.\n\nFeeling helpless and worried, Lila decides to ask her neighbors if they have seen her dog. She goes from house to",
+                    "shed and runs off into the neighborhood. Lila is devastated when she realizes that her beloved dog is missing. She frantically searches the entire neighborhood, calling out the dog's name, but there is no sign of him.\n\nFeeling helpless and worried, Lila decides to ask her neighbors if they have seen her dog. She goes from house to"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house before leaving for school. When Lila is gone, her mom comes home. Mom doesn't like it when the dog is locked in the house, so she takes the dog outside and puts it in the shed instead. She locks the shed's door and leaves to work. Lila comes back from school and wants to play with the dog. Lila's mom calls Lila and tells her that she moved the dog from the house to the shed. Lila believes her mom. Lila will look for the dog in the",
+                "answers": [
+                    "shed. She quickly makes her way to the shed, her heart pounding with anticipation. As she reaches the shed, she notices the locked door and her excitement turns into confusion.\n\nLila tries to open the door, but it's securely locked. She calls out for her dog, hoping to hear a familiar bark in response. However, all she hears",
+                    "shed. She quickly makes her way to the shed, her heart pounding with anticipation. As she reaches the shed, she notices the locked door and her excitement turns into confusion. Lila wonders why her mom would lock the shed and leave the dog inside.\n\nWith a mix of worry and determination, Lila searches for a spare key to unlock the shed"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house before leaving for school. When Lila is gone, her mom comes home. Mom doesn't like it when the dog is locked in the house, so she takes the dog outside. After a few moments she puts it back in the house, locks the door and leaves to work. Lila comes back from school and wants to play with the dog. The dog escapes from the",
+                "answers": [
+                    "house through an open window and runs off into the neighborhood. Lila panics and immediately starts searching for her beloved pet.\n\nFrantically, Lila runs through the streets, calling out the dog's name and asking anyone she encounters if they have seen him. She feels a mix of worry and guilt, blaming herself for not considering the possibility of the",
+                    "house through an open window and runs off into the neighborhood. Lila panics and immediately starts searching for her beloved pet.\n\nFrantically, Lila runs through the streets, calling out the dog's name and asking anyone she encounters if they have seen him. She feels a mix of worry and guilt, blaming herself for not considering the possibility of the"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Lila likes it when her dog stays in the house while she's away. Thus, she puts her dog in the house before leaving for school. When Lila is gone, her mom comes home. Mom doesn't like it when the dog is locked in the house, so she takes the dog outside. After a few moments she puts it back in the house, locks the door and leaves to work. Lila comes back from school and wants to play with the dog. Lila will look for the dog in the",
+                "answers": [
+                    "house, assuming that her mom has left the dog inside. She opens the front door and calls out for her furry friend, but there is no response. Confused, Lila searches every room, calling out the dog's name, but still no sign of him.\n\nGrowing worried, Lila decides to check the backyard, thinking that maybe her mom",
+                    "house, assuming that her mom has left the dog inside. She opens the front door and calls out for her furry friend, but there is no response. Confused, Lila searches every room, calling out the dog's name, but still no sign of her beloved pet.\n\nGrowing increasingly worried, Lila decides to check the backyard, thinking that"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

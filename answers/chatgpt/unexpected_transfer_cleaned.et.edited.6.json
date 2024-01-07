@@ -1,0 +1,74 @@
+{
+    "nr": 6,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark paneb oma sinise korvpalli puidust kasti ja sulgeb selle. Mark ei tea seda, aga see on maagiline kast, mis muudab nende asjade v\u00e4rve, mis sinna sisse j\u00e4etakse. M\u00f5ne minuti p\u00e4rast muutub korvpall roheliseks. Mark vaatab kasti, kuid ei n\u00e4e, mis sees toimub. Mark avab kasti ja n\u00e4eb, et korvpalli v\u00e4rv on",
+                "answers": [
+                    "muutunud. Ta on \u00fcllatunud ja imestab, kuidas see v\u00f5imalik on. Ta v\u00f5tab korvpalli kasti seest v\u00e4lja ja uurib seda l\u00e4hemalt. Ta keerutab seda k\u00e4es ja m\u00e4rkab, et korvpalli pind on mu",
+                    "muutunud. Ta on \u00fcllatunud ja imestab, kuidas see v\u00f5imalik on. Ta v\u00f5tab korvpalli kasti seest v\u00e4lja ja uurib seda l\u00e4hemalt. Ta keerutab seda k\u00e4es ja m\u00e4rkab, et korvpalli pind on mu"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark paneb oma sinise korvpalli puidust kasti ja sulgeb selle. Mark ei tea seda, aga see on maagiline kast, mis muudab nende asjade v\u00e4rve, mis sinna sisse j\u00e4etakse. M\u00f5ne minuti p\u00e4rast muutub korvpall roheliseks. Mark vaatab kasti, kuid ei n\u00e4e, mis sees toimub. Enne kasti avamist helistab Mark oma s\u00f5brale, et \u00f6elda talle, et korvpalli v\u00e4rv on",
+                "answers": [
+                    "muutunud. S\u00f5ber ei usu teda ja arvab, et Mark teeb nalja. Mark otsustab kasti avada ja n\u00e4eb, et korvpall on t\u00f5epoolest muutunud roheliseks.\n\n\u00dcllatunud ja p\u00f5nevil helistab Mark",
+                    "muutunud. S\u00f5ber ei usu teda ja arvab, et Mark teeb nalja. Mark otsustab kasti avada ja n\u00e4eb, et korvpall on t\u00f5epoolest muutunud roheliseks.\n\nMark on h\u00e4mmingus ja p\u00fc\u00fcab m\u00f5ista"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark paneb oma sinise korvpalli puidust kasti. Mark ei tea seda, aga see on maagiline kast, mis muudab nende asjade v\u00e4rve, mis sinna sisse j\u00e4etakse. M\u00f5ne minuti p\u00e4rast muutub korvpall roheliseks. Mark j\u00e4lgib, mis toimub, ja seej\u00e4rel sulgeb kasti. Mark avab kasti ja n\u00e4eb, et korvpalli v\u00e4rv on",
+                "answers": [
+                    "tagasi sinine. Ta on \u00fcllatunud ja segaduses. Ta otsustab proovida midagi muud kasti panna, et n\u00e4ha, kas see muudab ka selle v\u00e4rvi.\n\nMark otsib oma toa \u00fcmber ja leiab punase pliiatsi.",
+                    "tagasi sinine. Ta on \u00fcllatunud ja segaduses. Ta otsustab proovida midagi muud kasti panna, et n\u00e4ha, kas see muudab ka selle v\u00e4rvi.\n\nMark otsib oma toa \u00fcmber ja leiab punase pliiatsi."
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark paneb oma sinise korvpalli puidust kasti. Mark ei tea seda, aga see on maagiline kast, mis muudab nende asjade v\u00e4rve, mis sinna sisse j\u00e4etakse. M\u00f5ne minuti p\u00e4rast muutub korvpall roheliseks. Mark j\u00e4lgib, mis toimub, ja seej\u00e4rel sulgeb kasti. Enne kasti avamist helistab Mark oma s\u00f5brale, et \u00f6elda talle, et korvpalli v\u00e4rv on",
+                "answers": [
+                    "muutunud. S\u00f5ber ei usu teda ja arvab, et Mark teeb nalja. Mark otsustab s\u00f5brale t\u00f5estada, et kast on t\u00f5epoolest maagiline.\n\nMark avab kasti ja korvpall on tagasi oma algse sinise v\u00e4rv",
+                    "muutunud. S\u00f5ber ei usu teda ja arvab, et Mark teeb nalja. Mark otsustab s\u00f5brale t\u00f5estada, et kast on t\u00f5epoolest maagiline.\n\nMark avab kasti ja korvpall on tagasi oma algse sinise v\u00e4rv"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark paneb oma sinise korvpalli puidust kasti ja sulgeb selle. Mark ei tea seda, aga see on maagiline kast, mis muudab nende asjade v\u00e4rve, mis sinna sisse j\u00e4etakse. M\u00f5ne minuti p\u00e4rast muutub korvpall roheliseks. Mark vaatab kasti, kuid ei n\u00e4e, mis sees toimub. Maagiline kast \u00fctleb Markile, et see muutis korvpalli v\u00e4rvi sinisest roheliseks. Mark usub kasti. Mark avab kasti ja n\u00e4eb, et korvpalli v\u00e4rv on",
+                "answers": [
+                    "t\u00f5epoolest muutunud roheliseks. Ta on h\u00e4mmastunud ja imestab, kuidas see v\u00f5imalik on. Ta v\u00f5tab korvpalli kasti seest v\u00e4lja ja uurib seda l\u00e4hemalt. Kuidas saab \u00fcks kast muuta asj",
+                    "t\u00f5epoolest muutunud roheliseks. Ta on h\u00e4mmastunud ja imestab, kuidas see v\u00f5imalik on. Ta v\u00f5tab korvpalli kasti seest v\u00e4lja ja uurib seda l\u00e4hemalt. Kuidas saab \u00fcks kast muuta asj"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark paneb oma sinise korvpalli puidust kasti ja sulgeb selle. Mark ei tea seda, aga see on maagiline kast, mis muudab nende asjade v\u00e4rve, mis sinna sisse j\u00e4etakse. M\u00f5ne minuti p\u00e4rast muutub korvpall roheliseks. Mark vaatab kasti, kuid ei n\u00e4e, mis sees toimub. Maagiline kast \u00fctleb Markile, et see muutis korvpalli v\u00e4rvi sinisest roheliseks. Mark usub kasti. Enne kasti avamist helistab Mark oma s\u00f5brale, et \u00f6elda talle, et korvpalli v\u00e4rv on",
+                "answers": [
+                    "muutunud. S\u00f5ber ei usu teda ja arvab, et Mark teeb nalja. Mark otsustab s\u00f5brale n\u00e4idata ja avab kasti. Seal sees on t\u00f5epoolest roheline korvpall.\n\nS\u00f5ber j\u00e4\u00e4b suu ammuli vahtima",
+                    "muutunud. S\u00f5ber ei usu teda ja arvab, et Mark teeb nalja. Mark otsustab s\u00f5brale t\u00f5estada, et kast on t\u00f5epoolest maagiline.\n\nTa palub s\u00f5bral tulla tema juurde ja n\u00e4itab talle ma"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Mark paneb oma sinise korvpalli puidust kasti ja sulgeb selle. Mark ei tea seda, aga see on maagiline kast, mis muudab nende asjade v\u00e4rve, mis sinna sisse j\u00e4etakse. M\u00f5ne minuti p\u00e4rast muutub korvpall roheliseks, kuid seej\u00e4rel muutub uuesti siniseks. Mark vaatab kasti, kuid ei n\u00e4e, mis sees toimub. Mary helistab Markile ja k\u00fcsib, mis v\u00e4rvi on tema pall. Mark r\u00e4\u00e4gib talle t\u00f5tt. Mark avab kasti ja n\u00e4eb, et korvpalli v\u00e4rv on",
+                "answers": [
+                    "taas sinine. Ta vastab Maryle, et tema pall on sinine. Mary on \u00fcllatunud, sest ta oli kindel, et Mark muudab tema palli v\u00e4rvi. Ta k\u00fcsib Markilt, kuidas see v\u00f5imalik on. Mark selgitab talle maagil",
+                    "taas sinine. Ta vastab Maryle, et tema pall on sinine. Mary on \u00fcllatunud, sest ta oli kindel, et tema pall on roheline. Ta k\u00fcsib Markilt, kas ta on kindel, et pall on sinine. Mark kinnitab, et ta n\u00e4gi"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Mark paneb oma sinise korvpalli puidust kasti ja sulgeb selle. Mark ei tea seda, aga see on maagiline kast, mis muudab nende asjade v\u00e4rve, mis sinna sisse j\u00e4etakse. M\u00f5ne minuti p\u00e4rast muutub korvpall roheliseks, kuid seej\u00e4rel muutub uuesti siniseks. Mark vaatab kasti, kuid ei n\u00e4e, mis sees toimub. Mary helistab Markile ja k\u00fcsib, mis v\u00e4rvi on tema pall. Mark r\u00e4\u00e4gib talle t\u00f5tt. Enne kasti avamist helistab Mark oma s\u00f5brale, et \u00f6elda talle, et korvpalli v\u00e4rv on",
+                "answers": [
+                    "muutunud roheliseks ja seej\u00e4rel tagasi siniseks. Ta on p\u00f5nevil ja ootab juba p\u00f5nevusega, milliseks v\u00e4rv pall kasti avamisel muutunud on.\n\nKui Mark kasti avab, n\u00e4eb ta \u00fcllatusega",
+                    "muutunud roheliseks ja seej\u00e4rel tagasi siniseks. Ta on p\u00f5nevil ja ootab juba p\u00f5nevusega, milline v\u00e4rv pallil n\u00fc\u00fcd on.\n\nMark avab kasti ettevaatlikult ja n\u00e4eb, et korvpall on t"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

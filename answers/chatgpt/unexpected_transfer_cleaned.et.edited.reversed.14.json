@@ -1,0 +1,74 @@
+{
+    "nr": 14,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Peaminister arvas varem, et tema valitsuse lipulaevaprojekti, universaalse p\u00f5hisissetuleku (UPI) juurutamist peaks j\u00e4lgima siseminister. Viimasel ajal on ta aga \u00fcha rohkem pettunud selle projekti aeglases edenemises. Neljap\u00e4eva hommikul p\u00e4rast kohtumist oma n\u00f5unikuga muutis ta meelt. Ta otsustas, et projekti j\u00e4relvalvega peaks n\u00fc\u00fcdsest tegelema rahandusminister. Ta otsustas praegu mitte kellelegi oma meelemuutusest r\u00e4\u00e4kida. Ta kavatseb sellest teatada j\u00e4rgmise n\u00e4dala kabinetin\u00f5upidamisel. N\u00f5upidamise p\u00e4eval kogunevad kabineti liikmed konverentsiruumi ja soovivad UPI projekti kohta rohkem teada saada. Peaminister paljastab, et UPI projekti j\u00e4lgib",
+                "answers": [
+                    "n\u00fc\u00fcdsest rahandusminister. K\u00f5ik kabinetiliikmed vaatavad \u00fcllatunult \u00fcksteisele otsa, sest nad olid harjunud m\u00f5ttega, et siseminister vastutab selle projekti eest.\n\nPeaminister sel",
+                    "n\u00fc\u00fcdsest rahandusminister. K\u00f5ik kabinetiliikmed vaatavad \u00fcllatunult \u00fcksteisele otsa, sest nad olid harjunud m\u00f5ttega, et siseminister vastutab selle projekti eest.\n\nRahandus"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Peaminister arvas varem, et tema valitsuse lipulaevaprojekti, universaalse p\u00f5hisissetuleku (UPI) juurutamist peaks j\u00e4lgima siseminister. Viimasel ajal on ta aga \u00fcha rohkem pettunud selle projekti aeglases edenemises. Neljap\u00e4eva hommikul p\u00e4rast kohtumist oma n\u00f5unikuga muutis ta meelt. Ta otsustas, et projekti j\u00e4relvalvega peaks n\u00fc\u00fcdsest tegelema rahandusminister. Ta otsustas praegu mitte kellelegi oma meelemuutusest r\u00e4\u00e4kida. Ta kavatseb sellest teatada j\u00e4rgmise n\u00e4dala kabinetin\u00f5upidamisel. N\u00f5upidamise p\u00e4eval kogunevad kabineti liikmed konverentsiruumi ja soovivad UPI projekti kohta rohkem teada saada. Kabineti liikmed suunavad oma k\u00fcsimused",
+                "answers": [
+                    "rahandusministrile, kes on \u00fcllatunud, et talle on antud UPI projekti j\u00e4relvalve \u00fclesanne. Ta v\u00f5tab hetkeks aega, et koguda oma m\u00f5tted ja vastata kabinetiliikmete k\u00fcsimustele.\n\nRahandus",
+                    "rahandusministrile, kes on \u00fcllatunud, et talle on antud UPI projekti j\u00e4relvalve \u00fclesanne. Ta v\u00f5tab hetkeks aega, et koguda oma m\u00f5tted ja vastata kabinetiliikmete k\u00fcsimustele.\n\nRahandus"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Peaminister arvas varem, et tema valitsuse lipulaevaprojekti, universaalse p\u00f5hisissetuleku (UPI) juurutamist peaks j\u00e4lgima siseminister. Viimasel ajal on ta aga \u00fcha rohkem pettunud selle projekti aeglases edenemises. Neljap\u00e4eva hommikul, kohtumisel kabineti liikmetega, veendusid nad k\u00f5ik, et projekti j\u00e4relvalvega peaks n\u00fc\u00fcdsest tegelema rahandusminister. Siiski otsustas ta praegu seda muudatust mitte teha. Ta kavatseb seda arutada j\u00e4rgmise n\u00e4dala kabinetin\u00f5upidamisel. N\u00f5upidamise p\u00e4eval kogunevad kabineti liikmed konverentsiruumi ja soovivad UPI projekti kohta rohkem teada saada. Peaminister paljastab, et UPI projekti j\u00e4lgib",
+                "answers": [
+                    "n\u00fc\u00fcdsest peaministri erakonna noor ja ambitsioonikas liige, kes on tuntud oma p\u00fchendumuse ja t\u00f5siduse poolest. K\u00f5ik kabinetiliikmed vaatavad \u00fcllatunult \u00fcksteisele otsa, sest",
+                    "n\u00fc\u00fcdsest peaministri erakonna noor ja ambitsioonikas liige, kes on tuntud oma p\u00fchendumuse ja t\u00f5siduse poolest. K\u00f5ik kabinetiliikmed vaatavad \u00fcllatunult \u00fcksteisele otsa, sest"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Peaminister arvas varem, et tema valitsuse lipulaevaprojekti, universaalse p\u00f5hisissetuleku (UPI) juurutamist peaks j\u00e4lgima siseminister. Viimasel ajal on ta aga \u00fcha rohkem pettunud selle projekti aeglases edenemises. Neljap\u00e4eva hommikul, kohtumisel kabineti liikmetega, veendusid nad k\u00f5ik, et projekti j\u00e4relvalvega peaks n\u00fc\u00fcdsest tegelema rahandusminister. Siiski otsustas ta praegu seda muudatust mitte teha. Ta kavatseb seda arutada j\u00e4rgmise n\u00e4dala kabinetin\u00f5upidamisel. N\u00f5upidamise p\u00e4eval kogunevad kabineti liikmed konverentsiruumi ja soovivad UPI projekti kohta rohkem teada saada. Kabineti liikmed suunavad oma k\u00fcsimused",
+                "answers": [
+                    "peaministrile, kes vastab neile kannatlikult ja p\u00f5hjalikult. Ta selgitab, et UPI on keeruline ja ulatuslik projekt, mis n\u00f5uab p\u00f5hjalikku ettevalmistust ja koost\u00f6\u00f6d erinevate ministeerium",
+                    "peaministrile, kes vastab neile kannatlikult ja p\u00f5hjalikult. Ta selgitab, et UPI on keeruline ja ulatuslik projekt, mis n\u00f5uab p\u00f5hjalikku ettevalmistust ja koost\u00f6\u00f6d erinevate ministeerium"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Peaminister arvas varem, et tema valitsuse lipulaevaprojekti, universaalse p\u00f5hisissetuleku (UPI) juurutamist peaks j\u00e4lgima siseminister. Viimasel ajal on ta aga \u00fcha rohkem pettunud selle projekti aeglases edenemises. Neljap\u00e4eva hommikul p\u00e4rast kohtumist oma n\u00f5unikuga muutis ta meelt. Ta otsustas, et projekti j\u00e4relvalvega peaks n\u00fc\u00fcdsest tegelema rahandusminister. Ta otsustas praegu mitte kellelegi oma meelemuutusest r\u00e4\u00e4kida. Ta kavatseb sellest teatada j\u00e4rgmise n\u00e4dala kabinetin\u00f5upidamisel. N\u00f5upidamise p\u00e4eval kogunevad kabineti liikmed konverentsiruumi ja soovivad UPI projekti kohta rohkem teada saada. Peaminister teavitab k\u00f5iki kabineti liikmeid, et ta on UPI projekti j\u00e4relevalve \u00fcle viinud siseministrilt rahandusministrile. Kabineti liikmed usuvad peaministrit. Peaminister paljastab, et UPI projekti j\u00e4lgib",
+                "answers": [
+                    "n\u00fc\u00fcdsest rahandusminister. Ta selgitab, et p\u00e4rast p\u00f5hjalikku kaalumist ja arutelu oma n\u00f5unikega j\u00f5udis ta j\u00e4reldusele, et rahandusminister on paremini varustatud selle proj",
+                    "n\u00fc\u00fcdsest rahandusminister. Ta selgitab, et p\u00e4rast p\u00f5hjalikku kaalumist ja arutelu oma n\u00f5unikega j\u00f5udis ta j\u00e4reldusele, et rahandusminister on paremini varustatud selle proj"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Peaminister arvas varem, et tema valitsuse lipulaevaprojekti, universaalse p\u00f5hisissetuleku (UPI) juurutamist peaks j\u00e4lgima siseminister. Viimasel ajal on ta aga \u00fcha rohkem pettunud selle projekti aeglases edenemises. Neljap\u00e4eva hommikul p\u00e4rast kohtumist oma n\u00f5unikuga muutis ta meelt. Ta otsustas, et projekti j\u00e4relvalvega peaks n\u00fc\u00fcdsest tegelema rahandusminister. Ta otsustas praegu mitte kellelegi oma meelemuutusest r\u00e4\u00e4kida. Ta kavatseb sellest teatada j\u00e4rgmise n\u00e4dala kabinetin\u00f5upidamisel. N\u00f5upidamise p\u00e4eval kogunevad kabineti liikmed konverentsiruumi ja soovivad UPI projekti kohta rohkem teada saada. Peaminister teavitab k\u00f5iki kabineti liikmeid, et ta on UPI projekti j\u00e4relevalve \u00fcle viinud siseministrilt rahandusministrile. Kabineti liikmed usuvad peaministrit. Kabineti liikmed suunavad oma k\u00fcsimused",
+                "answers": [
+                    "rahandusministrile, kes vastab neile kannatlikult ja p\u00f5hjalikult. Ta selgitab, et UPI projekti edenemine on olnud aeglane, kuna see n\u00f5uab p\u00f5hjalikku anal\u00fc\u00fcsi ja arvutusi,",
+                    "rahandusministrile, kes vastab neile kannatlikult ja p\u00f5hjalikult. Ta selgitab, et UPI projekti edenemine on olnud aeglane, kuna see n\u00f5uab p\u00f5hjalikku anal\u00fc\u00fcsi ja arvutusi,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Peaminister arvas varem, et tema valitsuse lipulaevaprojekti, universaalse p\u00f5hisissetuleku (UPI) juurutamist peaks j\u00e4lgima siseminister. Viimasel ajal on ta aga \u00fcha rohkem pettunud selle projekti aeglases edenemises. Neljap\u00e4eva hommikul p\u00e4rast kohtumist oma n\u00f5unikuga kaalus ta muudatust. Ta m\u00f5tiskles, et projekti v\u00f5iks j\u00e4lgida rahandusminister. Siiski otsustas ta praegu sellele m\u00f5tte ajel mitte tegutseda. Ta kavatseb seda arutada j\u00e4rgmise n\u00e4dala kabinetin\u00f5upidamisel. N\u00f5upidamise p\u00e4eval kogunevad kabineti liikmed konverentsiruumi ja soovivad UPI projekti kohta rohkem teada saada. Peaminister paljastab, et UPI projekti j\u00e4lgib",
+                "answers": [
+                    "n\u00fc\u00fcdsest alates rahandusminister. Ta selgitab, et p\u00e4rast p\u00f5hjalikku kaalumist ja arutelu oma n\u00f5unikega otsustas ta teha selle muudatuse, et tagada projekti sujuvam ja ki",
+                    "n\u00fc\u00fcdsest alates rahandusminister. Ta selgitab, et p\u00e4rast p\u00f5hjalikku kaalumist ja arutelu oma n\u00f5unikega otsustas ta teha selle muudatuse, et tagada projekti sujuvam ja ki"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Peaminister arvas varem, et tema valitsuse lipulaevaprojekti, universaalse p\u00f5hisissetuleku (UPI) juurutamist peaks j\u00e4lgima siseminister. Viimasel ajal on ta aga \u00fcha rohkem pettunud selle projekti aeglases edenemises. Neljap\u00e4eva hommikul p\u00e4rast kohtumist oma n\u00f5unikuga kaalus ta muudatust. Ta m\u00f5tiskles, et projekti v\u00f5iks j\u00e4lgida rahandusminister. Siiski otsustas ta praegu sellele m\u00f5tte ajel mitte tegutseda. Ta kavatseb seda arutada j\u00e4rgmise n\u00e4dala kabinetin\u00f5upidamisel. N\u00f5upidamise p\u00e4eval kogunevad kabineti liikmed konverentsiruumi ja soovivad UPI projekti kohta rohkem teada saada. Kabineti liikmed suunavad oma k\u00fcsimused",
+                "answers": [
+                    "Peaministrile, kes on valmis vastama. Ta selgitab, et UPI projekti eesm\u00e4rk on tagada k\u00f5igile kodanikele p\u00f5hiline sissetulek, mis aitaks v\u00e4hendada vaesust ja ebav\u00f5rdsust ning tagada in",
+                    "Peaministrile, kes on valmis vastama. Ta selgitab, et UPI projekti eesm\u00e4rk on tagada k\u00f5igile kodanikele p\u00f5hiline sissetulek, mis aitaks v\u00e4hendada vaesust ja ebav\u00f5rdsust ning tagada in"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

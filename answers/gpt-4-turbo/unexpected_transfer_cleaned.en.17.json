@@ -1,0 +1,74 @@
+{
+    "nr": 17,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, and close the left hand as if the coin has now fallen into it. Once this has happened, move the right hand, with the coin still in it, away to the side. The coin falls out of the",
+                "answers": [
+                    "right hand and into your pocket or onto your lap without the spectator noticing. This is the classic \"French Drop\" sleight of hand maneuver. The key to making this illusion successful is to maintain eye contact with the spectator and to move your hands naturally, as if the coin really has been transferred to your left hand.\n\nAs you close your left hand",
+                    "sight of the spectator as you subtly drop it into your pocket or let it rest in a classic palm position, hidden from view. Your left hand, meanwhile, remains closed, and you maintain the illusion that the coin is now within it. You can even shake the left hand gently, mimicking the sound of a coin inside, which can be"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, and close the left hand as if the coin has now fallen into it. Once this has happened, move the right hand, with the coin still in it, away to the side. The spectator will look for the coin in the",
+                "answers": [
+                    "left hand, but it will not be there. This is because you have just performed a classic sleight of hand trick known as the \"French Drop.\"\n\nAs the right hand moves away, it is important to keep it relaxed and natural, as if it were empty. The key to the illusion is misdirection; the spectator's attention follows the right",
+                    "left hand, but it will not be there. You have just performed a classic sleight of hand trick known as the \"false transfer\" or \"French drop.\" The coin is still in your right hand, but the audience is convinced that you have passed it to your left. \n\nWith the coin securely palmed in your right hand, you maintain"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, and close the left hand as if the coin has now fallen into it. Once this has happened, show the coin to the spectator cleanly and clearly and move the right hand, with the coin still in it, away to the side. The coin falls out of the",
+                "answers": [
+                    "right hand and clinks audibly onto the table, much to the spectator's surprise. They were certain the coin had been transferred to your left hand, but there it is, undeniably on the table. The spectator's eyes widen with amazement as you open your left hand to reveal that it is indeed empty.\n\nYou give them a",
+                    "right hand and clinks audibly onto the table, much to the spectator's surprise. They had been certain the coin had been transferred to your left hand, but there it was, undeniably on the table. The spectator's eyes widen in amazement as they try to comprehend what just happened.\n\nYou give them a knowing smile and invite"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, and close the left hand as if the coin has now fallen into it. Once this has happened, show the coin to the spectator cleanly and clearly and move the right hand, with the coin still in it, away to the side. The spectator will look for the coin in the",
+                "answers": [
+                    "left hand, expecting it to be there due to the convincing motions you've made. However, as you open your left hand slowly, to their amazement, it is empty. The coin has seemingly vanished into thin air. The spectator's eyes widen in surprise, and they might even ask you to open your right hand, thinking the coin must",
+                    "left hand, but to their surprise, it's not there. The coin has seemingly vanished into thin air. You can see the astonishment on their face as they try to comprehend what just happened. You maintain a poker face, giving nothing away.\n\nThe secret, of course, is in the sleight of hand you've just performed. When you"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, and close the left hand as if the coin has now fallen into it. Once this has happened, move the right hand, with the coin still in it, away to the side. Now you tell the spectator that you did not actually move the coin from your right hand to your left hand. The spectator believes you. The coin falls out of the",
+                "answers": [
+                    "right hand and clinks audibly on the table, proving your point. The spectator's eyes widen in surprise, as they were certain the coin had been transferred to your left hand. You smile and reveal the trickery involved: \"It's all about misdirection,\" you explain.\n\nYou then offer to show the spectator how it's done. You",
+                    "right hand and clinks audibly on the table, proving your point. The spectator's eyes widen in surprise, as they were certain the coin had been transferred to your left hand. You smile, enjoying the moment of astonishment you've created.\n\n\"But how did you do that?\" the spectator asks, genuinely intrigued by the sleight of hand they"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, and close the left hand as if the coin has now fallen into it. Once this has happened, move the right hand, with the coin still in it, away to the side. Now you tell the spectator that you did not actually move the coin from your right hand to your left hand. The spectator believes you. The spectator will look for the coin in the",
+                "answers": [
+                    "right hand, but to their surprise, it's not there either. You open your right hand to reveal that it's empty. The spectator is now completely baffled, wondering where the coin has disappeared to.\n\nYou let the moment of confusion linger for just a second before you reach toward the spectator's ear, or perhaps their shoulder, and with a",
+                    "right hand, but to their surprise, it's not there either. You open your right hand to reveal that it's empty. The spectator is now completely baffled, wondering where the coin has disappeared to. You smile, and with a magical gesture, you reach behind the spectator's ear, or perhaps into the air, and reveal the coin once"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, drop the coin into your left hand, and close the left hand after the coin falls into it. Once this has happened, move the empty right hand away to the side. The coin falls out of the",
+                "answers": [
+                    "left hand, but you must act as if it's still there. Keep your left hand closed as if you're holding the coin, maintaining the illusion. Now comes the magic moment. With your right hand, make a mystical gesture over your closed left hand, and then slowly open your left hand to reveal that the coin has \"vanished.\" The spectator",
+                    "left hand, but you must act as if it's still there. Keep your left hand closed as if it's holding the coin, maintaining the illusion. Now comes the magic moment. With your right hand, you reach into the air and pretend to pluck the coin from thin air. As you do this, open your left hand to reveal that"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: First, you will need a coin in your right hand and show it to the spectator cleanly and clearly. You then move your right hand toward your left hand and slightly twist the right hand as you place your thumb on top of the coin. Now fully turn the right hand above your left hand, drop the coin into your left hand, and close the left hand after the coin falls into it. Once this has happened, move the empty right hand away to the side. The spectator will look for the coin in the",
+                "answers": [
+                    "left hand, expecting it to be there. However, you've already executed the sleight of hand perfectly. As you moved your right hand toward your left, you deftly palmed the coin, using the twisting motion to conceal the action. The coin never actually dropped into your left hand; it remained hidden in your right.\n\nWith a confident",
+                    "left hand, but with a little sleight of hand, they're in for a surprise. As you moved your right hand toward your left, you secretly palmed the coin, using the twisting motion to shield the action from view. The coin never actually dropped into your left hand; instead, it remained hidden in your right.\n\nWith your left hand"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

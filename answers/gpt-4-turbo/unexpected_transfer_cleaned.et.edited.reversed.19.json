@@ -1,0 +1,74 @@
+{
+    "nr": 19,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Toas on John, Mark, kass, korv ja kast. John v\u00f5tab kassi ja paneb ta kasti. Ta sulgeb kasti. Ta lahkub toast ja l\u00e4heb kooli. Kui John on \u00e4ra, v\u00f5tab Mark kassi kastist v\u00e4lja ja paneb ta korvi. Ta sulgeb korvi. Mark lahkub toast ja l\u00e4heb t\u00f6\u00f6le. John tuleb koju tagasi ja tahab kassiga m\u00e4ngida. Kass h\u00fcppab v\u00e4lja",
+                "answers": [
+                    "korvist, sest Mark oli unustanud korvi korralikult sulgeda. Kass sirutab end ja vaatab ringi, justkui imestades, kuidas ta korvi sattus. John naeratab, kui n\u00e4eb kassi, ja t\u00f5stab ta \u00f5",
+                    "korvist, sest Mark oli unustanud korvi korralikult sulgeda. Kass sirutab end ja vaatab ringi, justkui imestades, kuidas ta korvi sattus. John naeratab, kui n\u00e4eb kassi vabaduses. Ta kummard"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Toas on John, Mark, kass, korv ja kast. John v\u00f5tab kassi ja paneb ta kasti. Ta sulgeb kasti. Ta lahkub toast ja l\u00e4heb kooli. Kui John on \u00e4ra, v\u00f5tab Mark kassi kastist v\u00e4lja ja paneb ta korvi. Ta sulgeb korvi. Mark lahkub toast ja l\u00e4heb t\u00f6\u00f6le. John tuleb koju tagasi ja tahab kassiga m\u00e4ngida. John otsib kassi",
+                "answers": [
+                    "kastist, kuid avastab, et kast on t\u00fchi. Ta on segaduses ja mures, kuid m\u00e4rkab siis, et korv on suletud. Ta l\u00e4heb korvi juurde ja avab selle, lootes leida oma kalli kassi sealt",
+                    "kastist, kuid avastab, et kast on t\u00fchi. Ta on segaduses ja mures, kuid m\u00e4rkab siis, et korv on suletud. Ta l\u00e4heb korvi juurde ja avab selle, lootes leida oma kalli kassi sealt"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Toas on John, Mark, kass, korv ja kast. John v\u00f5tab kassi ja paneb ta kasti. Ta sulgeb kasti. Mark v\u00f5tab kassi kastist v\u00e4lja ja paneb ta korvi. Ta sulgeb korvi. Nii John kui ka Mark lahkuvad toast ja l\u00e4hevad t\u00f6\u00f6le. Hiljem samal p\u00e4eval tuleb John koju tagasi ja tahab kassiga m\u00e4ngida. Kass h\u00fcppab v\u00e4lja",
+                "answers": [
+                    "korvist, kui John avab selle. Kass on r\u00f5\u00f5mus, et n\u00e4eb Johni j\u00e4lle, ja hakkab nurru l\u00f6\u00f6ma. John naeratab ja v\u00f5tab kassi s\u00fclle, tundes, kuidas pehme karv tema s\u00f5rmede",
+                    "korvist, kui John avab selle. Kass on r\u00f5\u00f5mus, et n\u00e4eb Johni, ja hakkab nurru l\u00f6\u00f6ma. John naeratab ja v\u00f5tab kassi s\u00fclle, tundes, kuidas pehme karv tema s\u00f5rmede vahel"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Toas on John, Mark, kass, korv ja kast. John v\u00f5tab kassi ja paneb ta kasti. Ta sulgeb kasti. Mark v\u00f5tab kassi kastist v\u00e4lja ja paneb ta korvi. Ta sulgeb korvi. Nii John kui ka Mark lahkuvad toast ja l\u00e4hevad t\u00f6\u00f6le. Hiljem samal p\u00e4eval tuleb John koju tagasi ja tahab kassiga m\u00e4ngida. John otsib kassi",
+                "answers": [
+                    "k\u00f5ikjalt, kuid ei leia teda. Ta vaatab kasti, kus ta oli kassi hommikul pannud, kuid see on t\u00fchi. Ta kontrollib korvi, kuhu Mark oli kassi pannud, kuid ka see on t\u00fchi. John",
+                    "k\u00f5ikjalt, kuid ei leia teda. Ta vaatab kasti, kus ta hommikul kassi pannud oli, kuid see on t\u00fchi. Ta kontrollib korvi, kuhu Mark kassi pani, kuid ka see on t\u00fchi. John hakk"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Toas on John, Mark, kass, korv ja kast. John v\u00f5tab kassi ja paneb ta kasti. Ta sulgeb kasti. Ta lahkub toast ja l\u00e4heb kooli. Kui John on \u00e4ra, v\u00f5tab Mark kassi kastist v\u00e4lja ja paneb ta korvi. Ta sulgeb korvi. Mark lahkub toast ja l\u00e4heb t\u00f6\u00f6le. John tuleb koju tagasi ja tahab kassiga m\u00e4ngida. Mark helistab Johnile ja \u00fctleb talle, et ta liigutas kassi ja n\u00fc\u00fcd on see korvis. John usub Marki. Kass h\u00fcppab v\u00e4lja",
+                "answers": [
+                    "korvist ja jookseb Johni juurde, kes on just uksest sisse astunud. John naeratab, kui n\u00e4eb kassi, ja t\u00f5stab ta \u00fcles. Ta silitab kassi pehmet karva ja m\u00f5tleb, kui tore on omada n",
+                    "korvist ja jookseb Johni juurde, kes on just uksest sisse astunud. John naeratab, kui n\u00e4eb oma karvast s\u00f5pra vabana ja \u00f5nnelikuna. Ta kummardub, et kassi silitada, ja kass n"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Toas on John, Mark, kass, korv ja kast. John v\u00f5tab kassi ja paneb ta kasti. Ta sulgeb kasti. Ta lahkub toast ja l\u00e4heb kooli. Kui John on \u00e4ra, v\u00f5tab Mark kassi kastist v\u00e4lja ja paneb ta korvi. Ta sulgeb korvi. Mark lahkub toast ja l\u00e4heb t\u00f6\u00f6le. John tuleb koju tagasi ja tahab kassiga m\u00e4ngida. Mark helistab Johnile ja \u00fctleb talle, et ta liigutas kassi ja n\u00fc\u00fcd on see korvis. John usub Marki. John otsib kassi",
+                "answers": [
+                    "korvist, kuid ei leia teda sealt. Ta hakkab muretsema ja otsib kassi igalt poolt majast. Ta vaatab voodite alla, laudade taha ja isegi kappidesse, kuid kass on nagu tina tuhka",
+                    "korvist, kuid ei leia teda sealt. Ta hakkab muretsema ja otsib kassi igalt poolt majast. Ta vaatab voodite alla, laudade taha ja isegi kappidesse, kuid kass on kadunud. John helist"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Toas on John, Mark, kass, korv ja kast. John v\u00f5tab kassi ja paneb ta kasti. Ta sulgeb kasti. Ta lahkub toast ja l\u00e4heb kooli. Kui John on \u00e4ra, v\u00f5tab Mark kassi kastist v\u00e4lja, m\u00e4ngib temaga natuke aega ja paneb ta tagasi kasti. Ta sulgeb kasti. Mark lahkub toast ja l\u00e4heb t\u00f6\u00f6le. John tuleb koju tagasi ja tahab kassiga m\u00e4ngida. Kass h\u00fcppab v\u00e4lja",
+                "answers": [
+                    "ja jookseb r\u00f5\u00f5msalt Johni poole. John naeratab ja t\u00f5stab kassi \u00fcles, s\u00fcgades teda \u00f5rnalt k\u00f5rvade tagant, mis on kassi lemmikkoht. Kass nurrub rahulolevalt ja keerutab oma",
+                    "kastist, kui John selle avab, ja jookseb r\u00f5\u00f5msalt tema juurde. John naeratab ja v\u00f5tab kassi s\u00fclle, tundes, kuidas pehme karv tema n\u00e4gu s\u00fcgab. Ta m\u00e4rkab, et kass on er"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Toas on John, Mark, kass, korv ja kast. John v\u00f5tab kassi ja paneb ta kasti. Ta sulgeb kasti. Ta lahkub toast ja l\u00e4heb kooli. Kui John on \u00e4ra, v\u00f5tab Mark kassi kastist v\u00e4lja, m\u00e4ngib temaga natuke aega ja paneb ta tagasi kasti. Ta sulgeb kasti. Mark lahkub toast ja l\u00e4heb t\u00f6\u00f6le. John tuleb koju tagasi ja tahab kassiga m\u00e4ngida. John otsib kassi",
+                "answers": [
+                    ", kuid ei leia teda kohe, sest kast on teise kohta t\u00f5stetud. Ta m\u00e4rkab peagi kasti nurgas ja avab selle, et kass v\u00e4lja lasta. Kass h\u00fcppab kastist v\u00e4lja ja sirutab end, n\u00e4",
+                    "kastist, kuid avastab, et kast on t\u00fchi. John on segaduses ja mures, sest ta ei tea, kuhu kass kadunud on. Ta hakkab kassi igal pool otsima, vaatab voodi alla, diivani taha ja is"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}

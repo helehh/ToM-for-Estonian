@@ -1,0 +1,74 @@
+{
+    "nr": 11,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Frankil ja tema abikaasal Marial on kaks pangakontot: arvelduskonto ja hoiukonto. Nende arvelduskonto oli t\u00fchi, kuid jaanuari alguses m\u00fc\u00fcs Frank \u00e4ra nende vana auto 5000 euro eest ja kandis raha nende arvelduskontole. Veebruaris m\u00f5istis Maria, et nad on palju makse v\u00f5lgu. Ta logis sisse nende internetipanka ja kandis 5000 eurot nende arvelduskontolt hoiukontole. Kahjuks unustas ta Frankile \u00f6elda, et ta seda tegi. Frank, kellel puudub juurdep\u00e4\u00e4s internetipangale, ei saa kontode seisu kontrollida. M\u00f5ni p\u00e4ev hiljem l\u00e4heb Frank panka, et v\u00f5tta v\u00e4lja nende vana auto m\u00fc\u00fcgist saadud raha. Tulu nende vana auto m\u00fc\u00fcgist on nende",
+                "answers": [
+                    "hoidkonto peal, kuid kui Frank pangaautomaadi juurde j\u00f5uab, avastab ta, et nende arvelduskonto on endiselt t\u00fchi. Ta on segaduses ja murelik, sest ta teab, et nad peaksid raha saama",
+                    "hoidkonto peal, kuid kui Frank pangaautomaadi juurde j\u00f5uab, avastab ta, et nende arvelduskonto on endiselt t\u00fchi. Ta on segaduses ja murelik, sest ta teab, et nad peaksid raha saama"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Frankil ja tema abikaasal Marial on kaks pangakontot: arvelduskonto ja hoiukonto. Nende arvelduskonto oli t\u00fchi, kuid jaanuari alguses m\u00fc\u00fcs Frank \u00e4ra nende vana auto 5000 euro eest ja kandis raha nende arvelduskontole. Veebruaris m\u00f5istis Maria, et nad on palju makse v\u00f5lgu. Ta logis sisse nende internetipanka ja kandis 5000 eurot nende arvelduskontolt hoiukontole. Kahjuks unustas ta Frankile \u00f6elda, et ta seda tegi. Frank, kellel puudub juurdep\u00e4\u00e4s internetipangale, ei saa kontode seisu kontrollida. M\u00f5ni p\u00e4ev hiljem l\u00e4heb Frank panka, et v\u00f5tta v\u00e4lja nende vana auto m\u00fc\u00fcgist saadud raha. Frank palub pangatelleril raha v\u00e4ljastada nende",
+                "answers": [
+                    "arvelduskontolt. Pangateller vaatab arvelduskonto seisu ja teatab Frankile, et seal on vaid 5000 eurot. Frank on \u00fcllatunud, sest ta teadis, et nad m\u00fc\u00fcsid auto eest 5000 eurot ja kandsid selle",
+                    "arvelduskontolt. Pangateller vaatab arvelduskonto seisu ja teatab Frankile, et seal on vaid 5000 eurot. Frank on \u00fcllatunud, sest ta teadis, et nad m\u00fc\u00fcsid auto eest 5000 eurot ja kandsid selle"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Frankil ja tema abikaasal Marial on kaks pangakontot: arvelduskonto ja hoiukonto. Nende arvelduskonto oli t\u00fchi, kuid jaanuari alguses m\u00fc\u00fcs Frank \u00e4ra nende vana auto 5000 euro eest ja kandis raha nende arvelduskontole. Veebruaris m\u00f5istis Maria, et nad on palju makse v\u00f5lgu. Nad m\u00f5lemad l\u00e4ksid panka ja kandsid 5000 eurot oma arvelduskontolt hoiukontole. M\u00f5ni p\u00e4ev hiljem l\u00e4heb Frank panka, et v\u00f5tta v\u00e4lja  nende vana auto m\u00fc\u00fcgist saadud raha. Tulu nende vana auto m\u00fc\u00fcgist on nende",
+                "answers": [
+                    "hoiukontol, kuna nad kandsid selle sinna veebruaris. Frank l\u00e4heb panka ja palub pangaametnikul v\u00e4lja v\u00f5tta 5000 eurot nende hoiukontolt.\n\nPangaametnik vaatab Franki kontot ja teatab talle",
+                    "hoiukontol, kuna nad kandsid selle sinna veebruaris. Frank l\u00e4heb panka ja palub pangaametnikul v\u00e4lja v\u00f5tta 5000 eurot nende hoiukontolt.\n\nPangaametnik vaatab Franki kontot ja teatab talle"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Frankil ja tema abikaasal Marial on kaks pangakontot: arvelduskonto ja hoiukonto. Nende arvelduskonto oli t\u00fchi, kuid jaanuari alguses m\u00fc\u00fcs Frank \u00e4ra nende vana auto 5000 euro eest ja kandis raha nende arvelduskontole. Veebruaris m\u00f5istis Maria, et nad on palju makse v\u00f5lgu. Nad m\u00f5lemad l\u00e4ksid panka ja kandsid 5000 eurot oma arvelduskontolt hoiukontole. M\u00f5ni p\u00e4ev hiljem l\u00e4heb Frank panka, et v\u00f5tta v\u00e4lja  nende vana auto m\u00fc\u00fcgist saadud raha. Frank palub pangatelleril raha v\u00e4ljastada nende",
+                "answers": [
+                    "hoiukontolt. Pangateller vaatab arvutist Franki kontot ja \u00fctleb: \"Kahjuks ei saa ma teile raha v\u00e4ljastada, sest teie hoiukonto on t\u00fchi.\" Frank on \u00fcllatunud ja k\u00fcsib, kuidas",
+                    "hoiukontolt. Pangateller vaatab arvutist Franki kontot ja \u00fctleb: \"Kahjuks ei saa ma teile raha v\u00e4ljastada, sest teie hoiukonto on t\u00fchi.\" Frank on \u00fcllatunud ja k\u00fcsib, kuidas"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Frankil ja tema abikaasal Marial on kaks pangakontot: arvelduskonto ja hoiukonto. Nende arvelduskonto oli t\u00fchi, kuid jaanuari alguses m\u00fc\u00fcs Frank \u00e4ra nende vana auto 5000 euro eest ja kandis raha nende arvelduskontole. Veebruaris m\u00f5istis Maria, et nad on palju makse v\u00f5lgu. Ta logis sisse nende internetipanka ja kandis 5000 dollarit nende arvelduskontolt hoiukontole. Kahjuks unustas ta Frankile \u00f6elda, et ta seda tegi. Frank, kellel puudub juurdep\u00e4\u00e4s internetipangale, ei saa kontode seisu kontrollida. M\u00f5ni p\u00e4ev hiljem l\u00e4heb Frank panka, et v\u00f5tta v\u00e4lja nende vana auto m\u00fc\u00fcgist saadud raha. Maria helistab Frankile ja \u00fctleb talle, et ta kandis 5000 dollarit arvelduskontolt hoiukontole. Frank usub Mariat. Tulu nende vana auto m\u00fc\u00fcgist on nende",
+                "answers": [
+                    "huvitatud, kuid kui ta j\u00f5uab panka, avastab ta, et nende arvelduskontol on endiselt 5000 eurot. Ta on segaduses ja otsustab panga t\u00f6\u00f6taja poole p\u00f6\u00f6rduda.\n\nPanga t\u00f6\u00f6taja sel",
+                    "huvitatud, kuid kui ta j\u00f5uab panka, avastab ta, et nende arvelduskontol on endiselt 5000 eurot. Ta on segaduses ja otsustab panga t\u00f6\u00f6taja poole p\u00f6\u00f6rduda.\n\nPanga t\u00f6\u00f6taja sel"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Frankil ja tema abikaasal Marial on kaks pangakontot: arvelduskonto ja hoiukonto. Nende arvelduskonto oli t\u00fchi, kuid jaanuari alguses m\u00fc\u00fcs Frank \u00e4ra nende vana auto 5000 euro eest ja kandis raha nende arvelduskontole. Veebruaris m\u00f5istis Maria, et nad on palju makse v\u00f5lgu. Ta logis sisse nende internetipanka ja kandis 5000 dollarit nende arvelduskontolt hoiukontole. Kahjuks unustas ta Frankile \u00f6elda, et ta seda tegi. Frank, kellel puudub juurdep\u00e4\u00e4s internetipangale, ei saa kontode seisu kontrollida. M\u00f5ni p\u00e4ev hiljem l\u00e4heb Frank panka, et v\u00f5tta v\u00e4lja nende vana auto m\u00fc\u00fcgist saadud raha. Maria helistab Frankile ja \u00fctleb talle, et ta kandis 5000 dollarit arvelduskontolt hoiukontole. Frank usub Mariat. Frank palub pangatelleril raha v\u00e4ljastada nende",
+                "answers": [
+                    "vana auto m\u00fc\u00fcgist saadud summa ulatuses. Pangateller vaatab Franki kontoseisu ja teatab talle, et nende arvelduskontol on vaid 5000 dollarit. Frank on \u00fcllatunud, sest ta ootas rohkem raha. Ta k\u00fcs",
+                    "vana auto m\u00fc\u00fcgist saadud summa ulatuses. Pangateller vaatab Franki kontoseisu ja teatab talle, et nende arvelduskontol on vaid 5000 dollarit. Frank on \u00fcllatunud, sest ta ootas rohkem raha. Ta k\u00fcs"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Frank ja tema abikaasa Marial on kaks pangakontot: arvelduskonto ja hoiukonto. Nende arvelduskonto oli t\u00fchi, kuid jaanuari alguses m\u00fc\u00fcs Frank \u00e4ra nende vana auto 5000 euro eest ja kandis raha nende arvelduskontole. Veebruaris m\u00f5istis Maria, et nad on palju makse v\u00f5lgu. Ta m\u00f5tles 5000 euro \u00fclekandmisest nende arvelduskontolt hoiukontole, kuid otsustas seda mitte teha. Kahjuks unustas ta Frankile oma m\u00f5ttest r\u00e4\u00e4kida. Frank, kellel puudub juurdep\u00e4\u00e4s internetipangale, ei saa kontode seisu kontrollida. M\u00f5ni p\u00e4ev hiljem l\u00e4heb Frank panka, et v\u00f5tta v\u00e4lja nende vana auto m\u00fc\u00fcgist saadud raha. Tulu nende vana auto m\u00fc\u00fcgist on nende",
+                "answers": [
+                    "arvelduskontol olemas, kuid Frank ei tea sellest midagi. Ta l\u00e4heb pangat\u00f6\u00f6taja juurde ja palub v\u00e4lja v\u00f5tta 5000 eurot. Pangat\u00f6\u00f6taja kontrollib arvelduskonto seisu ja avastab, et seal on",
+                    "arvelduskontol olemas, kuid Frank ei tea sellest midagi. Ta l\u00e4heb pangat\u00f6\u00f6taja juurde ja palub v\u00e4lja v\u00f5tta 5000 eurot. Pangat\u00f6\u00f6taja kontrollib arvelduskonto seisu ja avastab, et seal on"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Frank ja tema abikaasa Marial on kaks pangakontot: arvelduskonto ja hoiukonto. Nende arvelduskonto oli t\u00fchi, kuid jaanuari alguses m\u00fc\u00fcs Frank \u00e4ra nende vana auto 5000 euro eest ja kandis raha nende arvelduskontole. Veebruaris m\u00f5istis Maria, et nad on palju makse v\u00f5lgu. Ta m\u00f5tles 5000 euro \u00fclekandmisest nende arvelduskontolt hoiukontole, kuid otsustas seda mitte teha. Kahjuks unustas ta Frankile oma m\u00f5ttest r\u00e4\u00e4kida. Frank, kellel puudub juurdep\u00e4\u00e4s internetipangale, ei saa kontode seisu kontrollida. M\u00f5ni p\u00e4ev hiljem l\u00e4heb Frank panka, et v\u00f5tta v\u00e4lja nende vana auto m\u00fc\u00fcgist saadud raha. Frank palub pangatelleril raha v\u00e4ljastada nende",
+                "answers": [
+                    "arvelduskontolt. Pangateller vaatab arvelduskonto seisu ja avastab, et seal on vaid 1000 eurot. Ta teatab sellest Frankile, kes on \u00fcllatunud ja segaduses.\n\nFrank k\u00fcsib pangatellerilt, kuhu \u00fcle",
+                    "arvelduskontolt. Pangateller vaatab arvelduskonto seisu ja avastab, et seal on vaid 1000 eurot. Ta teatab sellest Frankile, kes on \u00fcllatunud ja segaduses.\n\nFrank k\u00fcsib pangatellerilt, kuhu \u00fcle"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

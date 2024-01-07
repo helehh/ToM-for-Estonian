@@ -1,0 +1,74 @@
+{
+    "nr": 7,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Max vaatab, kuidas tema v\u00e4ike vend paneb pesu kasti. Seej\u00e4rel l\u00e4heb Max \u00f5ue hoovi m\u00e4ngima. Kui Max on \u00e4ra, t\u00f5stab tema vend pesu kastist korvi. Ta sulgeb korvi ja l\u00e4heb kooli. Max tuleb koju tagasi ja tahab pesu kokku voltida. Pesu kukub v\u00e4lja",
+                "answers": [
+                    "korvist ja levib \u00fcle kogu p\u00f5randa. Max on \u00fcllatunud ja veidi \u00e4rritunud, sest ta oli lootnud, et tema vend oleks pesu korralikult kokku voltinud.\n\nMax otsustab mitte pahandada oma venda",
+                    "korvist ja levib \u00fcle kogu p\u00f5randa. Max on \u00fcllatunud ja veidi \u00e4rritunud, sest ta oli lootnud, et tema vend oleks pesu korralikult kokku voltinud.\n\nMax otsustab mitte pahandada oma venda"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Max vaatab, kuidas tema v\u00e4ike vend paneb pesu kasti. Seej\u00e4rel l\u00e4heb Max \u00f5ue hoovi m\u00e4ngima. Kui Max on \u00e4ra, t\u00f5stab tema vend pesu kastist korvi. Ta sulgeb korvi ja l\u00e4heb kooli. Max tuleb koju tagasi ja tahab pesu kokku voltida. Max otsib pesu",
+                "answers": [
+                    "korvi, kuid avastab, et see on t\u00fchi. Ta vaatab segaduses ringi ja m\u00e4rkab, et tema v\u00e4ike vend on pesu kasti t\u00fchjendanud.\n\nMax l\u00e4heb oma v\u00e4ikese venna juurde ja k\u00fcsib: \"Kuhu sa",
+                    "korvi, kuid avastab, et see on t\u00fchi. Ta vaatab segaduses ringi ja m\u00e4rkab, et tema v\u00e4ike vend on j\u00e4lle midagi korda saatnud.\n\nMax l\u00e4heb oma v\u00e4ikese venna tuppa ja leiab sealt pesu hunniku,"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Max vaatab, kuidas tema v\u00e4ike vend tegeleb pesupesemisega. Tema v\u00e4ike vend paneb selle kasti. Seej\u00e4rel t\u00f5stab ta selle kastist korvi ja sulgeb korvi. Seej\u00e4rel l\u00e4hevad m\u00f5lemad poisid kooli. Hiljem samal p\u00e4eval tuleb Max koju tagasi ja tahab pesu kokku voltida. Pesu kukub v\u00e4lja",
+                "answers": [
+                    "korvist ja levib \u00fcle kogu p\u00f5randa. Max ohkab s\u00fcgavalt ja hakkab pesu \u00fckshaaval kokku korjama.\n\nTa m\u00f5tleb endamisi, kuidas tema v\u00e4ike vend sai hakkama pesupesemisega, kui ta",
+                    "korvist ja levib \u00fcle kogu p\u00f5randa. Max ohkab s\u00fcgavalt ja hakkab pesu \u00fckshaaval kokku korjama.\n\nTa m\u00f5tleb endamisi, kuidas tema v\u00e4ike vend sai hakkama pesupesemisega, kui ta"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Max vaatab, kuidas tema v\u00e4ike vend tegeleb pesupesemisega. Tema v\u00e4ike vend paneb selle kasti. Seej\u00e4rel t\u00f5stab ta selle kastist korvi ja sulgeb korvi. Seej\u00e4rel l\u00e4hevad m\u00f5lemad poisid kooli. Hiljem samal p\u00e4eval tuleb Max koju tagasi ja tahab pesu kokku voltida. Max otsib pesu",
+                "answers": [
+                    "korvi, kuid ei leia seda. Ta l\u00e4heb oma v\u00e4ikese venna juurde ja k\u00fcsib: \"Kuhu sa pesu panid, kui sa selle \u00e4ra pesid?\"\n\nV\u00e4ike vend m\u00f5tleb hetke ja vastab: \"Ma panin selle k",
+                    "korvi, kuid ei leia seda. Ta hakkab muretsema ja m\u00f5tleb, kuhu v\u00f5is tema v\u00e4ike vend selle panna.\n\nMax otsustab minna oma v\u00e4ikese venna tuppa ja k\u00fcsida temalt, kuhu ta pesu pani"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Max vaatab, kuidas tema v\u00e4ike vend paneb pesu kasti. Seej\u00e4rel l\u00e4heb Max \u00f5ue hoovi m\u00e4ngima. Kui Max on \u00e4ra, t\u00f5stab tema vend pesu kastist korvi. Ta sulgeb korvi ja l\u00e4heb kooli. Max tuleb koju tagasi ja tahab pesu kokku voltida. Maxi vend helistab Maxile ja \u00fctleb, et ta t\u00f5stis pesu kastist korvi. Max usub oma venda. Pesu kukub v\u00e4lja",
+                "answers": [
+                    "korvist ja levib \u00fcle kogu p\u00f5randa. Max on \u00fcllatunud ja veidi pettunud, sest ta oli lootnud, et pesu on juba korras.\n\nMax otsustab mitte pahandada oma venda, sest ta teab, et vend",
+                    "korvist ja levib \u00fcle kogu p\u00f5randa. Max on \u00fcllatunud ja veidi pettunud, sest ta oli lootnud, et pesu on juba korras.\n\nMax otsustab mitte pahandada oma venda, sest ta teab, et vend"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Max vaatab, kuidas tema v\u00e4ike vend paneb pesu kasti. Seej\u00e4rel l\u00e4heb Max \u00f5ue hoovi m\u00e4ngima. Kui Max on \u00e4ra, t\u00f5stab tema vend pesu kastist korvi. Ta sulgeb korvi ja l\u00e4heb kooli. Max tuleb koju tagasi ja tahab pesu kokku voltida. Maxi vend helistab Maxile ja \u00fctleb, et ta t\u00f5stis pesu kastist korvi. Max usub oma venda. Max otsib pesu",
+                "answers": [
+                    "korvi, kuid ei leia seda. Ta hakkab muretsema, sest ta teab, et pesu oli kindlasti korvis, kui ta \u00f5ue l\u00e4ks.\n\nMax otsustab helistada oma vennale tagasi ja k\u00fcsida, kuhu ta kor",
+                    "korvi, kuid ei leia seda. Ta on segaduses ja helistab oma vennale tagasi.\n\n\"Vend, ma ei leia pesu korvi. Kuhu sa selle panid?\" k\u00fcsib Max murelikult.\n\nVend vastab: \"Ma panin selle kor"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Max vaatab, kuidas tema v\u00e4ike vend paneb pesu kasti. Seej\u00e4rel l\u00e4heb Max \u00f5ue hoovi m\u00e4ngima. Kui Max on \u00e4ra, m\u00f5tleb tema vend pesu kastist korvi t\u00f5stmisele, kuid otsustab seda mitte teha. Ta sulgeb korvi ja l\u00e4heb kooli. Max tuleb koju tagasi ja tahab pesu kokku voltida. Pesu kukub v\u00e4lja",
+                "answers": [
+                    "korvist ja levib \u00fcle kogu p\u00f5randa. Max on \u00fcllatunud ja veidi \u00e4rritunud, kuid otsustab rahulikuks j\u00e4\u00e4da. Ta teab, et tema v\u00e4ike vend ei teinud seda meelega.\n\nMax hakkab",
+                    "korvist ja levib \u00fcle kogu p\u00f5randa. Max on \u00fcllatunud ja veidi pettunud, kuid otsustab mitte pahandada oma v\u00e4ikese venna peale. Ta teab, et \u00f5nnetused juhtuvad ning on valmis"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Max vaatab, kuidas tema v\u00e4ike vend paneb pesu kasti. Seej\u00e4rel l\u00e4heb Max \u00f5ue hoovi m\u00e4ngima. Kui Max on \u00e4ra, m\u00f5tleb tema vend pesu kastist korvi t\u00f5stmisele, kuid otsustab seda mitte teha. Ta sulgeb korvi ja l\u00e4heb kooli. Max tuleb koju tagasi ja tahab pesu kokku voltida. Max otsib pesu",
+                "answers": [
+                    "kastist, kuid avastab, et see on t\u00fchi. Ta vaatab segaduses ringi ja m\u00e4rkab suletud korvi. Max ei m\u00f5ista, miks tema vend korvi pesu kasti ei pannud, vaid hoopis kooli viis.\n\nMax ots",
+                    "kastist, kuid avastab, et see on t\u00fchi. Ta vaatab segaduses ringi ja m\u00e4rkab suletud korvi. Max ei m\u00f5ista, miks tema vend korvi pesu kasti ei pannud, vaid hoopis kooli viis.\n\nMax ots"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-3.5-turbo"
+}

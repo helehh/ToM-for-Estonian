@@ -1,0 +1,74 @@
+{
+    "nr": 0,
+    "subtasks": [
+        {
+            "type": "False-belief task",
+            "prompt_1": {
+                "prompt": "Complete the following story: Isa tuleb toidupoest koju. Ta ostis banaane banaanileiva jaoks. Tema t\u00fctar Maria aitab tal oste \u00e4ra panna. Ta k\u00fcsib isalt: \"Kuhu ma banaanid panen?\" \"Punasesse sahtlisse,\" \u00fctleb isa. \"Oota, ma t\u00f5stan su sinna \u00fcles, sest sa oled liiga l\u00fchike,\" \u00fctleb isa ja t\u00f5stab ta \u00fcles. Maria paneb banaanid punasesse sahtlisse. Talle meeldivad banaanid v\u00e4ga. Seej\u00e4rel l\u00e4heb ta kooli. Kui Maria on \u00e4ra, hakkab isa banaanileiba ette valmistama ja v\u00f5tab banaanid punasest sahtlist v\u00e4lja. Ta koorib ja l\u00f5igub \u00fche neist, kuid paneb \u00fclej\u00e4\u00e4nud tagasi kollasesse sahtlisse, mitte punasesse. Ta avastab, et tal on mune puudu. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb vaatama, kas naabril on mune. Maria tuleb tagasi k\u00f6\u00f6ki ja tahab banaani s\u00fc\u00fca. Banaanid kukuvad v\u00e4lja",
+                "answers": [
+                    "kui ta avab punase sahtli, kuid leiab selle t\u00fchjana. Ta on segaduses, sest ta on kindel, et pani banaanid sinna. Maria otsib ringi ja m\u00e4rkab l\u00f5puks kollast sahtlit veidi lahti",
+                    "kui ta avab punase sahtli, kuid leiab selle t\u00fchjana. Ta on segaduses, sest ta on kindel, et pani banaanid sinna. Maria kortsutab kulmu ja vaatab ringi, m\u00f5eldes, kuhu banaanid"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Isa tuleb toidupoest koju. Ta ostis banaane banaanileiva jaoks. Tema t\u00fctar Maria aitab tal oste \u00e4ra panna. Ta k\u00fcsib isalt: \"Kuhu ma banaanid panen?\" \"Punasesse sahtlisse,\" \u00fctleb isa. \"Oota, ma t\u00f5stan su sinna \u00fcles, sest sa oled liiga l\u00fchike,\" \u00fctleb isa ja t\u00f5stab ta \u00fcles. Maria paneb banaanid punasesse sahtlisse. Talle meeldivad banaanid v\u00e4ga. Seej\u00e4rel l\u00e4heb ta kooli. Kui Maria on \u00e4ra, hakkab isa banaanileiba ette valmistama ja v\u00f5tab banaanid punasest sahtlist v\u00e4lja. Ta koorib ja l\u00f5igub \u00fche neist, kuid paneb \u00fclej\u00e4\u00e4nud tagasi kollasesse sahtlisse, mitte punasesse. Ta avastab, et tal on mune puudu. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb vaatama, kas naabril on mune. Maria tuleb tagasi k\u00f6\u00f6ki ja tahab banaani s\u00fc\u00fca. Maria hakkab banaane otsima",
+                "answers": [
+                    "ja m\u00e4rkab, et punane sahtel on t\u00fchi. Ta on segaduses, sest ta teab, et pani banaanid sinna. Maria vaatab ringi ja m\u00e4rkab, et kollane sahtel on praokil. Ta avab selle ja leiab",
+                    "Maria vaatab punasesse sahtlisse, kuid leiab selle t\u00fchjana. Ta on segaduses, sest ta on kindel, et just sinna ta banaanid pani. Ta vaatab ringi, m\u00f5eldes, kas isa v\u00f5is need kuhugi mujale panna"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Present protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Isa tuleb toidupoest koju. Ta ostis banaane banaanileiva jaoks. Tema t\u00fctar Maria aitab tal oste \u00e4ra panna. Ta k\u00fcsib isalt: \"Kuhu ma banaanid panen?\" \"Punasesse sahtlisse,\" \u00fctleb isa. \"Oota, ma t\u00f5stan su sinna \u00fcles, sest sa oled liiga l\u00fchike,\" \u00fctleb isa ja t\u00f5stab ta \u00fcles. Maria paneb banaanid punasesse sahtlisse. Talle meeldivad banaanid v\u00e4ga. Isa hakkab banaanileiba ette valmistama ja v\u00f5tab banaanid punasest sahtlist v\u00e4lja. Ta koorib ja l\u00f5igub \u00fche neist. Maria vaatab, kuidas isa j\u00e4rgmiseks paneb \u00fclej\u00e4\u00e4nud tagasi kollasesse sahtlisse, mitte punasesse. Siis l\u00e4heb Maria kooli. Kui Maria on \u00e4ra, avastab isa, et tal on mune puudu. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb vaatama, kas naabril on mune. Maria tuleb tagasi k\u00f6\u00f6ki ja tahab banaani s\u00fc\u00fca. Banaanid kukuvad v\u00e4lja",
+                "answers": [
+                    ", kui ta avab kollase sahtli. Ta on segaduses, sest m\u00e4letab, et pani need punasesse sahtlisse. \"V\u00f5ib-olla isa otsustas neid \u00fcmber t\u00f5sta,\" m\u00f5tleb Maria endamisi ja v\u00f5tab \u00fc",
+                    ", kui ta avab punase sahtli, kuid ta leiab selle t\u00fchjana. Ta on segaduses, sest ta m\u00e4letab selgelt, et pani banaanid sinna. Maria otsib ringi ja m\u00e4rkab l\u00f5puks, et bana"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Isa tuleb toidupoest koju. Ta ostis banaane banaanileiva jaoks. Tema t\u00fctar Maria aitab tal oste \u00e4ra panna. Ta k\u00fcsib isalt: \"Kuhu ma banaanid panen?\" \"Punasesse sahtlisse,\" \u00fctleb isa. \"Oota, ma t\u00f5stan su sinna \u00fcles, sest sa oled liiga l\u00fchike,\" \u00fctleb isa ja t\u00f5stab ta \u00fcles. Maria paneb banaanid punasesse sahtlisse. Talle meeldivad banaanid v\u00e4ga. Isa hakkab banaanileiba ette valmistama ja v\u00f5tab banaanid punasest sahtlist v\u00e4lja. Ta koorib ja l\u00f5igub \u00fche neist. Maria vaatab, kuidas isa j\u00e4rgmiseks paneb \u00fclej\u00e4\u00e4nud tagasi kollasesse sahtlisse, mitte punasesse. Siis l\u00e4heb Maria kooli. Kui Maria on \u00e4ra, avastab isa, et tal on mune puudu. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb vaatama, kas naabril on mune. Maria tuleb tagasi k\u00f6\u00f6ki ja tahab banaani s\u00fc\u00fca. Maria otsib banaane",
+                "answers": [
+                    "punases sahtlis, kuid leiab selle t\u00fchjana. Ta on segaduses, sest just sinna oli ta banaanid pannud. Maria m\u00e4letab, et isa pani \u00fclej\u00e4\u00e4nud banaanid kollasesse sahtlisse ja avab selle",
+                    "punases sahtlis, kuid leiab selle t\u00fchjana. Ta on segaduses, sest ta m\u00e4letab selgelt, et pani banaanid sinna. Maria k\u00f5nnib ringi ja otsib banaane, kuni m\u00e4rkab kollast saht"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: Informed protagonist",
+            "prompt_1": {
+                "prompt": "Complete the following story: Isa tuleb toidupoest koju. Ta ostis banaane banaanileiva jaoks. Tema t\u00fctar Maria aitab tal oste \u00e4ra panna. Ta k\u00fcsib isalt: \"Kuhu ma banaanid panen?\" \"Punasesse sahtlisse,\" \u00fctleb isa. \"Oota, ma t\u00f5stan su sinna \u00fcles, sest sa oled liiga l\u00fchike,\" \u00fctleb isa ja t\u00f5stab ta \u00fcles. Maria paneb banaanid punasesse sahtlisse. Talle meeldivad banaanid v\u00e4ga. Seej\u00e4rel l\u00e4heb ta kooli. Kui Maria on \u00e4ra, hakkab isa banaanileiba ette valmistama ja v\u00f5tab banaanid punasest sahtlist v\u00e4lja. Ta koorib ja l\u00f5igub \u00fche neist, kuid paneb \u00fclej\u00e4\u00e4nud tagasi kollasesse sahtlisse, mitte punasesse. Ta avastab, et tal on mune puudu. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb vaatama, kas naabril on mune. Maria tuleb tagasi k\u00f6\u00f6ki ja tahab banaani s\u00fc\u00fca. Isa helistab Mariale ja \u00fctleb, et ta t\u00f5stis banaanid punasest sahtlist kollasesse. Maria usub oma isa. Banaanid kukuvad v\u00e4lja",
+                "answers": [
+                    ", kui Maria avab kollase sahtli. Ta naerab, sest banaanid on nagu kollased klounid, kes h\u00fcppavad v\u00e4lja, et teda \u00fcllatada. Ta valib \u00fche k\u00f5ige k\u00fcpsema banaani, koorib s",
+                    ", kui Maria avab kollase sahtli. Ta naerab, sest banaanid on nagu kollased klounid, kes h\u00fcppavad v\u00e4lja peidupaigast. Ta valib \u00fche k\u00f5ige k\u00fcpsema banaani, koorib selle ja h"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Isa tuleb toidupoest koju. Ta ostis banaane banaanileiva jaoks. Tema t\u00fctar Maria aitab tal oste \u00e4ra panna. Ta k\u00fcsib isalt: \"Kuhu ma banaanid panen?\" \"Punasesse sahtlisse,\" \u00fctleb isa. \"Oota, ma t\u00f5stan su sinna \u00fcles, sest sa oled liiga l\u00fchike,\" \u00fctleb isa ja t\u00f5stab ta \u00fcles. Maria paneb banaanid punasesse sahtlisse. Talle meeldivad banaanid v\u00e4ga. Seej\u00e4rel l\u00e4heb ta kooli. Kui Maria on \u00e4ra, hakkab isa banaanileiba ette valmistama ja v\u00f5tab banaanid punasest sahtlist v\u00e4lja. Ta koorib ja l\u00f5igub \u00fche neist, kuid paneb \u00fclej\u00e4\u00e4nud tagasi kollasesse sahtlisse, mitte punasesse. Ta avastab, et tal on mune puudu. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb vaatama, kas naabril on mune. Maria tuleb tagasi k\u00f6\u00f6ki ja tahab banaani s\u00fc\u00fca. Isa helistab Mariale ja \u00fctleb, et ta t\u00f5stis banaanid punasest sahtlist kollasesse. Maria usub oma isa. Maria otsib banaane",
+                "answers": [
+                    "punases sahtlis, kuid ei leia neid sealt. Ta m\u00e4letab isa s\u00f5nu ja vaatab kollasesse sahtlisse. Seal ongi banaanid. Ta v\u00f5tab \u00fche, koorib selle ja naudib magusat suut\u00e4it. Samal aj",
+                    "punases sahtlis, kuid ei leia neid sealt. Ta m\u00e4letab isa s\u00f5nu ja vaatab kollasesse sahtlisse. Seal ongi banaanid. Ta v\u00f5tab \u00fche, koorib selle ja naudib magusat suut\u00e4it. Maria armast"
+                ]
+            }
+        },
+        {
+            "type": "True-belief control: No transfer",
+            "prompt_1": {
+                "prompt": "Complete the following story: Isa tuleb toidupoest koju. Ta ostis banaane banaanileiva jaoks. Tema t\u00fctar Maria aitab tal oste \u00e4ra panna. Ta k\u00fcsib isalt: \"Kuhu ma banaanid panen?\" \"Punasesse sahtlisse,\" \u00fctleb isa. \"Oota, ma t\u00f5stan su sinna \u00fcles, sest sa oled liiga l\u00fchike,\" \u00fctleb isa ja t\u00f5stab ta \u00fcles. Maria paneb banaanid punasesse sahtlisse. Talle meeldivad banaanid v\u00e4ga. Seej\u00e4rel l\u00e4heb ta kooli. Kui Maria on \u00e4ra, hakkab isa banaanileiba ette valmistama ja v\u00f5tab banaanid punasest sahtlist v\u00e4lja. Ta koorib ja l\u00f5igub \u00fche neist, kuid paneb \u00fclej\u00e4\u00e4nud tagasi punasesse sahtlisse. Ta avastab, et tal on mune puudu. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb vaatama, kas naabril on mune. Maria tuleb tagasi k\u00f6\u00f6ki ja tahab banaani s\u00fc\u00fca. Banaanid kukuvad v\u00e4lja",
+                "answers": [
+                    "ja rulluvad m\u00f6\u00f6da p\u00f5randat. Maria naerab ja korjab need kiiresti \u00fcles. Ta valib \u00fche banaani, koorib selle ja hakkab r\u00f5\u00f5msalt s\u00f6\u00f6ma. Banaan on magus ja k\u00fcps, t\u00e4pselt selline,",
+                    "ja rulluvad m\u00f6\u00f6da k\u00f6\u00f6gip\u00f5randat. Maria naerab ja korjab banaanid \u00fcles, pannes need tagasi punasesse sahtlisse. Ta valib \u00fche k\u00f5ige k\u00fcpsema banaani, koorib selle ja hakkab seda r"
+                ]
+            },
+            "prompt_2": {
+                "prompt": "Complete the following story: Isa tuleb toidupoest koju. Ta ostis banaane banaanileiva jaoks. Tema t\u00fctar Maria aitab tal oste \u00e4ra panna. Ta k\u00fcsib isalt: \"Kuhu ma banaanid panen?\" \"Punasesse sahtlisse,\" \u00fctleb isa. \"Oota, ma t\u00f5stan su sinna \u00fcles, sest sa oled liiga l\u00fchike,\" \u00fctleb isa ja t\u00f5stab ta \u00fcles. Maria paneb banaanid punasesse sahtlisse. Talle meeldivad banaanid v\u00e4ga. Seej\u00e4rel l\u00e4heb ta kooli. Kui Maria on \u00e4ra, hakkab isa banaanileiba ette valmistama ja v\u00f5tab banaanid punasest sahtlist v\u00e4lja. Ta koorib ja l\u00f5igub \u00fche neist, kuid paneb \u00fclej\u00e4\u00e4nud tagasi punasesse sahtlisse. Ta avastab, et tal on mune puudu. Ta lahkub k\u00f6\u00f6gist ja l\u00e4heb vaatama, kas naabril on mune. Maria tuleb tagasi k\u00f6\u00f6ki ja tahab banaani s\u00fc\u00fca. Maria otsib banaane",
+                "answers": [
+                    ", kuid leiab need kiiresti punasest sahtlist, kuhu ta need ise oli pannud. Ta v\u00f5tab \u00fche banaani, koorib selle ja naudib iga suut\u00e4it. Banaan on magus ja k\u00fcps, t\u00e4pselt selline, nagu",
+                    ", kuid leiab need kiiresti punasest sahtlist, kuhu ta need ise oli pannud. Ta v\u00f5tab \u00fche banaani, koorib selle ja naudib iga suut\u00e4it. Banaan on magus ja k\u00fcps, t\u00e4pselt selline, nagu"
+                ]
+            }
+        }
+    ],
+    "model": "gpt-4-1106-preview"
+}
